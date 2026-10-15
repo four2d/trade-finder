@@ -6,10 +6,10 @@
   "name_normalised": "redwood landscapes",
   "areas": [
    "driveways",
-   "lawns_grounds",
-   "decking_structures",
    "landscaping",
-   "paving_patios"
+   "paving_patios",
+   "lawns_grounds",
+   "decking_structures"
   ],
   "types": [
    "block_paving",
@@ -102,7 +102,7 @@
  {
   "id": "tf_e00b0ba1",
   "name": "Peter Yeates Arboriculture",
-  "legal_name": "PETER YEATES ARBORICULTURE LTD",
+  "legal_name": null,
   "name_normalised": "peter yeates arboriculture",
   "areas": [
    "trees_vegetation"
@@ -145,29 +145,20 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": {
-   "number": "14039979",
-   "status": "active",
-   "incorporated": "2022-04-11",
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/14039979"
-  },
+  "companies_house": null,
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "ltd",
+  "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Tree surgeon based in Winchester; covers Hampshire. Matched by name + district to PETER YEATES ARBORICULTURE LTD (check)",
+  "services_notes": "Tree surgeon based in Winchester; covers Hampshire",
   "badges": [
    "highly_rated",
    "vetted",
    "no_website",
-   "needs_check",
-   "ltd_company"
+   "needs_check"
   ],
   "score": 56,
   "score_breakdown": {
@@ -177,8 +168,8 @@
    "contact": 9,
    "distance": 0
   },
-  "confidence": 0.5,
-  "merge_review": true,
+  "confidence": 0.3,
+  "merge_review": false,
   "sources": [
    {
     "source": "checkatrade",
@@ -189,15 +180,6 @@
      "reviews",
      "phone",
      "base"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/14039979",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
     ]
    }
   ],
@@ -496,8 +478,8 @@
   "areas": [
    "driveways",
    "exterior_cleaning",
-   "groundworks",
-   "paving_patios"
+   "paving_patios",
+   "groundworks"
   ],
   "types": [
    "block_paving",
@@ -19480,9 +19462,9 @@
   "name_normalised": "rrs landscape garden maintenance",
   "areas": [
    "lawns_grounds",
-   "exterior_cleaning",
    "landscaping",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "exterior_cleaning"
   ],
   "types": [
    "garden_maintenance",
