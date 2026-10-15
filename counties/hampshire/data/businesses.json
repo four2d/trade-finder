@@ -1,5 +1,104 @@
 [
  {
+  "id": "tf_be1e3e34",
+  "name": "Redwood Landscapes",
+  "legal_name": null,
+  "name_normalised": "redwood landscapes",
+  "areas": [
+   "driveways",
+   "paving_patios",
+   "landscaping",
+   "decking_structures",
+   "lawns_grounds"
+  ],
+  "types": [
+   "block_paving",
+   "tarmac",
+   "resin_bound",
+   "landscape_gardener",
+   "timber_decking"
+  ],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Ringwood",
+  "postcode": "BH24",
+  "lat": 50.843031641883485,
+  "lng": -1.7885973816604674,
+  "distance_miles": 12.4,
+  "serves_area_only": false,
+  "phone": "07380 449606",
+  "phone_e164": "+447380449606",
+  "phone_type": "mobile",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.843031641883485&mlon=-1.7885973816604674#map=13/50.843031641883485/-1.7885973816604674",
+  "last_review_date": "2026-10-07",
+  "checkatrade": {
+   "score": 9.94,
+   "reviews": 250,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/redwoodlandscapes",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Driveways, patios, landscaping, decking, turfing; Ringwood",
+  "badges": [
+   "top_pick",
+   "highly_rated",
+   "vetted",
+   "busy",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 62,
+  "score_breakdown": {
+   "rating": 35,
+   "reviews": 14,
+   "vetted": 12,
+   "contact": 9,
+   "distance": 8
+  },
+  "confidence": 0.3,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/redwoodlandscapes",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "phone",
+     "district",
+     "services"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
   "id": "tf_9da45c96",
   "name": "M.A. Hart Asphalt & Macadam",
   "legal_name": "M.A. HART ASPHALT & MACADAM LIMITED",
@@ -84,6 +183,104 @@
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "number"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_5f7e7ee3",
+  "name": "Whites Groundworks & Maintenance",
+  "legal_name": null,
+  "name_normalised": "whites groundworks maintenance",
+  "areas": [
+   "driveways",
+   "paving_patios",
+   "groundworks",
+   "exterior_cleaning"
+  ],
+  "types": [
+   "block_paving",
+   "imprinted_concrete",
+   "resin_bound",
+   "groundworks_contractor"
+  ],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Ringwood",
+  "postcode": "BH24",
+  "lat": 50.843031641883485,
+  "lng": -1.7885973816604674,
+  "distance_miles": 12.4,
+  "serves_area_only": false,
+  "phone": "07845 655744",
+  "phone_e164": "+447845655744",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://whites-groundworks.co.uk",
+  "domain": "whites-groundworks.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.843031641883485&mlon=-1.7885973816604674#map=13/50.843031641883485/-1.7885973816604674",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": null,
+   "reviews": null,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/whitesgroundworksandmaintenance1115227",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Family firm based in Ringwood; driveways, patios, groundworks, exterior cleaning; Checkatrade member (score not shown in snippet)",
+  "badges": [
+   "top_pick"
+  ],
+  "score": 23,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 15,
+   "distance": 8
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://whites-groundworks.co.uk/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "district",
+     "services"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/whitesgroundworksandmaintenance1115227",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "services"
     ]
    }
   ],
@@ -2044,8 +2241,8 @@
   "name_normalised": "forma exteriors",
   "areas": [
    "decking_structures",
-   "fencing_boundaries",
    "landscaping",
+   "fencing_boundaries",
    "lawns_grounds"
   ],
   "types": [],
@@ -2399,95 +2596,6 @@
   "ch_only": true
  },
  {
-  "id": "tf_4e49552e",
-  "name": "Hampshire & Dorset Landscapes",
-  "legal_name": "HAMPSHIRE & DORSET LANDSCAPES LTD",
-  "name_normalised": "hampshire dorset landscapes",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Ringwood",
-  "postcode": "BH24",
-  "lat": 50.841,
-  "lng": -1.785,
-  "distance_miles": 12.4,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "14886704",
-   "status": "active",
-   "incorporated": "2023-05-22",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/14886704"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 3,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 10,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 8
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/14886704",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true
- },
- {
   "id": "tf_a84cdcb8",
   "name": "Howard Hughes Consulting",
   "legal_name": "HOWARD HUGHES CONSULTING LIMITED",
@@ -2651,95 +2759,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/05552972",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true
- },
- {
-  "id": "tf_569c20a1",
-  "name": "J.M Tree And Garden Services",
-  "legal_name": "J.M TREE AND GARDEN SERVICES LIMITED",
-  "name_normalised": "j m tree garden",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Ringwood",
-  "postcode": "BH24",
-  "lat": 50.845,
-  "lng": -1.792,
-  "distance_miles": 12.4,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "14052366",
-   "status": "active",
-   "incorporated": "2022-04-19",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/14052366"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 4,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 10,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 8
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/14052366",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -3840,8 +3859,8 @@
   "name_normalised": "pete watton co",
   "areas": [
    "groundworks",
-   "driveways",
-   "paving_patios"
+   "paving_patios",
+   "driveways"
   ],
   "types": [],
   "primary_area": "groundworks",
@@ -10476,8 +10495,8 @@
   "name_normalised": "mr mrs making it happen",
   "areas": [
    "trees_vegetation",
-   "landscaping",
-   "lawns_grounds"
+   "lawns_grounds",
+   "landscaping"
   ],
   "types": [],
   "primary_area": "trees_vegetation",
@@ -16155,8 +16174,8 @@
   "areas": [
    "decking_structures",
    "fencing_boundaries",
-   "driveways",
-   "paving_patios"
+   "paving_patios",
+   "driveways"
   ],
   "types": [],
   "primary_area": "decking_structures",
@@ -19307,8 +19326,8 @@
   "name_normalised": "p j doody",
   "areas": [
    "groundworks",
-   "driveways",
-   "paving_patios"
+   "paving_patios",
+   "driveways"
   ],
   "types": [],
   "primary_area": "groundworks",
@@ -19661,6 +19680,97 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true
+ },
+ {
+  "id": "tf_2fd0556d",
+  "name": "RRS Landscape & Garden Maintenance",
+  "legal_name": null,
+  "name_normalised": "rrs landscape garden maintenance",
+  "areas": [
+   "lawns_grounds",
+   "landscaping",
+   "fencing_boundaries",
+   "exterior_cleaning"
+  ],
+  "types": [
+   "garden_maintenance",
+   "landscape_gardener",
+   "fencing_contractor"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Ringwood",
+  "postcode": "BH24",
+  "lat": 50.843031641883485,
+  "lng": -1.7885973816604674,
+  "distance_miles": 12.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.843031641883485&mlon=-1.7885973816604674#map=13/50.843031641883485/-1.7885973816604674",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": null,
+   "reviews": null,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/rrslandscapeandgardenmaintenance",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": 30,
+  "accreditations": [],
+  "services_notes": "Family business, 30+ years; garden maintenance, turfing, fencing, patios, pressure cleaning",
+  "badges": [
+   "top_pick",
+   "established",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 6,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 8
+  },
+  "confidence": 0.3,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/rrslandscapeandgardenmaintenance",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "base",
+     "services"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
  },
  {
   "id": "tf_f9d9ae8e",
@@ -29018,8 +29128,8 @@
   "name_normalised": "inside out property works landscaping",
   "areas": [
    "driveways",
-   "paving_patios",
    "landscaping",
+   "paving_patios",
    "lawns_grounds"
   ],
   "types": [],
@@ -30296,8 +30406,8 @@
   "name_normalised": "lymington landscaping",
   "areas": [
    "groundworks",
-   "landscaping",
-   "lawns_grounds"
+   "lawns_grounds",
+   "landscaping"
   ],
   "types": [],
   "primary_area": "groundworks",
@@ -30553,8 +30663,8 @@
   "name_normalised": "mark 1 diggers",
   "areas": [
    "groundworks",
-   "driveways",
-   "paving_patios"
+   "paving_patios",
+   "driveways"
   ],
   "types": [],
   "primary_area": "groundworks",
@@ -37274,8 +37384,8 @@
   "name_normalised": "new forest block paving resin company",
   "areas": [
    "landscaping",
-   "driveways",
-   "lawns_grounds"
+   "lawns_grounds",
+   "driveways"
   ],
   "types": [],
   "primary_area": "landscaping",
