@@ -7,8 +7,8 @@
   "areas": [
    "driveways",
    "paving_patios",
-   "landscaping",
    "decking_structures",
+   "landscaping",
    "lawns_grounds"
   ],
   "types": [
@@ -89,6 +89,279 @@
      "phone",
      "district",
      "services"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_e00b0ba1",
+  "name": "Peter Yeates Arboriculture",
+  "legal_name": null,
+  "name_normalised": "peter yeates arboriculture",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon",
+   "stump_grinding"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Winchester",
+  "postcode": "SO",
+  "lat": 51.0632,
+  "lng": -1.308,
+  "distance_miles": 38.1,
+  "serves_area_only": true,
+  "phone": "07723 457081",
+  "phone_e164": "+447723457081",
+  "phone_type": "mobile",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.0632&mlon=-1.308#map=13/51.0632/-1.308",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 10.0,
+   "reviews": 197,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/peteryeatesarboriculture",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Tree surgeon based in Winchester; covers Hampshire",
+  "badges": [
+   "highly_rated",
+   "vetted",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 56,
+  "score_breakdown": {
+   "rating": 35,
+   "reviews": 14,
+   "vetted": 12,
+   "contact": 9,
+   "distance": 0
+  },
+  "confidence": 0.3,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/peteryeatesarboriculture",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "phone",
+     "base"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_5ffb69fb",
+  "name": "Winchester Paving",
+  "legal_name": null,
+  "name_normalised": "winchester paving",
+  "areas": [
+   "driveways",
+   "paving_patios"
+  ],
+  "types": [
+   "block_paving",
+   "resin_bound",
+   "tarmac"
+  ],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Winchester",
+  "postcode": "SO22",
+  "lat": 51.06691423962514,
+  "lng": -1.3351634578313247,
+  "distance_miles": 37.4,
+  "serves_area_only": true,
+  "phone": "07456 443605",
+  "phone_e164": "+447456443605",
+  "phone_type": "mobile",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.06691423962514&mlon=-1.3351634578313247#map=13/51.06691423962514/-1.3351634578313247",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 10.0,
+   "reviews": 35,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/winchesterpaving",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Driveways & patios throughout Hampshire",
+  "badges": [
+   "highly_rated",
+   "vetted",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 46,
+  "score_breakdown": {
+   "rating": 27,
+   "reviews": 9,
+   "vetted": 12,
+   "contact": 9,
+   "distance": 0
+  },
+  "confidence": 0.3,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/winchesterpaving",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "phone",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_4f29bab3",
+  "name": "DSL Landscape",
+  "legal_name": null,
+  "name_normalised": "dsl landscape",
+  "areas": [
+   "driveways",
+   "landscaping",
+   "paving_patios"
+  ],
+  "types": [
+   "block_paving",
+   "resin_bound",
+   "tarmac",
+   "imprinted_concrete"
+  ],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Southampton",
+  "postcode": "SO16",
+  "lat": 50.93675223994808,
+  "lng": -1.4335212872892342,
+  "distance_miles": 28.6,
+  "serves_area_only": true,
+  "phone": "07367 072634",
+  "phone_e164": "+447367072634",
+  "phone_type": "mobile",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.93675223994808&mlon=-1.4335212872892342#map=13/50.93675223994808/-1.4335212872892342",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 9.9,
+   "reviews": 24,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/dsllandscapeltd",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Driveways (block, resin, tarmac, concrete) & landscaping (Ltd), Southampton",
+  "badges": [
+   "highly_rated",
+   "vetted",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 42,
+  "score_breakdown": {
+   "rating": 24,
+   "reviews": 8,
+   "vetted": 12,
+   "contact": 9,
+   "distance": 0
+  },
+  "confidence": 0.3,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/dsllandscapeltd",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "phone",
+     "district"
     ]
    }
   ],
@@ -2241,8 +2514,8 @@
   "name_normalised": "forma exteriors",
   "areas": [
    "decking_structures",
-   "landscaping",
    "fencing_boundaries",
+   "landscaping",
    "lawns_grounds"
   ],
   "types": [],
@@ -10495,8 +10768,8 @@
   "name_normalised": "mr mrs making it happen",
   "areas": [
    "trees_vegetation",
-   "lawns_grounds",
-   "landscaping"
+   "landscaping",
+   "lawns_grounds"
   ],
   "types": [],
   "primary_area": "trees_vegetation",
@@ -13738,8 +14011,8 @@
   "name_normalised": "mcqueen s civil engineering",
   "areas": [
    "surfacing",
-   "driveways",
-   "groundworks"
+   "groundworks",
+   "driveways"
   ],
   "types": [],
   "primary_area": "surfacing",
@@ -14460,8 +14733,8 @@
   "name_normalised": "r w langley",
   "areas": [
    "surfacing",
-   "driveways",
-   "groundworks"
+   "groundworks",
+   "driveways"
   ],
   "types": [],
   "primary_area": "surfacing",
@@ -16173,9 +16446,9 @@
   "name_normalised": "creative freedom carpentry",
   "areas": [
    "decking_structures",
-   "fencing_boundaries",
    "paving_patios",
-   "driveways"
+   "driveways",
+   "fencing_boundaries"
   ],
   "types": [],
   "primary_area": "decking_structures",
@@ -17880,8 +18153,8 @@
   "name_normalised": "jp civil engineering",
   "areas": [
    "surfacing",
-   "driveways",
-   "groundworks"
+   "groundworks",
+   "driveways"
   ],
   "types": [],
   "primary_area": "surfacing",
@@ -18064,8 +18337,8 @@
   "name_normalised": "lcn smart",
   "areas": [
    "surfacing",
-   "driveways",
-   "groundworks"
+   "groundworks",
+   "driveways"
   ],
   "types": [],
   "primary_area": "surfacing",
@@ -19688,8 +19961,8 @@
   "name_normalised": "rrs landscape garden maintenance",
   "areas": [
    "lawns_grounds",
-   "landscaping",
    "fencing_boundaries",
+   "landscaping",
    "exterior_cleaning"
   ],
   "types": [
@@ -21378,6 +21651,97 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true
+ },
+ {
+  "id": "tf_bffd9973",
+  "name": "Evergreen Tree Surgeons",
+  "legal_name": null,
+  "name_normalised": "evergreen tree surgeons",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon",
+   "stump_grinding",
+   "hedge_maintenance"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Southampton",
+  "postcode": "SO",
+  "lat": 50.9097,
+  "lng": -1.4044,
+  "distance_miles": 28.8,
+  "serves_area_only": true,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.9097&mlon=-1.4044#map=13/50.9097/-1.4044",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": null,
+   "reviews": null,
+   "member_since": 2019,
+   "url": "https://www.checkatrade.com/trades/evergreentreesurgeons",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [
+   "NPTC",
+   "City & Guilds"
+  ],
+  "services_notes": "Family-run since 2010; NPTC; 24-hr emergency; BS 3998; Checkatrade since Feb 2019",
+  "badges": [
+   "no_website",
+   "needs_check"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.3,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/evergreentreesurgeons",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "base",
+     "services",
+     "accreditations",
+     "member_since"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
  },
  {
   "id": "tf_5ba92125",
@@ -24114,8 +24478,8 @@
   "name_normalised": "cr construction 2000",
   "areas": [
    "surfacing",
-   "driveways",
-   "groundworks"
+   "groundworks",
+   "driveways"
   ],
   "types": [],
   "primary_area": "surfacing",
@@ -29128,8 +29492,8 @@
   "name_normalised": "inside out property works landscaping",
   "areas": [
    "driveways",
-   "landscaping",
    "paving_patios",
+   "landscaping",
    "lawns_grounds"
   ],
   "types": [],
@@ -30315,6 +30679,95 @@
   "ch_only": true
  },
  {
+  "id": "tf_bd6d1cd3",
+  "name": "Lopperwood Tree and Landscapes",
+  "legal_name": null,
+  "name_normalised": "lopperwood tree landscapes",
+  "areas": [
+   "trees_vegetation",
+   "landscaping",
+   "fencing_boundaries"
+  ],
+  "types": [
+   "tree_surgeon",
+   "landscape_gardener",
+   "fencing_contractor"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Southampton",
+  "postcode": "SO",
+  "lat": 50.9097,
+  "lng": -1.4044,
+  "distance_miles": 28.8,
+  "serves_area_only": true,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.9097&mlon=-1.4044#map=13/50.9097/-1.4044",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": null,
+   "reviews": null,
+   "member_since": 2021,
+   "url": "https://www.checkatrade.com/trades/lopperwoodtreeandlandscapes988135",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Father-and-son tree surgery & landscaping; Checkatrade member since April 2021",
+  "badges": [
+   "no_website",
+   "needs_check"
+  ],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.3,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/lopperwoodtreeandlandscapes988135",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "base",
+     "services",
+     "member_since"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
   "id": "tf_c8ae57d4",
   "name": "Lulworth Landscapes",
   "legal_name": "LULWORTH LANDSCAPES LTD",
@@ -30406,8 +30859,8 @@
   "name_normalised": "lymington landscaping",
   "areas": [
    "groundworks",
-   "lawns_grounds",
-   "landscaping"
+   "landscaping",
+   "lawns_grounds"
   ],
   "types": [],
   "primary_area": "groundworks",
@@ -31515,8 +31968,8 @@
   "name_normalised": "new forest plant hire",
   "areas": [
    "driveways",
-   "paving_patios",
-   "groundworks"
+   "groundworks",
+   "paving_patios"
   ],
   "types": [],
   "primary_area": "driveways",
@@ -36446,8 +36899,8 @@
   "name_normalised": "south coast civil engineering",
   "areas": [
    "surfacing",
-   "driveways",
-   "groundworks"
+   "groundworks",
+   "driveways"
   ],
   "types": [],
   "primary_area": "surfacing",
@@ -36618,8 +37071,8 @@
   "name_normalised": "spire civil engineering",
   "areas": [
    "surfacing",
-   "driveways",
-   "groundworks"
+   "groundworks",
+   "driveways"
   ],
   "types": [],
   "primary_area": "surfacing",
