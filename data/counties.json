@@ -1,5 +1,5 @@
 {
- "note": "England ceremonial counties only (v1.1). Centroids approximate. Day 1 = Dorset + 25-mile ring; then one county per day by centroid distance from Poole; once all are in, refresh all daily. Wales/Scotland/NI to be added if Pete wants. Scope change 15 Oct 2026 (Pete): week 1 = Dorset and Hampshire only, as thorough as possible; all other counties paused. Order change 15 Oct 2026 (Pete): queue works outwards from Dorset by adjacency rings (ring 1 = Dorset's neighbours Hampshire, Wiltshire, Somerset, Devon; then their neighbours, and so on; within a ring by distance from Poole). Wiltshire added, in progress.",
+ "note": "England ceremonial counties only (v1.1). Centroids approximate. Day 1 = Dorset + 25-mile ring; then one county per day by centroid distance from Poole; once all are in, refresh all daily. Wales/Scotland/NI to be added if Pete wants. Scope change 15 Oct 2026 (Pete): week 1 = Dorset and Hampshire only, as thorough as possible; all other counties paused. Order change 15 Oct 2026 (Pete): queue works outwards from Dorset by adjacency rings (ring 1 = Dorset's neighbours Hampshire, Wiltshire, Somerset, Devon; then their neighbours, and so on; within a ring by distance from Poole). Wiltshire added, in progress. Somerset added 15 Oct 2026 (Pete), in progress; after Somerset no more counties are added (Devon and the rest stay paused).",
  "origin": "Poole",
  "queue": [
   {
@@ -11,7 +11,7 @@
    "order": 1,
    "status": "in_progress",
    "planned_day": 1,
-   "firms": 1805,
+   "firms": 1804,
    "not_in_business": 1815,
    "added": "2026-10-15",
    "last_refreshed": "2026-10-15",
@@ -26,7 +26,7 @@
    "order": 2,
    "status": "in_progress",
    "planned_day": 2,
-   "firms": 4424,
+   "firms": 4394,
    "not_in_business": 4593,
    "added": "2026-10-15",
    "last_refreshed": "2026-10-15",
@@ -54,11 +54,13 @@
    "lng": -2.95,
    "miles": 50,
    "order": 4,
-   "status": "paused",
+   "status": "in_progress",
    "planned_day": 4,
-   "firms": 0,
-   "not_in_business": 0,
-   "ring": 1
+   "firms": 5,
+   "not_in_business": 4,
+   "ring": 1,
+   "added": "2026-10-15",
+   "last_refreshed": "2026-10-15"
   },
   {
    "slug": "devon",

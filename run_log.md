@@ -47,3 +47,5 @@
 - 23:14 BST: Wiltshire Companies House SIC discovery (SN, BA12-15, SP1-4; SP5/7/8/9 already covered) added; enrichment to 68 firms
 
 - 23:38 BST: Map: yellow marker clusters (Leaflet.markercluster) when zoomed out; enrichment to 173 firms
+
+- 00:05 BST: Enrichment: 46 more CH-only firms given websites/phones (Hampshire queue + Poole/Bournemouth/Christchurch), raw_2026-10-16a
