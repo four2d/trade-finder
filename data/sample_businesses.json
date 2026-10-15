@@ -1,0 +1,1520 @@
+[
+ {
+  "id": "tf_sample_ede612",
+  "sample": true,
+  "name": "Harbourside Resin Co",
+  "legal_name": "HARBOURSIDE RESIN CO LIMITED (SAMPLE)",
+  "name_normalised": "harbourside resin co",
+  "areas": [
+   "driveways",
+   "paving_patios"
+  ],
+  "types": [
+   "resin_bound",
+   "resin_bonded"
+  ],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH15",
+  "lat": 50.7189,
+  "lng": -1.979,
+  "distance_miles": 0.4,
+  "serves_area_only": false,
+  "phone": "01632 960101",
+  "phone_e164": "+441632960101",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://sample-1.example.com",
+  "domain": "sample-1.example.com",
+  "website_quality": "modern",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": 4.9,
+  "google_reviews": 112,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.7189&mlon=-1.979#map=14/50.7189/-1.979",
+  "last_review_date": "2026-10-09",
+  "checkatrade": {
+   "score": 9.8,
+   "reviews": 122,
+   "member_since": 2018,
+   "url": "https://example.com/sample/checkatrade/1"
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "companies_house": {
+   "number": "SAMPLE01",
+   "status": "active",
+   "incorporated": "2018-04-01",
+   "sic": [
+    "43120"
+   ],
+   "url": "https://example.com/sample/ch/1"
+  },
+  "business_form": "ltd",
+  "size_band": "2-5",
+  "years_trading": 8,
+  "accreditations": [
+   "TrustMark"
+  ],
+  "services_notes": "Resin-bound driveways & paths, SUDS-compliant, 10-yr guarantee",
+  "badges": [
+   "top_pick",
+   "highly_rated",
+   "vetted",
+   "ltd_company",
+   "busy",
+   "nearby"
+  ],
+  "score": 97,
+  "score_breakdown": {
+   "rating": 34,
+   "reviews": 13,
+   "vetted": 20,
+   "contact": 15,
+   "distance": 15
+  },
+  "confidence": 1.0,
+  "sources": [
+   {
+    "source": "google_maps",
+    "url": "https://example.com/sample/maps/1",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "rating",
+     "reviews",
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://example.com/sample/checkatrade/1",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "score",
+     "reviews"
+    ]
+   },
+   {
+    "source": "website",
+    "url": "https://sample-1.example.com",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://example.com/sample/ch/1",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "status",
+     "number"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-01",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": ""
+ },
+ {
+  "id": "tf_sample_894785",
+  "sample": true,
+  "name": "Purbeck Block Paving",
+  "legal_name": null,
+  "name_normalised": "purbeck block paving",
+  "areas": [
+   "driveways"
+  ],
+  "types": [
+   "block_paving",
+   "driveway_repair"
+  ],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Wareham",
+  "postcode": "BH20",
+  "lat": 50.687,
+  "lng": -2.11,
+  "distance_miles": 5.7,
+  "serves_area_only": false,
+  "phone": "07700 900102",
+  "phone_e164": "+447700900102",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://sample-2.example.com",
+  "domain": "sample-2.example.com",
+  "website_quality": "dated",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": 4.7,
+  "google_reviews": 64,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.687&mlon=-2.11#map=14/50.687/-2.11",
+  "last_review_date": "2026-09-28",
+  "checkatrade": {
+   "score": 9.6,
+   "reviews": 74,
+   "member_since": 2012,
+   "url": "https://example.com/sample/checkatrade/2"
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "companies_house": null,
+  "business_form": "sole_trader",
+  "size_band": "solo",
+  "years_trading": 14,
+  "accreditations": [
+   "Marshalls Register"
+  ],
+  "services_notes": "Block paving, relays and repairs; Marshalls Register",
+  "badges": [
+   "top_pick",
+   "highly_rated",
+   "vetted",
+   "sole_trader",
+   "established",
+   "busy"
+  ],
+  "score": 89,
+  "score_breakdown": {
+   "rating": 30,
+   "reviews": 12,
+   "vetted": 20,
+   "contact": 15,
+   "distance": 12
+  },
+  "confidence": 0.7,
+  "sources": [
+   {
+    "source": "google_maps",
+    "url": "https://example.com/sample/maps/2",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "rating",
+     "reviews",
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://example.com/sample/checkatrade/2",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "score",
+     "reviews"
+    ]
+   },
+   {
+    "source": "website",
+    "url": "https://sample-2.example.com",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "services"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-02",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": ""
+ },
+ {
+  "id": "tf_sample_c5c5c7",
+  "sample": true,
+  "name": "Ferndown Tarmac & Gravel",
+  "legal_name": "FERNDOWN TARMAC & GRAVEL LIMITED (SAMPLE)",
+  "name_normalised": "ferndown tarmac  gravel",
+  "areas": [
+   "driveways",
+   "surfacing"
+  ],
+  "types": [
+   "tarmac_driveway",
+   "gravel_driveway"
+  ],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Ferndown",
+  "postcode": "BH22",
+  "lat": 50.807,
+  "lng": -1.9,
+  "distance_miles": 7.4,
+  "serves_area_only": false,
+  "phone": "01632 960103",
+  "phone_e164": "+441632960103",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://sample-3.example.com",
+  "domain": "sample-3.example.com",
+  "website_quality": "modern",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": 4.5,
+  "google_reviews": 38,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.807&mlon=-1.9#map=14/50.807/-1.9",
+  "last_review_date": "2026-08-30",
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "companies_house": {
+   "number": "SAMPLE03",
+   "status": "active",
+   "incorporated": "2021-04-01",
+   "sic": [
+    "43120"
+   ],
+   "url": "https://example.com/sample/ch/3"
+  },
+  "business_form": "ltd",
+  "size_band": "6-20",
+  "years_trading": 5,
+  "accreditations": [],
+  "services_notes": "Tarmac, gravel grid and shingle drives; free site visits",
+  "badges": [
+   "top_pick",
+   "ltd_company"
+  ],
+  "score": 67,
+  "score_breakdown": {
+   "rating": 25,
+   "reviews": 10,
+   "vetted": 6,
+   "contact": 15,
+   "distance": 11
+  },
+  "confidence": 0.9,
+  "sources": [
+   {
+    "source": "google_maps",
+    "url": "https://example.com/sample/maps/3",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "rating",
+     "reviews",
+     "phone"
+    ]
+   },
+   {
+    "source": "website",
+    "url": "https://sample-3.example.com",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://example.com/sample/ch/3",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "status",
+     "number"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-03",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": ""
+ },
+ {
+  "id": "tf_sample_c23e0c",
+  "sample": true,
+  "name": "Stourvale Imprint Concrete",
+  "legal_name": null,
+  "name_normalised": "stourvale imprint concrete",
+  "areas": [
+   "driveways"
+  ],
+  "types": [
+   "concrete_driveway"
+  ],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Christchurch",
+  "postcode": "BH23",
+  "lat": 50.735,
+  "lng": -1.778,
+  "distance_miles": 9.3,
+  "serves_area_only": false,
+  "phone": "07700 900104",
+  "phone_e164": "+447700900104",
+  "phone_type": "mobile",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": 4.2,
+  "google_reviews": 17,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.735&mlon=-1.778#map=14/50.735/-1.778",
+  "last_review_date": "2026-10-12",
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "companies_house": null,
+  "business_form": "sole_trader",
+  "size_band": "solo",
+  "years_trading": 1,
+  "accreditations": [],
+  "services_notes": "Pattern-imprinted and brushed concrete drives",
+  "badges": [
+   "top_pick",
+   "sole_trader",
+   "new_business",
+   "busy",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 35,
+  "score_breakdown": {
+   "rating": 18,
+   "reviews": 8,
+   "vetted": 0,
+   "contact": 9,
+   "distance": 9
+  },
+  "confidence": 0.3,
+  "sources": [
+   {
+    "source": "google_maps",
+    "url": "https://example.com/sample/maps/4",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "rating",
+     "reviews",
+     "phone"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-04",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": ""
+ },
+ {
+  "id": "tf_sample_bab31f",
+  "sample": true,
+  "name": "Canford Garden Design",
+  "legal_name": "CANFORD GARDEN DESIGN LIMITED (SAMPLE)",
+  "name_normalised": "canford garden design",
+  "areas": [
+   "landscaping",
+   "paving_patios",
+   "water_drainage"
+  ],
+  "types": [
+   "garden_designer",
+   "hard_landscaping",
+   "pond_builder"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Broadstone",
+  "postcode": "BH18",
+  "lat": 50.76,
+  "lng": -2.0,
+  "distance_miles": 3.2,
+  "serves_area_only": false,
+  "phone": "01632 960105",
+  "phone_e164": "+441632960105",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://sample-5.example.com",
+  "domain": "sample-5.example.com",
+  "website_quality": "modern",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": 4.9,
+  "google_reviews": 41,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.76&mlon=-2.0#map=14/50.76/-2.0",
+  "last_review_date": "2026-10-02",
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "companies_house": {
+   "number": "SAMPLE05",
+   "status": "active",
+   "incorporated": "2015-04-01",
+   "sic": [
+    "43120"
+   ],
+   "url": "https://example.com/sample/ch/5"
+  },
+  "business_form": "ltd",
+  "size_band": "2-5",
+  "years_trading": 11,
+  "accreditations": [
+   "SGD"
+  ],
+  "services_notes": "Full garden design & build, SGD-registered designer",
+  "badges": [
+   "top_pick",
+   "highly_rated",
+   "ltd_company",
+   "established",
+   "busy",
+   "multi_trade",
+   "nearby"
+  ],
+  "score": 79,
+  "score_breakdown": {
+   "rating": 28,
+   "reviews": 11,
+   "vetted": 12,
+   "contact": 15,
+   "distance": 13
+  },
+  "confidence": 0.9,
+  "sources": [
+   {
+    "source": "google_maps",
+    "url": "https://example.com/sample/maps/5",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "rating",
+     "reviews",
+     "phone"
+    ]
+   },
+   {
+    "source": "website",
+    "url": "https://sample-5.example.com",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://example.com/sample/ch/5",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "status",
+     "number"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-05",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": ""
+ },
+ {
+  "id": "tf_sample_196385",
+  "sample": true,
+  "name": "Wimborne Landscapes",
+  "legal_name": "WIMBORNE LANDSCAPES LIMITED (SAMPLE)",
+  "name_normalised": "wimborne landscapes",
+  "areas": [
+   "landscaping",
+   "fencing_boundaries"
+  ],
+  "types": [
+   "landscape_gardener",
+   "garden_renovation"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Wimborne Minster",
+  "postcode": "BH21",
+  "lat": 50.8,
+  "lng": -1.986,
+  "distance_miles": 5.9,
+  "serves_area_only": false,
+  "phone": "01632 960106",
+  "phone_e164": "+441632960106",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://sample-6.example.com",
+  "domain": "sample-6.example.com",
+  "website_quality": "dated",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": 4.6,
+  "google_reviews": 88,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.8&mlon=-1.986#map=14/50.8/-1.986",
+  "last_review_date": "2026-09-15",
+  "checkatrade": {
+   "score": 9.4,
+   "reviews": 98,
+   "member_since": 2017,
+   "url": "https://example.com/sample/checkatrade/6"
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "companies_house": {
+   "number": "SAMPLE06",
+   "status": "active",
+   "incorporated": "2017-04-01",
+   "sic": [
+    "43120"
+   ],
+   "url": "https://example.com/sample/ch/6"
+  },
+  "business_form": "ltd",
+  "size_band": "6-20",
+  "years_trading": 9,
+  "accreditations": [],
+  "services_notes": "Garden makeovers, turfing, fencing; covers BH & SP",
+  "badges": [
+   "top_pick",
+   "vetted",
+   "ltd_company",
+   "busy"
+  ],
+  "score": 90,
+  "score_breakdown": {
+   "rating": 31,
+   "reviews": 13,
+   "vetted": 20,
+   "contact": 15,
+   "distance": 11
+  },
+  "confidence": 1.0,
+  "sources": [
+   {
+    "source": "google_maps",
+    "url": "https://example.com/sample/maps/6",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "rating",
+     "reviews",
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://example.com/sample/checkatrade/6",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "score",
+     "reviews"
+    ]
+   },
+   {
+    "source": "website",
+    "url": "https://sample-6.example.com",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://example.com/sample/ch/6",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "status",
+     "number"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-06",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": ""
+ },
+ {
+  "id": "tf_sample_ea48db",
+  "sample": true,
+  "name": "Sandbanks Porcelain Patios",
+  "legal_name": null,
+  "name_normalised": "sandbanks porcelain patios",
+  "areas": [
+   "paving_patios"
+  ],
+  "types": [
+   "porcelain_paving",
+   "patio_installer"
+  ],
+  "primary_area": "paving_patios",
+  "address": null,
+  "town": "Sandbanks",
+  "postcode": "BH13",
+  "lat": 50.685,
+  "lng": -1.948,
+  "distance_miles": 2.7,
+  "serves_area_only": false,
+  "phone": "07700 900107",
+  "phone_e164": "+447700900107",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://sample-7.example.com",
+  "domain": "sample-7.example.com",
+  "website_quality": "modern",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": 4.8,
+  "google_reviews": 29,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.685&mlon=-1.948#map=14/50.685/-1.948",
+  "last_review_date": "2026-10-11",
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "companies_house": null,
+  "business_form": "sole_trader",
+  "size_band": "solo",
+  "years_trading": 3,
+  "accreditations": [],
+  "services_notes": "Porcelain and Indian sandstone patios",
+  "badges": [
+   "top_pick",
+   "highly_rated",
+   "sole_trader",
+   "busy",
+   "nearby"
+  ],
+  "score": 63,
+  "score_breakdown": {
+   "rating": 25,
+   "reviews": 10,
+   "vetted": 0,
+   "contact": 15,
+   "distance": 13
+  },
+  "confidence": 0.6,
+  "sources": [
+   {
+    "source": "google_maps",
+    "url": "https://example.com/sample/maps/7",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "rating",
+     "reviews",
+     "phone"
+    ]
+   },
+   {
+    "source": "website",
+    "url": "https://sample-7.example.com",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "services"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-07",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": ""
+ },
+ {
+  "id": "tf_sample_0b4470",
+  "sample": true,
+  "name": "Bourne Valley Groundworks",
+  "legal_name": "BOURNE VALLEY GROUNDWORKS LIMITED (SAMPLE)",
+  "name_normalised": "bourne valley groundworks",
+  "areas": [
+   "groundworks",
+   "driveways",
+   "water_drainage"
+  ],
+  "types": [
+   "groundworks_contractor",
+   "excavation",
+   "drainage_installer"
+  ],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Bournemouth",
+  "postcode": "BH8",
+  "lat": 50.74,
+  "lng": -1.85,
+  "distance_miles": 6.2,
+  "serves_area_only": false,
+  "phone": "01632 960108",
+  "phone_e164": "+441632960108",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://sample-8.example.com",
+  "domain": "sample-8.example.com",
+  "website_quality": "modern",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": 4.4,
+  "google_reviews": 22,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.74&mlon=-1.85#map=14/50.74/-1.85",
+  "last_review_date": "2026-07-20",
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "companies_house": {
+   "number": "SAMPLE08",
+   "status": "active",
+   "incorporated": "2010-04-01",
+   "sic": [
+    "43120"
+   ],
+   "url": "https://example.com/sample/ch/8"
+  },
+  "business_form": "ltd",
+  "size_band": "21+",
+  "years_trading": 16,
+  "accreditations": [
+   "CHAS"
+  ],
+  "services_notes": "Footings, drainage, muck away and site prep",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established",
+   "multi_trade"
+  ],
+  "score": 68,
+  "score_breakdown": {
+   "rating": 21,
+   "reviews": 9,
+   "vetted": 12,
+   "contact": 15,
+   "distance": 11
+  },
+  "confidence": 0.9,
+  "sources": [
+   {
+    "source": "google_maps",
+    "url": "https://example.com/sample/maps/8",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "rating",
+     "reviews",
+     "phone"
+    ]
+   },
+   {
+    "source": "website",
+    "url": "https://sample-8.example.com",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://example.com/sample/ch/8",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "status",
+     "number"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-08",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": ""
+ },
+ {
+  "id": "tf_sample_c9f643",
+  "sample": true,
+  "name": "Heathland Tree Care",
+  "legal_name": "HEATHLAND TREE CARE LIMITED (SAMPLE)",
+  "name_normalised": "heathland tree care",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon",
+   "stump_grinding"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Verwood",
+  "postcode": "BH31",
+  "lat": 50.878,
+  "lng": -1.873,
+  "distance_miles": 12.3,
+  "serves_area_only": false,
+  "phone": "01632 960109",
+  "phone_e164": "+441632960109",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://sample-9.example.com",
+  "domain": "sample-9.example.com",
+  "website_quality": "modern",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": 4.9,
+  "google_reviews": 156,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.878&mlon=-1.873#map=14/50.878/-1.873",
+  "last_review_date": "2026-10-13",
+  "checkatrade": {
+   "score": 9.9,
+   "reviews": 166,
+   "member_since": 2014,
+   "url": "https://example.com/sample/checkatrade/9"
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "companies_house": {
+   "number": "SAMPLE09",
+   "status": "active",
+   "incorporated": "2014-04-01",
+   "sic": [
+    "43120"
+   ],
+   "url": "https://example.com/sample/ch/9"
+  },
+  "business_form": "ltd",
+  "size_band": "6-20",
+  "years_trading": 12,
+  "accreditations": [
+   "ARB Approved"
+  ],
+  "services_notes": "NPTC-qualified tree surgery, stump grinding",
+  "badges": [
+   "top_pick",
+   "highly_rated",
+   "vetted",
+   "ltd_company",
+   "established",
+   "busy"
+  ],
+  "score": 91,
+  "score_breakdown": {
+   "rating": 34,
+   "reviews": 14,
+   "vetted": 20,
+   "contact": 15,
+   "distance": 8
+  },
+  "confidence": 1.0,
+  "sources": [
+   {
+    "source": "google_maps",
+    "url": "https://example.com/sample/maps/9",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "rating",
+     "reviews",
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://example.com/sample/checkatrade/9",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "score",
+     "reviews"
+    ]
+   },
+   {
+    "source": "website",
+    "url": "https://sample-9.example.com",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://example.com/sample/ch/9",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "status",
+     "number"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-09",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": ""
+ },
+ {
+  "id": "tf_sample_758f13",
+  "sample": true,
+  "name": "Hamworthy Fencing & Gates",
+  "legal_name": null,
+  "name_normalised": "hamworthy fencing  gates",
+  "areas": [
+   "fencing_boundaries"
+  ],
+  "types": [
+   "fencing_contractor",
+   "gate_installer"
+  ],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Hamworthy",
+  "postcode": "BH15",
+  "lat": 50.719,
+  "lng": -2.01,
+  "distance_miles": 1.0,
+  "serves_area_only": false,
+  "phone": "07700 900110",
+  "phone_e164": "+447700900110",
+  "phone_type": "mobile",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": 4.3,
+  "google_reviews": 12,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.719&mlon=-2.01#map=14/50.719/-2.01",
+  "last_review_date": "2026-06-04",
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "companies_house": null,
+  "business_form": "sole_trader",
+  "size_band": "solo",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Closeboard, panel and post & rail fencing",
+  "badges": [
+   "top_pick",
+   "sole_trader",
+   "no_website",
+   "nearby",
+   "needs_check"
+  ],
+  "score": 38,
+  "score_breakdown": {
+   "rating": 17,
+   "reviews": 7,
+   "vetted": 0,
+   "contact": 9,
+   "distance": 14
+  },
+  "confidence": 0.3,
+  "sources": [
+   {
+    "source": "google_maps",
+    "url": "https://example.com/sample/maps/10",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "rating",
+     "reviews",
+     "phone"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-10",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": ""
+ },
+ {
+  "id": "tf_sample_ff716b",
+  "sample": true,
+  "name": "Lymington Garden Rooms",
+  "legal_name": "LYMINGTON GARDEN ROOMS LIMITED (SAMPLE)",
+  "name_normalised": "lymington garden rooms",
+  "areas": [
+   "decking_structures"
+  ],
+  "types": [
+   "garden_room",
+   "composite_decking"
+  ],
+  "primary_area": "decking_structures",
+  "address": null,
+  "town": "Lymington",
+  "postcode": "SO41",
+  "lat": 50.758,
+  "lng": -1.544,
+  "distance_miles": 19.6,
+  "serves_area_only": false,
+  "phone": "01632 960111",
+  "phone_e164": "+441632960111",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://sample-11.example.com",
+  "domain": "sample-11.example.com",
+  "website_quality": "modern",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": 4.7,
+  "google_reviews": 47,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.758&mlon=-1.544#map=14/50.758/-1.544",
+  "last_review_date": "2026-09-21",
+  "checkatrade": {
+   "score": 9.5,
+   "reviews": 57,
+   "member_since": 2019,
+   "url": "https://example.com/sample/checkatrade/11"
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "companies_house": {
+   "number": "SAMPLE11",
+   "status": "active",
+   "incorporated": "2019-04-01",
+   "sic": [
+    "43120"
+   ],
+   "url": "https://example.com/sample/ch/11"
+  },
+  "business_form": "ltd",
+  "size_band": "2-5",
+  "years_trading": 7,
+  "accreditations": [],
+  "services_notes": "Insulated garden offices and Millboard decking",
+  "badges": [
+   "top_pick",
+   "highly_rated",
+   "vetted",
+   "ltd_company",
+   "busy"
+  ],
+  "score": 77,
+  "score_breakdown": {
+   "rating": 28,
+   "reviews": 11,
+   "vetted": 20,
+   "contact": 15,
+   "distance": 3
+  },
+  "confidence": 1.0,
+  "sources": [
+   {
+    "source": "google_maps",
+    "url": "https://example.com/sample/maps/11",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "rating",
+     "reviews",
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://example.com/sample/checkatrade/11",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "score",
+     "reviews"
+    ]
+   },
+   {
+    "source": "website",
+    "url": "https://sample-11.example.com",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://example.com/sample/ch/11",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "status",
+     "number"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-11",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": ""
+ },
+ {
+  "id": "tf_sample_4856d5",
+  "sample": true,
+  "name": "Swanage Stonecraft",
+  "legal_name": null,
+  "name_normalised": "swanage stonecraft",
+  "areas": [
+   "outdoor_masonry",
+   "landscaping"
+  ],
+  "types": [
+   "stonemason",
+   "dry_stone"
+  ],
+  "primary_area": "outdoor_masonry",
+  "address": null,
+  "town": "Swanage",
+  "postcode": "BH19",
+  "lat": 50.609,
+  "lng": -1.96,
+  "distance_miles": 7.4,
+  "serves_area_only": false,
+  "phone": "07700 900112",
+  "phone_e164": "+447700900112",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://sample-12.example.com",
+  "domain": "sample-12.example.com",
+  "website_quality": "dated",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": 5.0,
+  "google_reviews": 9,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.609&mlon=-1.96#map=14/50.609/-1.96",
+  "last_review_date": "2026-05-17",
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "companies_house": null,
+  "business_form": "sole_trader",
+  "size_band": "solo",
+  "years_trading": 22,
+  "accreditations": [
+   "DSWA"
+  ],
+  "services_notes": "Purbeck stone walls, steps and dry stone repair",
+  "badges": [
+   "top_pick",
+   "sole_trader",
+   "established"
+  ],
+  "score": 57,
+  "score_breakdown": {
+   "rating": 18,
+   "reviews": 7,
+   "vetted": 6,
+   "contact": 15,
+   "distance": 11
+  },
+  "confidence": 0.6,
+  "sources": [
+   {
+    "source": "google_maps",
+    "url": "https://example.com/sample/maps/12",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "rating",
+     "reviews",
+     "phone"
+    ]
+   },
+   {
+    "source": "website",
+    "url": "https://sample-12.example.com",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "services"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-12",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": ""
+ },
+ {
+  "id": "tf_sample_b20afa",
+  "sample": true,
+  "name": "Upton Lawn & Turf",
+  "legal_name": null,
+  "name_normalised": "upton lawn  turf",
+  "areas": [
+   "lawns_grounds"
+  ],
+  "types": [
+   "lawn_care",
+   "turf"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Upton",
+  "postcode": "BH16",
+  "lat": 50.736,
+  "lng": -2.05,
+  "distance_miles": 3.1,
+  "serves_area_only": false,
+  "phone": "07700 900113",
+  "phone_e164": "+447700900113",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://sample-13.example.com",
+  "domain": "sample-13.example.com",
+  "website_quality": "modern",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": 4.6,
+  "google_reviews": 33,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.736&mlon=-2.05#map=14/50.736/-2.05",
+  "last_review_date": "2026-10-07",
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "companies_house": null,
+  "business_form": "sole_trader",
+  "size_band": "solo",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Lawn treatments, scarifying and new turf",
+  "badges": [
+   "top_pick",
+   "sole_trader",
+   "busy",
+   "nearby"
+  ],
+  "score": 63,
+  "score_breakdown": {
+   "rating": 25,
+   "reviews": 10,
+   "vetted": 0,
+   "contact": 15,
+   "distance": 13
+  },
+  "confidence": 0.6,
+  "sources": [
+   {
+    "source": "google_maps",
+    "url": "https://example.com/sample/maps/13",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "rating",
+     "reviews",
+     "phone"
+    ]
+   },
+   {
+    "source": "website",
+    "url": "https://sample-13.example.com",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "services"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-13",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": ""
+ },
+ {
+  "id": "tf_sample_090649",
+  "sample": true,
+  "name": "Ringwood Pressure Clean",
+  "legal_name": "RINGWOOD PRESSURE CLEAN LIMITED (SAMPLE)",
+  "name_normalised": "ringwood pressure clean",
+  "areas": [
+   "exterior_cleaning"
+  ],
+  "types": [
+   "pressure_washing",
+   "driveway_sealing"
+  ],
+  "primary_area": "exterior_cleaning",
+  "address": null,
+  "town": "Ringwood",
+  "postcode": "BH24",
+  "lat": 50.845,
+  "lng": -1.79,
+  "distance_miles": 12.4,
+  "serves_area_only": false,
+  "phone": "01632 960114",
+  "phone_e164": "+441632960114",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://sample-14.example.com",
+  "domain": "sample-14.example.com",
+  "website_quality": "modern",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": 4.8,
+  "google_reviews": 71,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.845&mlon=-1.79#map=14/50.845/-1.79",
+  "last_review_date": "2026-10-14",
+  "checkatrade": {
+   "score": 9.7,
+   "reviews": 81,
+   "member_since": 2023,
+   "url": "https://example.com/sample/checkatrade/14"
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "companies_house": {
+   "number": "SAMPLE14",
+   "status": "active",
+   "incorporated": "2023-04-01",
+   "sic": [
+    "43120"
+   ],
+   "url": "https://example.com/sample/ch/14"
+  },
+  "business_form": "ltd",
+  "size_band": "2-5",
+  "years_trading": 3,
+  "accreditations": [],
+  "services_notes": "Driveway & patio cleaning, re-sanding and sealing",
+  "badges": [
+   "top_pick",
+   "highly_rated",
+   "vetted",
+   "ltd_company",
+   "busy"
+  ],
+  "score": 86,
+  "score_breakdown": {
+   "rating": 31,
+   "reviews": 12,
+   "vetted": 20,
+   "contact": 15,
+   "distance": 8
+  },
+  "confidence": 1.0,
+  "sources": [
+   {
+    "source": "google_maps",
+    "url": "https://example.com/sample/maps/14",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "rating",
+     "reviews",
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://example.com/sample/checkatrade/14",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "score",
+     "reviews"
+    ]
+   },
+   {
+    "source": "website",
+    "url": "https://sample-14.example.com",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://example.com/sample/ch/14",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "status",
+     "number"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-14",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": ""
+ },
+ {
+  "id": "tf_sample_453e37",
+  "sample": true,
+  "name": "Highcliffe Ponds & Drains",
+  "legal_name": null,
+  "name_normalised": "highcliffe ponds  drains",
+  "areas": [
+   "water_drainage"
+  ],
+  "types": [
+   "pond_builder",
+   "soakaway"
+  ],
+  "primary_area": "water_drainage",
+  "address": null,
+  "town": "Highcliffe",
+  "postcode": "BH23",
+  "lat": 50.739,
+  "lng": -1.707,
+  "distance_miles": 12.4,
+  "serves_area_only": false,
+  "phone": "01632 960115",
+  "phone_e164": "+441632960115",
+  "phone_type": "landline",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": 4.1,
+  "google_reviews": 8,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.739&mlon=-1.707#map=14/50.739/-1.707",
+  "last_review_date": "2026-03-02",
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "companies_house": null,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Wildlife ponds, soakaways and French drains",
+  "badges": [
+   "top_pick",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 30,
+  "score_breakdown": {
+   "rating": 14,
+   "reviews": 6,
+   "vetted": 0,
+   "contact": 9,
+   "distance": 8
+  },
+  "confidence": 0.3,
+  "sources": [
+   {
+    "source": "google_maps",
+    "url": "https://example.com/sample/maps/15",
+    "retrieved": "2026-10-15T15:30:00+01:00",
+    "fields": [
+     "rating",
+     "reviews",
+     "phone"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-01",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": ""
+ }
+]

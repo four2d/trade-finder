@@ -1,0 +1,1438 @@
+[
+ {
+  "id": "tf_9da45c96",
+  "name": "M.A. Hart Asphalt & Macadam",
+  "legal_name": "M.A. HART ASPHALT & MACADAM LIMITED",
+  "name_normalised": "m a hart asphalt macadam",
+  "areas": [
+   "driveways"
+  ],
+  "types": [
+   "tarmac_driveway",
+   "block_paving"
+  ],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "New Milton",
+  "postcode": "BH25",
+  "lat": 50.75286,
+  "lng": -1.668898,
+  "distance_miles": 14.2,
+  "serves_area_only": false,
+  "phone": "01425 541330",
+  "phone_e164": "+441425541330",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://mahart.co.uk",
+  "domain": "mahart.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.75286&mlon=-1.668898#map=13/50.75286/-1.668898",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "03917083",
+   "status": "active",
+   "incorporated": "2000-02-01",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/03917083"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 26,
+  "accreditations": [],
+  "services_notes": "Asphalt, tarmac & block paving; 8-yr guarantee",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 25,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 6
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "website",
+    "url": "https://mahart.co.uk/",
+    "retrieved": "2026-10-15T17:00:00+01:00",
+    "fields": [
+     "phone",
+     "postcode"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/03917083",
+    "retrieved": "2026-10-15T17:00:00+01:00",
+    "fields": [
+     "number"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_89ef6106",
+  "name": "Turners Fencing & Landscaping",
+  "legal_name": null,
+  "name_normalised": "turners fencing landscaping",
+  "areas": [
+   "driveways"
+  ],
+  "types": [
+   "block_paving",
+   "gravel_driveway",
+   "resin_bound"
+  ],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Lymington",
+  "postcode": "SO41",
+  "lat": 50.75534259537036,
+  "lng": -1.5670245111111103,
+  "distance_miles": 18.6,
+  "serves_area_only": false,
+  "phone": "01590 466567",
+  "phone_e164": "+441590466567",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://turnersfencingandlandscaping.co.uk",
+  "domain": "turnersfencingandlandscaping.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.75534259537036&mlon=-1.5670245111111103#map=13/50.75534259537036/-1.5670245111111103",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Driveways, fencing & landscaping across Lymington & New Milton. A Turners Fencing and Landscapes Ltd (SO41) was dissolved June 2026 — check trading status",
+  "badges": [
+   "needs_check"
+  ],
+  "score": 15,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 15,
+   "distance": 4
+  },
+  "confidence": 0.4,
+  "merge_review": true,
+  "sources": [
+   {
+    "source": "website",
+    "url": "https://turnersfencingandlandscaping.co.uk/",
+    "retrieved": "2026-10-15T17:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://turnersfencingandlandscaping.co.uk/driveways/",
+    "retrieved": "2026-10-15T17:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_3d4951c0",
+  "name": "C. Fitzgerald & Son Drive Designs",
+  "legal_name": null,
+  "name_normalised": "c fitzgerald son drive designs",
+  "areas": [
+   "driveways"
+  ],
+  "types": [
+   "block_paving",
+   "driveway_repair"
+  ],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Ringwood",
+  "postcode": "BH24",
+  "lat": 50.843031641883485,
+  "lng": -1.7885973816604674,
+  "distance_miles": 12.4,
+  "serves_area_only": false,
+  "phone": "01590 674116",
+  "phone_e164": "+441590674116",
+  "phone_type": "landline",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.843031641883485&mlon=-1.7885973816604674#map=13/50.843031641883485/-1.7885973816604674",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": 35,
+  "accreditations": [],
+  "services_notes": "Driveways, paths & groundworks; 35+ years. Single directory source",
+  "badges": [
+   "established",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 14,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 9,
+   "distance": 8
+  },
+  "confidence": 0.3,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "directory",
+    "url": "https://www.goodbuilders.co.uk/ringwood/paving-contractors",
+    "retrieved": "2026-10-15T17:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_76c9873a",
+  "name": "Award Resin",
+  "legal_name": null,
+  "name_normalised": "award resin",
+  "areas": [
+   "driveways"
+  ],
+  "types": [
+   "resin_bound",
+   "tarmac_driveway",
+   "block_paving"
+  ],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Eastleigh",
+  "postcode": "SO50",
+  "lat": 50.952529,
+  "lng": -1.322617,
+  "distance_miles": 33.3,
+  "serves_area_only": true,
+  "phone": "0800 072 6609",
+  "phone_e164": "+448000726609",
+  "phone_type": "freephone",
+  "email": null,
+  "website": "https://awardresinltd.co.uk",
+  "domain": "awardresinltd.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.952529&mlon=-1.322617#map=13/50.952529/-1.322617",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Eastleigh-based (outside 25 mi); advertises New Milton",
+  "badges": [
+   "needs_check"
+  ],
+  "score": 12,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.4,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "website",
+    "url": "https://awardresinltd.co.uk/",
+    "retrieved": "2026-10-15T17:00:00+01:00",
+    "fields": [
+     "phone",
+     "postcode"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_d8568170",
+  "name": "Elite Build",
+  "legal_name": null,
+  "name_normalised": "elite build",
+  "areas": [
+   "driveways"
+  ],
+  "types": [
+   "resin_bound",
+   "tarmac_driveway",
+   "block_paving"
+  ],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Hampshire",
+  "postcode": null,
+  "lat": null,
+  "lng": null,
+  "distance_miles": null,
+  "serves_area_only": true,
+  "phone": "0800 145 5189",
+  "phone_e164": "+448001455189",
+  "phone_type": "freephone",
+  "email": null,
+  "website": "https://www.elite-build.co.uk",
+  "domain": "elite-build.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Hampshire-based; advertises New Milton driveways",
+  "badges": [
+   "needs_check"
+  ],
+  "score": 12,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.4,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "website",
+    "url": "https://www.elite-build.co.uk/",
+    "retrieved": "2026-10-15T17:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_fd781924",
+  "name": "Aquatech Surfacing",
+  "legal_name": "AQUATECH SURFACING LTD",
+  "name_normalised": "aquatech surfacing",
+  "areas": [
+   "driveways"
+  ],
+  "types": [],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Ringwood",
+  "postcode": "BH24",
+  "lat": 50.845,
+  "lng": -1.792,
+  "distance_miles": 12.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "16537519",
+   "status": "active",
+   "incorporated": "2025-06-24",
+   "dissolved": null,
+   "sic": [
+    "96090"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/16537519"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 1,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 96090",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "new_business"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 8
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/16537519",
+    "retrieved": "2026-10-15T17:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_84a6d48e",
+  "name": "RM Driveways And Landscaping",
+  "legal_name": "RM DRIVEWAYS AND LANDSCAPING LTD",
+  "name_normalised": "rm driveways landscaping",
+  "areas": [
+   "driveways"
+  ],
+  "types": [],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Ringwood",
+  "postcode": "BH24",
+  "lat": 50.845,
+  "lng": -1.792,
+  "distance_miles": 12.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11925350",
+   "status": "active",
+   "incorporated": "2019-04-04",
+   "dissolved": null,
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11925350"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 7,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 8
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11925350",
+    "retrieved": "2026-10-15T17:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_4f30094f",
+  "name": "Crete Paving And Design",
+  "legal_name": "CRETE PAVING AND DESIGN LTD",
+  "name_normalised": "crete paving design",
+  "areas": [
+   "driveways"
+  ],
+  "types": [],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Ringwood",
+  "postcode": "BH24",
+  "lat": 50.872,
+  "lng": -1.822,
+  "distance_miles": 13.0,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13115887",
+   "status": "active",
+   "incorporated": "2021-01-06",
+   "dissolved": null,
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13115887"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 9,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 7
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13115887",
+    "retrieved": "2026-10-15T17:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_bfb4931a",
+  "name": "Powell Paving",
+  "legal_name": "POWELL PAVING LIMITED",
+  "name_normalised": "powell paving",
+  "areas": [
+   "driveways"
+  ],
+  "types": [],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "New Milton",
+  "postcode": "BH25",
+  "lat": 50.752,
+  "lng": -1.672,
+  "distance_miles": 14.0,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "04153997",
+   "status": "active",
+   "incorporated": "2001-02-05",
+   "dissolved": null,
+   "sic": [
+    "43390"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04153997"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 25,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43390",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 9,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 7
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/04153997",
+    "retrieved": "2026-10-15T17:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_1c0f2ffc",
+  "name": "Anmak Surfacing",
+  "legal_name": "ANMAK SURFACING LTD",
+  "name_normalised": "anmak surfacing",
+  "areas": [
+   "driveways"
+  ],
+  "types": [],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "New Milton",
+  "postcode": "BH25",
+  "lat": 50.765,
+  "lng": -1.651,
+  "distance_miles": 15.1,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14831633",
+   "status": "active",
+   "incorporated": "2023-04-27",
+   "dissolved": null,
+   "sic": [
+    "43330"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14831633"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 3,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43330",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 8,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 6
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14831633",
+    "retrieved": "2026-10-15T17:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_ab279199",
+  "name": "5 Star Driveways",
+  "legal_name": "5 STAR DRIVEWAYS LTD",
+  "name_normalised": "5 star driveways",
+  "areas": [
+   "driveways"
+  ],
+  "types": [],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Ringwood",
+  "postcode": "BH24",
+  "lat": 50.845,
+  "lng": -1.792,
+  "distance_miles": 12.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "10748955",
+   "status": "dissolved",
+   "incorporated": "2017-05-02",
+   "dissolved": "2019-10-22",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10748955"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 9,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10748955",
+    "retrieved": "2026-10-15T17:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_f70ea1a2",
+  "name": "Aquatech Surfacing",
+  "legal_name": "AQUATECH SURFACING LTD.",
+  "name_normalised": "aquatech surfacing",
+  "areas": [
+   "driveways"
+  ],
+  "types": [],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Ringwood",
+  "postcode": "BH24",
+  "lat": 50.845,
+  "lng": -1.792,
+  "distance_miles": 12.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "08483531",
+   "status": "dissolved",
+   "incorporated": "2013-04-11",
+   "dissolved": "2025-06-17",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08483531"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 13,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08483531",
+    "retrieved": "2026-10-15T17:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_6463d60c",
+  "name": "Coastal Driveways",
+  "legal_name": "COASTAL DRIVEWAYS LTD",
+  "name_normalised": "coastal driveways",
+  "areas": [
+   "driveways"
+  ],
+  "types": [],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Ringwood",
+  "postcode": "BH24",
+  "lat": 50.844,
+  "lng": -1.788,
+  "distance_miles": 12.5,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "08915426",
+   "status": "dissolved",
+   "incorporated": "2014-02-27",
+   "dissolved": "2020-03-23",
+   "sic": [
+    "70229"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08915426"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 12,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 70229",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08915426",
+    "retrieved": "2026-10-15T17:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_a2291b9a",
+  "name": "Ideal Home Driveways",
+  "legal_name": "IDEAL HOME DRIVEWAYS LTD",
+  "name_normalised": "ideal home driveways",
+  "areas": [
+   "driveways"
+  ],
+  "types": [],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Ringwood",
+  "postcode": "BH24",
+  "lat": 50.84,
+  "lng": -1.78,
+  "distance_miles": 12.5,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "08067263",
+   "status": "dissolved",
+   "incorporated": "2012-05-14",
+   "dissolved": "2015-09-01",
+   "sic": [
+    "32990"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08067263"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 14,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 32990",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08067263",
+    "retrieved": "2026-10-15T17:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_2a952941",
+  "name": "JD Surfacing & Civil Engineering",
+  "legal_name": "JD SURFACING & CIVIL ENGINEERING LTD",
+  "name_normalised": "jd surfacing civil engineering",
+  "areas": [
+   "driveways"
+  ],
+  "types": [],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Christchurch Road",
+  "postcode": "BH24",
+  "lat": 50.844,
+  "lng": -1.788,
+  "distance_miles": 12.5,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "04751924",
+   "status": "dissolved",
+   "incorporated": "2003-05-02",
+   "dissolved": "2025-10-14",
+   "sic": [
+    "43390"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04751924"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 23,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43390",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/04751924",
+    "retrieved": "2026-10-15T17:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_615a626d",
+  "name": "The New Forest Block Paving & Resin Company",
+  "legal_name": "THE NEW FOREST BLOCK PAVING & RESIN COMPANY LTD",
+  "name_normalised": "new forest block paving resin company",
+  "areas": [
+   "driveways"
+  ],
+  "types": [],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Ringwood",
+  "postcode": "BH24",
+  "lat": 50.841,
+  "lng": -1.774,
+  "distance_miles": 12.8,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12734895",
+   "status": "dissolved",
+   "incorporated": "2020-07-10",
+   "dissolved": "2023-09-19",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12734895"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 81300",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12734895",
+    "retrieved": "2026-10-15T17:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_acc0a13c",
+  "name": "Ultimate Paving & Patios",
+  "legal_name": "ULTIMATE PAVING & PATIOS LTD",
+  "name_normalised": "ultimate paving patios",
+  "areas": [
+   "driveways"
+  ],
+  "types": [],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Ringwood",
+  "postcode": "BH24",
+  "lat": 50.872,
+  "lng": -1.822,
+  "distance_miles": 13.0,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13406060",
+   "status": "dissolved",
+   "incorporated": "2021-05-18",
+   "dissolved": "2023-07-04",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13406060"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13406060",
+    "retrieved": "2026-10-15T17:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ }
+]
