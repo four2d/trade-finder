@@ -7,9 +7,9 @@
   "areas": [
    "driveways",
    "paving_patios",
+   "decking_structures",
    "landscaping",
-   "lawns_grounds",
-   "decking_structures"
+   "lawns_grounds"
   ],
   "types": [
    "block_paving",
@@ -288,8 +288,8 @@
   "name_normalised": "dsl landscape",
   "areas": [
    "driveways",
-   "paving_patios",
-   "landscaping"
+   "landscaping",
+   "paving_patios"
   ],
   "types": [
    "block_paving",
@@ -477,9 +477,9 @@
   "name_normalised": "whites groundworks maintenance",
   "areas": [
    "driveways",
-   "paving_patios",
+   "exterior_cleaning",
    "groundworks",
-   "exterior_cleaning"
+   "paving_patios"
   ],
   "types": [
    "block_paving",
@@ -986,7 +986,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_d426503d",
@@ -1077,7 +1078,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_0cf04c00",
@@ -1170,7 +1172,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_fd781924",
@@ -1261,7 +1264,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_74fc12ce",
@@ -1351,7 +1355,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e1f36f3d",
@@ -1441,7 +1446,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_9e6c802f",
@@ -1531,7 +1537,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_261690eb",
@@ -1624,7 +1631,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_1687407f",
@@ -1714,7 +1722,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_89970cae",
@@ -1805,7 +1814,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_d0d3e173",
@@ -1895,7 +1905,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_1b40097b",
@@ -1985,7 +1996,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_8baa7186",
@@ -2075,7 +2087,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_00b62140",
@@ -2164,7 +2177,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_4255abb3",
@@ -2255,7 +2269,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_8c9e92b3",
@@ -2347,7 +2362,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_9e0054ff",
@@ -2437,7 +2453,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_36842fce",
@@ -2531,7 +2548,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_8d87c5e7",
@@ -2620,7 +2638,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_03c2fd12",
@@ -2709,7 +2728,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_d04e12b3",
@@ -2799,7 +2819,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_a84cdcb8",
@@ -2890,7 +2911,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_5396b3dc",
@@ -2980,7 +3002,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_47e83e1b",
@@ -3071,7 +3094,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_41b8c87b",
@@ -3163,7 +3187,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_cd37322a",
@@ -3254,7 +3279,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e89e8af4",
@@ -3344,7 +3370,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_38751159",
@@ -3434,7 +3461,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_92192d09",
@@ -3524,7 +3552,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_0efc6b2a",
@@ -3615,7 +3644,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_8cbb7467",
@@ -3704,7 +3734,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_d6b2c77b",
@@ -3793,7 +3824,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_ca43b8a7",
@@ -3882,7 +3914,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_93c22799",
@@ -3973,7 +4006,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_58680efc",
@@ -4062,7 +4096,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_9ce5c9dd",
@@ -4154,7 +4189,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_1d61816e",
@@ -4243,7 +4279,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_8e777ab1",
@@ -4333,7 +4370,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_84a6d48e",
@@ -4423,7 +4461,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_3fb4db01",
@@ -4513,7 +4552,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_aa85b5d6",
@@ -4603,7 +4643,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_c7675212",
@@ -4693,7 +4734,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_f1a1f411",
@@ -4783,7 +4825,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_3a541b01",
@@ -4873,7 +4916,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_186da2ce",
@@ -4963,7 +5007,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_917553d8",
@@ -5053,7 +5098,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_ac0a7832",
@@ -5142,7 +5188,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_f6be1cd4",
@@ -5231,7 +5278,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_3e6b1933",
@@ -5321,7 +5369,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_56c0c8d4",
@@ -5413,7 +5462,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_60069dbc",
@@ -5503,7 +5553,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_2b068487",
@@ -5593,7 +5644,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_acc318df",
@@ -5682,7 +5734,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_8f01cca2",
@@ -5771,7 +5824,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_2b471e84",
@@ -5860,7 +5914,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_83a68216",
@@ -5949,7 +6004,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_4f30094f",
@@ -6038,7 +6094,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_4e6f7083",
@@ -6128,7 +6185,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_6f4cc686",
@@ -6217,7 +6275,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_63a7aed8",
@@ -6309,7 +6368,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_0efd16aa",
@@ -6398,7 +6458,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_ce638766",
@@ -6488,7 +6549,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_15e67db9",
@@ -6577,7 +6639,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_76f45013",
@@ -6668,7 +6731,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_372ea1fd",
@@ -6758,7 +6822,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_9e970e77",
@@ -6850,7 +6915,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_0c3c9f5b",
@@ -6940,7 +7006,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_dea687fc",
@@ -7030,7 +7097,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_d3a81ee4",
@@ -7120,7 +7188,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_d2761593",
@@ -7209,7 +7278,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_2c88c7ac",
@@ -7299,7 +7369,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e6879112",
@@ -7389,7 +7460,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_d8c7a10b",
@@ -7478,7 +7550,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_78ccc0ff",
@@ -7567,7 +7640,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_212d68c4",
@@ -7658,7 +7732,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_bfb4931a",
@@ -7748,7 +7823,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_b1312a89",
@@ -7837,7 +7913,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_278e3b98",
@@ -7928,7 +8005,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_96483866",
@@ -8018,7 +8096,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_25cd96ec",
@@ -8107,7 +8186,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_c0beab8a",
@@ -8197,7 +8277,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_63861777",
@@ -8287,7 +8368,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_ae5ab12a",
@@ -8377,7 +8459,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_0f62154c",
@@ -8468,7 +8551,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_f23cd8a9",
@@ -8559,7 +8643,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_841e5c9f",
@@ -8651,7 +8736,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_62b32e7c",
@@ -8742,7 +8828,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_4394e387",
@@ -8831,7 +8918,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_40f61baa",
@@ -8921,7 +9009,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_c4dd9698",
@@ -9011,7 +9100,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_1c0f2ffc",
@@ -9101,7 +9191,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_fba7e9c6",
@@ -9193,7 +9284,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_c94af17d",
@@ -9285,7 +9377,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_dc9cd2e5",
@@ -9376,7 +9469,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_a79765cd",
@@ -9466,7 +9560,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_7ccb0fb8",
@@ -9559,7 +9654,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_eaded5ba",
@@ -9648,7 +9744,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_ece20209",
@@ -9738,7 +9835,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_20ed934b",
@@ -9827,7 +9925,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e2f9442b",
@@ -9918,7 +10017,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_a0171e1f",
@@ -10009,7 +10109,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_7683c47c",
@@ -10099,7 +10200,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_8721db48",
@@ -10190,7 +10292,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_07494f67",
@@ -10281,7 +10384,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_14d01912",
@@ -10372,7 +10476,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_374a3ba8",
@@ -10464,7 +10569,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_bf394dfe",
@@ -10555,7 +10661,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_bff0a575",
@@ -10645,7 +10752,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_9375e579",
@@ -10737,7 +10845,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_4747269d",
@@ -10828,7 +10937,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_3d551eb2",
@@ -10919,7 +11029,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_31cc7c2e",
@@ -11011,7 +11122,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_a674c324",
@@ -11102,7 +11214,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_797f6eb1",
@@ -11193,7 +11306,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_25570e36",
@@ -11283,7 +11397,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_a9fda12e",
@@ -11375,7 +11490,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_6879863c",
@@ -11466,7 +11582,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_da9df009",
@@ -11556,7 +11673,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e26ebedd",
@@ -11647,7 +11765,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_4f496988",
@@ -11736,7 +11855,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_ed784949",
@@ -11827,7 +11947,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_37aafa6a",
@@ -11918,7 +12039,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_a3852ccd",
@@ -12007,7 +12129,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_f2bfe3e2",
@@ -12097,7 +12220,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_b8835cc4",
@@ -12189,7 +12313,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_748907ba",
@@ -12280,7 +12405,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_ffff7b8c",
@@ -12370,7 +12496,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_26bb0c5a",
@@ -12459,7 +12586,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_bf89f103",
@@ -12549,7 +12677,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_82f622da",
@@ -12640,7 +12769,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_9da43ae6",
@@ -12733,7 +12863,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_5ff5f1fb",
@@ -12823,7 +12954,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_97e4d0a8",
@@ -12916,7 +13048,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_88da6126",
@@ -13008,7 +13141,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_1edead41",
@@ -13098,7 +13232,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_b2241111",
@@ -13188,7 +13323,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_16bce4c4",
@@ -13277,7 +13413,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_7b30019b",
@@ -13368,7 +13505,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_0dbf2793",
@@ -13459,7 +13597,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_b22f35b2",
@@ -13549,7 +13688,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_9f7bc8d6",
@@ -13640,7 +13780,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_bdef0623",
@@ -13731,7 +13872,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_cdf914f2",
@@ -13822,7 +13964,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_d92e038f",
@@ -13913,7 +14056,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e88ca631",
@@ -14003,7 +14147,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_f169cec5",
@@ -14094,7 +14239,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_5ce687ad",
@@ -14183,7 +14329,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_4368304e",
@@ -14273,7 +14420,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_65808eb0",
@@ -14364,7 +14512,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_5d9575cf",
@@ -14455,7 +14604,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_1af8c683",
@@ -14545,7 +14695,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_b8447b32",
@@ -14636,7 +14787,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_47ec5873",
@@ -14727,7 +14879,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_be580d99",
@@ -14817,7 +14970,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_da881cbe",
@@ -14907,7 +15061,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_04eee2d1",
@@ -14998,7 +15153,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_b3c11daa",
@@ -15089,7 +15245,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_3f858267",
@@ -15179,7 +15336,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_290f2697",
@@ -15269,7 +15427,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_2b36164d",
@@ -15361,7 +15520,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_8df6578b",
@@ -15451,7 +15611,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_59489396",
@@ -15543,7 +15704,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e886feff",
@@ -15636,7 +15798,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_74eed812",
@@ -15726,7 +15889,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_2d4db28a",
@@ -15817,7 +15981,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_0f584213",
@@ -15906,7 +16071,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_cc33dafe",
@@ -15995,7 +16161,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e51daf5e",
@@ -16085,7 +16252,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_c0726050",
@@ -16176,7 +16344,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_7fd1acf4",
@@ -16266,7 +16435,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_a457cae8",
@@ -16356,7 +16526,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_3cbfa1ff",
@@ -16446,7 +16617,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_f85b9bbf",
@@ -16536,7 +16708,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_2ca0106b",
@@ -16626,7 +16799,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_94d78f94",
@@ -16716,7 +16890,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_ab3d43e4",
@@ -16807,7 +16982,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_33272b04",
@@ -16897,7 +17073,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_a23e0b3d",
@@ -16989,7 +17166,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_64ad6009",
@@ -17080,7 +17258,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_0cc25285",
@@ -17171,7 +17350,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_46eea68a",
@@ -17262,7 +17442,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_acf4b2f0",
@@ -17352,7 +17533,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_1fabe62e",
@@ -17445,7 +17627,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_86f7c111",
@@ -17536,7 +17719,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_830d2f63",
@@ -17627,7 +17811,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_571b2384",
@@ -17716,7 +17901,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_2eff6ef4",
@@ -17809,7 +17995,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_cf67cef2",
@@ -17900,7 +18087,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e3a1173d",
@@ -17990,7 +18178,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_bff3fe62",
@@ -18079,7 +18268,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_c59c59fa",
@@ -18169,7 +18359,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_4cebef8e",
@@ -18259,7 +18450,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_38530d7f",
@@ -18349,7 +18541,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_b6490503",
@@ -18439,7 +18632,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_ccf150ff",
@@ -18529,7 +18723,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_d1d62224",
@@ -18619,7 +18814,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_c886f404",
@@ -18709,7 +18905,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_6cb55cc7",
@@ -18799,7 +18996,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_49808d60",
@@ -18890,7 +19088,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_fb36d4f6",
@@ -18980,7 +19179,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_811c8d12",
@@ -19070,7 +19270,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_339f4568",
@@ -19161,7 +19362,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_2fd0556d",
@@ -19171,8 +19373,8 @@
   "areas": [
    "lawns_grounds",
    "fencing_boundaries",
-   "landscaping",
-   "exterior_cleaning"
+   "exterior_cleaning",
+   "landscaping"
   ],
   "types": [
    "garden_maintenance",
@@ -19343,7 +19545,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_3b6f7a4f",
@@ -19432,7 +19635,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_943598ba",
@@ -19523,7 +19727,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_911a6ea4",
@@ -19613,7 +19818,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_dca97b16",
@@ -19703,7 +19909,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_d490ebe9",
@@ -19793,7 +20000,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_ad8a4800",
@@ -19884,7 +20092,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_98da291a",
@@ -19973,7 +20182,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_6a111c0f",
@@ -20063,7 +20273,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_59211566",
@@ -20153,7 +20364,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_c49b2360",
@@ -20243,7 +20455,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_c8609d96",
@@ -20333,7 +20546,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_777d1adf",
@@ -20424,7 +20638,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_ee99142f",
@@ -20514,7 +20729,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_ebd48f33",
@@ -20604,7 +20820,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_71a817f1",
@@ -20694,7 +20911,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_f42a1f68",
@@ -20786,7 +21004,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_518ad2f1",
@@ -20878,7 +21097,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_aa6d3b3f",
@@ -20971,7 +21191,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_cea8ab49",
@@ -21061,7 +21282,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e3801f3a",
@@ -21151,7 +21373,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e7800e8e",
@@ -21242,7 +21465,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_0bbc4452",
@@ -21331,7 +21555,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_6eae43ac",
@@ -21422,7 +21647,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_77361580",
@@ -21513,7 +21739,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_8528b8cd",
@@ -21604,7 +21831,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_82f0942d",
@@ -21694,7 +21922,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_9a29ed8b",
@@ -21784,7 +22013,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e4172373",
@@ -21874,7 +22104,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_4e33b7f5",
@@ -21967,7 +22198,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_703fc5ef",
@@ -22059,7 +22291,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_8e3cb933",
@@ -22149,7 +22382,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_2eaa2187",
@@ -22239,7 +22473,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_49990c5d",
@@ -22328,7 +22563,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_5d250e5c",
@@ -22418,7 +22654,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_3a127701",
@@ -22508,7 +22745,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_9c3d66e4",
@@ -22598,7 +22836,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_bffd9973",
@@ -22783,7 +23022,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_639167e2",
@@ -22872,7 +23112,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_73a6761c",
@@ -22961,7 +23202,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_3498569a",
@@ -23051,7 +23293,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_b24e6b73",
@@ -23144,7 +23387,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_2bddb424",
@@ -23234,7 +23478,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_3156cc3a",
@@ -23324,7 +23569,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_5423c025",
@@ -23414,7 +23660,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e6372352",
@@ -23504,7 +23751,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_2627ffdc",
@@ -23593,7 +23841,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_0aa8417f",
@@ -23683,7 +23932,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_d220aa3a",
@@ -23772,7 +24022,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_0b01a8c8",
@@ -23863,7 +24114,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_60f3ae64",
@@ -23953,7 +24205,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_c6302c43",
@@ -24043,7 +24296,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e5e065fe",
@@ -24134,7 +24388,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_900d270b",
@@ -24224,7 +24479,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_eb635aee",
@@ -24315,7 +24571,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_4bfc44c5",
@@ -24406,7 +24663,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_5ba92125",
@@ -24498,7 +24756,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_91cc2ac1",
@@ -24588,7 +24847,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_9de35c0d",
@@ -24679,7 +24939,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_c6f36c08",
@@ -24770,7 +25031,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_1f27730b",
@@ -24861,7 +25123,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_bb059016",
@@ -24951,7 +25214,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e1ff2dcb",
@@ -25041,7 +25305,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_a12294fc",
@@ -25132,7 +25397,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_5849295c",
@@ -25221,7 +25487,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_948fe90a",
@@ -25310,7 +25577,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_3190354e",
@@ -25400,7 +25668,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_07c922fc",
@@ -25491,7 +25760,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_305e5c1c",
@@ -25581,7 +25851,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e2fca265",
@@ -25670,7 +25941,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_c4217a0a",
@@ -25761,7 +26033,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_5bfefb4b",
@@ -25850,7 +26123,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_a4e6ba8a",
@@ -25941,7 +26215,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_68bd657c",
@@ -26031,7 +26306,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_b71a2ad1",
@@ -26123,7 +26399,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_dff2add7",
@@ -26213,7 +26490,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_d589ebf6",
@@ -26303,7 +26581,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_48129ad3",
@@ -26392,7 +26671,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_59d170af",
@@ -26481,7 +26761,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_097a90dc",
@@ -26571,7 +26852,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_3dbc1a51",
@@ -26662,7 +26944,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_4839e7dd",
@@ -26753,7 +27036,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_83a5db2e",
@@ -26843,7 +27127,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_82aa7fd7",
@@ -26933,7 +27218,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_f0e71374",
@@ -27022,7 +27308,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_eaccde5d",
@@ -27108,7 +27395,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_b3607034",
@@ -27193,7 +27481,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_ab279199",
@@ -27278,7 +27567,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_f1ab2f7c",
@@ -27366,7 +27656,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_200f1576",
@@ -27452,7 +27743,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_f4603b41",
@@ -27537,7 +27829,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_c8c0794c",
@@ -27622,7 +27915,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_24fd0d31",
@@ -27710,7 +28004,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_d5ce93ac",
@@ -27797,7 +28092,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_666cce93",
@@ -27882,7 +28178,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_fa9a3ce1",
@@ -27970,7 +28267,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_45d8ba50",
@@ -28057,7 +28355,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_edf30e1a",
@@ -28142,7 +28441,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_839998ce",
@@ -28227,7 +28527,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_b8727027",
@@ -28313,7 +28614,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_a7ee7b8f",
@@ -28401,7 +28703,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_c581339d",
@@ -28486,7 +28789,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_f70ea1a2",
@@ -28572,7 +28876,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_baa97eef",
@@ -28657,7 +28962,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_a8905ff2",
@@ -28742,7 +29048,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_15f51dbd",
@@ -28827,7 +29134,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_f6afe84f",
@@ -28912,7 +29220,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_49c57dad",
@@ -28997,7 +29306,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_6abe41b5",
@@ -29084,7 +29394,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_fe957121",
@@ -29169,7 +29480,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e4c80d36",
@@ -29257,7 +29569,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_6edb04e0",
@@ -29343,7 +29656,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_bd11759c",
@@ -29428,7 +29742,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_deac680e",
@@ -29513,7 +29828,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_68896e57",
@@ -29600,7 +29916,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_f9a8860a",
@@ -29686,7 +30003,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e375dcfb",
@@ -29771,7 +30089,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_b28d4130",
@@ -29857,7 +30176,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_436b5a41",
@@ -29942,7 +30262,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_30bd3bf7",
@@ -30028,7 +30349,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_54361d33",
@@ -30114,7 +30436,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_a82d397f",
@@ -30199,7 +30522,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_f8c7bef6",
@@ -30284,7 +30608,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_fdbaac46",
@@ -30369,7 +30694,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_2e2a878d",
@@ -30454,7 +30780,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_c75c39b5",
@@ -30539,7 +30866,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_70cdf19d",
@@ -30624,7 +30952,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_6463d60c",
@@ -30709,7 +31038,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_782f5b01",
@@ -30794,7 +31124,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_d1912574",
@@ -30879,7 +31210,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_dec823af",
@@ -30964,7 +31296,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_ccee53de",
@@ -31050,7 +31383,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_f694488b",
@@ -31136,7 +31470,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e8e96554",
@@ -31221,7 +31556,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_5e13e5a7",
@@ -31306,7 +31642,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_cabc9346",
@@ -31391,7 +31728,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_16dec17d",
@@ -31478,7 +31816,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_066c8cc5",
@@ -31566,7 +31905,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_c98931cf",
@@ -31651,7 +31991,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_0711702e",
@@ -31736,7 +32077,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_d2aed1fd",
@@ -31821,7 +32163,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_cec41a90",
@@ -31906,7 +32249,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_f2b027e0",
@@ -31994,7 +32338,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_78ceaeed",
@@ -32081,7 +32426,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_369eabd0",
@@ -32166,7 +32512,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_9b584d8b",
@@ -32251,7 +32598,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_88d23e06",
@@ -32336,7 +32684,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_c469e84d",
@@ -32421,7 +32770,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_0c8b67a2",
@@ -32508,7 +32858,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_3a596ead",
@@ -32595,7 +32946,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_7a2a703b",
@@ -32680,7 +33032,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_94f221cd",
@@ -32768,7 +33121,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_24d24cfc",
@@ -32853,7 +33207,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_65ad417a",
@@ -32938,7 +33293,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_388fb564",
@@ -33023,7 +33379,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_7c3700bc",
@@ -33112,7 +33469,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_40b07807",
@@ -33200,7 +33558,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_9661e736",
@@ -33285,7 +33644,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_def8e1fa",
@@ -33373,7 +33733,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_d74b32ae",
@@ -33458,7 +33819,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_8219ff41",
@@ -33543,7 +33905,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_440da6d3",
@@ -33629,7 +33992,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_868c3b6d",
@@ -33715,7 +34079,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_7eefb753",
@@ -33802,7 +34167,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_9d2b023b",
@@ -33889,7 +34255,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_8ae78f9e",
@@ -33976,7 +34343,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_6037d8dd",
@@ -34061,7 +34429,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_2aa25a2a",
@@ -34146,7 +34515,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_3e3b9d4f",
@@ -34231,7 +34601,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_acbfd12b",
@@ -34318,7 +34689,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_c18353f3",
@@ -34403,7 +34775,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_a5788916",
@@ -34490,7 +34863,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_ed28a229",
@@ -34576,7 +34950,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_d12df41a",
@@ -34662,7 +35037,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e7c54d5b",
@@ -34749,7 +35125,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_0a96fa04",
@@ -34834,7 +35211,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e0302c6f",
@@ -34919,7 +35297,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_eb073653",
@@ -35005,7 +35384,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_cdc85fa7",
@@ -35091,7 +35471,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_25815a02",
@@ -35176,7 +35557,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_b68dfafa",
@@ -35261,7 +35643,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_1a1a63e1",
@@ -35346,7 +35729,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_a2291b9a",
@@ -35431,7 +35815,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_9e006aa8",
@@ -35518,7 +35903,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_cb0df1aa",
@@ -35604,7 +35990,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_24143a86",
@@ -35693,7 +36080,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_4a1bb3e0",
@@ -35779,7 +36167,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_2a952941",
@@ -35865,7 +36254,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_0c2b5780",
@@ -35950,7 +36340,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_aa230798",
@@ -36036,7 +36427,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_1b5cce0e",
@@ -36123,7 +36515,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_ac9506e7",
@@ -36208,7 +36601,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_da913ba2",
@@ -36293,7 +36687,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_27b2f721",
@@ -36378,7 +36773,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_7c9e6996",
@@ -36463,7 +36859,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_584ea9a9",
@@ -36550,7 +36947,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_13530c26",
@@ -36635,7 +37033,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_f344dfb0",
@@ -36720,7 +37119,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_ba939b94",
@@ -36805,7 +37205,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_b8fc7e0d",
@@ -36890,7 +37291,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_6045768a",
@@ -36975,7 +37377,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_dd92d7e4",
@@ -37061,7 +37464,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_25f2ffa9",
@@ -37146,7 +37550,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_ff57fdf9",
@@ -37232,7 +37637,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_bd6d1cd3",
@@ -37408,7 +37814,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_2f24a131",
@@ -37496,7 +37903,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_2dac1601",
@@ -37583,7 +37991,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_2e688abd",
@@ -37669,7 +38078,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_80279354",
@@ -37754,7 +38164,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_77f846af",
@@ -37839,7 +38250,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_67fe1e05",
@@ -37925,7 +38337,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_b9545a21",
@@ -38010,7 +38423,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_f62f6d0d",
@@ -38096,7 +38510,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_5e5bd8f9",
@@ -38181,7 +38596,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e292be0d",
@@ -38266,7 +38682,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_ea40a0ea",
@@ -38355,7 +38772,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_da39f957",
@@ -38440,7 +38858,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_7c814be4",
@@ -38525,7 +38944,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_d6e34917",
@@ -38610,7 +39030,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_16abf69b",
@@ -38695,7 +39116,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_382124c5",
@@ -38781,7 +39203,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_f670e4d7",
@@ -38867,7 +39290,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_3a68d089",
@@ -38953,7 +39377,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_a91a6fb7",
@@ -39038,7 +39463,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e7478a04",
@@ -39123,7 +39549,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_bcdfa617",
@@ -39208,7 +39635,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_39beeadf",
@@ -39294,7 +39722,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_07eb6ba5",
@@ -39379,7 +39808,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_6d7378b1",
@@ -39467,7 +39897,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_f5a3718c",
@@ -39552,7 +39983,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_8afd942c",
@@ -39637,7 +40069,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_b4a5e96d",
@@ -39723,7 +40156,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e93408fc",
@@ -39808,7 +40242,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_8e115b59",
@@ -39893,7 +40328,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_41327a70",
@@ -39978,7 +40414,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_10e921d2",
@@ -40063,7 +40500,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e47f91ae",
@@ -40149,7 +40587,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_508a1f5a",
@@ -40234,7 +40673,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_92c3f9e1",
@@ -40321,7 +40761,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_c17cf86d",
@@ -40406,7 +40847,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_1f1f400c",
@@ -40491,7 +40933,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_c6882e83",
@@ -40576,7 +41019,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_3d127816",
@@ -40661,7 +41105,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_a8827f59",
@@ -40746,7 +41191,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_1572645c",
@@ -40832,7 +41278,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_cc5b161d",
@@ -40917,7 +41364,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_d1e1055d",
@@ -41002,7 +41450,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_68e32a3d",
@@ -41088,7 +41537,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_5c6ea4f1",
@@ -41173,7 +41623,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_ae824435",
@@ -41258,7 +41709,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_67e12fdb",
@@ -41344,7 +41796,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_3e0c6725",
@@ -41430,7 +41883,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_bbfdc69d",
@@ -41515,7 +41969,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e61ba0b2",
@@ -41602,7 +42057,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_829bd6f7",
@@ -41688,7 +42144,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_4661e6bb",
@@ -41773,7 +42230,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_3092fce7",
@@ -41858,7 +42316,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_0d3103a5",
@@ -41943,7 +42402,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_165c0ecd",
@@ -42029,7 +42489,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_3f97c405",
@@ -42114,7 +42575,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_8d5ce5a6",
@@ -42199,7 +42661,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_2a6c89be",
@@ -42287,7 +42750,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_aa22b378",
@@ -42372,7 +42836,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e342bd43",
@@ -42457,7 +42922,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_65f0f5da",
@@ -42542,7 +43008,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_1826f8db",
@@ -42627,7 +43094,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_b58550b5",
@@ -42712,7 +43180,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_b9f22cc8",
@@ -42797,7 +43266,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_b4b1976c",
@@ -42883,7 +43353,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_8aa3197f",
@@ -42968,7 +43439,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_698e85e6",
@@ -43053,7 +43525,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_7472427d",
@@ -43138,7 +43611,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_1a4a36f7",
@@ -43223,7 +43697,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_94518292",
@@ -43308,7 +43783,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_7f52f785",
@@ -43396,7 +43872,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_a45d7c23",
@@ -43481,7 +43958,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e0d9cf03",
@@ -43567,7 +44045,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_6c0e2e4f",
@@ -43653,7 +44132,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_7b933ccc",
@@ -43738,7 +44218,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_b8869b10",
@@ -43823,7 +44304,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_0acc0933",
@@ -43908,7 +44390,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_00d9d3ab",
@@ -43994,7 +44477,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_340f2e2b",
@@ -44082,7 +44566,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_b02955b3",
@@ -44167,7 +44652,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_6b826b3f",
@@ -44253,7 +44739,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_67f4e774",
@@ -44338,7 +44825,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_6b97a43f",
@@ -44423,7 +44911,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_0be98ff8",
@@ -44511,7 +45000,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_1a399508",
@@ -44596,7 +45086,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_a00fa3b0",
@@ -44681,7 +45172,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_f32224f7",
@@ -44767,7 +45259,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_e9950d12",
@@ -44853,7 +45346,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_47dbc2b9",
@@ -44938,7 +45432,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_031cd06c",
@@ -45024,7 +45519,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_46655421",
@@ -45111,7 +45607,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_2934f947",
@@ -45196,7 +45693,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_5dd01e98",
@@ -45281,7 +45779,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_71609f0f",
@@ -45366,7 +45865,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_6c20bd22",
@@ -45451,7 +45951,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_2c1878df",
@@ -45536,7 +46037,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_5a392104",
@@ -45621,7 +46123,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_020ba6f3",
@@ -45706,7 +46209,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_dec16023",
@@ -45791,7 +46295,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_a48bbc00",
@@ -45879,7 +46384,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_92e26f68",
@@ -45965,7 +46471,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_298882ff",
@@ -46050,7 +46557,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_ebdc003d",
@@ -46135,7 +46643,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_615a626d",
@@ -46224,7 +46733,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_87e92905",
@@ -46309,7 +46819,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_2ceaad01",
@@ -46394,7 +46905,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_848de7fd",
@@ -46481,7 +46993,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_0e70baad",
@@ -46566,7 +47079,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_467b23da",
@@ -46653,7 +47167,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_580ea5e7",
@@ -46739,7 +47254,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_acc0a13c",
@@ -46824,7 +47340,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_813ad209",
@@ -46909,7 +47426,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_7d0ee508",
@@ -46995,7 +47513,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_868079be",
@@ -47081,7 +47600,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_73b7a6b1",
@@ -47167,7 +47687,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_d3a8ce8f",
@@ -47252,7 +47773,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_d9105755",
@@ -47338,7 +47860,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_0ecd28fb",
@@ -47423,7 +47946,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_74f38e9e",
@@ -47508,7 +48032,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_deb96686",
@@ -47593,7 +48118,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_c56b0c1a",
@@ -47682,7 +48208,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_f843dafc",
@@ -47767,7 +48294,8 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  },
  {
   "id": "tf_16d430b1",
@@ -47852,6 +48380,7 @@
   "pete_notes": "",
   "county": "hampshire",
   "ch_only": true,
-  "out_of_scope": false
+  "out_of_scope": false,
+  "out_of_scope_reason": null
  }
 ]
