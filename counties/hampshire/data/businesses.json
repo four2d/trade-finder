@@ -419,6 +419,95 @@
   "county": "hampshire"
  },
  {
+  "id": "tf_99d0f8c6",
+  "name": "A R Plant Hire",
+  "legal_name": "A R PLANT HIRE LIMITED",
+  "name_normalised": "a r plant hire",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Christchurch",
+  "postcode": "BH23",
+  "lat": 50.784,
+  "lng": -1.739,
+  "distance_miles": 11.9,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "05175265",
+   "status": "active",
+   "incorporated": "2004-07-09",
+   "dissolved": null,
+   "sic": [
+    "77320"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05175265"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 22,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 77320",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 8
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05175265",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
   "id": "tf_fd781924",
   "name": "Aquatech Surfacing",
   "legal_name": "AQUATECH SURFACING LTD",
@@ -490,6 +579,544 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16537519",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_00b62140",
+  "name": "Dorset Exterior Cleaning",
+  "legal_name": "DORSET EXTERIOR CLEANING LTD",
+  "name_normalised": "dorset exterior cleaning",
+  "areas": [
+   "exterior_cleaning"
+  ],
+  "types": [],
+  "primary_area": "exterior_cleaning",
+  "address": null,
+  "town": "Christchurch",
+  "postcode": "BH23",
+  "lat": 50.785,
+  "lng": -1.727,
+  "distance_miles": 12.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12434016",
+   "status": "active",
+   "incorporated": "2020-01-30",
+   "dissolved": null,
+   "sic": [
+    "81299"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12434016"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81299",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 8
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12434016",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_8c9e92b3",
+  "name": "Elevate Carpentry & Construction",
+  "legal_name": "ELEVATE CARPENTRY & CONSTRUCTION LTD",
+  "name_normalised": "elevate carpentry construction",
+  "areas": [
+   "decking_structures",
+   "fencing_boundaries"
+  ],
+  "types": [],
+  "primary_area": "decking_structures",
+  "address": null,
+  "town": "Christchurch",
+  "postcode": "BH23",
+  "lat": 50.781,
+  "lng": -1.788,
+  "distance_miles": 9.8,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "16749828",
+   "status": "active",
+   "incorporated": "2025-09-29",
+   "dissolved": null,
+   "sic": [
+    "41100",
+    "41202",
+    "43320"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/16749828"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 1,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 41100, 41202, 43320",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "new_business"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 9
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/16749828",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_0efc6b2a",
+  "name": "LCC Manufacturing",
+  "legal_name": "LCC MANUFACTURING LTD",
+  "name_normalised": "lcc manufacturing",
+  "areas": [
+   "driveways",
+   "paving_patios"
+  ],
+  "types": [],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Sopley",
+  "postcode": "BH23",
+  "lat": 50.781,
+  "lng": -1.788,
+  "distance_miles": 9.8,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "17502350",
+   "status": "active",
+   "incorporated": "2026-10-06",
+   "dissolved": null,
+   "sic": [
+    "16230",
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/17502350"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 0,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 16230, 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "new_business"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 9
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/17502350",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_8cbb7467",
+  "name": "La Building Contractors",
+  "legal_name": "LA BUILDING CONTRACTORS LTD",
+  "name_normalised": "la building contractors",
+  "areas": [
+   "decking_structures",
+   "fencing_boundaries"
+  ],
+  "types": [],
+  "primary_area": "decking_structures",
+  "address": null,
+  "town": "Christchurch",
+  "postcode": "BH23",
+  "lat": 50.782,
+  "lng": -1.749,
+  "distance_miles": 11.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12422124",
+   "status": "active",
+   "incorporated": "2020-01-23",
+   "dissolved": null,
+   "sic": [
+    "43320"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12422124"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43320",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 8
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12422124",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_d6b2c77b",
+  "name": "Love Your Home Installations",
+  "legal_name": "LOVE YOUR HOME INSTALLATIONS LTD",
+  "name_normalised": "love your home installations",
+  "areas": [
+   "driveways",
+   "paving_patios"
+  ],
+  "types": [],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Christchurch",
+  "postcode": "BH23",
+  "lat": 50.776,
+  "lng": -1.741,
+  "distance_miles": 11.6,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "16056232",
+   "status": "active",
+   "incorporated": "2024-11-01",
+   "dissolved": null,
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/16056232"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 2,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 8
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/16056232",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_ca43b8a7",
+  "name": "Low Carbon Construction Worldwide",
+  "legal_name": "LOW CARBON CONSTRUCTION WORLDWIDE LIMITED",
+  "name_normalised": "low carbon construction worldwide",
+  "areas": [
+   "driveways",
+   "paving_patios"
+  ],
+  "types": [],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Sopley",
+  "postcode": "BH23",
+  "lat": 50.781,
+  "lng": -1.788,
+  "distance_miles": 9.8,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14131810",
+   "status": "active",
+   "incorporated": "2022-05-25",
+   "dissolved": null,
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14131810"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 9
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14131810",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -684,6 +1311,98 @@
   "ch_only": true
  },
  {
+  "id": "tf_76f45013",
+  "name": "G & F Building & Restoration",
+  "legal_name": "G & F BUILDING & RESTORATION LTD",
+  "name_normalised": "g f building restoration",
+  "areas": [
+   "groundworks",
+   "driveways",
+   "paving_patios"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Christchurch",
+  "postcode": "BH23",
+  "lat": 50.769,
+  "lng": -1.684,
+  "distance_miles": 13.8,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "04086153",
+   "status": "active",
+   "incorporated": "2000-10-09",
+   "dissolved": null,
+   "sic": [
+    "43120",
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04086153"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 26,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43120, 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 9,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 7
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/04086153",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
   "id": "tf_bfb4931a",
   "name": "Powell Paving",
   "legal_name": "POWELL PAVING LIMITED",
@@ -755,6 +1474,97 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/04153997",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_0f62154c",
+  "name": "Stem Lane Properties",
+  "legal_name": "STEM LANE PROPERTIES LIMITED",
+  "name_normalised": "stem lane properties",
+  "areas": [
+   "driveways",
+   "paving_patios"
+  ],
+  "types": [],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Christchurch",
+  "postcode": "BH23",
+  "lat": 50.791,
+  "lng": -1.712,
+  "distance_miles": 13.1,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "01263438",
+   "status": "active",
+   "incorporated": "1976-06-16",
+   "dissolved": null,
+   "sic": [
+    "41100",
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/01263438"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 50,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 41100, 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 9,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 7
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/01263438",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -1029,6 +1839,345 @@
   "ch_only": true
  },
  {
+  "id": "tf_6edb04e0",
+  "name": "Ben Irons Services",
+  "legal_name": "BEN IRONS SERVICES LIMITED",
+  "name_normalised": "ben irons",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Christchurch",
+  "postcode": "BH23",
+  "lat": 50.752,
+  "lng": -1.715,
+  "distance_miles": 12.2,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "08367940",
+   "status": "dissolved",
+   "incorporated": "2013-01-21",
+   "dissolved": "2014-05-27",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08367940"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 13,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 81300",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08367940",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_26671cab",
+  "name": "Better Disposal",
+  "legal_name": "BETTER DISPOSAL LTD",
+  "name_normalised": "better disposal",
+  "areas": [
+   "exterior_cleaning"
+  ],
+  "types": [],
+  "primary_area": "exterior_cleaning",
+  "address": null,
+  "town": "Christchurch",
+  "postcode": "BH23",
+  "lat": 50.773,
+  "lng": -1.78,
+  "distance_miles": 9.9,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "10777353",
+   "status": "dissolved",
+   "incorporated": "2017-05-18",
+   "dissolved": "2019-05-07",
+   "sic": [
+    "81299"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10777353"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 9,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 81299",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10777353",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_ba87f864",
+  "name": "Breathable Beds",
+  "legal_name": "BREATHABLE BEDS LIMITED",
+  "name_normalised": "breathable beds",
+  "areas": [
+   "exterior_cleaning"
+  ],
+  "types": [],
+  "primary_area": "exterior_cleaning",
+  "address": null,
+  "town": "Bransgore",
+  "postcode": "BH23",
+  "lat": 50.781,
+  "lng": -1.729,
+  "distance_miles": 12.2,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "06804550",
+   "status": "dissolved",
+   "incorporated": "2009-01-28",
+   "dissolved": "2025-03-04",
+   "sic": [
+    "81299"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/06804550"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 17,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 81299",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/06804550",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_f9a8860a",
+  "name": "Britton Interiors",
+  "legal_name": "BRITTON INTERIORS LTD",
+  "name_normalised": "britton interiors",
+  "areas": [
+   "decking_structures",
+   "fencing_boundaries"
+  ],
+  "types": [],
+  "primary_area": "decking_structures",
+  "address": null,
+  "town": "Bransgore",
+  "postcode": "BH23",
+  "lat": 50.78,
+  "lng": -1.74,
+  "distance_miles": 11.7,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "15516491",
+   "status": "dissolved",
+   "incorporated": "2024-02-23",
+   "dissolved": "2026-04-07",
+   "sic": [
+    "43320",
+    "43390"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/15516491"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 2,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43320, 43390",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/15516491",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
   "id": "tf_6463d60c",
   "name": "Coastal Driveways",
   "legal_name": "COASTAL DRIVEWAYS LTD",
@@ -1095,6 +2244,347 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/08915426",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_265aa82e",
+  "name": "Dorset Cleaning Fairies",
+  "legal_name": "DORSET CLEANING FAIRIES LIMITED",
+  "name_normalised": "dorset cleaning fairies",
+  "areas": [
+   "exterior_cleaning"
+  ],
+  "types": [],
+  "primary_area": "exterior_cleaning",
+  "address": null,
+  "town": "Christchurch",
+  "postcode": "BH23",
+  "lat": 50.784,
+  "lng": -1.74,
+  "distance_miles": 11.8,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09138435",
+   "status": "dissolved",
+   "incorporated": "2014-07-18",
+   "dissolved": "2016-12-13",
+   "sic": [
+    "81299"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09138435"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 12,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 81299",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09138435",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_78ceaeed",
+  "name": "Double D Builders",
+  "legal_name": "DOUBLE D BUILDERS LIMITED",
+  "name_normalised": "double d builders",
+  "areas": [
+   "decking_structures",
+   "fencing_boundaries"
+  ],
+  "types": [],
+  "primary_area": "decking_structures",
+  "address": null,
+  "town": "Christchurch",
+  "postcode": "BH23",
+  "lat": 50.769,
+  "lng": -1.684,
+  "distance_miles": 13.8,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "06744598",
+   "status": "dissolved",
+   "incorporated": "2008-11-10",
+   "dissolved": "2023-05-09",
+   "sic": [
+    "41202",
+    "43290",
+    "43320"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/06744598"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 18,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 41202, 43290, 43320",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/06744598",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_0c8b67a2",
+  "name": "Edgington Garden And Landscapes Services",
+  "legal_name": "EDGINGTON GARDEN AND LANDSCAPES SERVICES LIMITED",
+  "name_normalised": "edgington garden landscapes",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Christchurch",
+  "postcode": "BH23",
+  "lat": 50.781,
+  "lng": -1.738,
+  "distance_miles": 11.8,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14208334",
+   "status": "dissolved",
+   "incorporated": "2022-07-01",
+   "dissolved": "2024-11-26",
+   "sic": [
+    "38110",
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14208334"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 38110, 81300",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14208334",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_65ad417a",
+  "name": "Esf Swansea",
+  "legal_name": "ESF SWANSEA LIMITED",
+  "name_normalised": "esf swansea",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Christchurch",
+  "postcode": "BH23",
+  "lat": 50.784,
+  "lng": -1.739,
+  "distance_miles": 11.9,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "07611051",
+   "status": "dissolved",
+   "incorporated": "2011-04-20",
+   "dissolved": "2023-01-31",
+   "sic": [
+    "42990"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07611051"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 15,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 42990",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07611051",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -1263,6 +2753,91 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/04751924",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true
+ },
+ {
+  "id": "tf_16abf69b",
+  "name": "New Forest Elevators",
+  "legal_name": "NEW FOREST ELEVATORS LIMITED",
+  "name_normalised": "new forest elevators",
+  "areas": [
+   "driveways",
+   "paving_patios"
+  ],
+  "types": [],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Christchurch",
+  "postcode": "BH23",
+  "lat": 50.769,
+  "lng": -1.684,
+  "distance_miles": 13.8,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "03345115",
+   "status": "dissolved",
+   "incorporated": "1997-04-04",
+   "dissolved": "2015-03-10",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/03345115"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 29,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/03345115",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",

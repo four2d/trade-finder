@@ -11,8 +11,8 @@
    "order": 1,
    "status": "in_progress",
    "planned_day": 1,
-   "firms": 610,
-   "not_in_business": 825,
+   "firms": 1364,
+   "not_in_business": 1458,
    "added": "2026-10-15",
    "last_refreshed": "2026-10-15"
   },
@@ -37,8 +37,8 @@
    "order": 3,
    "status": "queued",
    "planned_day": 3,
-   "firms": 8,
-   "not_in_business": 7,
+   "firms": 17,
+   "not_in_business": 16,
    "added": "2026-10-15"
   },
   {
