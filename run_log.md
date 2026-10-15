@@ -35,3 +35,5 @@
 - 21:45 BST batch L: hero cover lines on near-black panels (WCAG AA: yellow 10.1:1, white 16.7:1). All sections start collapsed; choosing an area opens just that one. The page loads only meta.json with a summary; each section loads its own area file when opened; the search index loads on the first keystroke; map pins load when the map comes into view; the closed list loads when opened. Spinners on each. lite.json retired.
 
 - 21:22 BST: County by county section is now collapsible too (collapsed by default).
+
+- 21:47 BST: Companies House search for Dorset & Hampshire finished (11,321 records) and finalised; hero credit text now solid black.
