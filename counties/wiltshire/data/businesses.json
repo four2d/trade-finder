@@ -2470,6 +2470,642 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_dd2102c9",
+  "name": "Adbuck Enterprises",
+  "legal_name": "ADBUCK ENTERPRISES LTD",
+  "name_normalised": "adbuck enterprises",
+  "areas": [
+   "exterior_cleaning"
+  ],
+  "types": [],
+  "primary_area": "exterior_cleaning",
+  "address": null,
+  "town": "Tidworth",
+  "postcode": "SP9",
+  "lat": 51.245,
+  "lng": -1.658,
+  "distance_miles": 39.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "17203725",
+   "status": "active",
+   "incorporated": "2026-05-07",
+   "dissolved": null,
+   "sic": [
+    "47910",
+    "81221"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/17203725"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 0,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 47910, 81221",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "new_business"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/17203725",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_d9d01909",
+  "name": "Aqua Inspired",
+  "legal_name": "AQUA INSPIRED LTD",
+  "name_normalised": "aqua inspired",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Salisbury",
+  "postcode": "SP5",
+  "lat": 51.094,
+  "lng": -1.653,
+  "distance_miles": 30.0,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13512869",
+   "status": "active",
+   "incorporated": "2021-07-15",
+   "dissolved": null,
+   "sic": [
+    "81299",
+    "85590"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13512869"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81299, 85590",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13512869",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_3d68ff6c",
+  "name": "BSD Landscaping And Property Maintenance",
+  "legal_name": "BSD LANDSCAPING AND PROPERTY MAINTENANCE LTD.",
+  "name_normalised": "bsd landscaping property maintenance",
+  "areas": [
+   "landscaping"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Tidworth",
+  "postcode": "SP9",
+  "lat": 51.247,
+  "lng": -1.665,
+  "distance_miles": 39.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12745853",
+   "status": "active",
+   "incorporated": "2020-07-15",
+   "dissolved": null,
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12745853"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12745853",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_98984dd2",
+  "name": "CJM Thomson",
+  "legal_name": "CJM THOMSON LIMITED",
+  "name_normalised": "cjm thomson",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Wiltshire",
+  "postcode": "SP11",
+  "lat": 51.255,
+  "lng": -1.628,
+  "distance_miles": 40.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "16651285",
+   "status": "active",
+   "incorporated": "2025-08-14",
+   "dissolved": null,
+   "sic": [
+    "42990"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/16651285"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 1,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 42990",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "new_business"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/16651285",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_6dc1c7bd",
+  "name": "Constantin Brickwork",
+  "legal_name": "CONSTANTIN BRICKWORK LIMITED",
+  "name_normalised": "constantin brickwork",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Tidworth",
+  "postcode": "SP9",
+  "lat": 51.235,
+  "lng": -1.662,
+  "distance_miles": 38.6,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14069476",
+   "status": "active",
+   "incorporated": "2022-04-26",
+   "dissolved": null,
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14069476"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14069476",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_e2d2a3c4",
+  "name": "Craftworx Carpentry",
+  "legal_name": "CRAFTWORX CARPENTRY LTD",
+  "name_normalised": "craftworx carpentry",
+  "areas": [
+   "decking_structures"
+  ],
+  "types": [],
+  "primary_area": "decking_structures",
+  "address": null,
+  "town": "Romsey",
+  "postcode": "SO51",
+  "lat": 51.01,
+  "lng": -1.603,
+  "distance_miles": 26.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "15333457",
+   "status": "active",
+   "incorporated": "2023-12-07",
+   "dissolved": null,
+   "sic": [
+    "43320",
+    "43390"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/15333457"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 3,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43320, 43390",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/15333457",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_03ba13b8",
+  "name": "DCD Fencing",
+  "legal_name": "DCD FENCING LTD",
+  "name_normalised": "dcd fencing",
+  "areas": [
+   "fencing_boundaries"
+  ],
+  "types": [],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Bunny Lane",
+  "postcode": "SO51",
+  "lat": 51.01,
+  "lng": -1.603,
+  "distance_miles": 26.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "08944214",
+   "status": "active",
+   "incorporated": "2014-03-18",
+   "dissolved": null,
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08944214"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 12,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08944214",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_3f5fab19",
   "name": "Daniel Combes Garden Design",
   "legal_name": "DANIEL COMBES GARDEN DESIGN LTD",
@@ -2561,6 +3197,831 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_d603c0fa",
+  "name": "Don Hobbs Preservation",
+  "legal_name": "DON HOBBS PRESERVATION LIMITED",
+  "name_normalised": "don hobbs preservation",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Romsey",
+  "postcode": "SO51",
+  "lat": 51.01,
+  "lng": -1.603,
+  "distance_miles": 26.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "07918694",
+   "status": "active",
+   "incorporated": "2012-01-20",
+   "dissolved": null,
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07918694"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 14,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07918694",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_593ba0ad",
+  "name": "Easton Landscapes",
+  "legal_name": "EASTON LANDSCAPES LIMITED",
+  "name_normalised": "easton landscapes",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Wiltshire",
+  "postcode": "SP11",
+  "lat": 51.255,
+  "lng": -1.628,
+  "distance_miles": 40.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14231431",
+   "status": "active",
+   "incorporated": "2022-07-13",
+   "dissolved": null,
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14231431"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14231431",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_356e37b0",
+  "name": "Ejb Engineering Services",
+  "legal_name": "EJB ENGINEERING SERVICES LTD",
+  "name_normalised": "ejb engineering",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Wiltshire",
+  "postcode": "SP9",
+  "lat": 51.244,
+  "lng": -1.657,
+  "distance_miles": 39.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11821126",
+   "status": "active",
+   "incorporated": "2019-02-12",
+   "dissolved": null,
+   "sic": [
+    "41201",
+    "43110",
+    "43210",
+    "43220"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11821126"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 7,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 41201, 43110, 43210, 43220",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11821126",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_180967fc",
+  "name": "Ferguson Joinery",
+  "legal_name": "FERGUSON JOINERY LIMITED",
+  "name_normalised": "ferguson joinery",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Romsey",
+  "postcode": "SO51",
+  "lat": 51.01,
+  "lng": -1.603,
+  "distance_miles": 26.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "05024119",
+   "status": "active",
+   "incorporated": "2004-01-23",
+   "dissolved": null,
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05024119"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 22,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05024119",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_7da72090",
+  "name": "Ground Designs (Southern)",
+  "legal_name": "GROUND DESIGNS (SOUTHERN) LIMITED",
+  "name_normalised": "ground designs southern",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Romsey",
+  "postcode": "SO51",
+  "lat": 51.01,
+  "lng": -1.603,
+  "distance_miles": 26.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12820748",
+   "status": "active",
+   "incorporated": "2020-08-18",
+   "dissolved": null,
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12820748"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12820748",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_689e1993",
+  "name": "Horizon Landscaping",
+  "legal_name": "HORIZON LANDSCAPING LTD",
+  "name_normalised": "horizon landscaping",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Salisbury",
+  "postcode": "SP5",
+  "lat": 51.1,
+  "lng": -1.701,
+  "distance_miles": 29.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "17485347",
+   "status": "active",
+   "incorporated": "2026-09-28",
+   "dissolved": null,
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/17485347"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 0,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "new_business"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/17485347",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_2f1094a8",
+  "name": "Jetworx Industries",
+  "legal_name": "JETWORX INDUSTRIES LTD",
+  "name_normalised": "jetworx industries",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Tidworth",
+  "postcode": "SP9",
+  "lat": 51.246,
+  "lng": -1.67,
+  "distance_miles": 39.2,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "15274233",
+   "status": "active",
+   "incorporated": "2023-11-10",
+   "dissolved": null,
+   "sic": [
+    "43390",
+    "43999",
+    "81222",
+    "96090"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/15274233"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 3,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43390, 43999, 81222, 96090",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/15274233",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_94aa242f",
+  "name": "Joe Savage Garden Design",
+  "legal_name": "JOE SAVAGE GARDEN DESIGN LTD",
+  "name_normalised": "joe savage garden design",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Salisbury",
+  "postcode": "SP5",
+  "lat": 51.047,
+  "lng": -1.733,
+  "distance_miles": 25.5,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13952289",
+   "status": "active",
+   "incorporated": "2022-03-03",
+   "dissolved": null,
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13952289"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13952289",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_8fc8ea18",
+  "name": "Jpjk",
+  "legal_name": "JPJK LTD",
+  "name_normalised": "jpjk",
+  "areas": [
+   "water_drainage"
+  ],
+  "types": [],
+  "primary_area": "water_drainage",
+  "address": null,
+  "town": "Andover",
+  "postcode": "SP11",
+  "lat": 51.255,
+  "lng": -1.607,
+  "distance_miles": 40.8,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "17199835",
+   "status": "active",
+   "incorporated": "2026-05-05",
+   "dissolved": null,
+   "sic": [
+    "42210",
+    "42910"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/17199835"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 0,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 42210, 42910",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "new_business"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/17199835",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_0abb0c0c",
   "name": "KGB Carpentry",
   "legal_name": "KGB CARPENTRY LIMITED",
@@ -2632,6 +4093,282 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/14222570",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_c8b51d35",
+  "name": "LS Lifts",
+  "legal_name": "LS LIFTS LIMITED",
+  "name_normalised": "ls lifts",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Andover",
+  "postcode": "SP11",
+  "lat": 51.253,
+  "lng": -1.624,
+  "distance_miles": 40.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09523675",
+   "status": "active",
+   "incorporated": "2015-04-02",
+   "dissolved": null,
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09523675"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 11,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09523675",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_68e6b9aa",
+  "name": "Loft Insulation Experts",
+  "legal_name": "LOFT INSULATION EXPERTS LTD",
+  "name_normalised": "loft insulation experts",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Andover",
+  "postcode": "SP11",
+  "lat": 51.251,
+  "lng": -1.626,
+  "distance_miles": 40.2,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14226528",
+   "status": "active",
+   "incorporated": "2022-07-11",
+   "dissolved": null,
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14226528"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14226528",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_e6352dd7",
+  "name": "M265 Atlas",
+  "legal_name": "M265 ATLAS LTD",
+  "name_normalised": "m265 atlas",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Tidworth",
+  "postcode": "SP9",
+  "lat": 51.245,
+  "lng": -1.672,
+  "distance_miles": 39.1,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "17019803",
+   "status": "active",
+   "incorporated": "2026-02-09",
+   "dissolved": null,
+   "sic": [
+    "43341",
+    "49420",
+    "81299",
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/17019803"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 0,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43341, 49420, 81299, 81300",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "new_business"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/17019803",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -2834,6 +4571,735 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_2eed4818",
+  "name": "Malden Window Cleaning",
+  "legal_name": "MALDEN WINDOW CLEANING LTD",
+  "name_normalised": "malden window cleaning",
+  "areas": [
+   "exterior_cleaning"
+  ],
+  "types": [],
+  "primary_area": "exterior_cleaning",
+  "address": null,
+  "town": "Andover",
+  "postcode": "SP11",
+  "lat": 51.237,
+  "lng": -1.631,
+  "distance_miles": 39.2,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "10812849",
+   "status": "active",
+   "incorporated": "2017-06-11",
+   "dissolved": null,
+   "sic": [
+    "81221"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10812849"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 9,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81221",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10812849",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_23925484",
+  "name": "Mujv",
+  "legal_name": "MUJV LIMITED",
+  "name_normalised": "mujv",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Tidworth",
+  "postcode": "SP9",
+  "lat": 51.239,
+  "lng": -1.659,
+  "distance_miles": 38.9,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "05437466",
+   "status": "active",
+   "incorporated": "2005-04-27",
+   "dissolved": null,
+   "sic": [
+    "42990"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05437466"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 21,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 42990",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05437466",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_d6503bbe",
+  "name": "Nekton International",
+  "legal_name": "NEKTON INTERNATIONAL LTD",
+  "name_normalised": "nekton international",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Salisbury",
+  "postcode": "SP5",
+  "lat": 51.041,
+  "lng": -1.703,
+  "distance_miles": 25.7,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "10160332",
+   "status": "active",
+   "incorporated": "2016-05-04",
+   "dissolved": null,
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10160332"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 10,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10160332",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_80b3af40",
+  "name": "Orsim International",
+  "legal_name": "ORSIM INTERNATIONAL LIMITED",
+  "name_normalised": "orsim international",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Tidworth",
+  "postcode": "SP9",
+  "lat": 51.24,
+  "lng": -1.658,
+  "distance_miles": 39.0,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "15685753",
+   "status": "active",
+   "incorporated": "2024-04-27",
+   "dissolved": null,
+   "sic": [
+    "43110",
+    "66210",
+    "74901"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/15685753"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 2,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43110, 66210, 74901",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/15685753",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_f298699d",
+  "name": "PWP Carpentry & Joinery",
+  "legal_name": "PWP CARPENTRY & JOINERY LIMITED",
+  "name_normalised": "pwp carpentry joinery",
+  "areas": [
+   "decking_structures"
+  ],
+  "types": [],
+  "primary_area": "decking_structures",
+  "address": null,
+  "town": "Salisbury",
+  "postcode": "SP5",
+  "lat": 51.096,
+  "lng": -1.656,
+  "distance_miles": 30.0,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12179182",
+   "status": "active",
+   "incorporated": "2019-08-29",
+   "dissolved": null,
+   "sic": [
+    "43320"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12179182"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 7,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43320",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12179182",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_d0580ee7",
+  "name": "Pave-Rite",
+  "legal_name": "PAVE-RITE LIMITED",
+  "name_normalised": "pave rite",
+  "areas": [
+   "paving_patios"
+  ],
+  "types": [],
+  "primary_area": "paving_patios",
+  "address": null,
+  "town": "Ludgershall",
+  "postcode": "SP11",
+  "lat": 51.257,
+  "lng": -1.624,
+  "distance_miles": 40.6,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "04773632",
+   "status": "active",
+   "incorporated": "2003-05-21",
+   "dissolved": null,
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04773632"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 23,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/04773632",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_147cf3c1",
+  "name": "Plank & Jones",
+  "legal_name": "PLANK & JONES LTD",
+  "name_normalised": "plank jones",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Tidworth",
+  "postcode": "SP9",
+  "lat": 51.244,
+  "lng": -1.668,
+  "distance_miles": 39.1,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "17347429",
+   "status": "active",
+   "incorporated": "2026-07-19",
+   "dissolved": null,
+   "sic": [
+    "43220",
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/17347429"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 0,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43220, 81300",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "new_business"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/17347429",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_da9a4003",
+  "name": "Poultney Building Services",
+  "legal_name": "POULTNEY BUILDING SERVICES LTD",
+  "name_normalised": "poultney building",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Andover",
+  "postcode": "SP11",
+  "lat": 51.258,
+  "lng": -1.617,
+  "distance_miles": 40.8,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "07488401",
+   "status": "active",
+   "incorporated": "2011-01-11",
+   "dissolved": null,
+   "sic": [
+    "43120"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07488401"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 15,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43120",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07488401",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_1f284cf5",
   "name": "Prime Acoustic Solutions",
   "legal_name": "PRIME ACOUSTIC SOLUTIONS LTD",
@@ -2904,6 +5370,190 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/11890590",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_0e1342a5",
+  "name": "Pristine Pressure Washing",
+  "legal_name": "PRISTINE PRESSURE WASHING LIMITED",
+  "name_normalised": "pristine pressure washing",
+  "areas": [
+   "exterior_cleaning"
+  ],
+  "types": [],
+  "primary_area": "exterior_cleaning",
+  "address": null,
+  "town": "Salisbury",
+  "postcode": "SP5",
+  "lat": 51.099,
+  "lng": -1.696,
+  "distance_miles": 29.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09446048",
+   "status": "active",
+   "incorporated": "2015-02-18",
+   "dissolved": null,
+   "sic": [
+    "81222"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09446048"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 11,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81222",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09446048",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_81488358",
+  "name": "Quality Reassured",
+  "legal_name": "QUALITY REASSURED LTD",
+  "name_normalised": "quality reassured",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Andover",
+  "postcode": "SP11",
+  "lat": 51.255,
+  "lng": -1.628,
+  "distance_miles": 40.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14569881",
+   "status": "active",
+   "incorporated": "2023-01-04",
+   "dissolved": null,
+   "sic": [
+    "43999",
+    "68100",
+    "68310",
+    "70229"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14569881"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 3,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999, 68100, 68310, 70229",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14569881",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -3014,6 +5664,279 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_bb7df2dd",
+  "name": "SDG Carpentry & Shopfitting",
+  "legal_name": "SDG CARPENTRY & SHOPFITTING LIMITED",
+  "name_normalised": "sdg carpentry shopfitting",
+  "areas": [
+   "decking_structures"
+  ],
+  "types": [],
+  "primary_area": "decking_structures",
+  "address": null,
+  "town": "Romsey",
+  "postcode": "SO51",
+  "lat": 51.01,
+  "lng": -1.603,
+  "distance_miles": 26.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "08311058",
+   "status": "active",
+   "incorporated": "2012-11-28",
+   "dissolved": null,
+   "sic": [
+    "43320"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08311058"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 14,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43320",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08311058",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_7d52f3fa",
+  "name": "Salv Solutions",
+  "legal_name": "SALV SOLUTIONS LIMITED",
+  "name_normalised": "salv solutions",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Romsey",
+  "postcode": "SO51",
+  "lat": 51.013,
+  "lng": -1.61,
+  "distance_miles": 26.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "06914510",
+   "status": "active",
+   "incorporated": "2009-05-26",
+   "dissolved": null,
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/06914510"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 17,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/06914510",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_99d0d7ce",
+  "name": "Steve Tagg",
+  "legal_name": "STEVE TAGG LTD",
+  "name_normalised": "steve tagg",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Salisbury",
+  "postcode": "SP5",
+  "lat": 51.009,
+  "lng": -1.618,
+  "distance_miles": 25.9,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "10027326",
+   "status": "active",
+   "incorporated": "2016-02-25",
+   "dissolved": null,
+   "sic": [
+    "42990"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10027326"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 10,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 42990",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10027326",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_e410480a",
   "name": "Tailored Wood",
   "legal_name": "TAILORED WOOD LTD",
@@ -3084,6 +6007,188 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/13243256",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_50aad75c",
+  "name": "Tom Boucher Services",
+  "legal_name": "TOM BOUCHER SERVICES LTD",
+  "name_normalised": "tom boucher",
+  "areas": [
+   "exterior_cleaning"
+  ],
+  "types": [],
+  "primary_area": "exterior_cleaning",
+  "address": null,
+  "town": "Salisbury",
+  "postcode": "SP5",
+  "lat": 51.1,
+  "lng": -1.702,
+  "distance_miles": 29.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12342323",
+   "status": "active",
+   "incorporated": "2019-12-02",
+   "dissolved": null,
+   "sic": [
+    "49410",
+    "81221"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12342323"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 7,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 49410, 81221",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12342323",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_a529330c",
+  "name": "Winchester Fine Gardens",
+  "legal_name": "WINCHESTER FINE GARDENS LTD",
+  "name_normalised": "winchester fine gardens",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Salisbury",
+  "postcode": "SP5",
+  "lat": 51.035,
+  "lng": -1.661,
+  "distance_miles": 26.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14534938",
+   "status": "active",
+   "incorporated": "2022-12-12",
+   "dissolved": null,
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14534938"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14534938",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -3190,6 +6295,95 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_31362311",
+  "name": "Ajx Groundwork",
+  "legal_name": "AJX GROUNDWORK LTD",
+  "name_normalised": "ajx groundwork",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Salisbury",
+  "postcode": "SP5",
+  "lat": 51.059,
+  "lng": -1.763,
+  "distance_miles": 25.7,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14022822",
+   "status": "dissolved",
+   "incorporated": "2022-04-04",
+   "dissolved": "2023-09-12",
+   "sic": [
+    "41202",
+    "42990",
+    "43110",
+    "43120"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14022822"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 41202, 42990, 43110, 43120",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14022822",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_ca923eac",
   "name": "Alexander Yalden Const",
   "legal_name": "ALEXANDER YALDEN CONST LIMITED",
@@ -3276,6 +6470,94 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_a4b42040",
+  "name": "Apb Carpentry",
+  "legal_name": "APB CARPENTRY LTD",
+  "name_normalised": "apb carpentry",
+  "areas": [
+   "decking_structures"
+  ],
+  "types": [],
+  "primary_area": "decking_structures",
+  "address": null,
+  "town": "Wiltshire",
+  "postcode": "SP11",
+  "lat": 51.25,
+  "lng": -1.624,
+  "distance_miles": 40.2,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "10444717",
+   "status": "dissolved",
+   "incorporated": "2016-10-25",
+   "dissolved": "2026-06-02",
+   "sic": [
+    "16290",
+    "43290",
+    "43320"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10444717"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 10,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 16290, 43290, 43320",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10444717",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_df931b93",
   "name": "Avonwood Contracting",
   "legal_name": "AVONWOOD CONTRACTING LIMITED",
@@ -3342,6 +6624,93 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/05618231",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_04bebd65",
+  "name": "Butterstakes",
+  "legal_name": "BUTTERSTAKES LIMITED",
+  "name_normalised": "butterstakes",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Sedgehill",
+  "postcode": "SP7",
+  "lat": 51.056,
+  "lng": -2.193,
+  "distance_miles": 25.2,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11391684",
+   "status": "dissolved",
+   "incorporated": "2018-05-31",
+   "dissolved": "2022-09-06",
+   "sic": [
+    "43910",
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11391684"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 8,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43910, 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11391684",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -3622,6 +6991,264 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_3a4c170e",
+  "name": "Crown Pave",
+  "legal_name": "CROWN PAVE LIMITED",
+  "name_normalised": "crown pave",
+  "areas": [
+   "paving_patios"
+  ],
+  "types": [],
+  "primary_area": "paving_patios",
+  "address": null,
+  "town": "Romsey",
+  "postcode": "SO51",
+  "lat": 51.01,
+  "lng": -1.603,
+  "distance_miles": 26.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14598348",
+   "status": "dissolved",
+   "incorporated": "2023-01-17",
+   "dissolved": "2026-01-20",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14598348"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 3,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14598348",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_b8b4dd62",
+  "name": "D.M. Auditing",
+  "legal_name": "D.M. AUDITING LTD",
+  "name_normalised": "d m auditing",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Wiltshire",
+  "postcode": "SP9",
+  "lat": 51.24,
+  "lng": -1.654,
+  "distance_miles": 39.0,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11140805",
+   "status": "dissolved",
+   "incorporated": "2018-01-09",
+   "dissolved": "2019-06-18",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11140805"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 8,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11140805",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_ad0a1215",
+  "name": "D.P.Smith Carpentry",
+  "legal_name": "D.P.SMITH CARPENTRY LTD",
+  "name_normalised": "d p smith carpentry",
+  "areas": [
+   "decking_structures"
+  ],
+  "types": [],
+  "primary_area": "decking_structures",
+  "address": null,
+  "town": "Wiltshire",
+  "postcode": "SP9",
+  "lat": 51.241,
+  "lng": -1.653,
+  "distance_miles": 39.1,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12573089",
+   "status": "dissolved",
+   "incorporated": "2020-04-27",
+   "dissolved": "2021-09-28",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12573089"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12573089",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_80c7e8b4",
   "name": "David Gillett Consulting",
   "legal_name": "DAVID GILLETT CONSULTING LIMITED",
@@ -3688,6 +7315,93 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/06356475",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_1fa5498f",
+  "name": "Diggers Detailing",
+  "legal_name": "DIGGERS DETAILING LTD",
+  "name_normalised": "diggers detailing",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Tidworth",
+  "postcode": "SP9",
+  "lat": 51.247,
+  "lng": -1.659,
+  "distance_miles": 39.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12506645",
+   "status": "dissolved",
+   "incorporated": "2020-03-09",
+   "dissolved": "2021-01-19",
+   "sic": [
+    "45200",
+    "81299"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12506645"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 45200, 81299",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12506645",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -3968,6 +7682,351 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_d00c3d82",
+  "name": "Forest Tractors",
+  "legal_name": "FOREST TRACTORS LIMITED",
+  "name_normalised": "forest tractors",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Romsey",
+  "postcode": "SO51",
+  "lat": 51.013,
+  "lng": -1.61,
+  "distance_miles": 26.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "00728687",
+   "status": "dissolved",
+   "incorporated": "1962-07-03",
+   "dissolved": "2024-02-13",
+   "sic": [
+    "77310",
+    "77320"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/00728687"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 64,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 77310, 77320",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/00728687",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_ccbe6f07",
+  "name": "Forsythe Brickwork",
+  "legal_name": "FORSYTHE BRICKWORK LIMITED",
+  "name_normalised": "forsythe brickwork",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Wiltshire",
+  "postcode": "SP11",
+  "lat": 51.255,
+  "lng": -1.628,
+  "distance_miles": 40.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12758645",
+   "status": "dissolved",
+   "incorporated": "2020-07-21",
+   "dissolved": "2023-02-07",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12758645"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12758645",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_06b45158",
+  "name": "G & W Lifts",
+  "legal_name": "G & W LIFTS LIMITED",
+  "name_normalised": "g w lifts",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Andover",
+  "postcode": "SP11",
+  "lat": 51.253,
+  "lng": -1.624,
+  "distance_miles": 40.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "10741897",
+   "status": "dissolved",
+   "incorporated": "2017-04-26",
+   "dissolved": "2024-12-17",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10741897"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 9,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10741897",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_8a3edaab",
+  "name": "GB Solar And Energy",
+  "legal_name": "GB SOLAR AND ENERGY LIMITED",
+  "name_normalised": "gb solar energy",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Salisbury",
+  "postcode": "SP5",
+  "lat": 51.093,
+  "lng": -1.654,
+  "distance_miles": 29.9,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "07680318",
+   "status": "dissolved",
+   "incorporated": "2011-06-23",
+   "dissolved": "2014-02-11",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07680318"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 15,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07680318",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_8acb5b7d",
   "name": "GS Landscapes",
   "legal_name": "GS LANDSCAPES LIMITED",
@@ -4035,6 +8094,179 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/06246527",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_f21f6d3a",
+  "name": "Gemmac",
+  "legal_name": "GEMMAC LTD",
+  "name_normalised": "gemmac",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Romsey",
+  "postcode": "SO51",
+  "lat": 51.01,
+  "lng": -1.603,
+  "distance_miles": 26.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "03879095",
+   "status": "dissolved",
+   "incorporated": "1999-11-17",
+   "dissolved": "2020-11-17",
+   "sic": [
+    "77320"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/03879095"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 27,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 77320",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/03879095",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_d978d67c",
+  "name": "Greenway Landscaping",
+  "legal_name": "GREENWAY LANDSCAPING LTD",
+  "name_normalised": "greenway landscaping",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Salisbury",
+  "postcode": "SP5",
+  "lat": 51.08,
+  "lng": -1.699,
+  "distance_miles": 28.2,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13592933",
+   "status": "dissolved",
+   "incorporated": "2021-08-30",
+   "dissolved": "2021-12-14",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13592933"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 81300",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13592933",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -4142,6 +8374,528 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_4d6a21a5",
+  "name": "Heritage Property And Landscaping Services",
+  "legal_name": "HERITAGE PROPERTY AND LANDSCAPING SERVICES LIMITED",
+  "name_normalised": "heritage property landscaping",
+  "areas": [
+   "landscaping"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Wiltshire",
+  "postcode": "SP9",
+  "lat": 51.222,
+  "lng": -1.678,
+  "distance_miles": 37.5,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "08754425",
+   "status": "dissolved",
+   "incorporated": "2013-10-30",
+   "dissolved": "2022-03-29",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08754425"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 13,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08754425",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_0922692e",
+  "name": "Hewitt Paving",
+  "legal_name": "HEWITT PAVING LTD",
+  "name_normalised": "hewitt paving",
+  "areas": [
+   "groundworks",
+   "paving_patios"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Andover",
+  "postcode": "SP11",
+  "lat": 51.255,
+  "lng": -1.61,
+  "distance_miles": 40.7,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "10149255",
+   "status": "dissolved",
+   "incorporated": "2016-04-27",
+   "dissolved": "2019-10-01",
+   "sic": [
+    "42990"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10149255"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 10,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 42990",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10149255",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_186a34f1",
+  "name": "Hi&Lowe Cleaning Services",
+  "legal_name": "HI&LOWE CLEANING SERVICES LTD",
+  "name_normalised": "hi lowe cleaning",
+  "areas": [
+   "exterior_cleaning"
+  ],
+  "types": [],
+  "primary_area": "exterior_cleaning",
+  "address": null,
+  "town": "Tidworth",
+  "postcode": "SP9",
+  "lat": 51.245,
+  "lng": -1.664,
+  "distance_miles": 39.2,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14608900",
+   "status": "dissolved",
+   "incorporated": "2023-01-22",
+   "dissolved": "2025-03-11",
+   "sic": [
+    "81210",
+    "81221",
+    "81222",
+    "81299"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14608900"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 3,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 81210, 81221, 81222, 81299",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14608900",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_122212bd",
+  "name": "J L Plant",
+  "legal_name": "J L PLANT LIMITED",
+  "name_normalised": "j l plant",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Wiltshire",
+  "postcode": "SP5",
+  "lat": 51.093,
+  "lng": -1.641,
+  "distance_miles": 30.2,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09512891",
+   "status": "dissolved",
+   "incorporated": "2015-03-26",
+   "dissolved": "2022-12-13",
+   "sic": [
+    "43110",
+    "43120",
+    "77320"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09512891"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 11,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43110, 43120, 77320",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09512891",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_aa537fba",
+  "name": "K.B. Billett",
+  "legal_name": "K.B. BILLETT LIMITED",
+  "name_normalised": "k b billett",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "SO51",
+  "postcode": "SO51",
+  "lat": 51.01,
+  "lng": -1.603,
+  "distance_miles": 26.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "07103142",
+   "status": "dissolved",
+   "incorporated": "2009-12-12",
+   "dissolved": "2024-03-26",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07103142"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 17,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07103142",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_9c227fd5",
+  "name": "KP Plant & Construction",
+  "legal_name": "KP PLANT & CONSTRUCTION LIMITED",
+  "name_normalised": "kp plant construction",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Salisbury",
+  "postcode": "SP5",
+  "lat": 51.118,
+  "lng": -1.637,
+  "distance_miles": 31.7,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09744342",
+   "status": "dissolved",
+   "incorporated": "2015-08-21",
+   "dissolved": "2019-01-15",
+   "sic": [
+    "43120"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09744342"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 11,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43120",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09744342",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_886f9dc3",
   "name": "KS Interiors",
   "legal_name": "KS INTERIORS LIMITED",
@@ -4211,6 +8965,92 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/04532843",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_a4b22673",
+  "name": "Laners Machine Operators",
+  "legal_name": "LANERS MACHINE OPERATORS LIMITED",
+  "name_normalised": "laners machine operators",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Tidworth",
+  "postcode": "SP9",
+  "lat": 51.236,
+  "lng": -1.663,
+  "distance_miles": 38.7,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11670378",
+   "status": "dissolved",
+   "incorporated": "2018-11-09",
+   "dissolved": "2020-10-20",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11670378"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 8,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11670378",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -4489,6 +9329,179 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_c882f9e2",
+  "name": "Meridian Property Development",
+  "legal_name": "MERIDIAN PROPERTY DEVELOPMENT LIMITED",
+  "name_normalised": "meridian property development",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Wilts",
+  "postcode": "SP5",
+  "lat": 51.043,
+  "lng": -1.73,
+  "distance_miles": 25.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "10674647",
+   "status": "dissolved",
+   "incorporated": "2017-03-16",
+   "dissolved": "2019-04-30",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10674647"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 9,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10674647",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_e502cc38",
+  "name": "Midayo Landscapes",
+  "legal_name": "MIDAYO LANDSCAPES LIMITED",
+  "name_normalised": "midayo landscapes",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Salisbury",
+  "postcode": "SP5",
+  "lat": 51.039,
+  "lng": -1.723,
+  "distance_miles": 25.2,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12785183",
+   "status": "dissolved",
+   "incorporated": "2020-08-01",
+   "dissolved": "2026-06-02",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12785183"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 81300",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12785183",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_21c53381",
   "name": "N F Engineering",
   "legal_name": "N F ENGINEERING LIMITED",
@@ -4747,6 +9760,266 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_24982fac",
+  "name": "Onestump",
+  "legal_name": "ONESTUMP LTD",
+  "name_normalised": "onestump",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Andover",
+  "postcode": "SP11",
+  "lat": 51.238,
+  "lng": -1.63,
+  "distance_miles": 39.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12643119",
+   "status": "dissolved",
+   "incorporated": "2020-06-03",
+   "dissolved": "2021-10-12",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12643119"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 81300",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12643119",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_d9e988cd",
+  "name": "Osborne And Worrall",
+  "legal_name": "OSBORNE AND WORRALL LIMITED",
+  "name_normalised": "osborne worrall",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Wiltshire",
+  "postcode": "SP11",
+  "lat": 51.253,
+  "lng": -1.608,
+  "distance_miles": 40.7,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "10771814",
+   "status": "dissolved",
+   "incorporated": "2017-05-15",
+   "dissolved": "2019-04-09",
+   "sic": [
+    "02100",
+    "02200"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10771814"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 9,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 02100, 02200",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10771814",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_1c160c3e",
+  "name": "Potter Engineering",
+  "legal_name": "POTTER ENGINEERING LTD",
+  "name_normalised": "potter engineering",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Andover",
+  "postcode": "SP11",
+  "lat": 51.255,
+  "lng": -1.628,
+  "distance_miles": 40.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12782818",
+   "status": "dissolved",
+   "incorporated": "2020-07-31",
+   "dissolved": "2023-02-21",
+   "sic": [
+    "42990"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12782818"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 42990",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12782818",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_558af155",
   "name": "Priest Landscapes",
   "legal_name": "PRIEST LANDSCAPES LTD",
@@ -4920,6 +10193,179 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_db2e42e8",
+  "name": "R & B Garden Services",
+  "legal_name": "R & B GARDEN SERVICES LIMITED",
+  "name_normalised": "r b garden",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Alderbury",
+  "postcode": "SP5",
+  "lat": 51.04,
+  "lng": -1.722,
+  "distance_miles": 25.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "07065412",
+   "status": "dissolved",
+   "incorporated": "2009-11-03",
+   "dissolved": "2024-11-12",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07065412"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 17,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 81300",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07065412",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_d005836e",
+  "name": "Spot-E-Dog",
+  "legal_name": "SPOT-E-DOG LIMITED",
+  "name_normalised": "spot e dog",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Andover",
+  "postcode": "SP11",
+  "lat": 51.254,
+  "lng": -1.627,
+  "distance_miles": 40.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09027675",
+   "status": "dissolved",
+   "incorporated": "2014-05-07",
+   "dissolved": "2021-01-12",
+   "sic": [
+    "43120"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09027675"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 12,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43120",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09027675",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_a680b300",
   "name": "Stage Right Services",
   "legal_name": "STAGE RIGHT SERVICES LIMITED",
@@ -4986,6 +10432,438 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/03339290",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_0b8e2a4a",
+  "name": "Swindlehurst Groundworks And Building Management",
+  "legal_name": "SWINDLEHURST GROUNDWORKS AND BUILDING MANAGEMENT LTD",
+  "name_normalised": "swindlehurst groundworks building management",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Andover",
+  "postcode": "SP11",
+  "lat": 51.253,
+  "lng": -1.621,
+  "distance_miles": 40.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "15443220",
+   "status": "dissolved",
+   "incorporated": "2024-01-25",
+   "dissolved": "2025-07-01",
+   "sic": [
+    "42990"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/15443220"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 2,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 42990",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/15443220",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_e2987968",
+  "name": "Swindlehurst Groundwork’S And Plant Ops",
+  "legal_name": "SWINDLEHURST GROUNDWORK’S AND PLANT OPS LTD",
+  "name_normalised": "swindlehurst groundwork s plant ops",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Andover",
+  "postcode": "SP11",
+  "lat": 51.253,
+  "lng": -1.621,
+  "distance_miles": 40.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11854772",
+   "status": "dissolved",
+   "incorporated": "2019-03-01",
+   "dissolved": "2023-10-10",
+   "sic": [
+    "42990"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11854772"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 7,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 42990",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11854772",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_238dc1a5",
+  "name": "Tallboy 196",
+  "legal_name": "TALLBOY 196 LIMITED",
+  "name_normalised": "tallboy 196",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Salisbury",
+  "postcode": "SP5",
+  "lat": 51.009,
+  "lng": -1.651,
+  "distance_miles": 25.1,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09141006",
+   "status": "dissolved",
+   "incorporated": "2014-07-21",
+   "dissolved": "2022-08-16",
+   "sic": [
+    "69202",
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09141006"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 12,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 69202, 81300",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09141006",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_15060796",
+  "name": "The Gate People",
+  "legal_name": "THE GATE PEOPLE LIMITED",
+  "name_normalised": "gate people",
+  "areas": [
+   "fencing_boundaries"
+  ],
+  "types": [],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Andover",
+  "postcode": "SP11",
+  "lat": 51.251,
+  "lng": -1.622,
+  "distance_miles": 40.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13255070",
+   "status": "dissolved",
+   "incorporated": "2021-03-09",
+   "dissolved": "2023-04-18",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13255070"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13255070",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "wiltshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_2f86711e",
+  "name": "The Great Workshop Company.",
+  "legal_name": "THE GREAT WORKSHOP COMPANY. LTD",
+  "name_normalised": "great workshop company",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Salisbury",
+  "postcode": "SP5",
+  "lat": 51.035,
+  "lng": -1.639,
+  "distance_miles": 26.8,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "06498122",
+   "status": "dissolved",
+   "incorporated": "2008-02-08",
+   "dissolved": "2016-04-12",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/06498122"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 18,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/06498122",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
