@@ -466,9 +466,9 @@
   "name_normalised": "dreamscape landscaping groundworks",
   "areas": [
    "landscaping",
-   "driveways",
    "groundworks",
-   "paving_patios"
+   "paving_patios",
+   "driveways"
   ],
   "types": [
    "hard_landscaping",
@@ -784,10 +784,10 @@
   "name_normalised": "p g dunn tree garden care",
   "areas": [
    "trees_vegetation",
-   "fencing_boundaries",
-   "paving_patios",
    "lawns_grounds",
-   "landscaping"
+   "landscaping",
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "tree_surgeon",
@@ -895,9 +895,9 @@
   "name_normalised": "agr fencing landscaping",
   "areas": [
    "driveways",
-   "fencing_boundaries",
+   "landscaping",
    "paving_patios",
-   "landscaping"
+   "fencing_boundaries"
   ],
   "types": [
    "concrete_driveway",
@@ -1115,8 +1115,8 @@
   "name_normalised": "classic landscaping",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "driveways"
+   "driveways",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -1594,7 +1594,7 @@
  {
   "id": "tf_3b4abc75",
   "name": "Mason & Turner",
-  "legal_name": null,
+  "legal_name": "MASON & TURNER LTD",
   "name_normalised": "mason turner",
   "areas": [
    "landscaping"
@@ -1636,22 +1636,31 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": null,
+  "companies_house": {
+   "number": "05567535",
+   "status": "active",
+   "incorporated": "2005-09-19",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05567535"
+  },
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "unknown",
+  "business_form": "ltd",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Landscaping & construction (Ltd), Bournemouth",
+  "services_notes": "Landscaping & construction (Ltd), Bournemouth. Matched by name + district to MASON & TURNER LTD (check)",
   "badges": [
    "top_pick",
    "highly_rated",
    "vetted",
    "no_website",
    "nearby",
-   "needs_check"
+   "needs_check",
+   "ltd_company"
   ],
   "score": 59,
   "score_breakdown": {
@@ -1661,8 +1670,8 @@
    "contact": 0,
    "distance": 12
   },
-  "confidence": 0.3,
-  "merge_review": false,
+  "confidence": 0.5,
+  "merge_review": true,
   "sources": [
    {
     "source": "checkatrade",
@@ -1672,6 +1681,15 @@
      "score",
      "reviews",
      "base"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05567535",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status"
     ]
    }
   ],
@@ -1872,7 +1890,7 @@
  {
   "id": "tf_c5caf9ee",
   "name": "J.M. Tree and Garden Services",
-  "legal_name": null,
+  "legal_name": "J.M TREE AND GARDEN SERVICES LIMITED",
   "name_normalised": "j m tree garden",
   "areas": [
    "trees_vegetation",
@@ -1917,21 +1935,30 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": null,
+  "companies_house": {
+   "number": "14052366",
+   "status": "active",
+   "incorporated": "2022-04-19",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14052366"
+  },
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "unknown",
+  "business_form": "ltd",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Tree surgery, pruning & garden maintenance, Wimborne",
+  "services_notes": "Tree surgery, pruning & garden maintenance, Wimborne. Matched by name + district to J.M TREE AND GARDEN SERVICES LIMITED (check)",
   "badges": [
    "top_pick",
    "highly_rated",
    "vetted",
    "no_website",
-   "needs_check"
+   "needs_check",
+   "ltd_company"
   ],
   "score": 58,
   "score_breakdown": {
@@ -1941,8 +1968,8 @@
    "contact": 0,
    "distance": 11
   },
-  "confidence": 0.3,
-  "merge_review": false,
+  "confidence": 0.5,
+  "merge_review": true,
   "sources": [
    {
     "source": "checkatrade",
@@ -1953,6 +1980,15 @@
      "reviews",
      "base",
      "last_review"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14052366",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status"
     ]
    }
   ],
@@ -1965,7 +2001,7 @@
  {
   "id": "tf_2c111fd2",
   "name": "Shawn Oak Landscapes",
-  "legal_name": null,
+  "legal_name": "SHAWN OAK LANDSCAPES LTD",
   "name_normalised": "shawn oak landscapes",
   "areas": [
    "landscaping"
@@ -2007,22 +2043,31 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": null,
+  "companies_house": {
+   "number": "08823929",
+   "status": "active",
+   "incorporated": "2013-12-23",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08823929"
+  },
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "unknown",
+  "business_form": "ltd",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Landscaper (Ltd), Bournemouth",
+  "services_notes": "Landscaper (Ltd), Bournemouth. Matched by name + district to SHAWN OAK LANDSCAPES LTD (check)",
   "badges": [
    "top_pick",
    "highly_rated",
    "vetted",
    "no_website",
    "nearby",
-   "needs_check"
+   "needs_check",
+   "ltd_company"
   ],
   "score": 58,
   "score_breakdown": {
@@ -2032,8 +2077,8 @@
    "contact": 0,
    "distance": 12
   },
-  "confidence": 0.3,
-  "merge_review": false,
+  "confidence": 0.5,
+  "merge_review": true,
   "sources": [
    {
     "source": "checkatrade",
@@ -2043,6 +2088,15 @@
      "score",
      "reviews",
      "base"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08823929",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status"
     ]
    }
   ],
@@ -2325,7 +2379,7 @@
  {
   "id": "tf_b4df2508",
   "name": "Newlook Driveways",
-  "legal_name": "NEWLOOK LANDSCAPING & DRIVEWAYS LTD",
+  "legal_name": null,
   "name_normalised": "newlook driveways",
   "areas": [
    "driveways"
@@ -2372,30 +2426,21 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": {
-   "number": "09160761",
-   "status": "active",
-   "incorporated": "2014-08-05",
-   "sic": [
-    "43999"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/09160761"
-  },
+  "companies_house": null,
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "ltd",
+  "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Family firm, 25+ yrs; block, resin, tarmac; cleaning & sealing. Matched by name + district to NEWLOOK LANDSCAPING & DRIVEWAYS LTD (check)",
+  "services_notes": "Family firm, 25+ yrs; block, resin, tarmac; cleaning & sealing",
   "badges": [
    "highly_rated",
    "vetted",
    "busy",
    "no_website",
-   "needs_check",
-   "ltd_company"
+   "needs_check"
   ],
   "score": 56,
   "score_breakdown": {
@@ -2405,8 +2450,8 @@
    "contact": 0,
    "distance": 10
   },
-  "confidence": 0.5,
-  "merge_review": true,
+  "confidence": 0.3,
+  "merge_review": false,
   "sources": [
    {
     "source": "checkatrade",
@@ -2417,15 +2462,6 @@
      "reviews",
      "services",
      "last_review"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/09160761",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
     ]
    }
   ],
@@ -3677,8 +3713,8 @@
   "name_normalised": "pro finish landscapes",
   "areas": [
    "landscaping",
-   "decking_structures",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -3876,7 +3912,7 @@
  {
   "id": "tf_dc178db2",
   "name": "DS Elite",
-  "legal_name": null,
+  "legal_name": "DS ELITE LTD",
   "name_normalised": "ds elite",
   "areas": [
    "landscaping",
@@ -3918,23 +3954,33 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": null,
+  "companies_house": {
+   "number": "15108297",
+   "status": "active",
+   "incorporated": "2023-08-31",
+   "sic": [
+    "41100",
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/15108297"
+  },
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "unknown",
+  "business_form": "ltd",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [
    "NPTC",
    "City & Guilds"
   ],
-  "services_notes": "Landscape gardeners (Ltd); TrustATrader vetted; NPTC / City & Guilds",
+  "services_notes": "Landscape gardeners (Ltd); TrustATrader vetted; NPTC / City & Guilds. Matched by name + district to DS ELITE LTD (check)",
   "badges": [
    "highly_rated",
    "vetted",
    "no_website",
-   "needs_check"
+   "needs_check",
+   "ltd_company"
   ],
   "score": 46,
   "score_breakdown": {
@@ -3944,8 +3990,8 @@
    "contact": 0,
    "distance": 9
   },
-  "confidence": 0.3,
-  "merge_review": false,
+  "confidence": 0.5,
+  "merge_review": true,
   "sources": [
    {
     "source": "trustatrader",
@@ -3956,6 +4002,15 @@
      "reviews",
      "base",
      "accreditations"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/15108297",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status"
     ]
    }
   ],
@@ -4243,7 +4298,7 @@
  {
   "id": "tf_455c8f87",
   "name": "Pinnacle Landscaping and Groundworks",
-  "legal_name": null,
+  "legal_name": "PINNACLE LANDSCAPING AND GROUNDWORKS LIMITED",
   "name_normalised": "pinnacle landscaping groundworks",
   "areas": [
    "landscaping",
@@ -4287,21 +4342,30 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": null,
+  "companies_house": {
+   "number": "16428066",
+   "status": "active",
+   "incorporated": "2025-05-03",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/16428066"
+  },
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": true,
-  "business_form": "unknown",
+  "business_form": "ltd",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Landscaping & groundworks (seen on Checkatrade Poole list)",
+  "services_notes": "Landscaping & groundworks (seen on Checkatrade Poole list). Matched by name + district to PINNACLE LANDSCAPING AND GROUNDWORKS LIMITED (check)",
   "badges": [
    "highly_rated",
    "vetted",
    "no_website",
    "nearby",
-   "needs_check"
+   "needs_check",
+   "ltd_company"
   ],
   "score": 45,
   "score_breakdown": {
@@ -4311,7 +4375,7 @@
    "contact": 0,
    "distance": 0
   },
-  "confidence": 0.3,
+  "confidence": 0.5,
   "merge_review": true,
   "sources": [
    {
@@ -4321,6 +4385,15 @@
     "fields": [
      "score",
      "reviews"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/16428066",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status"
     ]
    }
   ],
@@ -4776,7 +4849,7 @@
  {
   "id": "tf_5fb299e9",
   "name": "Hampshire & Dorset Landscapes",
-  "legal_name": null,
+  "legal_name": "HAMPSHIRE & DORSET LANDSCAPES LTD",
   "name_normalised": "hampshire dorset landscapes",
   "areas": [
    "landscaping"
@@ -4818,21 +4891,30 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": null,
+  "companies_house": {
+   "number": "14886704",
+   "status": "active",
+   "incorporated": "2023-05-22",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14886704"
+  },
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": true,
-  "business_form": "unknown",
+  "business_form": "ltd",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Landscaper (Ltd) (seen on Checkatrade Poole list)",
+  "services_notes": "Landscaper (Ltd) (seen on Checkatrade Poole list). Matched by name + district to HAMPSHIRE & DORSET LANDSCAPES LTD (check)",
   "badges": [
    "highly_rated",
    "vetted",
    "no_website",
    "nearby",
-   "needs_check"
+   "needs_check",
+   "ltd_company"
   ],
   "score": 38,
   "score_breakdown": {
@@ -4842,7 +4924,7 @@
    "contact": 0,
    "distance": 0
   },
-  "confidence": 0.3,
+  "confidence": 0.5,
   "merge_review": true,
   "sources": [
    {
@@ -4852,6 +4934,15 @@
     "fields": [
      "score",
      "reviews"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14886704",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status"
     ]
    }
   ],
@@ -5283,8 +5374,8 @@
   "name_normalised": "bamboo landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "paving_patios",
+   "fencing_boundaries",
    "decking_structures"
   ],
   "types": [
@@ -5394,8 +5485,8 @@
   "name_normalised": "bonsai landscapes",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "lawns_grounds"
+   "lawns_grounds",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -5493,11 +5584,11 @@
   "name_normalised": "freeman s landscapes",
   "areas": [
    "landscaping",
-   "driveways",
-   "fencing_boundaries",
+   "lawns_grounds",
    "paving_patios",
-   "decking_structures",
-   "lawns_grounds"
+   "fencing_boundaries",
+   "driveways",
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -5678,14 +5769,237 @@
   "county": "dorset"
  },
  {
+  "id": "tf_e1398b51",
+  "name": "PDgroundscape",
+  "legal_name": "PDGROUNDSCAPE LIMITED",
+  "name_normalised": "pdgroundscape",
+  "areas": [
+   "landscaping",
+   "groundworks",
+   "paving_patios",
+   "water_drainage",
+   "fencing_boundaries"
+  ],
+  "types": [
+   "landscape_gardener",
+   "groundworks_contractor"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH15",
+  "lat": 50.72243340023894,
+  "lng": -1.985619095579449,
+  "distance_miles": 0.5,
+  "serves_area_only": false,
+  "phone": "07712 482227",
+  "phone_e164": "+447712482227",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.pdgroundscape.co.uk",
+  "domain": "pdgroundscape.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.72243340023894&mlon=-1.985619095579449#map=13/50.72243340023894/-1.985619095579449",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13401097",
+   "status": "active",
+   "incorporated": "2021-05-16",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13401097"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [],
+  "services_notes": "Bespoke landscaping & groundworks: garden rebuilds, natural stone paving, retaining walls, outdoor kitchens, fencing, drainage, extension/new-build groundworks; Sandbanks, Canford Cliffs, Lilliput, Branksome, Westbourne",
+  "badges": [
+   "ltd_company",
+   "nearby"
+  ],
+  "score": 34,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 15
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.pdgroundscape.co.uk/contact/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "coverage"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://www.pdgroundscape.co.uk/groundworks-drainage/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "houzz",
+    "url": "https://www.houzz.co.uk/professionals/landscape-architects-and-garden-designers/pdgroundscape-pfvwgb-pf~977170546",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13401097",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_c5b611d7",
+  "name": "Smith-Ireland Lawn Specialists",
+  "legal_name": "SMITH IRELAND LAWN SPECIALISTS LIMITED",
+  "name_normalised": "smith ireland lawn specialists",
+  "areas": [
+   "lawns_grounds",
+   "trees_vegetation"
+  ],
+  "types": [
+   "lawn_care",
+   "garden_maintenance",
+   "hedge_maintenance"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH15",
+  "lat": 50.72243340023894,
+  "lng": -1.985619095579449,
+  "distance_miles": 0.5,
+  "serves_area_only": false,
+  "phone": "07909 955922",
+  "phone_e164": "+447909955922",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://silawnspecialists.co.uk",
+  "domain": "silawnspecialists.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.72243340023894&mlon=-1.985619095579449#map=13/50.72243340023894/-1.985619095579449",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "16236425",
+   "status": "active",
+   "incorporated": "2025-02-07",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/16236425"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 1,
+  "accreditations": [],
+  "services_notes": "Lawn care & maintenance, garden maintenance, hedge cutting/removal, weed control, turfing, path/driveway/patio cleaning; all of Dorset",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "new_business",
+   "nearby"
+  ],
+  "score": 34,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 15
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://silawnspecialists.co.uk/contact-us-dorset/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://silawnspecialists.co.uk/lawn-care-maintenance-services-dorset/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/16236425",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
   "id": "tf_c56531ea",
   "name": "T.C Lowes Building & Paving",
   "legal_name": "T.C. LOWES BUILDING & PAVING LIMITED",
   "name_normalised": "t c lowes building paving",
   "areas": [
    "driveways",
-   "paving_patios",
-   "landscaping"
+   "landscaping",
+   "paving_patios"
   ],
   "types": [
    "driveway_installer",
@@ -5784,6 +6098,114 @@
   "county": "dorset"
  },
  {
+  "id": "tf_9056e3a3",
+  "name": "Total Equestrian Construction",
+  "legal_name": "TOTAL EQUESTRIAN CONSTRUCTION LIMITED",
+  "name_normalised": "total equestrian construction",
+  "areas": [
+   "groundworks",
+   "fencing_boundaries"
+  ],
+  "types": [
+   "equestrian_arena_builder",
+   "groundworks_contractor"
+  ],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH15",
+  "lat": 50.72243340023894,
+  "lng": -1.985619095579449,
+  "distance_miles": 0.5,
+  "serves_area_only": false,
+  "phone": "01380 818216",
+  "phone_e164": "+441380818216",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.equestrianbuilders.co.uk",
+  "domain": "equestrianbuilders.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.72243340023894&mlon=-1.985619095579449#map=13/50.72243340023894/-1.985619095579449",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "07493728",
+   "status": "active",
+   "incorporated": "2011-01-14",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07493728"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 15,
+  "accreditations": [],
+  "services_notes": "Equestrian facilities design & build (arenas, planning applications) across Dorset incl. Poole, Bournemouth, Blandford, Dorchester; phone is a Devizes (01380) number",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established",
+   "nearby"
+  ],
+  "score": 34,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 15
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.equestrianbuilders.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services",
+     "coverage"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://totalequestrianconstruction.com/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07493728",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
   "id": "tf_cbeebf1c",
   "name": "Apple Landscapes",
   "legal_name": "APPLE LANDSCAPES LIMITED",
@@ -5877,6 +6299,113 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_e0adac1e",
+  "name": "Fenceworks (Dorset)",
+  "legal_name": "FENCEWORKS (DORSET) LIMITED",
+  "name_normalised": "fenceworks dorset",
+  "areas": [
+   "fencing_boundaries",
+   "decking_structures",
+   "landscaping"
+  ],
+  "types": [
+   "fencing_contractor"
+  ],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH14",
+  "lat": 50.72140814309491,
+  "lng": -1.944656106489186,
+  "distance_miles": 1.9,
+  "serves_area_only": false,
+  "phone": "01202 731417",
+  "phone_e164": "+441202731417",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.fenceworksdorset.com",
+  "domain": "fenceworksdorset.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.72140814309491&mlon=-1.944656106489186#map=13/50.72140814309491/-1.944656106489186",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "07266035",
+   "status": "active",
+   "incorporated": "2010-05-26",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07266035"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 16,
+  "accreditations": [],
+  "services_notes": "Family-run fencing: installation, repairs & replacement, gates, decking, sheds, landscaping; Poole, Bournemouth, Wimborne & Dorset; mobile 07773 630226",
+  "badges": [
+   "ltd_company",
+   "established",
+   "nearby"
+  ],
+  "score": 33,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 14
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.fenceworksdorset.com/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address",
+     "services"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://www.fenceworksdorset.com/fence-repairs-poole/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07266035",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "dorset"
@@ -5985,9 +6514,9 @@
   "name_normalised": "samson landscapes",
   "areas": [
    "landscaping",
-   "driveways",
-   "fencing_boundaries",
    "paving_patios",
+   "fencing_boundaries",
+   "driveways",
    "decking_structures"
   ],
   "types": [
@@ -6186,6 +6715,101 @@
   "county": "dorset"
  },
  {
+  "id": "tf_672b8468",
+  "name": "KJ Arb Works",
+  "legal_name": "KJ ARB WORKS LTD",
+  "name_normalised": "kj arb works",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Bournemouth",
+  "postcode": "BH12",
+  "lat": 50.73734870053477,
+  "lng": -1.9277101136363626,
+  "distance_miles": 3.0,
+  "serves_area_only": false,
+  "phone": "01202 031470",
+  "phone_e164": "+441202031470",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.kjtreesurgeonbournemouth.co.uk",
+  "domain": "kjtreesurgeonbournemouth.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.73734870053477&mlon=-1.9277101136363626#map=13/50.73734870053477/-1.9277101136363626",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12029131",
+   "status": "active",
+   "incorporated": "2019-06-03",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12029131"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 7,
+  "accreditations": [],
+  "services_notes": "Tree surgery in Bournemouth & Poole",
+  "badges": [
+   "ltd_company",
+   "nearby"
+  ],
+  "score": 32,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 13
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.kjtreesurgeonbournemouth.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12029131",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
   "id": "tf_37f8b80c",
   "name": "Loveland Forestry & Fencing",
   "legal_name": "LOVELAND FORESTRY & FENCING LTD",
@@ -6279,6 +6903,112 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_b6df4027",
+  "name": "Maintain Drains",
+  "legal_name": "MAINTAIN UK DRAINS LIMITED",
+  "name_normalised": "maintain drains",
+  "areas": [
+   "water_drainage"
+  ],
+  "types": [
+   "drainage_contractor"
+  ],
+  "primary_area": "water_drainage",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH16",
+  "lat": 50.740467761557184,
+  "lng": -2.047525423357664,
+  "distance_miles": 3.2,
+  "serves_area_only": false,
+  "phone": "01202 300040",
+  "phone_e164": "+441202300040",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://maintaindrains.co.uk",
+  "domain": "maintaindrains.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.740467761557184&mlon=-2.047525423357664#map=13/50.740467761557184/-2.047525423357664",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "05672765",
+   "status": "active",
+   "incorporated": "2006-01-12",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05672765"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 20,
+  "accreditations": [],
+  "services_notes": "24/7 drain clearance, CCTV surveys, repairs, root removal & relining across Dorset and Hampshire; Unit 21 Glenmore Business Park; on public-sector framework (National Framework Partnership)",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established",
+   "nearby"
+  ],
+  "score": 32,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 13
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://maintaindrains.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address",
+     "services"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://www.nationalframeworkpartnership.co.uk/supplier/maintain-uk-drains-limited/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "framework"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05672765",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "dorset"
@@ -6386,8 +7116,8 @@
   "name_normalised": "rockbound resin surfacing",
   "areas": [
    "driveways",
-   "paving_patios",
-   "surfacing"
+   "surfacing",
+   "paving_patios"
   ],
   "types": [
    "resin_bound"
@@ -6479,15 +7209,120 @@
   "county": "dorset"
  },
  {
+  "id": "tf_cb6d1e9f",
+  "name": "Select Resin",
+  "legal_name": "SELECT RESIN LTD",
+  "name_normalised": "select resin",
+  "areas": [
+   "surfacing",
+   "driveways"
+  ],
+  "types": [
+   "resin_driveways",
+   "resin_flooring"
+  ],
+  "primary_area": "surfacing",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH12",
+  "lat": 50.73734870053477,
+  "lng": -1.9277101136363626,
+  "distance_miles": 3.0,
+  "serves_area_only": false,
+  "phone": "07471 825098",
+  "phone_e164": "+447471825098",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://select-resin.co.uk",
+  "domain": "select-resin.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.73734870053477&mlon=-1.9277101136363626#map=13/50.73734870053477/-1.9277101136363626",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13434773",
+   "status": "active",
+   "incorporated": "2021-06-02",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13434773"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [],
+  "services_notes": "Mainly resin flooring & walls (commercial/industrial) with a resin-bound driveway service; national coverage incl. Dorset",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "nearby"
+  ],
+  "score": 32,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 13
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://select-resin.co.uk/about-us/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://select-resin.co.uk/resin-driveways/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13434773",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
   "id": "tf_eb6f498f",
   "name": "Total Landscaping Works",
   "legal_name": "TOTAL LANDSCAPING WORKS LTD",
   "name_normalised": "total landscaping works",
   "areas": [
    "landscaping",
-   "driveways",
+   "paving_patios",
    "fencing_boundaries",
-   "paving_patios"
+   "driveways"
   ],
   "types": [
    "landscape_gardener",
@@ -6678,6 +7513,105 @@
   "county": "dorset"
  },
  {
+  "id": "tf_9f8068b5",
+  "name": "Verwood Turf",
+  "legal_name": "VERWOOD TURF LTD.",
+  "name_normalised": "verwood turf",
+  "areas": [
+   "lawns_grounds"
+  ],
+  "types": [
+   "turf_supplier",
+   "turf_laying"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Verwood",
+  "postcode": "BH4",
+  "lat": 50.721191623931674,
+  "lng": -1.8995365427350426,
+  "distance_miles": 3.9,
+  "serves_area_only": false,
+  "phone": "07961 118383",
+  "phone_e164": "+447961118383",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.verwoodturf.co.uk",
+  "domain": "verwoodturf.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.721191623931674&mlon=-1.8995365427350426#map=13/50.721191623931674/-1.8995365427350426",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "04491681",
+   "status": "active",
+   "incorporated": "2002-07-22",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04491681"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 24,
+  "accreditations": [],
+  "services_notes": "Turf supply & lay throughout East Dorset: Verwood, Wimborne, Christchurch, Poole, Bournemouth",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established",
+   "nearby"
+  ],
+  "score": 32,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 13
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.verwoodturf.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services",
+     "coverage"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/04491681",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
   "id": "tf_c23ef7d3",
   "name": "Vision Landscapers",
   "legal_name": "VISION LANDSCAPERS LTD",
@@ -6784,8 +7718,8 @@
   "areas": [
    "surfacing",
    "water_drainage",
-   "driveways",
-   "groundworks"
+   "groundworks",
+   "driveways"
   ],
   "types": [
    "tarmac",
@@ -7102,8 +8036,8 @@
   "name_normalised": "green guys landscaping",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "paving_patios",
+   "fencing_boundaries",
    "decking_structures"
   ],
   "types": [
@@ -7209,8 +8143,8 @@
   "name_normalised": "l b driveways",
   "areas": [
    "driveways",
-   "paving_patios",
-   "groundworks"
+   "groundworks",
+   "paving_patios"
   ],
   "types": [
    "block_paving",
@@ -7509,17 +8443,125 @@
   "county": "dorset"
  },
  {
+  "id": "tf_dda0b1f3",
+  "name": "Your ECO Gardener",
+  "legal_name": "YOUR ECO GARDENER LTD",
+  "name_normalised": "your eco gardener",
+  "areas": [
+   "lawns_grounds",
+   "trees_vegetation",
+   "landscaping"
+  ],
+  "types": [
+   "garden_maintenance",
+   "grounds_maintenance",
+   "hedge_maintenance"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Bournemouth",
+  "postcode": "BH9",
+  "lat": 50.74963760060058,
+  "lng": -1.8725517987988018,
+  "distance_miles": 5.6,
+  "serves_area_only": false,
+  "phone": "07926 128602",
+  "phone_e164": "+447926128602",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.yourecogardener.com",
+  "domain": "yourecogardener.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.74963760060058&mlon=-1.8725517987988018#map=13/50.74963760060058/-1.8725517987988018",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13313567",
+   "status": "active",
+   "incorporated": "2021-04-06",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13313567"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [],
+  "services_notes": "Eco-friendly gardening with low-noise emission-free tools: maintenance, lawns, hedges, tree work, native planting, wildlife habitats, invasive weed & bamboo removal; Bournemouth, Poole, Christchurch, Ferndown, Ringwood",
+  "badges": [
+   "top_pick",
+   "ltd_company"
+  ],
+  "score": 31,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 12
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.yourecogardener.com/contact",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://www.yourecogardener.com/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services",
+     "coverage"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13313567",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
   "id": "tf_bb6ee9e3",
   "name": "CHS Landscapes",
   "legal_name": "CHS LANDSCAPES LTD",
   "name_normalised": "chs landscapes",
   "areas": [
    "landscaping",
-   "driveways",
-   "fencing_boundaries",
+   "lawns_grounds",
    "paving_patios",
-   "decking_structures",
-   "lawns_grounds"
+   "fencing_boundaries",
+   "driveways",
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -7702,6 +8744,215 @@
   "county": "dorset"
  },
  {
+  "id": "tf_9a859e7f",
+  "name": "Canford Drains",
+  "legal_name": "CANFORD DRAINS EXCAVATION LIMITED",
+  "name_normalised": "canford drains",
+  "areas": [
+   "water_drainage",
+   "groundworks"
+  ],
+  "types": [
+   "drainage_contractor"
+  ],
+  "primary_area": "water_drainage",
+  "address": null,
+  "town": "Wimborne",
+  "postcode": "BH21",
+  "lat": 50.81214016510068,
+  "lng": -1.9745063221476504,
+  "distance_miles": 6.7,
+  "serves_area_only": false,
+  "phone": "01202 880202",
+  "phone_e164": "+441202880202",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.canforddrains.co.uk",
+  "domain": "canforddrains.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.81214016510068&mlon=-1.9745063221476504#map=13/50.81214016510068/-1.9745063221476504",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "06570852",
+   "status": "active",
+   "incorporated": "2008-04-20",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/06570852"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 18,
+  "accreditations": [],
+  "services_notes": "Drain unblocking, CCTV surveys, drain repairs/replacement by excavation, soakaway repair & installation; Bournemouth, Wimborne, Verwood & Dorset (site also lists 01202 366383 / 366465)",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 30,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 11
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.canforddrains.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://www.canforddrains.co.uk/drain-repairs/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/06570852",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_092deb28",
+  "name": "Carpentree UK",
+  "legal_name": "CARPENTREE UK LTD",
+  "name_normalised": "carpentree",
+  "areas": [
+   "decking_structures"
+  ],
+  "types": [
+   "carpenter",
+   "decking_installer"
+  ],
+  "primary_area": "decking_structures",
+  "address": null,
+  "town": "Bournemouth",
+  "postcode": "BH8",
+  "lat": 50.74215155572755,
+  "lng": -1.85177135139319,
+  "distance_miles": 6.2,
+  "serves_area_only": false,
+  "phone": "01202 985114",
+  "phone_e164": "+441202985114",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://carpentreeuk.com",
+  "domain": "carpentreeuk.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.74215155572755&mlon=-1.85177135139319#map=13/50.74215155572755/-1.85177135139319",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "06722642",
+   "status": "active",
+   "incorporated": "2008-10-14",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/06722642"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 18,
+  "accreditations": [],
+  "services_notes": "Carpentry contractor: bespoke joinery, framing, roofing, flooring, cladding and decking; Dorset & Hampshire",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 30,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 11
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://carpentreeuk.com/contact",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://carpentreeuk.com/services",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/06722642",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
   "id": "tf_027dba8c",
   "name": "Earthworm Landscapes",
   "legal_name": "EARTHWORM LANDSCAPES LTD",
@@ -7709,8 +8960,8 @@
   "areas": [
    "groundworks",
    "water_drainage",
-   "driveways",
-   "landscaping"
+   "landscaping",
+   "driveways"
   ],
   "types": [
    "groundworks_contractor",
@@ -7806,6 +9057,118 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_9eff1972",
+  "name": "Fjord Forestry",
+  "legal_name": "FJORD FORESTRY LTD",
+  "name_normalised": "fjord forestry",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon",
+   "stump_grinding",
+   "hedge_maintenance"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Corfe Mullen",
+  "postcode": "BH21",
+  "lat": 50.81214016510068,
+  "lng": -1.9745063221476504,
+  "distance_miles": 6.7,
+  "serves_area_only": false,
+  "phone": "08081 640596",
+  "phone_e164": "+448081640596",
+  "phone_type": "freephone",
+  "email": null,
+  "website": "https://www.fjordforestry.co.uk",
+  "domain": "fjordforestry.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.81214016510068&mlon=-1.9745063221476504#map=13/50.81214016510068/-1.9745063221476504",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13067323",
+   "status": "active",
+   "incorporated": "2020-12-07",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13067323"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Domestic & commercial tree services: removal, pruning, stump grinding, hedges, conservation & timber work; Poole, Bournemouth, Wimborne; publishes day rates; Yell listing",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 30,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 11
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.fjordforestry.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://fjordforestry.co.uk/prices/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "prices"
+    ]
+   },
+   {
+    "source": "yell",
+    "url": "https://www.yell.com/biz/fjord-forestry-ltd-wimborne-10409224/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13067323",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "dorset"
@@ -8021,9 +9384,9 @@
   "name_normalised": "james dean creative landscapes",
   "areas": [
    "landscaping",
+   "lawns_grounds",
    "driveways",
-   "decking_structures",
-   "lawns_grounds"
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -8123,15 +9486,225 @@
   "county": "dorset"
  },
  {
+  "id": "tf_4250adf5",
+  "name": "Kevin Jolly Fencing",
+  "legal_name": "KEVIN JOLLY FENCING LIMITED",
+  "name_normalised": "kevin jolly fencing",
+  "areas": [
+   "fencing_boundaries",
+   "paving_patios",
+   "driveways",
+   "landscaping"
+  ],
+  "types": [
+   "fencing_contractor",
+   "block_paving",
+   "landscape_gardener"
+  ],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Wimborne",
+  "postcode": "BH21",
+  "lat": 50.81214016510068,
+  "lng": -1.9745063221476504,
+  "distance_miles": 6.7,
+  "serves_area_only": false,
+  "phone": "01258 840261",
+  "phone_e164": "+441258840261",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://fencingbournemouth.co.uk",
+  "domain": "fencingbournemouth.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.81214016510068&mlon=-1.9745063221476504#map=13/50.81214016510068/-1.9745063221476504",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "05610404",
+   "status": "active",
+   "incorporated": "2005-11-02",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05610404"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 21,
+  "accreditations": [],
+  "services_notes": "Domestic, commercial, industrial & agricultural fencing (security, chain-link, closeboard, post & rail) plus block paving, driveways and landscaping; free quotes; CIS certificate",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 30,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 11
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://fencingbournemouth.co.uk/contact-us/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://fencingbournemouth.co.uk/our-services/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05610404",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_22414703",
+  "name": "Noscoe Garden Design (Jenny Noscoe)",
+  "legal_name": "JENNY NOSCOE GARDEN DESIGN LTD",
+  "name_normalised": "noscoe garden design jenny noscoe",
+  "areas": [
+   "landscaping"
+  ],
+  "types": [
+   "garden_designer"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Wimborne",
+  "postcode": "BH21",
+  "lat": 50.81214016510068,
+  "lng": -1.9745063221476504,
+  "distance_miles": 6.7,
+  "serves_area_only": false,
+  "phone": "07834 233343",
+  "phone_e164": "+447834233343",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://noscoegardendesign.com",
+  "domain": "noscoegardendesign.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.81214016510068&mlon=-1.9745063221476504#map=13/50.81214016510068/-1.9745063221476504",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "10449322",
+   "status": "active",
+   "incorporated": "2016-10-27",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10449322"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 10,
+  "accreditations": [],
+  "services_notes": "Garden & landscape design: bespoke designs, planting plans, technical drawings, construction support, maintenance, wildlife-friendly sustainable gardens (e.g. Sandbanks courtyard); Houzz profile",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 30,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 11
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://noscoegardendesign.com/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "houzz",
+    "url": "https://www.houzz.co.uk/professionals/landscape-architects-and-garden-designers/jenny-noscoe-garden-design-pfvwgb-pf~1765241063",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10449322",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
   "id": "tf_6acf98e0",
   "name": "Path Life Fencing & Landscaping",
   "legal_name": "PATH LIFE FENCING AND LANDSCAPING LIMITED",
   "name_normalised": "path life fencing landscaping",
   "areas": [
    "fencing_boundaries",
+   "landscaping",
    "paving_patios",
-   "decking_structures",
-   "landscaping"
+   "decking_structures"
   ],
   "types": [
    "fencing_contractor",
@@ -8230,10 +9803,10 @@
   "name_normalised": "purbeck landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "groundworks",
    "paving_patios",
-   "outdoor_masonry"
+   "outdoor_masonry",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -8634,8 +10207,8 @@
   "name_normalised": "alpine construction landscape",
   "areas": [
    "landscaping",
-   "groundworks",
-   "lawns_grounds"
+   "lawns_grounds",
+   "groundworks"
   ],
   "types": [
    "landscape_gardener",
@@ -8949,9 +10522,9 @@
   "name_normalised": "mjp landscapes",
   "areas": [
    "driveways",
-   "fencing_boundaries",
+   "landscaping",
    "paving_patios",
-   "landscaping"
+   "fencing_boundaries"
   ],
   "types": [
    "driveway_installer",
@@ -9038,6 +10611,322 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_2ccf40c6",
+  "name": "Simon Clark Fencing",
+  "legal_name": "SIMON CLARK FENCING LTD",
+  "name_normalised": "simon clark fencing",
+  "areas": [
+   "fencing_boundaries"
+  ],
+  "types": [
+   "fencing_contractor"
+  ],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Ferndown",
+  "postcode": "BH22",
+  "lat": 50.80499117270203,
+  "lng": -1.888526324512533,
+  "distance_miles": 7.6,
+  "serves_area_only": false,
+  "phone": "07966 542212",
+  "phone_e164": "+447966542212",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://simonclarkfencing.co.uk",
+  "domain": "simonclarkfencing.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.80499117270203&mlon=-1.888526324512533#map=13/50.80499117270203/-1.888526324512533",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09247200",
+   "status": "active",
+   "incorporated": "2014-10-02",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09247200"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 12,
+  "accreditations": [],
+  "services_notes": "Family-run domestic, commercial & agricultural fencing, repairs and gates; Ferndown, Bournemouth & Dorset",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 29,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 10
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://simonclarkfencing.co.uk/contact-me/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://simonclarkfencing.co.uk/domestic-fencing/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09247200",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_0415e13b",
+  "name": "Broadoak Tree Care",
+  "legal_name": "BROADOAK TREE CARE LIMITED",
+  "name_normalised": "broadoak tree care",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon",
+   "stump_grinding",
+   "hedge_maintenance",
+   "site_clearance"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Christchurch",
+  "postcode": "BH23",
+  "lat": 50.747632589195916,
+  "lng": -1.7542380684673364,
+  "distance_miles": 10.4,
+  "serves_area_only": false,
+  "phone": "01202 477310",
+  "phone_e164": "+441202477310",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.broadoaktreecare.com",
+  "domain": "broadoaktreecare.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.747632589195916&mlon=-1.7542380684673364#map=13/50.747632589195916/-1.7542380684673364",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "06553527",
+   "status": "active",
+   "incorporated": "2008-04-03",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/06553527"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 18,
+  "accreditations": [],
+  "services_notes": "Tree surgery & hedging: felling, pruning, crown lifting, stump grinding, site clearance; Christchurch, Bournemouth, Poole, Ringwood & New Forest; Checkatrade profile (score not read)",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 28,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 9
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.broadoaktreecare.com/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address",
+     "services"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/broadoaktreecare",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/06553527",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_bcc058f8",
+  "name": "Chubb Tree Care",
+  "legal_name": "CHUBB TREECARE LIMITED",
+  "name_normalised": "chubb tree care",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon",
+   "stump_grinding",
+   "hedge_maintenance",
+   "site_clearance"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Christchurch",
+  "postcode": "BH23",
+  "lat": 50.747632589195916,
+  "lng": -1.7542380684673364,
+  "distance_miles": 10.4,
+  "serves_area_only": false,
+  "phone": "01202 577384",
+  "phone_e164": "+441202577384",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://chubbtreecare.co.uk",
+  "domain": "chubbtreecare.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.747632589195916&mlon=-1.7542380684673364#map=13/50.747632589195916/-1.7542380684673364",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09469393",
+   "status": "active",
+   "incorporated": "2015-03-03",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09469393"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 11,
+  "accreditations": [],
+  "services_notes": "Family-run tree surgery: felling, pruning, crown reduction/thinning, stump grinding, hedges, site clearance; Dorset to Winchester; mobile 07787 817474",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 28,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 9
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://chubbtreecare.co.uk/tree-services",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://chubbtreecare.co.uk/testimonials",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "testimonials"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09469393",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "dorset"
@@ -9144,14 +11033,221 @@
   "county": "dorset"
  },
  {
+  "id": "tf_698ba091",
+  "name": "Tudor Tree Specialists",
+  "legal_name": "TUDOR TREE SPECIALISTS LTD",
+  "name_normalised": "tudor tree specialists",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon",
+   "hedge_maintenance"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Burton, Christchurch",
+  "postcode": "BH23",
+  "lat": 50.747632589195916,
+  "lng": -1.7542380684673364,
+  "distance_miles": 10.4,
+  "serves_area_only": false,
+  "phone": "01202 478574",
+  "phone_e164": "+441202478574",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.tudortrees.co.uk",
+  "domain": "tudortrees.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.747632589195916&mlon=-1.7542380684673364#map=13/50.747632589195916/-1.7542380684673364",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11918279",
+   "status": "active",
+   "incorporated": "2019-04-01",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11918279"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 7,
+  "accreditations": [],
+  "services_notes": "Tree, hedge & shrub maintenance for commercial and private clients across Dorset & Hampshire; mobile 07850 371319",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 28,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 9
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.tudortrees.co.uk/contact/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://www.tudortrees.co.uk/commercial/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11918279",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_e0911dfb",
+  "name": "Datum Drainage",
+  "legal_name": "DATUM DRAINAGE LIMITED",
+  "name_normalised": "datum drainage",
+  "areas": [
+   "water_drainage"
+  ],
+  "types": [
+   "drainage_contractor"
+  ],
+  "primary_area": "water_drainage",
+  "address": null,
+  "town": "Verwood",
+  "postcode": "BH31",
+  "lat": 50.87655792691031,
+  "lng": -1.8732798571428557,
+  "distance_miles": 12.2,
+  "serves_area_only": false,
+  "phone": "0845 009 3078",
+  "phone_e164": "+448450093078",
+  "phone_type": "freephone",
+  "email": null,
+  "website": "http://www.datumdrainage.com",
+  "domain": "datumdrainage.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.87655792691031&mlon=-1.8732798571428557#map=13/50.87655792691031/-1.8732798571428557",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "06488183",
+   "status": "active",
+   "incorporated": "2008-01-30",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/06488183"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 18,
+  "accreditations": [],
+  "services_notes": "Blocked drains, CCTV surveys, high-pressure jetting, investigations, repairs & septic tank services; says 25 years experience; Bournemouth, Poole & Dorset",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 27,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 8
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "http://www.datumdrainage.com/contact/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "http://www.datumdrainage.com/about-us/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "experience"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/06488183",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
   "id": "tf_6c044310",
   "name": "Dolphin Fences & Gardens",
   "legal_name": "DOLPHIN FENCES & GARDENS LTD",
   "name_normalised": "dolphin fences gardens",
   "areas": [
    "fencing_boundaries",
-   "decking_structures",
-   "landscaping"
+   "landscaping",
+   "decking_structures"
   ],
   "types": [
    "fencing_contractor",
@@ -9257,8 +11353,8 @@
   "name_normalised": "octavian landscape construction",
   "areas": [
    "landscaping",
-   "decking_structures",
-   "lawns_grounds"
+   "lawns_grounds",
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener"
@@ -9350,15 +11446,16 @@
  },
  {
   "id": "tf_acde57ff",
-  "name": "Unique Outdoor Living",
-  "legal_name": "UNIQUE OUTDOOR LIVING GROUP LIMITED",
-  "name_normalised": "unique outdoor living",
+  "name": "Unique Pavestones (Unique Outdoor Living Group)",
+  "legal_name": "UNIQUE PAVESTONES LTD",
+  "name_normalised": "unique pavestones unique outdoor living group",
   "areas": [
    "decking_structures",
+   "landscaping",
    "paving_patios"
   ],
   "types": [
-   "timber_decking",
+   "decking_installer",
    "garden_rooms"
   ],
   "primary_area": "decking_structures",
@@ -9390,11 +11487,11 @@
   "ratedpeople": null,
   "other_rating": null,
   "companies_house": {
-   "number": "13110654",
+   "number": "13290899",
    "status": "active",
-   "incorporated": "2021-01-04",
+   "incorporated": "2021-03-25",
    "sic": [],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13110654"
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13290899"
   },
   "opening_hours": null,
   "enriched_from_ch": true,
@@ -9403,7 +11500,7 @@
   "size_band": "unknown",
   "years_trading": 5,
   "accreditations": [],
-  "services_notes": "Decking, aluminium decks, garden rooms, carports & verandas across Dorset; group includes Unique Pavestones Ltd",
+  "services_notes": "Part of Unique Outdoor Living Group: supply & install decking, aluminium decks, garden rooms, carports & verandas across Dorset",
   "badges": [
    "top_pick",
    "ltd_company",
@@ -9423,16 +11520,16 @@
    {
     "source": "web_search",
     "url": "https://uniqueoutdoorlivinggroup.com/about-us/",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "services",
-     "district"
+     "group"
     ]
    },
    {
     "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13110654",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13290899",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "number",
      "status",
@@ -9441,7 +11538,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "dorset"
@@ -9556,8 +11653,8 @@
   "name_normalised": "elite construction landscapes",
   "areas": [
    "landscaping",
-   "driveways",
-   "groundworks"
+   "groundworks",
+   "driveways"
   ],
   "types": [
    "landscape_gardener"
@@ -9652,9 +11749,9 @@
   "name_normalised": "jsc paving landscaping",
   "areas": [
    "paving_patios",
-   "driveways",
+   "landscaping",
    "fencing_boundaries",
-   "landscaping"
+   "driveways"
   ],
   "types": [
    "block_paving",
@@ -9844,6 +11941,103 @@
   "county": "dorset"
  },
  {
+  "id": "tf_92ff4bf3",
+  "name": "Twin Oaks Turf",
+  "legal_name": "TWIN OAKS TURF LTD.",
+  "name_normalised": "twin oaks turf",
+  "areas": [
+   "lawns_grounds"
+  ],
+  "types": [
+   "turf_supplier",
+   "turf_laying"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Wimborne",
+  "postcode": "BH4",
+  "lat": 50.721191623931674,
+  "lng": -1.8995365427350426,
+  "distance_miles": 3.9,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://twinoaksturf.co.uk",
+  "domain": "twinoaksturf.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.721191623931674&mlon=-1.8995365427350426#map=13/50.721191623931674/-1.8995365427350426",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "04491659",
+   "status": "active",
+   "incorporated": "2002-07-22",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04491659"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 24,
+  "accreditations": [],
+  "services_notes": "Turf supply & lay across Dorset (Verwood, Wimborne, Poole, Bournemouth, Christchurch); sister company Dorset Turf Ltd shares the registered office",
+  "badges": [
+   "ltd_company",
+   "established",
+   "nearby"
+  ],
+  "score": 23,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 13
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://twinoaksturf.co.uk/turf-in-dorset/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services",
+     "coverage"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/04491659",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
   "id": "tf_a2e644cc",
   "name": "Bournemouth Paving",
   "legal_name": null,
@@ -9935,9 +12129,9 @@
   "areas": [
    "groundworks",
    "water_drainage",
-   "driveways",
+   "landscaping",
    "paving_patios",
-   "landscaping"
+   "driveways"
   ],
   "types": [
    "groundworks_contractor",
@@ -10032,7 +12226,7 @@
  {
   "id": "tf_057dff24",
   "name": "M&R Paving Landscaping",
-  "legal_name": "M & R PAVING & LANDSCAPING SPECIALISTS LTD",
+  "legal_name": null,
   "name_normalised": "m r paving landscaping",
   "areas": [
    "driveways"
@@ -10070,27 +12264,17 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": {
-   "number": "16246744",
-   "status": "active",
-   "incorporated": "2025-02-12",
-   "sic": [
-    "43999",
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/16246744"
-  },
+  "companies_house": null,
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "ltd",
+  "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Resin-bound & bonded surfacing, paving; covers Bournemouth, Poole, Christchurch & New Forest. Matched by name + district to M & R PAVING & LANDSCAPING SPECIALISTS LTD (check)",
+  "services_notes": "Resin-bound & bonded surfacing, paving; covers Bournemouth, Poole, Christchurch & New Forest",
   "badges": [
-   "needs_check",
-   "ltd_company"
+   "needs_check"
   ],
   "score": 22,
   "score_breakdown": {
@@ -10100,8 +12284,8 @@
    "contact": 15,
    "distance": 12
   },
-  "confidence": 0.5,
-  "merge_review": true,
+  "confidence": 0.3,
+  "merge_review": false,
   "sources": [
    {
     "source": "web_search",
@@ -10111,15 +12295,6 @@
      "phone",
      "address",
      "services"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/16246744",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
     ]
    }
   ],
@@ -10274,7 +12449,6 @@
   "accreditations": [],
   "services_notes": "Garden services, Wareham area",
   "badges": [
-   "top_pick",
    "ltd_company",
    "established"
   ],
@@ -10316,15 +12490,225 @@
   "county": "dorset"
  },
  {
+  "id": "tf_a10c164c",
+  "name": "Portwey Surfacing",
+  "legal_name": "PORTWEY SURFACING LIMITED",
+  "name_normalised": "portwey surfacing",
+  "areas": [
+   "surfacing",
+   "driveways",
+   "groundworks",
+   "water_drainage",
+   "paving_patios"
+  ],
+  "types": [
+   "surfacing_contractor",
+   "tarmac_driveways",
+   "block_paving",
+   "groundworks_contractor"
+  ],
+  "primary_area": "surfacing",
+  "address": null,
+  "town": "Weymouth",
+  "postcode": "DT4",
+  "lat": 50.60954863490466,
+  "lng": -2.4655367863590776,
+  "distance_miles": 22.2,
+  "serves_area_only": false,
+  "phone": "01305 786453",
+  "phone_e164": "+441305786453",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.portwey.co.uk",
+  "domain": "portwey.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.60954863490466&mlon=-2.4655367863590776#map=13/50.60954863490466/-2.4655367863590776",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "01927540",
+   "status": "active",
+   "incorporated": "1985-07-01",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/01927540"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 41,
+  "accreditations": [],
+  "services_notes": "Civil engineering & specialist surfacing since the 1980s company: asphalt/tarmac, block paving, concrete, resin, coloured & SuDS surfacing, groundworks, drainage, foundations, retaining walls; 148 Wyke Road; south-west & central south",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 21,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 2
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.portwey.co.uk/contacts.html",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://www.portwey.co.uk/asphalt.html",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/01927540",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_be3ba0a6",
+  "name": "Wessex Macadams (Wessex Surfacing)",
+  "legal_name": "WESSEX SURFACING LIMITED",
+  "name_normalised": "wessex macadams wessex surfacing",
+  "areas": [
+   "surfacing",
+   "driveways",
+   "groundworks"
+  ],
+  "types": [
+   "surfacing_contractor",
+   "tarmac_driveways"
+  ],
+  "primary_area": "surfacing",
+  "address": null,
+  "town": "Three Legged Cross",
+  "postcode": "BH21",
+  "lat": 50.81214016510068,
+  "lng": -1.9745063221476504,
+  "distance_miles": 6.7,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://www.wessexmacadams.co.uk",
+  "domain": "wessexmacadams.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.81214016510068&mlon=-1.9745063221476504#map=13/50.81214016510068/-1.9745063221476504",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09355454",
+   "status": "active",
+   "incorporated": "2014-12-15",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09355454"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 12,
+  "accreditations": [],
+  "services_notes": "Trades as Wessex Macadams: civil engineering & macadam surfacing contractor; Unit 1 Thorne Way (directory phone 01202 814921 not confirmed on its site)",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 21,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 11
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.wessexmacadams.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services",
+     "trading_name"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09355454",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
   "id": "tf_3532c0a0",
   "name": "Matthew Wilkins Landscapes",
-  "legal_name": null,
+  "legal_name": "MATTHEW WILKINS LANDSCAPES LTD",
   "name_normalised": "matthew wilkins landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "lawns_grounds",
    "paving_patios",
-   "lawns_grounds"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -10360,20 +12744,29 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": null,
+  "companies_house": {
+   "number": "09056669",
+   "status": "active",
+   "incorporated": "2014-05-27",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09056669"
+  },
   "opening_hours": "Mon–Fri 08:00–18:00; Sat 08:00–13:00",
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "unknown",
+  "business_form": "ltd",
   "size_band": "unknown",
   "years_trading": 15,
   "accreditations": [
    "Buy With Confidence"
   ],
-  "services_notes": "Ltd; FreeIndex member since 2009, checks passed Jul 2026 (incl. Companies House); Buy With Confidence",
+  "services_notes": "Ltd; FreeIndex member since 2009, checks passed Jul 2026 (incl. Companies House); Buy With Confidence. Matched by name + district to MATTHEW WILKINS LANDSCAPES LTD (check)",
   "badges": [
    "established",
-   "needs_check"
+   "needs_check",
+   "ltd_company"
   ],
   "score": 18,
   "score_breakdown": {
@@ -10383,8 +12776,8 @@
    "contact": 6,
    "distance": 12
   },
-  "confidence": 0.3,
-  "merge_review": false,
+  "confidence": 0.5,
+  "merge_review": true,
   "sources": [
    {
     "source": "freeindex",
@@ -10395,6 +12788,15 @@
      "web",
      "hours",
      "accreditations"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09056669",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status"
     ]
    }
   ],
@@ -12782,97 +15184,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_e74d6887",
-  "name": "Pdgroundscape",
-  "legal_name": "PDGROUNDSCAPE LIMITED",
-  "name_normalised": "pdgroundscape",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Poole",
-  "postcode": "BH15",
-  "lat": 50.717,
-  "lng": -1.983,
-  "distance_miles": 0.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13401097",
-   "status": "active",
-   "incorporated": "2021-05-16",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13401097"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 5,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 15,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 15
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13401097",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_bfe4e80b",
   "name": "Pearl Civils",
   "legal_name": "PEARL CIVILS LIMITED",
@@ -13146,98 +15457,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_60ba13da",
-  "name": "Smith Ireland Lawn Specialists",
-  "legal_name": "SMITH IRELAND LAWN SPECIALISTS LIMITED",
-  "name_normalised": "smith ireland lawn specialists",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Poole",
-  "postcode": "BH15",
-  "lat": 50.717,
-  "lng": -1.983,
-  "distance_miles": 0.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "16236425",
-   "status": "active",
-   "incorporated": "2025-02-07",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/16236425"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 1,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "new_business"
-  ],
-  "score": 15,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 15
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/16236425",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_d32aa0d6",
   "name": "TWK Shrinkwrap",
   "legal_name": "TWK SHRINKWRAP LTD",
@@ -13309,97 +15528,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/09402831",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_6548bcfd",
-  "name": "Total Equestrian Construction",
-  "legal_name": "TOTAL EQUESTRIAN CONSTRUCTION LIMITED",
-  "name_normalised": "total equestrian construction",
-  "areas": [
-   "groundworks"
-  ],
-  "types": [],
-  "primary_area": "groundworks",
-  "address": null,
-  "town": "Poole",
-  "postcode": "BH15",
-  "lat": 50.715,
-  "lng": -1.984,
-  "distance_miles": 0.1,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "07493728",
-   "status": "active",
-   "incorporated": "2011-01-14",
-   "dissolved": null,
-   "sic": [
-    "43999"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/07493728"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 15,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 15,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 15
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/07493728",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -13492,98 +15620,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/08680655",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_27a91a4e",
-  "name": "Unique Pavestones",
-  "legal_name": "UNIQUE PAVESTONES LTD",
-  "name_normalised": "unique pavestones",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "paving_patios"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Poole",
-  "postcode": "BH15",
-  "lat": 50.713,
-  "lng": -1.997,
-  "distance_miles": 0.5,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13290899",
-   "status": "active",
-   "incorporated": "2021-03-25",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13290899"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 5,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 15,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 15
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13290899",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -26201,98 +28237,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_c7516932",
-  "name": "Fjord Forestry",
-  "legal_name": "FJORD FORESTRY LTD",
-  "name_normalised": "fjord forestry",
-  "areas": [
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "trees_vegetation",
-  "address": null,
-  "town": "Wimborne",
-  "postcode": "BH21",
-  "lat": 50.767,
-  "lng": -2.017,
-  "distance_miles": 3.8,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13067323",
-   "status": "active",
-   "incorporated": "2020-12-07",
-   "dissolved": null,
-   "sic": [
-    "02100",
-    "02200",
-    "91040"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13067323"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 6,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 02100, 02200, 91040",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 14,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 13
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13067323",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_e89f9dcd",
   "name": "Floodmate",
   "legal_name": "FLOODMATE LIMITED",
@@ -30225,97 +32169,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_95aaee58",
-  "name": "KJ Arb Works",
-  "legal_name": "KJ ARB WORKS LTD",
-  "name_normalised": "kj arb works",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Poole",
-  "postcode": "BH12",
-  "lat": 50.732,
-  "lng": -1.925,
-  "distance_miles": 3.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "12029131",
-   "status": "active",
-   "incorporated": "2019-06-03",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/12029131"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 7,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 14,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 13
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/12029131",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_f8944aaa",
   "name": "KTM Design",
   "legal_name": "KTM DESIGN LTD",
@@ -32118,97 +33971,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/08052400",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_523d383f",
-  "name": "Maintain Uk Drains",
-  "legal_name": "MAINTAIN UK DRAINS LIMITED",
-  "name_normalised": "maintain drains",
-  "areas": [
-   "water_drainage"
-  ],
-  "types": [],
-  "primary_area": "water_drainage",
-  "address": null,
-  "town": "Poole",
-  "postcode": "BH12",
-  "lat": 50.731,
-  "lng": -1.912,
-  "distance_miles": 3.5,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "05672765",
-   "status": "active",
-   "incorporated": "2006-01-12",
-   "dissolved": null,
-   "sic": [
-    "81299"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/05672765"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 20,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81299",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 14,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 13
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/05672765",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -38712,97 +40474,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_a80d7222",
-  "name": "Select Resin",
-  "legal_name": "SELECT RESIN LTD",
-  "name_normalised": "select resin",
-  "areas": [
-   "driveways",
-   "surfacing"
-  ],
-  "types": [],
-  "primary_area": "driveways",
-  "address": null,
-  "town": "Poole",
-  "postcode": "BH12",
-  "lat": 50.733,
-  "lng": -1.945,
-  "distance_miles": 2.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13434773",
-   "status": "active",
-   "incorporated": "2021-06-02",
-   "dissolved": null,
-   "sic": [
-    "43999"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13434773"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 5,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 14,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 14
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13434773",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_0dbbf4f7",
   "name": "Shelby Solutions",
   "legal_name": "SHELBY SOLUTIONS LTD",
@@ -42087,98 +43758,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_eef1113a",
-  "name": "Twin Oaks Turf",
-  "legal_name": "TWIN OAKS TURF LTD.",
-  "name_normalised": "twin oaks turf",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bournemouth",
-  "postcode": "BH4",
-  "lat": 50.721,
-  "lng": -1.902,
-  "distance_miles": 3.8,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "04491659",
-   "status": "active",
-   "incorporated": "2002-07-22",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/04491659"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 24,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 14,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 13
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/04491659",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_92b82ae7",
   "name": "Urban Interiors (Properties)",
   "legal_name": "URBAN INTERIORS (PROPERTIES) LIMITED",
@@ -42432,98 +44011,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/09804506",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_4146de5d",
-  "name": "Verwood Turf",
-  "legal_name": "VERWOOD TURF LTD.",
-  "name_normalised": "verwood turf",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bournemouth",
-  "postcode": "BH4",
-  "lat": 50.721,
-  "lng": -1.902,
-  "distance_miles": 3.8,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "04491681",
-   "status": "active",
-   "incorporated": "2002-07-22",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/04491681"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 24,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 14,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 13
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/04491681",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -48301,98 +49788,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_105c9e28",
-  "name": "Carpentree Uk",
-  "legal_name": "CARPENTREE UK LTD",
-  "name_normalised": "carpentree",
-  "areas": [
-   "decking_structures",
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "decking_structures",
-  "address": null,
-  "town": "Bournemouth",
-  "postcode": "BH8",
-  "lat": 50.741,
-  "lng": -1.863,
-  "distance_miles": 5.7,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "06722642",
-   "status": "active",
-   "incorporated": "2008-10-14",
-   "dissolved": null,
-   "sic": [
-    "43320"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/06722642"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 18,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43320",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 13,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 12
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/06722642",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_a8dd12a7",
   "name": "Castle Lodge Construction",
   "legal_name": "CASTLE LODGE CONSTRUCTION LIMITED",
@@ -53322,12 +54717,12 @@
  {
   "id": "tf_58b5355f",
   "name": "Grit And Graft",
-  "legal_name": null,
+  "legal_name": "GRIT AND GRAFT LTD",
   "name_normalised": "grit graft",
   "areas": [
    "paving_patios",
-   "driveways",
-   "landscaping"
+   "landscaping",
+   "driveways"
   ],
   "types": [
    "porcelain_paving",
@@ -53368,22 +54763,31 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": null,
+  "companies_house": {
+   "number": "13317036",
+   "status": "active",
+   "incorporated": "2021-04-07",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13317036"
+  },
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "unknown",
+  "business_form": "ltd",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [
    "City & Guilds L3 Garden Design"
   ],
-  "services_notes": "Landscaping & groundworks, Dorset & Hampshire; porcelain patios from £150/m²; garden design with CAD",
+  "services_notes": "Landscaping & groundworks, Dorset & Hampshire; porcelain patios from £150/m²; garden design with CAD. Matched by name + district to GRIT AND GRAFT LTD (check)",
   "badges": [
    "top_pick",
    "no_website",
    "nearby",
-   "needs_check"
+   "needs_check",
+   "ltd_company"
   ],
   "score": 13,
   "score_breakdown": {
@@ -53393,8 +54797,8 @@
    "contact": 0,
    "distance": 12
   },
-  "confidence": 0.3,
-  "merge_review": false,
+  "confidence": 0.5,
+  "merge_review": true,
   "sources": [
    {
     "source": "checkatrade",
@@ -53404,6 +54808,15 @@
      "services",
      "pricing",
      "base"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13317036",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status"
     ]
    }
   ],
@@ -68426,97 +69839,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_da7a5fd1",
-  "name": "Your Eco Gardener",
-  "legal_name": "YOUR ECO GARDENER LTD",
-  "name_normalised": "your eco gardener",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bournemouth",
-  "postcode": "BH9",
-  "lat": 50.743,
-  "lng": -1.871,
-  "distance_miles": 5.4,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13313567",
-   "status": "active",
-   "incorporated": "2021-04-06",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13313567"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 5,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 13,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 12
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13313567",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_4ab93cb0",
   "name": "Z & S Railway",
   "legal_name": "Z & S RAILWAY LTD",
@@ -72516,97 +73838,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/11407601",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_58a1c49a",
-  "name": "Canford Drains Excavation",
-  "legal_name": "CANFORD DRAINS EXCAVATION LIMITED",
-  "name_normalised": "canford drains excavation",
-  "areas": [
-   "water_drainage"
-  ],
-  "types": [],
-  "primary_area": "water_drainage",
-  "address": null,
-  "town": "Wimborne",
-  "postcode": "BH21",
-  "lat": 50.799,
-  "lng": -1.969,
-  "distance_miles": 5.9,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "06570852",
-   "status": "active",
-   "incorporated": "2008-04-20",
-   "dissolved": null,
-   "sic": [
-    "43999"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/06570852"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 18,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 12,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 11
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/06570852",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -80675,98 +81906,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_ab3fa302",
-  "name": "Jenny Noscoe Garden Design",
-  "legal_name": "JENNY NOSCOE GARDEN DESIGN LTD",
-  "name_normalised": "jenny noscoe garden design",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Wimborne",
-  "postcode": "BH21",
-  "lat": 50.801,
-  "lng": -1.952,
-  "distance_miles": 6.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "10449322",
-   "status": "active",
-   "incorporated": "2016-10-27",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/10449322"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 10,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 12,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 11
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/10449322",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_99fa4a9f",
   "name": "Jthcs",
   "legal_name": "JTHCS LIMITED",
@@ -87696,98 +88835,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_ef82faf8",
-  "name": "Portwey Surfacing",
-  "legal_name": "PORTWEY SURFACING LIMITED",
-  "name_normalised": "portwey surfacing",
-  "areas": [
-   "surfacing",
-   "driveways"
-  ],
-  "types": [],
-  "primary_area": "surfacing",
-  "address": null,
-  "town": "Swanage",
-  "postcode": "BH19",
-  "lat": 50.611,
-  "lng": -1.975,
-  "distance_miles": 7.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "01927540",
-   "status": "active",
-   "incorporated": "1985-07-01",
-   "dissolved": null,
-   "sic": [
-    "42110"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/01927540"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 41,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 42110",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 12,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 11
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/01927540",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_2a314e05",
   "name": "Precision Coating Systems",
   "legal_name": "PRECISION COATING SYSTEMS LIMITED",
@@ -90501,97 +91548,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/10762909",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_e113660b",
-  "name": "Simon Clark Fencing",
-  "legal_name": "SIMON CLARK FENCING LTD",
-  "name_normalised": "simon clark fencing",
-  "areas": [
-   "fencing_boundaries"
-  ],
-  "types": [],
-  "primary_area": "fencing_boundaries",
-  "address": null,
-  "town": "Ferndown",
-  "postcode": "BH22",
-  "lat": 50.805,
-  "lng": -1.898,
-  "distance_miles": 7.3,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "09247200",
-   "status": "active",
-   "incorporated": "2014-10-02",
-   "dissolved": null,
-   "sic": [
-    "43999"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/09247200"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 12,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 12,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 11
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/09247200",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -96734,100 +97690,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_aba4eb2f",
-  "name": "Broadoak Tree Care",
-  "legal_name": "BROADOAK TREE CARE LIMITED",
-  "name_normalised": "broadoak tree care",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "surfacing",
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Christchurch",
-  "postcode": "BH23",
-  "lat": 50.735,
-  "lng": -1.79,
-  "distance_miles": 8.7,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "06553527",
-   "status": "active",
-   "incorporated": "2008-04-03",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/06553527"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 18,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 11,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 10
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/06553527",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_0d291c77",
   "name": "Buildsmith Property Services",
   "legal_name": "BUILDSMITH PROPERTY SERVICES LTD",
@@ -97173,99 +98035,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/13495196",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_e300f171",
-  "name": "Chubb Treecare",
-  "legal_name": "CHUBB TREECARE LIMITED",
-  "name_normalised": "chubb treecare",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Christchurch",
-  "postcode": "BH23",
-  "lat": 50.778,
-  "lng": -1.832,
-  "distance_miles": 8.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "09469393",
-   "status": "active",
-   "incorporated": "2015-03-03",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/09469393"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 11,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 11,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 10
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/09469393",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -101121,97 +101890,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/13255368",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_d273227d",
-  "name": "Kevin Jolly Fencing",
-  "legal_name": "KEVIN JOLLY FENCING LIMITED",
-  "name_normalised": "kevin jolly fencing",
-  "areas": [
-   "fencing_boundaries"
-  ],
-  "types": [],
-  "primary_area": "fencing_boundaries",
-  "address": null,
-  "town": "Wimborne",
-  "postcode": "BH21",
-  "lat": 50.845,
-  "lng": -1.97,
-  "distance_miles": 9.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "05610404",
-   "status": "active",
-   "incorporated": "2005-11-02",
-   "dissolved": null,
-   "sic": [
-    "43999"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/05610404"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 21,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 11,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 10
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/05610404",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -108733,97 +109411,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_ea176978",
-  "name": "Datum Drainage",
-  "legal_name": "DATUM DRAINAGE LIMITED",
-  "name_normalised": "datum drainage",
-  "areas": [
-   "water_drainage"
-  ],
-  "types": [],
-  "primary_area": "water_drainage",
-  "address": null,
-  "town": "Verwood",
-  "postcode": "BH31",
-  "lat": 50.873,
-  "lng": -1.86,
-  "distance_miles": 12.3,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "06488183",
-   "status": "active",
-   "incorporated": "2008-01-30",
-   "dissolved": null,
-   "sic": [
-    "43999"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/06488183"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 18,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 10,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 8
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/06488183",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_bffd7199",
   "name": "David Graham Consultants",
   "legal_name": "DAVID GRAHAM CONSULTANTS LTD",
@@ -110197,8 +110784,8 @@
   "name_normalised": "gardensrevolution",
   "areas": [
    "paving_patios",
-   "decking_structures",
-   "landscaping"
+   "landscaping",
+   "decking_structures"
   ],
   "types": [
    "porcelain_paving",
@@ -113304,98 +113891,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_4f942017",
-  "name": "Pinewood Landscapes (Southern)",
-  "legal_name": "PINEWOOD LANDSCAPES (SOUTHERN) LIMITED",
-  "name_normalised": "pinewood landscapes southern",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Ringwood",
-  "postcode": "BH24",
-  "lat": 50.842,
-  "lng": -1.828,
-  "distance_miles": 11.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "03738083",
-   "status": "active",
-   "incorporated": "1999-03-22",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/03738083"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 27,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 10,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 8
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/03738083",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_b5fef11b",
   "name": "Point Builders",
   "legal_name": "POINT BUILDERS LIMITED",
@@ -116234,96 +116729,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_6912f220",
-  "name": "Tudor Tree Specialists",
-  "legal_name": "TUDOR TREE SPECIALISTS LTD",
-  "name_normalised": "tudor tree specialists",
-  "areas": [
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "trees_vegetation",
-  "address": null,
-  "town": "Christchurch",
-  "postcode": "BH23",
-  "lat": 50.755,
-  "lng": -1.772,
-  "distance_miles": 9.8,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "11918279",
-   "status": "active",
-   "incorporated": "2019-04-01",
-   "dissolved": null,
-   "sic": [
-    "02200"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/11918279"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 7,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 02200",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 10,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 9
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/11918279",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_bf94044a",
   "name": "Urban Bournemouth",
   "legal_name": "URBAN BOURNEMOUTH LIMITED",
@@ -117127,99 +117532,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16061990",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_c87ad40d",
-  "name": "Wessex Surfacing",
-  "legal_name": "WESSEX SURFACING LIMITED",
-  "name_normalised": "wessex surfacing",
-  "areas": [
-   "groundworks",
-   "driveways",
-   "surfacing"
-  ],
-  "types": [],
-  "primary_area": "groundworks",
-  "address": null,
-  "town": "Wimborne",
-  "postcode": "BH21",
-  "lat": 50.843,
-  "lng": -1.866,
-  "distance_miles": 10.3,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "09355454",
-   "status": "active",
-   "incorporated": "2014-12-15",
-   "dissolved": null,
-   "sic": [
-    "42990"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/09355454"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 12,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 42990",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 10,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 9
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/09355454",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -278502,10 +278814,10 @@
   "name_normalised": "r j holden",
   "areas": [
    "driveways",
-   "fencing_boundaries",
    "groundworks",
+   "landscaping",
    "paving_patios",
-   "landscaping"
+   "fencing_boundaries"
   ],
   "types": [
    "block_paving",
