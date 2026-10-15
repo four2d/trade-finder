@@ -239,6 +239,24 @@ main{padding:0}.wrap{max-width:none;padding:0}
 .nibc{margin:0;font:700 12px/1 var(--body);letter-spacing:.2em;text-transform:uppercase}
 .more{font:700 13px/1 var(--body);letter-spacing:.28em;text-transform:uppercase;background:var(--w);color:var(--k);border:3px solid var(--k);padding:14px 30px;cursor:pointer;transition:background .15s}
 .more:hover,.more:focus-visible{background:var(--y)}.more:focus-visible{outline:3px solid var(--k);outline-offset:3px}
+.tgh{cursor:pointer}.tg{all:unset;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:16px;width:100%}.tg:focus-visible{outline:3px solid var(--k);outline-offset:4px}
+.tgh:hover .ind,.tg:focus-visible .ind{background:var(--k)}
+.ind{flex:none;position:relative;width:40px;height:40px;background:var(--y);border:3px solid var(--k);transition:background .15s}
+.ind::before,.ind::after{content:"";position:absolute;left:50%;top:50%;width:18px;height:4px;margin:-2px 0 0 -9px;background:var(--k);transition:transform .25s}
+.ind::after{transform:rotate(90deg)}.sh:not(.shut) .ind::after{transform:rotate(0)}
+.tgh:hover .ind::before,.tgh:hover .ind::after,.tg:focus-visible .ind::before,.tg:focus-visible .ind::after{background:var(--y)}
+.sbody{display:grid;grid-template-rows:1fr;transition:grid-template-rows .35s ease,visibility .35s}.sin{min-height:0;overflow:hidden}
+.sh.shut+.sbody{grid-template-rows:0fr;visibility:hidden}.sec:has(.sh.shut){margin-bottom:28px}
+.xall{display:flex;gap:10px;justify-content:flex-end;margin:0 0 20px}
+.xb{font:700 11px/1 var(--body);letter-spacing:.24em;text-transform:uppercase;background:var(--w);color:var(--k);border:2px solid var(--k);padding:10px 16px;cursor:pointer}.xb:hover,.xb:focus-visible{background:var(--y)}.xb:focus-visible{outline:3px solid var(--k);outline-offset:2px}
+@media (prefers-reduced-motion:reduce){.sbody,.ind::before,.ind::after{transition:none}}
+@media print{.sh.shut+.sbody{grid-template-rows:1fr;visibility:visible}.ind,.xall,.cmf{display:none!important}}
+.barr{grid-template-columns:132px 1fr 40px}.barr .tr i.capd{position:relative}
+.bx{position:absolute;top:-4px;bottom:-4px;left:72%;width:12px;background:var(--w);transform:skewX(-20deg);border-left:2px solid var(--k);border-right:2px solid var(--k)}
+.barr:hover .bx,.barr.on .bx{background:var(--w)}
+.bxn{margin:10px 0 0;font:600 11px/1.4 var(--body);color:var(--g)}.bxk{display:inline-block;width:8px;height:12px;vertical-align:middle;border-left:2px solid var(--k);border-right:2px solid var(--k);transform:skewX(-20deg);margin:0 3px}
+@media (max-width:700px){.barr{grid-template-columns:118px 1fr 36px}}
+.bars h3{display:flex;align-items:center;justify-content:space-between;gap:10px}.bsc{font-size:10px;padding:6px 10px;letter-spacing:.14em}
 </style>
 </head>
 <body>
@@ -281,7 +299,7 @@ main{padding:0}.wrap{max-width:none;padding:0}
 <div class="printhead" id="printhead"></div>
 <section class="mapsec" id="mapsec">
 <div><h3 class="lbl"><span>On the map</span></h3><button class="btn maptog" id="maptog" aria-expanded="false" aria-controls="map">Show map</button><div id="map" role="region" aria-label="Map of businesses"></div></div>
-<div class="bars" id="bars"><h3><span>Businesses by area</span></h3><div id="barl"></div></div>
+<div class="bars" id="bars"><h3><span>Businesses by area</span><button type="button" class="chip bsc" id="bscale" aria-pressed="true" title="Switch between a compact scale (largest bar shortened) and the true scale">Compact scale</button></h3><div id="barl"></div></div>
 </section>
 <div id="results"></div>
 <section class="sec nib" id="nib" hidden></section>
@@ -306,13 +324,13 @@ const BRK={rating:"Rating quality",reviews:"Review volume",vetted:"Vetted / accr
 const PURP={comprehensive_directory:"Comprehensive directory",app_customers:"App customers",suppliers:"Suppliers / subs",competitors:"Competitors"};
 let B=[],M={},SAMPLE=false,map,mk={},radiusCircle;
 const $=s=>document.querySelector(s),esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-const st={area:"all",type:"",q:"",sort:"score",v:0,l:0,w:0,d:9999};
+const st={area:"all",type:"",q:"",sort:"score",v:0,l:0,w:0,d:9999,c:null,ts:0};
 function stars(r){if(r==null)return"";let h="";for(let i=0;i<5;i++){const f=Math.max(0,Math.min(1,r-i))*100,id="g"+Math.random().toString(36).slice(2,8);h+=`<svg width="15" height="15" viewBox="0 0 24 24" aria-hidden="true"><defs><linearGradient id="${id}"><stop offset="${f}%" stop-color="#F2C500"/><stop offset="${f}%" stop-color="#D9D7CF"/></linearGradient></defs><path fill="url(#${id})" stroke="#0B0B0B" stroke-width="1.2" stroke-linejoin="round" d="M12 2.2l2.9 6.3 6.9.7-5.2 4.6 1.5 6.8L12 17.1l-6.1 3.5 1.5-6.8L2.2 9.2l6.9-.7z"/></svg>`}return`<span class="stars" role="img" aria-label="${r} out of 5 stars">${h}</span>`}
 const ICON={landscaping:'<path d="M17 3c-6 0-11 4-11 10 0 2 1 4 2 5l-3 3 1.4 1.4 3-3c1 1 3 2 5 2 6 0 8-6 8-12V3zM8.5 17.5 15 11" fill="none" stroke="#0B0B0B" stroke-width="2"/>',driveways:'<path d="M9 22 11 2h2l2 20M12 6v2m0 4v2m0 4v2" fill="none" stroke="#0B0B0B" stroke-width="2"/>',trees_vegetation:'<path d="M12 2 5 12h4l-4 6h14l-4-6h4zM12 18v4" fill="none" stroke="#0B0B0B" stroke-width="2"/>'};
 const icon=a=>`<svg class="ico" viewBox="0 0 24 24" aria-hidden="true">${ICON[a]||'<rect x="3" y="3" width="18" height="18" fill="none" stroke="#0B0B0B" stroke-width="2"/><path d="M3 12h18M12 3v18" stroke="#0B0B0B" stroke-width="2"/>'}</svg>`;
 const ini=n=>n.replace(/&/g,"").split(/\s+/).filter(w=>w&&!/^(and|the|co|ltd)$/i.test(w)).slice(0,2).map(w=>w[0]).join("").toUpperCase();
-function readHash(){const h=new URLSearchParams(location.hash.slice(1));for(const k of Object.keys(st)){if(h.has(k))st[k]=["v","l","w","d"].includes(k)?+h.get(k):h.get(k)}}
-function writeHash(){const h=new URLSearchParams();for(const[k,v]of Object.entries(st)){const def={area:"all",type:"",q:"",sort:"score",v:0,l:0,w:0,d:MX}[k];if(v!=def)h.set(k,v)}history.replaceState(null,"",h.toString()?"#"+h:location.pathname+location.search)}
+function readHash(){const h=new URLSearchParams(location.hash.slice(1));if(h.has("c"))st.c=h.get("c");for(const k of Object.keys(st)){if(h.has(k))st[k]=["v","l","w","d","ts"].includes(k)?+h.get(k):h.get(k)}}
+function writeHash(){const h=new URLSearchParams();for(const[k,v]of Object.entries(st)){if(k==="c"){if(v!=null)h.set("c",v);continue}const def={area:"all",type:"",q:"",sort:"score",v:0,l:0,w:0,d:MX,ts:0}[k];if(v!=def)h.set(k,v)}history.replaceState(null,"",h.toString()?"#"+h:location.pathname+location.search)}
 function filtered(ignoreArea){const q=st.q.toLowerCase().trim();return B.filter(b=>b.status!=="closed"&&b.confidence>=0.3&&!b.serves_area_only&&(ignoreArea||st.area==="all"||b.areas.includes(st.area))&&(!st.type||b.types.includes(st.type))&&(!st.v||b.checkatrade||b.trustatrader)&&(!st.l||b.business_form==="ltd")&&(!st.w||b.website)&&b.distance_miles<=st.d&&(!q||[b.name,b.town,b.postcode,b.services_notes,...b.types.map(t=>TYPES[t]||t),...b.areas.map(a=>AN[a])].join(" ").toLowerCase().includes(q)))}
 function r5(b){if(b.google_rating!=null)return[b.google_rating,b.google_reviews,'Google'];if(b.checkatrade&&b.checkatrade.score!=null)return[b.checkatrade.score/2,b.checkatrade.reviews,'Checkatrade'];if(b.trustatrader&&b.trustatrader.rating!=null)return[b.trustatrader.rating,b.trustatrader.reviews,'TrustATrader'];if(b.other_rating)return[b.other_rating.rating,b.other_rating.reviews,b.other_rating.source];return[null,0,'']}
 const SORTS={score:(a,b)=>b.score-a.score||(r5(b)[1]||0)-(r5(a)[1]||0)||a.distance_miles-b.distance_miles||a.name.localeCompare(b.name),rating:(a,b)=>(r5(b)[0]||0)-(r5(a)[0]||0)||(r5(b)[1]||0)-(r5(a)[1]||0),reviews:(a,b)=>(r5(b)[1]||0)-(r5(a)[1]||0),near:(a,b)=>a.distance_miles-b.distance_miles,new:(a,b)=>b.first_seen.localeCompare(a.first_seen)||a.name.localeCompare(b.name),az:(a,b)=>a.name.localeCompare(b.name)};
@@ -334,12 +352,13 @@ async function fillDet(c){const b=B.find(x=>x.id===c.dataset.id);if(!b||b.source
 function intro(a,list){if(!list.length)return"";const r=list.filter(b=>r5(b)[0]!=null),avg=r.length?(r.reduce((s,b)=>s+r5(b)[0],0)/r.length).toFixed(1):"–",ltd=list.filter(b=>b.business_form==="ltd").length,near=list.filter(b=>b.distance_miles<=5).length,best=[...list].sort(SORTS.score)[0];
 const W=n=>["No","One","Two","Three","Four","Five","Six","Seven","Eight","Nine","Ten","Eleven","Twelve"][n]??n;
 return`${W(list.length)} ${list.length===1?"business":"businesses"} listed for ${AN[a].toLowerCase()}, averaging ${avg}★ across public review sites. ${ltd} ${ltd===1?"is a limited company":"are limited companies"} and ${near} ${near===1?"is":"are"} within five miles of Poole. The highest score here goes to ${best.name} in ${best.town}.`}
-function render(){const list=filtered().sort(SORTS[st.sort]);const tot=B.filter(b=>b.status!=="closed"&&!b.serves_area_only).length;
+function render(){PG={};const list=filtered().sort(SORTS[st.sort]);const tot=B.filter(b=>b.status!=="closed"&&!b.serves_area_only).length;
 $("#count").innerHTML=`Showing <b>${list.length}</b> of <b>${tot}</b>`;
 const areas=st.area==="all"?AREAS.map(a=>a[0]):[st.area];let h="",n=0;
 areas.forEach(a=>{const items=list.filter(b=>st.area==="all"?b.primary_area===a:true);if(!items.length)return;n++;const i=AREAS.findIndex(x=>x[0]===a);
-h+=`<section class="sec" id="s-${a}"><header class="sh"><span class="num" aria-hidden="true">${String(i+1).padStart(2,"0")}</span><span class="kick"><span>${esc(AN[a])}</span></span><h2>${AREAS[i][2]}</h2></header><p class="intro">${esc(intro(a,items))}</p><div class="grid">${items.map((b,j)=>card(b,j+1,j===0&&items.length>2)).join("")}</div></section>`});
-$("#results").innerHTML=h||`<p class="empty">Nothing matches those filters. Try widening the distance or clearing the search.</p>`;
+SEC[a]=items;PG[a]=Math.max(PG[a]||0,24);const k=Math.min(PG[a],items.length);
+h+=`<section class="sec" id="s-${a}">${shH(a,String(i+1).padStart(2,"0"),AN[a],AREAS[i][2],n===1)}<div class="sbody" id="sb-${a}"><div class="sin"><p class="intro">${esc(intro(a,items))}</p><div class="grid" id="g-${a}">${items.slice(0,k).map((b,j)=>card(b,j+1,j===0&&items.length>2)).join("")}</div>${moreH(a)}</div></div></section>`});
+$("#results").innerHTML=(h?`<div class="xall"><button type="button" class="xb" data-all="1">Expand all</button><button type="button" class="xb" data-all="0">Collapse all</button></div>`:"")+(h||`<p class="empty">Nothing matches those filters. Try widening the distance or clearing the search.</p>`);initSb();
 document.querySelectorAll("#chips .chip").forEach(c=>c.setAttribute("aria-pressed",c.dataset.a===st.area));
 const sub=st.area==="all"?[]:[...new Set(B.filter(b=>b.areas.includes(st.area)).flatMap(b=>b.types))];
 $("#subchips").innerHTML=sub.length?[`<button class="chip" data-t="" aria-pressed="${!st.type}">All types</button>`].concat(sub.map(t=>`<button class="chip" data-t="${t}" aria-pressed="${st.type===t}">${esc(TYPES[t]||t)}</button>`)).join(""):"";
@@ -347,12 +366,25 @@ document.querySelectorAll(".barr").forEach(b=>b.classList.toggle("on",b.dataset.
 const q=st.q.toLowerCase().trim(),nib=B.filter(b=>b.status==="closed"&&(st.area==="all"||b.areas.includes(st.area))&&(!q||[b.name,b.legal_name,b.town,b.postcode].join(" ").toLowerCase().includes(q))).sort((a,b)=>a.name.localeCompare(b.name));
 NIB=nib;nibN=12;nibR();
 reveal();updateMap(list);writeHash()}
+let SEC={},PG={},FIRST=null;
+const MOB=()=>matchMedia("(max-width:700px)").matches;
+function isOpen(k,first){return st.c==null?(!MOB()||first):!st.c.split(",").includes(k)}
+function shH(k,num,kick,h2,first){const o=isOpen(k,first);if(first)FIRST=k;return`<header class="sh tgh${o?"":" shut"}" data-k="${k}"><span class="num" aria-hidden="true">${num}</span><span class="kick"><span>${esc(kick)}</span></span><h2><button type="button" class="tg" aria-expanded="${o}" aria-controls="sb-${k}" data-k="${k}"><span class="tgt">${h2}</span><span class="ind" aria-hidden="true"></span></button></h2></header>`}
+function moreH(a){const n=SEC[a].length,k=Math.min(PG[a],n);return`<div class="nibf cmf"><p class="nibc" aria-live="polite">Showing <b>${k}</b> of <b>${n}</b></p>${k<n?`<button type="button" class="more cmore" data-a="${a}" aria-controls="g-${a}">Load more</button>`:""}</div>`}
+function moreCards(a,upto){const items=SEC[a],from=Math.min(PG[a],items.length);PG[a]=Math.max(upto||0,PG[a]+24);const k=Math.min(PG[a],items.length);if(k<=from)return null;
+const g=$("#g-"+a);g.insertAdjacentHTML("beforeend",items.slice(from,k).map((b,j)=>card(b,from+j+1,false)).join(""));g.parentNode.querySelector(".cmf").outerHTML=moreH(a);reveal();return g.children[from]}
+function curC(){return[...document.querySelectorAll(".tg")].filter(b=>b.getAttribute("aria-expanded")==="false").map(b=>b.dataset.k)}
+function setOpen(k,o,save){const b=document.querySelector(`.tg[data-k="${k}"]`);if(!b)return;b.setAttribute("aria-expanded",o);b.closest(".sh").classList.toggle("shut",!o);const sb=$("#sb-"+k);if(sb)sb.inert=!o;if(save!==false){st.c=curC().join(",");writeHash()}}
+function initSb(){document.querySelectorAll(".tg").forEach(b=>{const sb=$("#sb-"+b.dataset.k);if(sb)sb.inert=b.getAttribute("aria-expanded")==="false"})}
+document.addEventListener("click",e=>{const h=e.target.closest(".tgh");if(h&&!e.target.closest("a,.why,.srcl,.more")){const b=h.querySelector(".tg");setOpen(b.dataset.k,b.getAttribute("aria-expanded")!=="true");return}
+const m=e.target.closest(".cmore");if(m){const a=m.dataset.a,f=moreCards(a);const nb=document.querySelector(`.cmore[data-a="${a}"]`);if(nb)nb.focus();else if(f){f.focus()}return}
+const x=e.target.closest("[data-all]");if(x){const o=x.dataset.all==="1";document.querySelectorAll(".tg").forEach(b=>setOpen(b.dataset.k,o,false));st.c=curC().join(",");writeHash()}});
 let NIB=[],nibN=12,CLOSED=null;const CHN="Found via Companies House name search only; no trading website or reviews found yet · SIC ";
 const chu=c=>c.url||"https://find-and-update.company-information.service.gov.uk/company/"+c.number;
 function loadClosed(){if(CLOSED||!M.closed_file)return;CLOSED=fetch(M.closed_file).then(r=>{if(!r.ok)throw Error(r.status);return r.json()}).then(L=>{B=B.concat(L);render()}).catch(e=>{CLOSED=null;const nb=$("#nib");nb.hidden=false;nb.innerHTML='<p class="intro">Couldn\'t load the closed &amp; dissolved list. Reload to try again.</p>'})}
 function nibL(b){return`<li><b>${esc(b.name)}</b> · ${esc(b.town)} ${esc(b.postcode||"")}<br>${b.companies_house?`Co. ${esc(b.companies_house.number)} · dissolved ${esc(b.companies_house.dissolved||"")} · <a href="${esc(chu(b.companies_house))}" target="_blank" rel="noopener">Companies House</a>`:esc(b.services_notes)}</li>`}
 function nibR(){const nib=NIB,nb=$("#nib");nb.hidden=!nib.length;if(!nib.length){nb.innerHTML="";return}const n=Math.min(nibN,nib.length);
-nb.innerHTML=`<header class="sh"><span class="num" aria-hidden="true">✕</span><span class="kick"><span>Not in business</span></span><h2>Closed &amp; dissolved</h2></header><p class="intro">${nib.length} ${nib.length===1?"firm is":"firms are"} known to have stopped trading (dissolved on Companies House, or marked permanently closed). They stay on record and are never deleted.</p><ul class="nibl" id="nibl">${nib.slice(0,n).map(nibL).join("")}</ul><div class="nibf"><p class="nibc" id="nibc" aria-live="polite">Showing <b>${n}</b> of <b>${nib.length}</b></p>${n<nib.length?`<button type="button" class="more" id="nibmore" aria-controls="nibl">Load more</button>`:""}</div>`;
+nb.innerHTML=`${shH("nib","✕","Not in business","Closed &amp; dissolved",false)}<div class="sbody" id="sb-nib"><div class="sin"><p class="intro">${nib.length} ${nib.length===1?"firm is":"firms are"} known to have stopped trading (dissolved on Companies House, or marked permanently closed). They stay on record and are never deleted.</p><ul class="nibl" id="nibl">${nib.slice(0,n).map(nibL).join("")}</ul><div class="nibf"><p class="nibc" id="nibc" aria-live="polite">Showing <b>${n}</b> of <b>${nib.length}</b></p>${n<nib.length?`<button type="button" class="more" id="nibmore" aria-controls="nibl">Load more</button>`:""}</div></div></div>`;initSb();
 const m=$("#nibmore");if(m)m.onclick=()=>{const from=nibN;nibN+=24;const k=Math.min(nibN,NIB.length);$("#nibl").insertAdjacentHTML("beforeend",NIB.slice(from,k).map(nibL).join(""));$("#nibc").innerHTML=`Showing <b>${k}</b> of <b>${NIB.length}</b>`;if(k>=NIB.length){const it=$("#nibl").children[from];m.remove();if(it){it.tabIndex=-1;it.focus()}}}}
 function counties(){const C=M.counties||[];if(!C.length||M.county)return;const R=M.root||"";$("#cidx").hidden=false;
 $("#cidx").innerHTML=`<header class="sh"><span class="num" aria-hidden="true">UK</span><span class="kick"><span>County index</span></span><h2>County by county</h2></header><p class="intro">${C.filter(c=>c.firms).length} ${C.filter(c=>c.firms).length===1?"county":"counties"} live so far. For now we are covering Dorset and Hampshire as thoroughly as we can. Other counties are paused and will follow.</p><div class="cgrid">${C.map(c=>c.firms?`<a class="cty live" href="${R}counties/${c.slug}/index.html"><span>${esc(c.name)}</span><span class="n">${c.firms}</span></a>`:`<div class="cty q"><span>${esc(c.name)}</span><span class="n">${c.status==="paused"?"Paused":"Day "+(c.order||"")}</span></div>`).join("")}</div>`}
@@ -366,7 +398,9 @@ radiusCircle=L.circle([o.lat,o.lng],{radius:M.radius_miles*1609.34,color:"#F2C50
 L.circleMarker([o.lat,o.lng],{radius:5,color:"#0B0B0B",fillColor:"#F2C500",fillOpacity:1,weight:2}).addTo(map).bindTooltip("Poole");
 B.filter(b=>b.lat!=null).forEach(b=>{mk[b.id]=L.marker([b.lat,b.lng],{icon:pinIcon(b),title:b.name}).bindPopup(`<b>${esc(b.name)}</b>${b.sample?"<em>SAMPLE</em> · ":""}${(()=>{const[r]=r5(b);return r!=null?stars(+r.toFixed(2))+" "+r.toFixed(1):""})()}<br>${b.phone?`<a href="tel:${esc(b.phone_e164)}">Call</a> · `:""}${b.website?`<a href="${esc(b.website)}" target="_blank" rel="noopener">Website</a> · `:""}<a href="#" data-goto="${b.id}">Show card</a>`).on("click",()=>hl(b.id,false))});}
 function updateMap(list){if(!map)return;const ids=new Set(list.map(b=>b.id));B.forEach(b=>{const m=mk[b.id];if(m)ids.has(b.id)?m.addTo(map):m.remove()})}
-let cur;function hl(id,pan){if(cur&&mk[cur])mk[cur].setIcon(pinIcon(B.find(b=>b.id===cur)));document.querySelectorAll(".card.hl").forEach(c=>c.classList.remove("hl"));cur=id;const b=B.find(x=>x.id===id);if(mk[id]){mk[id].setIcon(pinIcon(b,1));if(pan)map.panTo(mk[id].getLatLng())}const c=document.querySelector(`.card[data-id="${id}"]`);if(c){c.classList.add("hl");if(!pan)c.scrollIntoView({behavior:"smooth",block:"center"})}}
+let cur;function hl(id,pan){{const b0=B.find(x=>x.id===id);if(b0&&!document.querySelector(`.card[data-id="${id}"]`)){const a=st.area==="all"?b0.primary_area:st.area,ix=(SEC[a]||[]).indexOf(b0);if(ix>=0)moreCards(a,Math.ceil((ix+1)/24)*24)}const c0=document.querySelector(`.card[data-id="${id}"]`);if(c0){const s0=c0.closest(".sec");if(s0&&s0.querySelector(".sh.shut"))setOpen(s0.querySelector(".tg").dataset.k,true)}}if(cur&&mk[cur])mk[cur].setIcon(pinIcon(B.find(b=>b.id===cur)));document.querySelectorAll(".card.hl").forEach(c=>c.classList.remove("hl"));cur=id;const b=B.find(x=>x.id===id);if(mk[id]){mk[id].setIcon(pinIcon(b,1));if(pan)map.panTo(mk[id].getLatLng())}const c=document.querySelector(`.card[data-id="${id}"]`);if(c){c.classList.add("hl");if(!pan)c.scrollIntoView({behavior:"smooth",block:"center"})}}
+let BC={};function drawBars(){const counts=BC;const vs=Object.values(counts).sort((x,y)=>y-x),v1=vs[0]||0,v2=vs[1]||0,cap=!st.ts&&v2>0&&v1>1.6*v2,mx=Math.max(1,cap?1.25*v2:v1);let capped=false;
+$("#barl").innerHTML=AREAS.map(a=>{const v=counts[a[0]],c=cap&&!capped&&v===v1;if(c)capped=true;return`<button class="barr" data-a="${a[0]}" aria-label="${a[1]}: ${v}${c?" (bar shortened to fit; axis broken)":""}"><span>${a[1]}</span><span class="tr"><i style="width:${Math.min(100,v/mx*100)}%"${c?' class="capd"':""}>${c?'<span class="bx" aria-hidden="true"></span>':""}</i></span><span class="n">${v}</span></button>`}).join("")+(cap?`<p class="bxn">Bar with <span class="bxk" aria-hidden="true"></span> is shortened to fit; the figure is its true count.</p>`:"");$("#bscale").setAttribute("aria-pressed",!st.ts);$("#bscale").textContent=st.ts?"True scale":"Compact scale";$("#bscale").hidden=!(v2>0&&v1>1.6*v2);document.querySelectorAll(".barr").forEach(b=>b.classList.toggle("on",b.dataset.a===st.area))}
 function head(){const tot=B.filter(b=>b.status!=="closed"&&!b.serves_area_only),r=tot.filter(b=>r5(b)[0]!=null),avg=r.length?(r.reduce((s,b)=>s+r5(b)[0],0)/r.length).toFixed(1):"–",ltd=tot.length?Math.round(tot.filter(b=>b.business_form==="ltd").length/tot.length*100):0,ar=new Set(tot.flatMap(b=>b.areas)).size,last=new Date(M.last_updated),nw=tot.filter(b=>b.first_seen===(M.issue_date||"")).length;
 $("#btotal").textContent=tot.length;$("#bsub").textContent=`${CS2().toUpperCase()}`;
 const counts=Object.fromEntries(AREAS.map(a=>[a[0],tot.filter(b=>b.areas.includes(a[0])).length]));
@@ -374,7 +408,7 @@ const top=[...tot].filter(b=>b.checkatrade&&b.checkatrade.score!=null&&!b.checka
 const CS=(M.counties||[]).filter(c=>c.status==="in_progress").map(c=>c.name).join(" & ")||"Dorset";$("#covers").innerHTML=`<div class="cl"><div class="k">${SAMPLE?"Sample · ":""}Driveways</div><div class="t">${B.filter(b=>b.status!=="closed"&&!b.ch_only&&b.areas.includes("driveways")).length} checked driveway firms</div><em>${M.qc&&M.qc.ch_only_leads?`${M.qc.verified_trading} checked firms across all trades · plus ${M.qc.ch_only_leads} Companies House leads`:`in ${CS}`}</em></div><div class="cl"><div class="k">Top rated</div><div class="t">${top?esc(top.checkatrade.score)+"/10 "+esc(top.town):"–"}</div><em>${top?esc(top.name)+" · Checkatrade":"Checkatrade vetted"}</em></div>`;
 $("#stats").innerHTML=[[tot.length,"Businesses"],[ar+"<small>/12</small>","Areas covered"],[avg+"<small>★</small>","Average rating"],[ltd+"<small>%</small>","Ltd companies"],[nw,"New this update"],[(M.counties||[]).filter(c=>c.status==="in_progress").length||1,"Counties"]].map(([n,l])=>`<div class="st"><div class="n">${n}</div><div class="l">${l}</div></div>`).join("");
 $("#chips").innerHTML=`<button class="chip" data-a="all">All <span class="c">${tot.length}</span></button>`+AREAS.map(a=>`<button class="chip${counts[a[0]]?"":" zero"}" data-a="${a[0]}">${a[1]} <span class="c">${counts[a[0]]}</span></button>`).join("");
-const mx=Math.max(1,...Object.values(counts));$("#barl").innerHTML=AREAS.map(a=>`<button class="barr" data-a="${a[0]}" aria-label="${a[1]}: ${counts[a[0]]}"><span>${a[1]}</span><span class="tr"><i style="width:${counts[a[0]]/mx*100}%"></i></span><span class="n">${counts[a[0]]}</span></button>`).join("");
+BC=counts;drawBars();
 const fmt=last.toLocaleString("en-GB",{timeZone:"Europe/London",weekday:"short",day:"numeric",month:"short",year:"numeric",hour:"2-digit",minute:"2-digit",hour12:false}).replace(/,(?=[^,]*$)/,",");
 const purp=M.purpose_label||PURP[M.purpose]||M.purpose;
 $("#stamp").textContent=`Last updated ${fmt} UK time · coverage: ${CS} · purpose: ${purp}${SAMPLE?" · SAMPLE DATA":""}`;
@@ -388,6 +422,7 @@ if(M.archive_href){$("#navarchive").href=M.archive_href;$("#farchive").href=M.ar
 if(M.issue_no)$("#issue").dataset.no=M.issue_no;}
 function bind(){$("#chips").onclick=e=>{const c=e.target.closest(".chip");if(c){st.area=c.dataset.a;st.type="";render()}};
 $("#subchips").onclick=e=>{const c=e.target.closest(".chip");if(c){st.type=c.dataset.t;render()}};
+$("#bscale").onclick=()=>{st.ts=st.ts?0:1;drawBars();writeHash()};
 $("#barl").onclick=e=>{const c=e.target.closest(".barr");if(c){st.area=st.area===c.dataset.a?"all":c.dataset.a;st.type="";render();$("#trades").scrollIntoView({behavior:"smooth"})}};
 let t;$("#q").oninput=e=>{clearTimeout(t);t=setTimeout(()=>{st.q=e.target.value;render()},120)};
 $("#sort").onchange=e=>{st.sort=e.target.value;render()};
