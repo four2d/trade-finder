@@ -1,5 +1,5 @@
 {
- "note": "England ceremonial counties only (v1.1). Centroids approximate. Day 1 = Dorset + 25-mile ring; then one county per day by centroid distance from Poole; once all are in, refresh all daily. Wales/Scotland/NI to be added if Pete wants.",
+ "note": "England ceremonial counties only (v1.1). Centroids approximate. Day 1 = Dorset + 25-mile ring; then one county per day by centroid distance from Poole; once all are in, refresh all daily. Wales/Scotland/NI to be added if Pete wants. Scope change 15 Oct 2026 (Pete): week 1 = Dorset and Hampshire only, as thorough as possible; all other counties paused.",
  "origin": "Poole",
  "queue": [
   {
@@ -11,8 +11,8 @@
    "order": 1,
    "status": "in_progress",
    "planned_day": 1,
-   "firms": 1364,
-   "not_in_business": 1458,
+   "firms": 1464,
+   "not_in_business": 1552,
    "added": "2026-10-15",
    "last_refreshed": "2026-10-15"
   },
@@ -23,7 +23,7 @@
    "lng": -1.3,
    "miles": 30,
    "order": 2,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 2,
    "firms": 0,
    "not_in_business": 0
@@ -35,11 +35,12 @@
    "lng": -1.31,
    "miles": 38,
    "order": 3,
-   "status": "queued",
+   "status": "in_progress",
    "planned_day": 3,
-   "firms": 17,
-   "not_in_business": 16,
-   "added": "2026-10-15"
+   "firms": 236,
+   "not_in_business": 203,
+   "added": "2026-10-15",
+   "last_refreshed": "2026-10-15"
   },
   {
    "slug": "wiltshire",
@@ -48,7 +49,7 @@
    "lng": -1.93,
    "miles": 43,
    "order": 4,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 4,
    "firms": 0,
    "not_in_business": 0
@@ -60,7 +61,7 @@
    "lng": -2.95,
    "miles": 50,
    "order": 5,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 5,
    "firms": 0,
    "not_in_business": 0
@@ -72,7 +73,7 @@
    "lng": -2.59,
    "miles": 57,
    "order": 6,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 6,
    "firms": 0,
    "not_in_business": 0
@@ -84,7 +85,7 @@
    "lng": -1.08,
    "miles": 64,
    "order": 7,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 7,
    "firms": 0,
    "not_in_business": 0
@@ -96,7 +97,7 @@
    "lng": -0.45,
    "miles": 70,
    "order": 8,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 8,
    "firms": 0,
    "not_in_business": 0
@@ -108,7 +109,7 @@
    "lng": -2.2,
    "miles": 78,
    "order": 9,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 9,
    "firms": 0,
    "not_in_business": 0
@@ -120,7 +121,7 @@
    "lng": -0.4,
    "miles": 78,
    "order": 10,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 10,
    "firms": 0,
    "not_in_business": 0
@@ -132,7 +133,7 @@
    "lng": -3.8,
    "miles": 79,
    "order": 11,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 11,
    "firms": 0,
    "not_in_business": 0
@@ -144,7 +145,7 @@
    "lng": -1.3,
    "miles": 79,
    "order": 12,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 12,
    "firms": 0,
    "not_in_business": 0
@@ -156,7 +157,7 @@
    "lng": -0.8,
    "miles": 90,
    "order": 13,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 13,
    "firms": 0,
    "not_in_business": 0
@@ -168,7 +169,7 @@
    "lng": -0.12,
    "miles": 97,
    "order": 14,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 14,
    "firms": 0,
    "not_in_business": 0
@@ -180,7 +181,7 @@
    "lng": 0.25,
    "miles": 99,
    "order": 15,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 15,
    "firms": 0,
    "not_in_business": 0
@@ -192,7 +193,7 @@
    "lng": -2.75,
    "miles": 100,
    "order": 16,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 16,
    "firms": 0,
    "not_in_business": 0
@@ -204,7 +205,7 @@
    "lng": -2.2,
    "miles": 103,
    "order": 17,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 17,
    "firms": 0,
    "not_in_business": 0
@@ -216,7 +217,7 @@
    "lng": -0.25,
    "miles": 106,
    "order": 18,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 18,
    "firms": 0,
    "not_in_business": 0
@@ -228,7 +229,7 @@
    "lng": -1.55,
    "miles": 111,
    "order": 19,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 19,
    "firms": 0,
    "not_in_business": 0
@@ -240,7 +241,7 @@
    "lng": -0.45,
    "miles": 114,
    "order": 20,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 20,
    "firms": 0,
    "not_in_business": 0
@@ -252,7 +253,7 @@
    "lng": -0.9,
    "miles": 119,
    "order": 21,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 21,
    "firms": 0,
    "not_in_business": 0
@@ -264,7 +265,7 @@
    "lng": -1.9,
    "miles": 122,
    "order": 22,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 22,
    "firms": 0,
    "not_in_business": 0
@@ -276,7 +277,7 @@
    "lng": 0.75,
    "miles": 124,
    "order": 23,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 23,
    "firms": 0,
    "not_in_business": 0
@@ -288,7 +289,7 @@
    "lng": -4.9,
    "miles": 130,
    "order": 24,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 24,
    "firms": 0,
    "not_in_business": 0
@@ -300,7 +301,7 @@
    "lng": 0.55,
    "miles": 131,
    "order": 25,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 25,
    "firms": 0,
    "not_in_business": 0
@@ -312,7 +313,7 @@
    "lng": -2.75,
    "miles": 136,
    "order": 26,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 26,
    "firms": 0,
    "not_in_business": 0
@@ -324,7 +325,7 @@
    "lng": -1.13,
    "miles": 140,
    "order": 27,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 27,
    "firms": 0,
    "not_in_business": 0
@@ -336,7 +337,7 @@
    "lng": 0.05,
    "miles": 144,
    "order": 28,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 28,
    "firms": 0,
    "not_in_business": 0
@@ -348,7 +349,7 @@
    "lng": -2.0,
    "miles": 145,
    "order": 29,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 29,
    "firms": 0,
    "not_in_business": 0
@@ -360,7 +361,7 @@
    "lng": -0.63,
    "miles": 146,
    "order": 30,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 30,
    "firms": 0,
    "not_in_business": 0
@@ -372,7 +373,7 @@
    "lng": -1.6,
    "miles": 162,
    "order": 31,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 31,
    "firms": 0,
    "not_in_business": 0
@@ -384,7 +385,7 @@
    "lng": 1.0,
    "miles": 164,
    "order": 32,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 32,
    "firms": 0,
    "not_in_business": 0
@@ -396,7 +397,7 @@
    "lng": -1.0,
    "miles": 170,
    "order": 33,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 33,
    "firms": 0,
    "not_in_business": 0
@@ -408,7 +409,7 @@
    "lng": -2.55,
    "miles": 173,
    "order": 34,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 34,
    "firms": 0,
    "not_in_business": 0
@@ -420,7 +421,7 @@
    "lng": -0.3,
    "miles": 180,
    "order": 35,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 35,
    "firms": 0,
    "not_in_business": 0
@@ -432,7 +433,7 @@
    "lng": 1.0,
    "miles": 185,
    "order": 36,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 36,
    "firms": 0,
    "not_in_business": 0
@@ -444,7 +445,7 @@
    "lng": -2.25,
    "miles": 191,
    "order": 37,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 37,
    "firms": 0,
    "not_in_business": 0
@@ -456,7 +457,7 @@
    "lng": -2.95,
    "miles": 192,
    "order": 38,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 38,
    "firms": 0,
    "not_in_business": 0
@@ -468,7 +469,7 @@
    "lng": -1.3,
    "miles": 195,
    "order": 39,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 39,
    "firms": 0,
    "not_in_business": 0
@@ -480,7 +481,7 @@
    "lng": -1.65,
    "miles": 210,
    "order": 40,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 40,
    "firms": 0,
    "not_in_business": 0
@@ -492,7 +493,7 @@
    "lng": -2.6,
    "miles": 218,
    "order": 41,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 41,
    "firms": 0,
    "not_in_business": 0
@@ -504,7 +505,7 @@
    "lng": -0.6,
    "miles": 224,
    "order": 42,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 42,
    "firms": 0,
    "not_in_business": 0
@@ -516,7 +517,7 @@
    "lng": -1.4,
    "miles": 239,
    "order": 43,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 43,
    "firms": 0,
    "not_in_business": 0
@@ -528,7 +529,7 @@
    "lng": -3.0,
    "miles": 268,
    "order": 44,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 44,
    "firms": 0,
    "not_in_business": 0
@@ -540,7 +541,7 @@
    "lng": -1.8,
    "miles": 275,
    "order": 45,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 45,
    "firms": 0,
    "not_in_business": 0
@@ -552,7 +553,7 @@
    "lng": -1.55,
    "miles": 293,
    "order": 46,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 46,
    "firms": 0,
    "not_in_business": 0
@@ -564,7 +565,7 @@
    "lng": -2.0,
    "miles": 313,
    "order": 47,
-   "status": "queued",
+   "status": "paused",
    "planned_day": 47,
    "firms": 0,
    "not_in_business": 0
