@@ -46,12 +46,15 @@
    "sic": [],
    "url": "https://find-and-update.company-information.service.gov.uk/company/03917083"
   },
+  "opening_hours": null,
+  "base_unknown": false,
   "business_form": "ltd",
   "size_band": "unknown",
   "years_trading": 26,
   "accreditations": [],
   "services_notes": "Asphalt, tarmac & block paving; 8-yr guarantee",
   "badges": [
+   "top_pick",
    "ltd_company",
    "established"
   ],
@@ -69,7 +72,7 @@
    {
     "source": "website",
     "url": "https://mahart.co.uk/",
-    "retrieved": "2026-10-15T17:00:00+01:00",
+    "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "phone",
      "postcode"
@@ -78,7 +81,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/03917083",
-    "retrieved": "2026-10-15T17:00:00+01:00",
+    "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "number"
     ]
@@ -132,12 +135,15 @@
   "ratedpeople": null,
   "other_rating": null,
   "companies_house": null,
+  "opening_hours": null,
+  "base_unknown": false,
   "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
   "services_notes": "Driveways, fencing & landscaping across Lymington & New Milton. A Turners Fencing and Landscapes Ltd (SO41) was dissolved June 2026 — check trading status",
   "badges": [
+   "top_pick",
    "needs_check"
   ],
   "score": 15,
@@ -154,7 +160,7 @@
    {
     "source": "website",
     "url": "https://turnersfencingandlandscaping.co.uk/",
-    "retrieved": "2026-10-15T17:00:00+01:00",
+    "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "phone"
     ]
@@ -162,7 +168,7 @@
    {
     "source": "web_search",
     "url": "https://turnersfencingandlandscaping.co.uk/driveways/",
-    "retrieved": "2026-10-15T17:00:00+01:00",
+    "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "services"
     ]
@@ -215,12 +221,15 @@
   "ratedpeople": null,
   "other_rating": null,
   "companies_house": null,
+  "opening_hours": null,
+  "base_unknown": false,
   "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": 35,
   "accreditations": [],
   "services_notes": "Driveways, paths & groundworks; 35+ years. Single directory source",
   "badges": [
+   "top_pick",
    "established",
    "no_website",
    "needs_check"
@@ -239,7 +248,7 @@
    {
     "source": "directory",
     "url": "https://www.goodbuilders.co.uk/ringwood/paving-contractors",
-    "retrieved": "2026-10-15T17:00:00+01:00",
+    "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "phone",
      "services"
@@ -294,6 +303,8 @@
   "ratedpeople": null,
   "other_rating": null,
   "companies_house": null,
+  "opening_hours": null,
+  "base_unknown": false,
   "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
@@ -316,7 +327,7 @@
    {
     "source": "website",
     "url": "https://awardresinltd.co.uk/",
-    "retrieved": "2026-10-15T17:00:00+01:00",
+    "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "phone",
      "postcode"
@@ -371,6 +382,8 @@
   "ratedpeople": null,
   "other_rating": null,
   "companies_house": null,
+  "opening_hours": null,
+  "base_unknown": false,
   "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
@@ -393,7 +406,7 @@
    {
     "source": "website",
     "url": "https://www.elite-build.co.uk/",
-    "retrieved": "2026-10-15T17:00:00+01:00",
+    "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "phone"
     ]
@@ -477,7 +490,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16537519",
-    "retrieved": "2026-10-15T17:00:00+01:00",
+    "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -565,7 +578,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/11925350",
-    "retrieved": "2026-10-15T17:00:00+01:00",
+    "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -653,7 +666,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/13115887",
-    "retrieved": "2026-10-15T17:00:00+01:00",
+    "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -742,7 +755,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/04153997",
-    "retrieved": "2026-10-15T17:00:00+01:00",
+    "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -830,7 +843,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/14831633",
-    "retrieved": "2026-10-15T17:00:00+01:00",
+    "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -914,7 +927,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/10748955",
-    "retrieved": "2026-10-15T17:00:00+01:00",
+    "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -998,7 +1011,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/08483531",
-    "retrieved": "2026-10-15T17:00:00+01:00",
+    "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -1082,7 +1095,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/08915426",
-    "retrieved": "2026-10-15T17:00:00+01:00",
+    "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -1166,7 +1179,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/08067263",
-    "retrieved": "2026-10-15T17:00:00+01:00",
+    "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -1250,7 +1263,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/04751924",
-    "retrieved": "2026-10-15T17:00:00+01:00",
+    "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -1334,7 +1347,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/12734895",
-    "retrieved": "2026-10-15T17:00:00+01:00",
+    "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -1418,7 +1431,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/13406060",
-    "retrieved": "2026-10-15T17:00:00+01:00",
+    "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
      "status",
