@@ -1,5 +1,5 @@
 {
- "note": "England ceremonial counties only (v1.1). Centroids approximate. Day 1 = Dorset + 25-mile ring; then one county per day by centroid distance from Poole; once all are in, refresh all daily. Wales/Scotland/NI to be added if Pete wants. Scope change 15 Oct 2026 (Pete): week 1 = Dorset and Hampshire only, as thorough as possible; all other counties paused.",
+ "note": "England ceremonial counties only (v1.1). Centroids approximate. Day 1 = Dorset + 25-mile ring; then one county per day by centroid distance from Poole; once all are in, refresh all daily. Wales/Scotland/NI to be added if Pete wants. Scope change 15 Oct 2026 (Pete): week 1 = Dorset and Hampshire only, as thorough as possible; all other counties paused. Order change 15 Oct 2026 (Pete): queue works outwards from Dorset by adjacency rings (ring 1 = Dorset's neighbours Hampshire, Wiltshire, Somerset, Devon; then their neighbours, and so on; within a ring by distance from Poole). Wiltshire added, in progress.",
  "origin": "Poole",
  "queue": [
   {
@@ -14,19 +14,8 @@
    "firms": 1805,
    "not_in_business": 1815,
    "added": "2026-10-15",
-   "last_refreshed": "2026-10-15"
-  },
-  {
-   "slug": "isle-of-wight",
-   "name": "Isle of Wight",
-   "lat": 50.68,
-   "lng": -1.3,
-   "miles": 30,
-   "order": 2,
-   "status": "paused",
-   "planned_day": 2,
-   "firms": 0,
-   "not_in_business": 0
+   "last_refreshed": "2026-10-15",
+   "ring": 0
   },
   {
    "slug": "hampshire",
@@ -34,13 +23,14 @@
    "lat": 51.06,
    "lng": -1.31,
    "miles": 38,
-   "order": 3,
+   "order": 2,
    "status": "in_progress",
-   "planned_day": 3,
-   "firms": 3450,
-   "not_in_business": 3179,
+   "planned_day": 2,
+   "firms": 4523,
+   "not_in_business": 4592,
    "added": "2026-10-15",
-   "last_refreshed": "2026-10-15"
+   "last_refreshed": "2026-10-15",
+   "ring": 1
   },
   {
    "slug": "wiltshire",
@@ -48,12 +38,14 @@
    "lat": 51.33,
    "lng": -1.93,
    "miles": 43,
-   "order": 4,
-   "status": "paused",
-   "planned_day": 4,
-   "firms": 34,
-   "not_in_business": 23,
-   "added": "2026-10-15"
+   "order": 3,
+   "status": "in_progress",
+   "planned_day": 3,
+   "firms": 68,
+   "not_in_business": 55,
+   "added": "2026-10-15",
+   "ring": 1,
+   "last_refreshed": "2026-10-15"
   },
   {
    "slug": "somerset",
@@ -61,71 +53,12 @@
    "lat": 51.1,
    "lng": -2.95,
    "miles": 50,
-   "order": 5,
+   "order": 4,
    "status": "paused",
-   "planned_day": 5,
+   "planned_day": 4,
    "firms": 0,
-   "not_in_business": 0
-  },
-  {
-   "slug": "bristol",
-   "name": "Bristol",
-   "lat": 51.45,
-   "lng": -2.59,
-   "miles": 57,
-   "order": 6,
-   "status": "paused",
-   "planned_day": 6,
-   "firms": 0,
-   "not_in_business": 0
-  },
-  {
-   "slug": "berkshire",
-   "name": "Berkshire",
-   "lat": 51.45,
-   "lng": -1.08,
-   "miles": 64,
-   "order": 7,
-   "status": "paused",
-   "planned_day": 7,
-   "firms": 0,
-   "not_in_business": 0
-  },
-  {
-   "slug": "west-sussex",
-   "name": "West Sussex",
-   "lat": 50.98,
-   "lng": -0.45,
-   "miles": 70,
-   "order": 8,
-   "status": "paused",
-   "planned_day": 8,
-   "firms": 0,
-   "not_in_business": 0
-  },
-  {
-   "slug": "gloucestershire",
-   "name": "Gloucestershire",
-   "lat": 51.84,
-   "lng": -2.2,
-   "miles": 78,
-   "order": 9,
-   "status": "paused",
-   "planned_day": 9,
-   "firms": 0,
-   "not_in_business": 0
-  },
-  {
-   "slug": "surrey",
-   "name": "Surrey",
-   "lat": 51.25,
-   "lng": -0.4,
-   "miles": 78,
-   "order": 10,
-   "status": "paused",
-   "planned_day": 10,
-   "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 1
   },
   {
    "slug": "devon",
@@ -133,11 +66,90 @@
    "lat": 50.72,
    "lng": -3.8,
    "miles": 79,
+   "order": 5,
+   "status": "paused",
+   "planned_day": 5,
+   "firms": 0,
+   "not_in_business": 0,
+   "ring": 1
+  },
+  {
+   "slug": "isle-of-wight",
+   "name": "Isle of Wight",
+   "lat": 50.68,
+   "lng": -1.3,
+   "miles": 30,
+   "order": 6,
+   "status": "paused",
+   "planned_day": 6,
+   "firms": 0,
+   "not_in_business": 0,
+   "ring": 2
+  },
+  {
+   "slug": "bristol",
+   "name": "Bristol",
+   "lat": 51.45,
+   "lng": -2.59,
+   "miles": 57,
+   "order": 7,
+   "status": "paused",
+   "planned_day": 7,
+   "firms": 0,
+   "not_in_business": 0,
+   "ring": 2
+  },
+  {
+   "slug": "berkshire",
+   "name": "Berkshire",
+   "lat": 51.45,
+   "lng": -1.08,
+   "miles": 64,
+   "order": 8,
+   "status": "paused",
+   "planned_day": 8,
+   "firms": 0,
+   "not_in_business": 0,
+   "ring": 2
+  },
+  {
+   "slug": "west-sussex",
+   "name": "West Sussex",
+   "lat": 50.98,
+   "lng": -0.45,
+   "miles": 70,
+   "order": 9,
+   "status": "paused",
+   "planned_day": 9,
+   "firms": 0,
+   "not_in_business": 0,
+   "ring": 2
+  },
+  {
+   "slug": "gloucestershire",
+   "name": "Gloucestershire",
+   "lat": 51.84,
+   "lng": -2.2,
+   "miles": 78,
+   "order": 10,
+   "status": "paused",
+   "planned_day": 10,
+   "firms": 0,
+   "not_in_business": 0,
+   "ring": 2
+  },
+  {
+   "slug": "surrey",
+   "name": "Surrey",
+   "lat": 51.25,
+   "lng": -0.4,
+   "miles": 78,
    "order": 11,
    "status": "paused",
    "planned_day": 11,
    "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 2
   },
   {
    "slug": "oxfordshire",
@@ -149,7 +161,21 @@
    "status": "paused",
    "planned_day": 12,
    "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 2
+  },
+  {
+   "slug": "cornwall",
+   "name": "Cornwall",
+   "lat": 50.4,
+   "lng": -4.9,
+   "miles": 130,
+   "order": 13,
+   "status": "paused",
+   "planned_day": 13,
+   "firms": 0,
+   "not_in_business": 0,
+   "ring": 2
   },
   {
    "slug": "buckinghamshire",
@@ -157,11 +183,12 @@
    "lat": 51.78,
    "lng": -0.8,
    "miles": 90,
-   "order": 13,
+   "order": 14,
    "status": "paused",
-   "planned_day": 13,
+   "planned_day": 14,
    "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 3
   },
   {
    "slug": "greater-london",
@@ -169,11 +196,12 @@
    "lat": 51.5,
    "lng": -0.12,
    "miles": 97,
-   "order": 14,
+   "order": 15,
    "status": "paused",
-   "planned_day": 14,
+   "planned_day": 15,
    "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 3
   },
   {
    "slug": "east-sussex",
@@ -181,11 +209,12 @@
    "lat": 50.92,
    "lng": 0.25,
    "miles": 99,
-   "order": 15,
+   "order": 16,
    "status": "paused",
-   "planned_day": 15,
+   "planned_day": 16,
    "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 3
   },
   {
    "slug": "herefordshire",
@@ -193,11 +222,12 @@
    "lat": 52.08,
    "lng": -2.75,
    "miles": 100,
-   "order": 16,
+   "order": 17,
    "status": "paused",
-   "planned_day": 16,
+   "planned_day": 17,
    "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 3
   },
   {
    "slug": "worcestershire",
@@ -205,23 +235,12 @@
    "lat": 52.2,
    "lng": -2.2,
    "miles": 103,
-   "order": 17,
-   "status": "paused",
-   "planned_day": 17,
-   "firms": 0,
-   "not_in_business": 0
-  },
-  {
-   "slug": "hertfordshire",
-   "name": "Hertfordshire",
-   "lat": 51.8,
-   "lng": -0.25,
-   "miles": 106,
    "order": 18,
    "status": "paused",
    "planned_day": 18,
    "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 3
   },
   {
    "slug": "warwickshire",
@@ -233,19 +252,8 @@
    "status": "paused",
    "planned_day": 19,
    "firms": 0,
-   "not_in_business": 0
-  },
-  {
-   "slug": "bedfordshire",
-   "name": "Bedfordshire",
-   "lat": 52.05,
-   "lng": -0.45,
-   "miles": 114,
-   "order": 20,
-   "status": "paused",
-   "planned_day": 20,
-   "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 3
   },
   {
    "slug": "northamptonshire",
@@ -253,23 +261,12 @@
    "lat": 52.3,
    "lng": -0.9,
    "miles": 119,
-   "order": 21,
+   "order": 20,
    "status": "paused",
-   "planned_day": 21,
+   "planned_day": 20,
    "firms": 0,
-   "not_in_business": 0
-  },
-  {
-   "slug": "west-midlands",
-   "name": "West Midlands",
-   "lat": 52.48,
-   "lng": -1.9,
-   "miles": 122,
-   "order": 22,
-   "status": "paused",
-   "planned_day": 22,
-   "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 3
   },
   {
    "slug": "kent",
@@ -277,23 +274,51 @@
    "lat": 51.2,
    "lng": 0.75,
    "miles": 124,
+   "order": 21,
+   "status": "paused",
+   "planned_day": 21,
+   "firms": 0,
+   "not_in_business": 0,
+   "ring": 3
+  },
+  {
+   "slug": "hertfordshire",
+   "name": "Hertfordshire",
+   "lat": 51.8,
+   "lng": -0.25,
+   "miles": 106,
+   "order": 22,
+   "status": "paused",
+   "planned_day": 22,
+   "firms": 0,
+   "not_in_business": 0,
+   "ring": 4
+  },
+  {
+   "slug": "bedfordshire",
+   "name": "Bedfordshire",
+   "lat": 52.05,
+   "lng": -0.45,
+   "miles": 114,
    "order": 23,
    "status": "paused",
    "planned_day": 23,
    "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 4
   },
   {
-   "slug": "cornwall",
-   "name": "Cornwall",
-   "lat": 50.4,
-   "lng": -4.9,
-   "miles": 130,
+   "slug": "west-midlands",
+   "name": "West Midlands",
+   "lat": 52.48,
+   "lng": -1.9,
+   "miles": 122,
    "order": 24,
    "status": "paused",
    "planned_day": 24,
    "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 4
   },
   {
    "slug": "essex",
@@ -305,7 +330,8 @@
    "status": "paused",
    "planned_day": 25,
    "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 4
   },
   {
    "slug": "shropshire",
@@ -317,7 +343,8 @@
    "status": "paused",
    "planned_day": 26,
    "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 4
   },
   {
    "slug": "leicestershire",
@@ -329,7 +356,8 @@
    "status": "paused",
    "planned_day": 27,
    "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 4
   },
   {
    "slug": "cambridgeshire",
@@ -341,7 +369,8 @@
    "status": "paused",
    "planned_day": 28,
    "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 4
   },
   {
    "slug": "staffordshire",
@@ -353,7 +382,8 @@
    "status": "paused",
    "planned_day": 29,
    "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 4
   },
   {
    "slug": "rutland",
@@ -365,55 +395,8 @@
    "status": "paused",
    "planned_day": 30,
    "firms": 0,
-   "not_in_business": 0
-  },
-  {
-   "slug": "derbyshire",
-   "name": "Derbyshire",
-   "lat": 53.05,
-   "lng": -1.6,
-   "miles": 162,
-   "order": 31,
-   "status": "paused",
-   "planned_day": 31,
-   "firms": 0,
-   "not_in_business": 0
-  },
-  {
-   "slug": "suffolk",
-   "name": "Suffolk",
-   "lat": 52.2,
-   "lng": 1.0,
-   "miles": 164,
-   "order": 32,
-   "status": "paused",
-   "planned_day": 32,
-   "firms": 0,
-   "not_in_business": 0
-  },
-  {
-   "slug": "nottinghamshire",
-   "name": "Nottinghamshire",
-   "lat": 53.1,
-   "lng": -1.0,
-   "miles": 170,
-   "order": 33,
-   "status": "paused",
-   "planned_day": 33,
-   "firms": 0,
-   "not_in_business": 0
-  },
-  {
-   "slug": "cheshire",
-   "name": "Cheshire",
-   "lat": 53.2,
-   "lng": -2.55,
-   "miles": 173,
-   "order": 34,
-   "status": "paused",
-   "planned_day": 34,
-   "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 4
   },
   {
    "slug": "lincolnshire",
@@ -421,11 +404,64 @@
    "lat": 53.1,
    "lng": -0.3,
    "miles": 180,
+   "order": 31,
+   "status": "paused",
+   "planned_day": 31,
+   "firms": 0,
+   "not_in_business": 0,
+   "ring": 4
+  },
+  {
+   "slug": "derbyshire",
+   "name": "Derbyshire",
+   "lat": 53.05,
+   "lng": -1.6,
+   "miles": 162,
+   "order": 32,
+   "status": "paused",
+   "planned_day": 32,
+   "firms": 0,
+   "not_in_business": 0,
+   "ring": 5
+  },
+  {
+   "slug": "suffolk",
+   "name": "Suffolk",
+   "lat": 52.2,
+   "lng": 1.0,
+   "miles": 164,
+   "order": 33,
+   "status": "paused",
+   "planned_day": 33,
+   "firms": 0,
+   "not_in_business": 0,
+   "ring": 5
+  },
+  {
+   "slug": "nottinghamshire",
+   "name": "Nottinghamshire",
+   "lat": 53.1,
+   "lng": -1.0,
+   "miles": 170,
+   "order": 34,
+   "status": "paused",
+   "planned_day": 34,
+   "firms": 0,
+   "not_in_business": 0,
+   "ring": 5
+  },
+  {
+   "slug": "cheshire",
+   "name": "Cheshire",
+   "lat": 53.2,
+   "lng": -2.55,
+   "miles": 173,
    "order": 35,
    "status": "paused",
    "planned_day": 35,
    "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 5
   },
   {
    "slug": "norfolk",
@@ -437,31 +473,8 @@
    "status": "paused",
    "planned_day": 36,
    "firms": 0,
-   "not_in_business": 0
-  },
-  {
-   "slug": "greater-manchester",
-   "name": "Greater Manchester",
-   "lat": 53.48,
-   "lng": -2.25,
-   "miles": 191,
-   "order": 37,
-   "status": "paused",
-   "planned_day": 37,
-   "firms": 0,
-   "not_in_business": 0
-  },
-  {
-   "slug": "merseyside",
-   "name": "Merseyside",
-   "lat": 53.43,
-   "lng": -2.95,
-   "miles": 192,
-   "order": 38,
-   "status": "paused",
-   "planned_day": 38,
-   "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 5
   },
   {
    "slug": "south-yorkshire",
@@ -469,35 +482,12 @@
    "lat": 53.5,
    "lng": -1.3,
    "miles": 195,
-   "order": 39,
+   "order": 37,
    "status": "paused",
-   "planned_day": 39,
+   "planned_day": 37,
    "firms": 0,
-   "not_in_business": 0
-  },
-  {
-   "slug": "west-yorkshire",
-   "name": "West Yorkshire",
-   "lat": 53.75,
-   "lng": -1.65,
-   "miles": 210,
-   "order": 40,
-   "status": "paused",
-   "planned_day": 40,
-   "firms": 0,
-   "not_in_business": 0
-  },
-  {
-   "slug": "lancashire",
-   "name": "Lancashire",
-   "lat": 53.85,
-   "lng": -2.6,
-   "miles": 218,
-   "order": 41,
-   "status": "paused",
-   "planned_day": 41,
-   "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 5
   },
   {
    "slug": "east-riding-of-yorkshire",
@@ -505,11 +495,51 @@
    "lat": 53.85,
    "lng": -0.6,
    "miles": 224,
-   "order": 42,
+   "order": 38,
    "status": "paused",
-   "planned_day": 42,
+   "planned_day": 38,
    "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 5
+  },
+  {
+   "slug": "greater-manchester",
+   "name": "Greater Manchester",
+   "lat": 53.48,
+   "lng": -2.25,
+   "miles": 191,
+   "order": 39,
+   "status": "paused",
+   "planned_day": 39,
+   "firms": 0,
+   "not_in_business": 0,
+   "ring": 6
+  },
+  {
+   "slug": "merseyside",
+   "name": "Merseyside",
+   "lat": 53.43,
+   "lng": -2.95,
+   "miles": 192,
+   "order": 40,
+   "status": "paused",
+   "planned_day": 40,
+   "firms": 0,
+   "not_in_business": 0,
+   "ring": 6
+  },
+  {
+   "slug": "west-yorkshire",
+   "name": "West Yorkshire",
+   "lat": 53.75,
+   "lng": -1.65,
+   "miles": 210,
+   "order": 41,
+   "status": "paused",
+   "planned_day": 41,
+   "firms": 0,
+   "not_in_business": 0,
+   "ring": 6
   },
   {
    "slug": "north-yorkshire",
@@ -517,11 +547,25 @@
    "lat": 54.15,
    "lng": -1.4,
    "miles": 239,
+   "order": 42,
+   "status": "paused",
+   "planned_day": 42,
+   "firms": 0,
+   "not_in_business": 0,
+   "ring": 6
+  },
+  {
+   "slug": "lancashire",
+   "name": "Lancashire",
+   "lat": 53.85,
+   "lng": -2.6,
+   "miles": 218,
    "order": 43,
    "status": "paused",
    "planned_day": 43,
    "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 7
   },
   {
    "slug": "cumbria",
@@ -533,7 +577,8 @@
    "status": "paused",
    "planned_day": 44,
    "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 7
   },
   {
    "slug": "county-durham",
@@ -545,7 +590,8 @@
    "status": "paused",
    "planned_day": 45,
    "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 7
   },
   {
    "slug": "tyne-and-wear",
@@ -557,7 +603,8 @@
    "status": "paused",
    "planned_day": 46,
    "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 8
   },
   {
    "slug": "northumberland",
@@ -569,7 +616,8 @@
    "status": "paused",
    "planned_day": 47,
    "firms": 0,
-   "not_in_business": 0
+   "not_in_business": 0,
+   "ring": 8
   }
  ]
 }

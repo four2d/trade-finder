@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-15T22:11:20+01:00",
+ "last_updated": "2026-10-15T22:22:02+01:00",
  "issue_date": "2026-10-15",
  "issue_no": 1,
  "radius_miles": 25,
@@ -13,22 +13,22 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 1206,
-  "driveways": 145,
-  "paving_patios": 78,
-  "surfacing": 63,
-  "groundworks": 3339,
-  "lawns_grounds": 1132,
-  "fencing_boundaries": 130,
-  "decking_structures": 322,
+  "landscaping": 1309,
+  "driveways": 163,
+  "paving_patios": 98,
+  "surfacing": 73,
+  "groundworks": 4161,
+  "lawns_grounds": 1226,
+  "fencing_boundaries": 142,
+  "decking_structures": 391,
   "outdoor_masonry": 1,
-  "trees_vegetation": 154,
-  "water_drainage": 90,
-  "exterior_cleaning": 250
+  "trees_vegetation": 161,
+  "water_drainage": 109,
+  "exterior_cleaning": 322
  },
- "total": 5289,
- "total_ever": 10335,
- "new_this_issue": 10335,
+ "total": 6396,
+ "total_ever": 12903,
+ "new_this_issue": 12903,
  "version": "1.1",
  "phase": 1,
  "sample_mode": false,
@@ -42,20 +42,20 @@
   "dup_domains": [],
   "dup_phones": [],
   "dup_ch": [],
-  "closed_not_in_business": 5017,
-  "enriched_from_ch": 83,
-  "in_radius": 5289,
-  "serves_only": 29,
+  "closed_not_in_business": 6462,
+  "enriched_from_ch": 99,
+  "in_radius": 6396,
+  "serves_only": 45,
   "verified_trading": 134,
-  "ch_only_leads": 5155,
+  "ch_only_leads": 6262,
   "verified_phone_or_web_pct": 67,
-  "verified_conf_ge_05_pct": 63,
+  "verified_conf_ge_05_pct": 68,
   "all_have_source_town_distance": true,
   "contactable": 134,
-  "phone_or_web_pct": 2,
+  "phone_or_web_pct": 1,
   "conf_ge_05_pct": 99,
-  "needs_check": 5210,
-  "no_website": 5210
+  "needs_check": 6317,
+  "no_website": 6317
  },
  "counties": [
   {
@@ -69,34 +69,24 @@
    "order": 1
   },
   {
-   "slug": "isle-of-wight",
-   "name": "Isle of Wight",
-   "status": "paused",
-   "firms": 0,
-   "not_in_business": 0,
-   "added": null,
-   "miles": 30,
-   "order": 2
-  },
-  {
    "slug": "hampshire",
    "name": "Hampshire",
    "status": "in_progress",
-   "firms": 3450,
-   "not_in_business": 3179,
+   "firms": 4523,
+   "not_in_business": 4592,
    "added": "2026-10-15",
    "miles": 38,
-   "order": 3
+   "order": 2
   },
   {
    "slug": "wiltshire",
    "name": "Wiltshire",
-   "status": "paused",
-   "firms": 34,
-   "not_in_business": 23,
+   "status": "in_progress",
+   "firms": 68,
+   "not_in_business": 55,
    "added": "2026-10-15",
    "miles": 43,
-   "order": 4
+   "order": 3
   },
   {
    "slug": "somerset",
@@ -106,57 +96,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 50,
-   "order": 5
-  },
-  {
-   "slug": "bristol",
-   "name": "Bristol",
-   "status": "paused",
-   "firms": 0,
-   "not_in_business": 0,
-   "added": null,
-   "miles": 57,
-   "order": 6
-  },
-  {
-   "slug": "berkshire",
-   "name": "Berkshire",
-   "status": "paused",
-   "firms": 0,
-   "not_in_business": 0,
-   "added": null,
-   "miles": 64,
-   "order": 7
-  },
-  {
-   "slug": "west-sussex",
-   "name": "West Sussex",
-   "status": "paused",
-   "firms": 0,
-   "not_in_business": 0,
-   "added": null,
-   "miles": 70,
-   "order": 8
-  },
-  {
-   "slug": "gloucestershire",
-   "name": "Gloucestershire",
-   "status": "paused",
-   "firms": 0,
-   "not_in_business": 0,
-   "added": null,
-   "miles": 78,
-   "order": 9
-  },
-  {
-   "slug": "surrey",
-   "name": "Surrey",
-   "status": "paused",
-   "firms": 0,
-   "not_in_business": 0,
-   "added": null,
-   "miles": 78,
-   "order": 10
+   "order": 4
   },
   {
    "slug": "devon",
@@ -166,6 +106,66 @@
    "not_in_business": 0,
    "added": null,
    "miles": 79,
+   "order": 5
+  },
+  {
+   "slug": "isle-of-wight",
+   "name": "Isle of Wight",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 30,
+   "order": 6
+  },
+  {
+   "slug": "bristol",
+   "name": "Bristol",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 57,
+   "order": 7
+  },
+  {
+   "slug": "berkshire",
+   "name": "Berkshire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 64,
+   "order": 8
+  },
+  {
+   "slug": "west-sussex",
+   "name": "West Sussex",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 70,
+   "order": 9
+  },
+  {
+   "slug": "gloucestershire",
+   "name": "Gloucestershire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 78,
+   "order": 10
+  },
+  {
+   "slug": "surrey",
+   "name": "Surrey",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 78,
    "order": 11
   },
   {
@@ -179,6 +179,16 @@
    "order": 12
   },
   {
+   "slug": "cornwall",
+   "name": "Cornwall",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 130,
+   "order": 13
+  },
+  {
    "slug": "buckinghamshire",
    "name": "Buckinghamshire",
    "status": "paused",
@@ -186,7 +196,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 90,
-   "order": 13
+   "order": 14
   },
   {
    "slug": "greater-london",
@@ -196,7 +206,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 97,
-   "order": 14
+   "order": 15
   },
   {
    "slug": "east-sussex",
@@ -206,7 +216,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 99,
-   "order": 15
+   "order": 16
   },
   {
    "slug": "herefordshire",
@@ -216,7 +226,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 100,
-   "order": 16
+   "order": 17
   },
   {
    "slug": "worcestershire",
@@ -226,16 +236,6 @@
    "not_in_business": 0,
    "added": null,
    "miles": 103,
-   "order": 17
-  },
-  {
-   "slug": "hertfordshire",
-   "name": "Hertfordshire",
-   "status": "paused",
-   "firms": 0,
-   "not_in_business": 0,
-   "added": null,
-   "miles": 106,
    "order": 18
   },
   {
@@ -249,16 +249,6 @@
    "order": 19
   },
   {
-   "slug": "bedfordshire",
-   "name": "Bedfordshire",
-   "status": "paused",
-   "firms": 0,
-   "not_in_business": 0,
-   "added": null,
-   "miles": 114,
-   "order": 20
-  },
-  {
    "slug": "northamptonshire",
    "name": "Northamptonshire",
    "status": "paused",
@@ -266,17 +256,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 119,
-   "order": 21
-  },
-  {
-   "slug": "west-midlands",
-   "name": "West Midlands",
-   "status": "paused",
-   "firms": 0,
-   "not_in_business": 0,
-   "added": null,
-   "miles": 122,
-   "order": 22
+   "order": 20
   },
   {
    "slug": "kent",
@@ -286,16 +266,36 @@
    "not_in_business": 0,
    "added": null,
    "miles": 124,
-   "order": 23
+   "order": 21
   },
   {
-   "slug": "cornwall",
-   "name": "Cornwall",
+   "slug": "hertfordshire",
+   "name": "Hertfordshire",
    "status": "paused",
    "firms": 0,
    "not_in_business": 0,
    "added": null,
-   "miles": 130,
+   "miles": 106,
+   "order": 22
+  },
+  {
+   "slug": "bedfordshire",
+   "name": "Bedfordshire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 114,
+   "order": 23
+  },
+  {
+   "slug": "west-midlands",
+   "name": "West Midlands",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 122,
    "order": 24
   },
   {
@@ -359,6 +359,16 @@
    "order": 30
   },
   {
+   "slug": "lincolnshire",
+   "name": "Lincolnshire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 180,
+   "order": 31
+  },
+  {
    "slug": "derbyshire",
    "name": "Derbyshire",
    "status": "paused",
@@ -366,7 +376,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 162,
-   "order": 31
+   "order": 32
   },
   {
    "slug": "suffolk",
@@ -376,7 +386,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 164,
-   "order": 32
+   "order": 33
   },
   {
    "slug": "nottinghamshire",
@@ -386,7 +396,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 170,
-   "order": 33
+   "order": 34
   },
   {
    "slug": "cheshire",
@@ -396,16 +406,6 @@
    "not_in_business": 0,
    "added": null,
    "miles": 173,
-   "order": 34
-  },
-  {
-   "slug": "lincolnshire",
-   "name": "Lincolnshire",
-   "status": "paused",
-   "firms": 0,
-   "not_in_business": 0,
-   "added": null,
-   "miles": 180,
    "order": 35
   },
   {
@@ -419,26 +419,6 @@
    "order": 36
   },
   {
-   "slug": "greater-manchester",
-   "name": "Greater Manchester",
-   "status": "paused",
-   "firms": 0,
-   "not_in_business": 0,
-   "added": null,
-   "miles": 191,
-   "order": 37
-  },
-  {
-   "slug": "merseyside",
-   "name": "Merseyside",
-   "status": "paused",
-   "firms": 0,
-   "not_in_business": 0,
-   "added": null,
-   "miles": 192,
-   "order": 38
-  },
-  {
    "slug": "south-yorkshire",
    "name": "South Yorkshire",
    "status": "paused",
@@ -446,27 +426,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 195,
-   "order": 39
-  },
-  {
-   "slug": "west-yorkshire",
-   "name": "West Yorkshire",
-   "status": "paused",
-   "firms": 0,
-   "not_in_business": 0,
-   "added": null,
-   "miles": 210,
-   "order": 40
-  },
-  {
-   "slug": "lancashire",
-   "name": "Lancashire",
-   "status": "paused",
-   "firms": 0,
-   "not_in_business": 0,
-   "added": null,
-   "miles": 218,
-   "order": 41
+   "order": 37
   },
   {
    "slug": "east-riding-of-yorkshire",
@@ -476,7 +436,37 @@
    "not_in_business": 0,
    "added": null,
    "miles": 224,
-   "order": 42
+   "order": 38
+  },
+  {
+   "slug": "greater-manchester",
+   "name": "Greater Manchester",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 191,
+   "order": 39
+  },
+  {
+   "slug": "merseyside",
+   "name": "Merseyside",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 192,
+   "order": 40
+  },
+  {
+   "slug": "west-yorkshire",
+   "name": "West Yorkshire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 210,
+   "order": 41
   },
   {
    "slug": "north-yorkshire",
@@ -486,6 +476,16 @@
    "not_in_business": 0,
    "added": null,
    "miles": 239,
+   "order": 42
+  },
+  {
+   "slug": "lancashire",
+   "name": "Lancashire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 218,
    "order": 43
   },
   {
@@ -530,58 +530,58 @@
   }
  ],
  "S": {
-  "tot": 3450,
+  "tot": 4523,
   "counts": {
-   "landscaping": 826,
-   "driveways": 66,
-   "paving_patios": 43,
-   "surfacing": 37,
-   "groundworks": 2149,
-   "lawns_grounds": 786,
-   "fencing_boundaries": 63,
-   "decking_structures": 204,
+   "landscaping": 921,
+   "driveways": 84,
+   "paving_patios": 62,
+   "surfacing": 47,
+   "groundworks": 2955,
+   "lawns_grounds": 873,
+   "fencing_boundaries": 74,
+   "decking_structures": 270,
    "outdoor_masonry": 0,
-   "trees_vegetation": 97,
-   "water_drainage": 49,
-   "exterior_cleaning": 201
+   "trees_vegetation": 104,
+   "water_drainage": 67,
+   "exterior_cleaning": 269
   },
   "avg": "5.0",
   "ltd": 100,
   "ar": 11,
-  "nw": 3450,
+  "nw": 4523,
   "top": {
    "score": 10,
    "town": "Lymington",
    "name": "Kaleidoscape Landscaping"
   },
-  "dv": 24,
+  "dv": 31,
   "prim": {
-   "landscaping": 776,
-   "driveways": 31,
-   "paving_patios": 12,
-   "surfacing": 14,
-   "groundworks": 2139,
+   "landscaping": 867,
+   "driveways": 40,
+   "paving_patios": 25,
+   "surfacing": 17,
+   "groundworks": 2942,
    "lawns_grounds": 3,
-   "fencing_boundaries": 16,
-   "decking_structures": 186,
+   "fencing_boundaries": 22,
+   "decking_structures": 250,
    "outdoor_masonry": 0,
-   "trees_vegetation": 39,
-   "water_drainage": 38,
-   "exterior_cleaning": 196
+   "trees_vegetation": 42,
+   "water_drainage": 53,
+   "exterior_cleaning": 262
   },
   "sec": {
-   "landscaping": 826,
-   "driveways": 66,
-   "paving_patios": 43,
-   "surfacing": 37,
-   "groundworks": 2149,
-   "lawns_grounds": 786,
-   "fencing_boundaries": 63,
-   "decking_structures": 204,
+   "landscaping": 921,
+   "driveways": 84,
+   "paving_patios": 62,
+   "surfacing": 47,
+   "groundworks": 2955,
+   "lawns_grounds": 873,
+   "fencing_boundaries": 74,
+   "decking_structures": 270,
    "outdoor_masonry": 0,
-   "trees_vegetation": 97,
-   "water_drainage": 49,
-   "exterior_cleaning": 201
+   "trees_vegetation": 104,
+   "water_drainage": 67,
+   "exterior_cleaning": 269
   },
   "types": {
    "landscaping": [
@@ -595,6 +595,8 @@
     "grounds_maintenance",
     "groundworks_contractor",
     "imprinted_concrete",
+    "jet_washing",
+    "landscape_contractor",
     "landscape_gardener",
     "patio_installer",
     "plant_hire",
@@ -613,6 +615,8 @@
     "gravel_driveway",
     "groundworks_contractor",
     "imprinted_concrete",
+    "jet_washing",
+    "landscape_contractor",
     "landscape_gardener",
     "patio_installer",
     "plant_hire",
@@ -630,8 +634,11 @@
     "fencing_contractor",
     "garden_designer",
     "garden_maintenance",
+    "grounds_maintenance",
     "groundworks_contractor",
     "imprinted_concrete",
+    "jet_washing",
+    "landscape_contractor",
     "landscape_gardener",
     "patio_installer",
     "resin_bound",
@@ -659,15 +666,18 @@
    ],
    "lawns_grounds": [
     "block_paving",
+    "driveway_installer",
     "fencing_contractor",
     "garden_designer",
     "garden_maintenance",
     "grounds_maintenance",
+    "jet_washing",
     "landscape_gardener",
     "patio_installer",
     "resin_bound",
     "tarmac",
-    "timber_decking"
+    "timber_decking",
+    "tree_surgeon"
    ],
    "fencing_boundaries": [
     "block_paving",
@@ -678,7 +688,10 @@
     "garden_designer",
     "garden_maintenance",
     "gates",
+    "grounds_maintenance",
     "groundworks_contractor",
+    "jet_washing",
+    "landscape_contractor",
     "landscape_gardener",
     "patio_installer",
     "plant_hire",
@@ -690,8 +703,11 @@
     "fencing_contractor",
     "garden_designer",
     "garden_maintenance",
+    "garden_room_builder",
     "gates",
+    "grounds_maintenance",
     "groundworks_contractor",
+    "landscape_contractor",
     "landscape_gardener",
     "patio_installer",
     "resin_bound",
@@ -702,6 +718,7 @@
    "trees_vegetation": [
     "fencing_contractor",
     "garden_maintenance",
+    "grounds_maintenance",
     "hedge_maintenance",
     "landscape_gardener",
     "patio_installer",
@@ -726,25 +743,26 @@
     "garden_maintenance",
     "groundworks_contractor",
     "imprinted_concrete",
+    "jet_washing",
     "landscape_gardener",
     "resin_bound",
     "resin_driveways"
    ]
   },
-  "nib": 3179,
+  "nib": 4592,
   "nibA": {
-   "landscaping": 663,
-   "driveways": 63,
-   "paving_patios": 43,
-   "surfacing": 41,
-   "groundworks": 2131,
-   "lawns_grounds": 636,
-   "fencing_boundaries": 41,
-   "decking_structures": 137,
+   "landscaping": 797,
+   "driveways": 85,
+   "paving_patios": 66,
+   "surfacing": 59,
+   "groundworks": 3219,
+   "lawns_grounds": 764,
+   "fencing_boundaries": 49,
+   "decking_structures": 207,
    "outdoor_masonry": 0,
-   "trees_vegetation": 85,
-   "water_drainage": 38,
-   "exterior_cleaning": 153
+   "trees_vegetation": 95,
+   "water_drainage": 51,
+   "exterior_cleaning": 236
   },
   "mx": 68
  },
