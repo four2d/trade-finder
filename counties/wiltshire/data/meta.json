@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-15T21:14:23+01:00",
+ "last_updated": "2026-10-15T21:20:47+01:00",
  "issue_date": "2026-10-15",
  "issue_no": 1,
  "radius_miles": 25,
@@ -49,7 +49,7 @@
   "verified_trading": 106,
   "ch_only_leads": 4470,
   "verified_phone_or_web_pct": 61,
-  "verified_conf_ge_05_pct": 59,
+  "verified_conf_ge_05_pct": 53,
   "all_have_source_town_distance": true,
   "contactable": 106,
   "phone_or_web_pct": 1,
