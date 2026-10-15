@@ -41,3 +41,5 @@
 - 22:13 BST batch M: fixed the card Map button (real link in a new tab: Google Maps URL if known, else a Google Maps search by name+town+postcode, else an OSM pin); added a Show on map button; popups link to maps. 50 more firms enriched (83 in total). Out of scope: RM Driveways (Devon), Aquatech (Somerset), Bondeck (site safety decking).
 
 - 22:25 BST: Enrichment: 66 Hampshire/Dorset firms enriched tonight; Wiltshire added (in progress); county queue re-ordered by adjacency rings from Dorset
+
+- 22:51 BST: Enrichment: 110 firms enriched overnight (Hampshire queue + Poole/Bournemouth)

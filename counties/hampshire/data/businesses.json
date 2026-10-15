@@ -231,16 +231,253 @@
   "county": "hampshire"
  },
  {
+  "id": "tf_1ad340a0",
+  "name": "Revitalise Gardens",
+  "legal_name": "REVITALISE GARDENS LTD",
+  "name_normalised": "revitalise gardens",
+  "areas": [
+   "landscaping",
+   "paving_patios",
+   "driveways",
+   "decking_structures",
+   "fencing_boundaries",
+   "lawns_grounds"
+  ],
+  "types": [
+   "garden_designer",
+   "landscape_gardener",
+   "driveway_installer"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Southampton",
+  "postcode": "SO32",
+  "lat": 50.94776630678472,
+  "lng": -1.2099190191740428,
+  "distance_miles": 37.5,
+  "serves_area_only": true,
+  "phone": "07862 136707",
+  "phone_e164": "+447862136707",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://revitalisegardens.co.uk",
+  "domain": "revitalisegardens.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.94776630678472&mlon=-1.2099190191740428#map=13/50.94776630678472/-1.2099190191740428",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 10,
+   "reviews": 265,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/RevitaliseGardensLtd",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "08396702",
+   "status": "active",
+   "incorporated": "2013-02-11",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08396702"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 13,
+  "accreditations": [],
+  "services_notes": "Garden design (CAD/3D) & build: patios, walling, block/permeable/tarmac drives, decking, pergolas, ponds, lawns, maintenance; Botley; founder holds HND Garden Design (Sparsholt)",
+  "badges": [
+   "highly_rated",
+   "vetted",
+   "ltd_company",
+   "established"
+  ],
+  "score": 81,
+  "score_breakdown": {
+   "rating": 35,
+   "reviews": 15,
+   "vetted": 16,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://revitalisegardens.co.uk/contact/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/RevitaliseGardensLtd",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08396702",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_11e49fac",
+  "name": "South Hants Landscapes",
+  "legal_name": "SOUTH HANTS LANDSCAPES LIMITED",
+  "name_normalised": "south hants landscapes",
+  "areas": [
+   "landscaping",
+   "driveways",
+   "paving_patios",
+   "fencing_boundaries",
+   "lawns_grounds",
+   "decking_structures"
+  ],
+  "types": [
+   "landscape_gardener",
+   "driveway_installer",
+   "grounds_maintenance"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Fair Oak",
+  "postcode": "SO50",
+  "lat": 50.969068031060594,
+  "lng": -1.3405471606060608,
+  "distance_miles": 33.2,
+  "serves_area_only": true,
+  "phone": "07939 515577",
+  "phone_e164": "+447939515577",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://southhantslandscapes.co.uk",
+  "domain": "southhantslandscapes.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.969068031060594&mlon=-1.3405471606060608#map=13/50.969068031060594/-1.3405471606060608",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 10,
+   "reviews": 259,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/southhantslandscapesltd",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12758287",
+   "status": "active",
+   "incorporated": "2020-07-21",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12758287"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Landscaping, block/gravel/concrete drives, patios, fencing & gates, commercial grounds maintenance; Havant/Portsmouth area",
+  "badges": [
+   "highly_rated",
+   "vetted",
+   "ltd_company"
+  ],
+  "score": 80,
+  "score_breakdown": {
+   "rating": 35,
+   "reviews": 14,
+   "vetted": 16,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://southhantslandscapes.co.uk/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/southhantslandscapesltd",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12758287",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
   "id": "tf_91fd29db",
   "name": "Garden Force",
   "legal_name": "GARDEN FORCE (HAMPSHIRE) LIMITED",
   "name_normalised": "garden force",
   "areas": [
    "lawns_grounds",
+   "paving_patios",
    "landscaping",
-   "trees_vegetation",
    "fencing_boundaries",
-   "paving_patios"
+   "trees_vegetation"
   ],
   "types": [
    "garden_maintenance",
@@ -344,17 +581,135 @@
   "county": "hampshire"
  },
  {
+  "id": "tf_d552827b",
+  "name": "H-W Tree Surgeons",
+  "legal_name": "H-W TREE SURGEONS LTD",
+  "name_normalised": "h w tree surgeons",
+  "areas": [
+   "trees_vegetation",
+   "lawns_grounds",
+   "fencing_boundaries"
+  ],
+  "types": [
+   "tree_surgeon",
+   "grounds_maintenance"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Eastleigh",
+  "postcode": "SO50",
+  "lat": 50.969068031060594,
+  "lng": -1.3405471606060608,
+  "distance_miles": 33.2,
+  "serves_area_only": true,
+  "phone": "01962 601010",
+  "phone_e164": "+441962601010",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://hwtreesurgeons.co.uk",
+  "domain": "hwtreesurgeons.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.969068031060594&mlon=-1.3405471606060608#map=13/50.969068031060594/-1.3405471606060608",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 9.94,
+   "reviews": 65,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/hwtreesurgeonsltd",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09611918",
+   "status": "active",
+   "incorporated": "2015-05-28",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09611918"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 11,
+  "accreditations": [
+   "CHAS",
+   "NPTC"
+  ],
+  "services_notes": "Family-run tree surgery & grounds maintenance, 20+ yrs, 24-hr call-out; Eastleigh/Winchester, covers Dorset & Wiltshire too",
+  "badges": [
+   "highly_rated",
+   "vetted",
+   "ltd_company",
+   "established"
+  ],
+  "score": 78,
+  "score_breakdown": {
+   "rating": 32,
+   "reviews": 11,
+   "vetted": 20,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://hwtreesurgeons.co.uk/contact-us/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/hwtreesurgeonsltd",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "accreditations"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09611918",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
   "id": "tf_a48bef82",
   "name": "Kaleidoscape Landscaping",
   "legal_name": "KALEIDOSCAPE LANDSCAPING LIMITED",
   "name_normalised": "kaleidoscape landscaping",
   "areas": [
    "landscaping",
-   "lawns_grounds",
+   "paving_patios",
    "driveways",
    "decking_structures",
-   "paving_patios",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
@@ -460,17 +815,133 @@
   "county": "hampshire"
  },
  {
+  "id": "tf_b23a83f5",
+  "name": "Resin Works (South)",
+  "legal_name": "RESIN WORKS (SOUTH) LTD",
+  "name_normalised": "resin works south",
+  "areas": [
+   "driveways",
+   "surfacing",
+   "paving_patios",
+   "water_drainage"
+  ],
+  "types": [
+   "resin_driveway",
+   "driveway_installer",
+   "block_paving"
+  ],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Fareham",
+  "postcode": "PO14",
+  "lat": 50.838742153327,
+  "lng": -1.2193512468659595,
+  "distance_miles": 34.6,
+  "serves_area_only": true,
+  "phone": "07966 276849",
+  "phone_e164": "+447966276849",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.resin-works.com",
+  "domain": "resin-works.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.838742153327&mlon=-1.2193512468659595#map=13/50.838742153327/-1.2193512468659595",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 9.9,
+   "reviews": 82,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/resinworkssouthltd",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14465770",
+   "status": "active",
+   "incorporated": "2022-11-07",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14465770"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Resin-bound drives, patios & paths, block & permeable paving, drop kerbs, soakaways; Fareham",
+  "badges": [
+   "highly_rated",
+   "vetted",
+   "ltd_company"
+  ],
+  "score": 76,
+  "score_breakdown": {
+   "rating": 33,
+   "reviews": 12,
+   "vetted": 16,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.resin-works.com/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/resinworkssouthltd",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14465770",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
   "id": "tf_24167a82",
   "name": "Autumn Leaf Garden Works",
   "legal_name": "AUTUMN LEAF GARDEN WORKS LTD",
   "name_normalised": "autumn leaf garden works",
   "areas": [
    "landscaping",
-   "lawns_grounds",
-   "trees_vegetation",
-   "decking_structures",
    "paving_patios",
-   "fencing_boundaries"
+   "decking_structures",
+   "fencing_boundaries",
+   "lawns_grounds",
+   "trees_vegetation"
   ],
   "types": [
    "landscape_gardener",
@@ -585,8 +1056,8 @@
   "areas": [
    "landscaping",
    "paving_patios",
-   "fencing_boundaries",
    "decking_structures",
+   "fencing_boundaries",
    "lawns_grounds"
   ],
   "types": [
@@ -809,8 +1280,8 @@
   "areas": [
    "driveways",
    "paving_patios",
-   "landscaping",
    "groundworks",
+   "landscaping",
    "lawns_grounds"
   ],
   "types": [
@@ -919,8 +1390,8 @@
   "name_normalised": "mc groundworks",
   "areas": [
    "groundworks",
-   "driveways",
    "paving_patios",
+   "driveways",
    "water_drainage",
    "fencing_boundaries"
   ],
@@ -1033,16 +1504,132 @@
   "county": "hampshire"
  },
  {
+  "id": "tf_426cc401",
+  "name": "RB Landscaping & Groundworks",
+  "legal_name": "RB LANDSCAPING & GROUNDWORKS LTD",
+  "name_normalised": "rb landscaping groundworks",
+  "areas": [
+   "landscaping",
+   "groundworks",
+   "fencing_boundaries",
+   "paving_patios",
+   "lawns_grounds",
+   "decking_structures"
+  ],
+  "types": [
+   "landscape_gardener",
+   "groundworks_contractor"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Eastleigh",
+  "postcode": "SO50",
+  "lat": 50.969068031060594,
+  "lng": -1.3405471606060608,
+  "distance_miles": 33.2,
+  "serves_area_only": true,
+  "phone": "07717 336149",
+  "phone_e164": "+447717336149",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://rblandscapingandgroundworks.co.uk",
+  "domain": "rblandscapingandgroundworks.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.969068031060594&mlon=-1.3405471606060608#map=13/50.969068031060594/-1.3405471606060608",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 9.22,
+   "reviews": 26,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/rblandscapingandgroundworksltd",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13701486",
+   "status": "active",
+   "incorporated": "2021-10-25",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13701486"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [],
+  "services_notes": "Landscaping & groundworks, fencing, paving, turfing, decking, ponds, garden maintenance; Fair Oak, Eastleigh",
+  "badges": [
+   "vetted",
+   "ltd_company"
+  ],
+  "score": 63,
+  "score_breakdown": {
+   "rating": 23,
+   "reviews": 9,
+   "vetted": 16,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://rblandscapingandgroundworks.co.uk/contact-us/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/rblandscapingandgroundworksltd",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13701486",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
   "id": "tf_be1e3e34",
   "name": "Redwood Landscapes",
   "legal_name": null,
   "name_normalised": "redwood landscapes",
   "areas": [
    "driveways",
-   "lawns_grounds",
-   "decking_structures",
    "paving_patios",
-   "landscaping"
+   "decking_structures",
+   "landscaping",
+   "lawns_grounds"
   ],
   "types": [
    "block_paving",
@@ -1135,7 +1722,7 @@
  {
   "id": "tf_e00b0ba1",
   "name": "Peter Yeates Arboriculture",
-  "legal_name": "PETER YEATES ARBORICULTURE LTD",
+  "legal_name": null,
   "name_normalised": "peter yeates arboriculture",
   "areas": [
    "trees_vegetation"
@@ -1178,29 +1765,20 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": {
-   "number": "14039979",
-   "status": "active",
-   "incorporated": "2022-04-11",
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/14039979"
-  },
+  "companies_house": null,
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "ltd",
+  "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Tree surgeon based in Winchester; covers Hampshire. Matched by name + district to PETER YEATES ARBORICULTURE LTD (check)",
+  "services_notes": "Tree surgeon based in Winchester; covers Hampshire",
   "badges": [
    "highly_rated",
    "vetted",
    "no_website",
-   "needs_check",
-   "ltd_company"
+   "needs_check"
   ],
   "score": 56,
   "score_breakdown": {
@@ -1210,8 +1788,8 @@
    "contact": 9,
    "distance": 0
   },
-  "confidence": 0.5,
-  "merge_review": true,
+  "confidence": 0.3,
+  "merge_review": false,
   "sources": [
    {
     "source": "checkatrade",
@@ -1222,15 +1800,6 @@
      "reviews",
      "phone",
      "base"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/14039979",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
     ]
    }
   ],
@@ -1427,14 +1996,125 @@
   "county": "hampshire"
  },
  {
+  "id": "tf_be7f8efe",
+  "name": "Stay Sure Drives & Patios",
+  "legal_name": "STAY SURE DRIVES AND PATIOS LTD",
+  "name_normalised": "stay sure drives patios",
+  "areas": [
+   "driveways",
+   "paving_patios",
+   "surfacing",
+   "exterior_cleaning",
+   "landscaping"
+  ],
+  "types": [
+   "driveway_installer",
+   "block_paving",
+   "resin_driveway"
+  ],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Southampton",
+  "postcode": "SO30",
+  "lat": 50.918498526060624,
+  "lng": -1.3021756351515137,
+  "distance_miles": 33.0,
+  "serves_area_only": true,
+  "phone": "07846 727479",
+  "phone_e164": "+447846727479",
+  "phone_type": "mobile",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.918498526060624&mlon=-1.3021756351515137#map=13/50.918498526060624/-1.3021756351515137",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 9.78,
+   "reviews": 3,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/staysuredrivespatiosltd",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "17378975",
+   "status": "active",
+   "incorporated": "2026-08-04",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/17378975"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 0,
+  "accreditations": [],
+  "services_notes": "Block paving, resin, tarmac & gravel drives, patios, driveway cleaning & sealing; Botley; new firm (inc. Aug 2026), only 3 Checkatrade reviews",
+  "badges": [
+   "vetted",
+   "ltd_company",
+   "new_business",
+   "no_website"
+  ],
+  "score": 39,
+  "score_breakdown": {
+   "rating": 10,
+   "reviews": 4,
+   "vetted": 16,
+   "contact": 9,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/staysuredrivespatiosltd",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/17378975",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
   "id": "tf_850ca540",
   "name": "Colourstone Resin",
   "legal_name": "COLOURSTONE RESIN LTD",
   "name_normalised": "colourstone resin",
   "areas": [
    "surfacing",
-   "driveways",
-   "paving_patios"
+   "paving_patios",
+   "driveways"
   ],
   "types": [
    "resin_driveways",
@@ -1541,9 +2221,9 @@
   "name_normalised": "salden groundworks",
   "areas": [
    "groundworks",
+   "paving_patios",
    "driveways",
-   "water_drainage",
-   "paving_patios"
+   "water_drainage"
   ],
   "types": [
    "groundworks_contractor",
@@ -1641,11 +2321,11 @@
   "name_normalised": "southern landscaping",
   "areas": [
    "landscaping",
-   "lawns_grounds",
+   "paving_patios",
    "driveways",
    "decking_structures",
-   "paving_patios",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
@@ -1744,10 +2424,10 @@
   "name_normalised": "sunset landscapes",
   "areas": [
    "landscaping",
+   "paving_patios",
    "driveways",
    "decking_structures",
    "groundworks",
-   "paving_patios",
    "fencing_boundaries"
   ],
   "types": [
@@ -2142,8 +2822,8 @@
   "name_normalised": "powell paving",
   "areas": [
    "driveways",
-   "paving_patios",
    "surfacing",
+   "paving_patios",
    "landscaping"
   ],
   "types": [
@@ -2244,10 +2924,10 @@
   "name_normalised": "redcliffe landscape gardeners",
   "areas": [
    "landscaping",
-   "lawns_grounds",
    "paving_patios",
    "water_drainage",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
@@ -2347,8 +3027,8 @@
   "name_normalised": "adam sidford gardens",
   "areas": [
    "landscaping",
-   "lawns_grounds",
-   "driveways"
+   "driveways",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
@@ -2440,14 +3120,234 @@
   "county": "hampshire"
  },
  {
+  "id": "tf_e933fd30",
+  "name": "Hambrooks Landscaping",
+  "legal_name": "HAMBROOK LANDSCAPES LIMITED",
+  "name_normalised": "hambrooks landscaping",
+  "areas": [
+   "landscaping",
+   "paving_patios",
+   "decking_structures",
+   "lawns_grounds"
+  ],
+  "types": [
+   "garden_designer",
+   "landscape_contractor"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Southampton",
+  "postcode": "SO32",
+  "lat": 50.94776630678472,
+  "lng": -1.2099190191740428,
+  "distance_miles": 37.5,
+  "serves_area_only": true,
+  "phone": "01489 779998",
+  "phone_e164": "+441489779998",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://hambrooks.co.uk",
+  "domain": "hambrooks.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.94776630678472&mlon=-1.2099190191740428#map=13/50.94776630678472/-1.2099190191740428",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "02521354",
+   "status": "active",
+   "incorporated": "1990-07-12",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/02521354"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 36,
+  "accreditations": [
+   "TrustMark"
+  ],
+  "services_notes": "Long-established design & build landscaping (est. 1990): design, patios, decking, ponds, irrigation, lighting, turf, maintenance; also runs Hambrooks Garden Centre in Titchfield; Curdridge; TrustMark registered",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 23,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 8,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://hambrooks.co.uk/contact/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "trustmark",
+    "url": "https://www.trustmark.org.uk/firms/Hambrook%20Landscapes%20Limited-987505-SO32%202DA?id=fa5d5afb-87d2-4e09-ba0c-eb52fd8085a9",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "membership"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/02521354",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_56c3c019",
+  "name": "Roni Phillips Landscapes",
+  "legal_name": "RONI PHILLIPS LANDSCAPES LIMITED",
+  "name_normalised": "roni phillips landscapes",
+  "areas": [
+   "landscaping",
+   "driveways",
+   "paving_patios",
+   "decking_structures",
+   "fencing_boundaries"
+  ],
+  "types": [
+   "landscape_gardener",
+   "driveway_installer",
+   "patio_installer"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Eastleigh",
+  "postcode": "SO50",
+  "lat": 50.969068031060594,
+  "lng": -1.3405471606060608,
+  "distance_miles": 33.2,
+  "serves_area_only": true,
+  "phone": "023 8019 7529",
+  "phone_e164": "+442380197529",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://roniphillipslandscapes.co.uk",
+  "domain": "roniphillipslandscapes.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.969068031060594&mlon=-1.3405471606060608#map=13/50.969068031060594/-1.3405471606060608",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "04507810",
+   "status": "active",
+   "incorporated": "2002-08-09",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04507810"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 24,
+  "accreditations": [
+   "Buy With Confidence (Trading Standards)"
+  ],
+  "services_notes": "Hard & soft landscaping, driveways, patios, pergolas, water features, walls, fencing, decking; Eastleigh; Trading Standards Buy With Confidence member",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 23,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 8,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://roniphillipslandscapes.co.uk/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "buywithconfidence",
+    "url": "https://www.buywithconfidence.gov.uk/profile/roni-phillips-landscapes-ltd/8559",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "membership"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/04507810",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
   "id": "tf_d7b23c7a",
   "name": "Swift Fencing & Landscaping",
   "legal_name": "SWIFT FENCING & LANDSCAPING LTD",
   "name_normalised": "swift fencing landscaping",
   "areas": [
    "fencing_boundaries",
-   "decking_structures",
    "paving_patios",
+   "decking_structures",
    "landscaping"
   ],
   "types": [
@@ -2545,9 +3445,9 @@
   "name_normalised": "whites groundworks maintenance",
   "areas": [
    "driveways",
+   "paving_patios",
    "exterior_cleaning",
-   "groundworks",
-   "paving_patios"
+   "groundworks"
   ],
   "types": [
    "block_paving",
@@ -2931,6 +3831,390 @@
   "county": "hampshire"
  },
  {
+  "id": "tf_c81a9115",
+  "name": "Adam Gibson Treecare Specialist",
+  "legal_name": "ADAM GIBSON TREECARE SPECIALIST LIMITED",
+  "name_normalised": "adam gibson treecare specialist",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Southampton",
+  "postcode": "SO32",
+  "lat": 50.94776630678472,
+  "lng": -1.2099190191740428,
+  "distance_miles": 37.5,
+  "serves_area_only": true,
+  "phone": "07786 704211",
+  "phone_e164": "+447786704211",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://adamgibsontreecare.co.uk",
+  "domain": "adamgibsontreecare.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.94776630678472&mlon=-1.2099190191740428#map=13/50.94776630678472/-1.2099190191740428",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11083034",
+   "status": "active",
+   "incorporated": "2017-11-27",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11083034"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 9,
+  "accreditations": [],
+  "services_notes": "Tree surgery & arboriculture: removal, crown work, pollarding, cable bracing, woodland management, hedges; Petersfield, Alton & Haslemere",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://adamgibsontreecare.co.uk/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11083034",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_8fa91d1f",
+  "name": "Alan Brind Tree Services",
+  "legal_name": "ALAN BRIND TREE SERVICES LTD",
+  "name_normalised": "alan brind tree",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Fareham",
+  "postcode": "PO15",
+  "lat": 50.868839628734044,
+  "lng": -1.2294448492176384,
+  "distance_miles": 34.8,
+  "serves_area_only": true,
+  "phone": "01329 847114",
+  "phone_e164": "+441329847114",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://alanbrindtreeservices.co.uk",
+  "domain": "alanbrindtreeservices.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.868839628734044&mlon=-1.2294448492176384#map=13/50.868839628734044/-1.2294448492176384",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "07267935",
+   "status": "active",
+   "incorporated": "2010-05-28",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07267935"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 16,
+  "accreditations": [],
+  "services_notes": "Pruning, removal, hedges, stump grinding, clearance for domestic, commercial & public-sector clients; Segensworth, Fareham",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://alanbrindtreeservices.co.uk/contact-us/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07267935",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_4e544ec1",
+  "name": "Avant Gardener",
+  "legal_name": "AVANT GARDENER LTD",
+  "name_normalised": "avant gardener",
+  "areas": [
+   "lawns_grounds",
+   "landscaping"
+  ],
+  "types": [
+   "garden_maintenance",
+   "landscape_gardener"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Fareham",
+  "postcode": "PO16",
+  "lat": 50.8508784904714,
+  "lng": -1.159120852557673,
+  "distance_miles": 37.4,
+  "serves_area_only": true,
+  "phone": "01329 739557",
+  "phone_e164": "+441329739557",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.avantgardener.uk",
+  "domain": "avantgardener.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.8508784904714&mlon=-1.159120852557673#map=13/50.8508784904714/-1.159120852557673",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14146776",
+   "status": "active",
+   "incorporated": "2022-06-01",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14146776"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Family-run garden maintenance, makeovers, redesigns & renovations for homes and businesses; Fareham",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.avantgardener.uk/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14146776",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_76c9873a",
+  "name": "Award Resin",
+  "legal_name": "AWARDRESIN LTD",
+  "name_normalised": "award resin",
+  "areas": [
+   "driveways",
+   "surfacing",
+   "paving_patios",
+   "landscaping"
+  ],
+  "types": [
+   "resin_driveway",
+   "driveway_installer",
+   "patio_installer"
+  ],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Eastleigh",
+  "postcode": "SO50",
+  "lat": 50.952529,
+  "lng": -1.322617,
+  "distance_miles": 33.3,
+  "serves_area_only": true,
+  "phone": "0800 072 6609",
+  "phone_e164": "+448000726609",
+  "phone_type": "freephone",
+  "email": null,
+  "website": "https://awardresinltd.co.uk",
+  "domain": "awardresinltd.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.952529&mlon=-1.322617#map=13/50.952529/-1.322617",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "10692440",
+   "status": "active",
+   "incorporated": "2017-03-27",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10692440"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 9,
+  "accreditations": [],
+  "services_notes": "Resin-bound driveways, paving, patios, surfacing & artificial lawns; Fair Oak, Eastleigh",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://awardresinltd.co.uk/contact-us/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10692440",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
   "id": "tf_2f7cd8e3",
   "name": "Aztec Fencing",
   "legal_name": "AZTEC FENCING LIMITED",
@@ -3011,6 +4295,778 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/08928596",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_15bf5fdc",
+  "name": "Bay Landscape Design",
+  "legal_name": "BAY LANDSCAPE DESIGN LTD",
+  "name_normalised": "bay landscape design",
+  "areas": [
+   "landscaping",
+   "paving_patios",
+   "driveways",
+   "decking_structures",
+   "water_drainage"
+  ],
+  "types": [
+   "garden_designer",
+   "landscape_contractor"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Whiteley",
+  "postcode": "PO15",
+  "lat": 50.868839628734044,
+  "lng": -1.2294448492176384,
+  "distance_miles": 34.8,
+  "serves_area_only": true,
+  "phone": "023 8000 2234",
+  "phone_e164": "+442380002234",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.baylandscapedesign.co.uk",
+  "domain": "baylandscapedesign.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.868839628734044&mlon=-1.2294448492176384#map=13/50.868839628734044/-1.2294448492176384",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12350550",
+   "status": "active",
+   "incorporated": "2019-12-05",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12350550"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 7,
+  "accreditations": [],
+  "services_notes": "Landscape design & build: paving, decking, driveways, outdoor kitchens, water features, drainage, planting; Whiteley",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.baylandscapedesign.co.uk/contact.html",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12350550",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_4ad2f82c",
+  "name": "Bell Tree Services",
+  "legal_name": "BELL TREE SERVICES LIMITED",
+  "name_normalised": "bell tree",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Eastleigh",
+  "postcode": "SO50",
+  "lat": 50.969068031060594,
+  "lng": -1.3405471606060608,
+  "distance_miles": 33.2,
+  "serves_area_only": true,
+  "phone": "07799 335202",
+  "phone_e164": "+447799335202",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://belltreeservices.co.uk",
+  "domain": "belltreeservices.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.969068031060594&mlon=-1.3405471606060608#map=13/50.969068031060594/-1.3405471606060608",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14446724",
+   "status": "active",
+   "incorporated": "2022-10-27",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14446724"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Tree reduction, dismantling & felling, stump grinding, hedges, site clearance, TPO support; Fair Oak, Eastleigh",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://belltreeservices.co.uk/contact-us/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14446724",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_a6357893",
+  "name": "D Mooney Fencing",
+  "legal_name": "D MOONEY FENCING LTD",
+  "name_normalised": "d mooney fencing",
+  "areas": [
+   "fencing_boundaries",
+   "decking_structures"
+  ],
+  "types": [
+   "fencing_contractor"
+  ],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Eastleigh",
+  "postcode": "SO50",
+  "lat": 50.969068031060594,
+  "lng": -1.3405471606060608,
+  "distance_miles": 33.2,
+  "serves_area_only": true,
+  "phone": "07703 743885",
+  "phone_e164": "+447703743885",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.mooneyfencing.com",
+  "domain": "mooneyfencing.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.969068031060594&mlon=-1.3405471606060608#map=13/50.969068031060594/-1.3405471606060608",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13565374",
+   "status": "active",
+   "incorporated": "2021-08-13",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13565374"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [],
+  "services_notes": "Composite, timber & metal fencing, gates, decking & repairs; Horton Heath, Eastleigh",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.mooneyfencing.com/contact-8",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13565374",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_56937296",
+  "name": "Dever Fencing",
+  "legal_name": "DEVER FENCING LTD",
+  "name_normalised": "dever fencing",
+  "areas": [
+   "fencing_boundaries"
+  ],
+  "types": [
+   "fencing_contractor"
+  ],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Winchester",
+  "postcode": "SO22",
+  "lat": 51.06691423962514,
+  "lng": -1.3351634578313247,
+  "distance_miles": 37.4,
+  "serves_area_only": true,
+  "phone": "07967 180074",
+  "phone_e164": "+447967180074",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://deverfencing.co.uk",
+  "domain": "deverfencing.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.06691423962514&mlon=-1.3351634578313247#map=13/51.06691423962514/-1.3351634578313247",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09058966",
+   "status": "active",
+   "incorporated": "2014-05-28",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09058966"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 12,
+  "accreditations": [],
+  "services_notes": "Domestic, commercial, agricultural & security fencing (timber, stock, chain-link, palisade) and gates; Winchester area across Hampshire",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://deverfencing.co.uk/contact/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09058966",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_bd8104e2",
+  "name": "Elevated Garden Services",
+  "legal_name": "ELEVATED GARDEN SERVICES LTD",
+  "name_normalised": "elevated garden",
+  "areas": [
+   "lawns_grounds",
+   "exterior_cleaning",
+   "landscaping"
+  ],
+  "types": [
+   "garden_maintenance",
+   "pressure_washing"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Eastleigh",
+  "postcode": "SO50",
+  "lat": 50.969068031060594,
+  "lng": -1.3405471606060608,
+  "distance_miles": 33.2,
+  "serves_area_only": true,
+  "phone": "07305 219290",
+  "phone_e164": "+447305219290",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://elevatedgarden.co.uk",
+  "domain": "elevatedgarden.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.969068031060594&mlon=-1.3405471606060608#map=13/50.969068031060594/-1.3405471606060608",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12730793",
+   "status": "active",
+   "incorporated": "2020-07-09",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12730793"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Family-run garden maintenance, planting, hedges, lawn installation & pressure washing; Fair Oak",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://elevatedgarden.co.uk/contact-us",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12730793",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_35d4c4f5",
+  "name": "GB Fencing and Landscaping",
+  "legal_name": "GB FENCING AND LANDSCAPING LTD",
+  "name_normalised": "gb fencing landscaping",
+  "areas": [
+   "fencing_boundaries",
+   "landscaping"
+  ],
+  "types": [
+   "fencing_contractor",
+   "landscape_gardener",
+   "gate_installer"
+  ],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Eastleigh",
+  "postcode": "SO50",
+  "lat": 50.969068031060594,
+  "lng": -1.3405471606060608,
+  "distance_miles": 33.2,
+  "serves_area_only": true,
+  "phone": "07858 290701",
+  "phone_e164": "+447858290701",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.gbfencingandlandscaping.com",
+  "domain": "gbfencingandlandscaping.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.969068031060594&mlon=-1.3405471606060608#map=13/50.969068031060594/-1.3405471606060608",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11246169",
+   "status": "active",
+   "incorporated": "2018-03-09",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11246169"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 8,
+  "accreditations": [],
+  "services_notes": "Fencing, automated gates (sliding, swing, farm, pedestrian) and bespoke landscaping; Eastleigh",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.gbfencingandlandscaping.com/contact/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11246169",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_e9003b10",
+  "name": "Gardens of the Future",
+  "legal_name": "GARDENS OF THE FUTURE LIMITED",
+  "name_normalised": "gardens of future",
+  "areas": [
+   "lawns_grounds",
+   "landscaping"
+  ],
+  "types": [
+   "garden_maintenance",
+   "landscape_gardener"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Fareham",
+  "postcode": "PO16",
+  "lat": 50.8508784904714,
+  "lng": -1.159120852557673,
+  "distance_miles": 37.4,
+  "serves_area_only": true,
+  "phone": "07724 316155",
+  "phone_e164": "+447724316155",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.gardensofthefuture.co.uk",
+  "domain": "gardensofthefuture.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.8508784904714&mlon=-1.159120852557673#map=13/50.8508784904714/-1.159120852557673",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09503052",
+   "status": "active",
+   "incorporated": "2015-03-23",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09503052"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 11,
+  "accreditations": [],
+  "services_notes": "Garden maintenance & landscaping; Fareham",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.gardensofthefuture.co.uk/contact-us/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09503052",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_e6e1a7e5",
+  "name": "Greener Landscapes",
+  "legal_name": "GREENER LANDSCAPES LTD",
+  "name_normalised": "greener landscapes",
+  "areas": [
+   "landscaping",
+   "driveways",
+   "paving_patios"
+  ],
+  "types": [
+   "landscape_contractor",
+   "driveway_installer"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Winchester",
+  "postcode": "SO21",
+  "lat": 51.075209395693086,
+  "lng": -1.3165996890982516,
+  "distance_miles": 38.4,
+  "serves_area_only": true,
+  "phone": "01962 777475",
+  "phone_e164": "+441962777475",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.greenerlandscapes.co.uk",
+  "domain": "greenerlandscapes.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.075209395693086&mlon=-1.3165996890982516#map=13/51.075209395693086/-1.3165996890982516",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "05807132",
+   "status": "active",
+   "incorporated": "2006-05-05",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05807132"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 20,
+  "accreditations": [],
+  "services_notes": "Landscape construction specialists: design & build, driveways, patios, paths, plus landscaping materials yard; Marwell, Winchester",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.greenerlandscapes.co.uk/contact",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05807132",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "number",
@@ -3128,9 +5184,9 @@
   "name_normalised": "hythe waterside landscaping",
   "areas": [
    "landscaping",
-   "exterior_cleaning",
-   "driveways",
    "paving_patios",
+   "driveways",
+   "exterior_cleaning",
    "fencing_boundaries",
    "lawns_grounds"
   ],
@@ -3330,6 +5386,197 @@
   "county": "hampshire"
  },
  {
+  "id": "tf_1e27d9fb",
+  "name": "KJC Drainage",
+  "legal_name": "KJC DRAINAGE LIMITED",
+  "name_normalised": "kjc drainage",
+  "areas": [
+   "water_drainage",
+   "exterior_cleaning"
+  ],
+  "types": [
+   "drainage_contractor"
+  ],
+  "primary_area": "water_drainage",
+  "address": null,
+  "town": "Fareham",
+  "postcode": "PO16",
+  "lat": 50.8508784904714,
+  "lng": -1.159120852557673,
+  "distance_miles": 37.4,
+  "serves_area_only": true,
+  "phone": "01329 310630",
+  "phone_e164": "+441329310630",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://kjcdrainage.co.uk",
+  "domain": "kjcdrainage.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.8508784904714&mlon=-1.159120852557673#map=13/50.8508784904714/-1.159120852557673",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13955094",
+   "status": "active",
+   "incorporated": "2022-03-04",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13955094"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Blocked drains & sewer clearance, CCTV surveys, drain repairs, soakaways, gutter cleaning; Fareham & Gosport",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://kjcdrainage.co.uk/contact/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13955094",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_aaa774cc",
+  "name": "Kiwi Fencing",
+  "legal_name": "KIWI FENCING LIMITED",
+  "name_normalised": "kiwi fencing",
+  "areas": [
+   "fencing_boundaries",
+   "trees_vegetation"
+  ],
+  "types": [
+   "fencing_contractor"
+  ],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Stockbridge",
+  "postcode": "SO20",
+  "lat": 51.11644932369943,
+  "lng": -1.5162979104046235,
+  "distance_miles": 34.5,
+  "serves_area_only": true,
+  "phone": "01264 810564",
+  "phone_e164": "+441264810564",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://kiwifence.co.uk",
+  "domain": "kiwifence.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.11644932369943&mlon=-1.5162979104046235#map=13/51.11644932369943/-1.5162979104046235",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "04959194",
+   "status": "active",
+   "incorporated": "2003-11-11",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04959194"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 23,
+  "accreditations": [],
+  "services_notes": "Agricultural & equestrian fencing: post & rail, stock netting, gates, electric fencing, vegetation clearance; Stockbridge",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://kiwifence.co.uk/contact/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/04959194",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
   "id": "tf_abf6c424",
   "name": "MLS Landscapes",
   "legal_name": "MLS LANDSCAPES LTD",
@@ -3338,8 +5585,8 @@
    "driveways",
    "paving_patios",
    "landscaping",
-   "fencing_boundaries",
-   "water_drainage"
+   "water_drainage",
+   "fencing_boundaries"
   ],
   "types": [
    "driveway_installer",
@@ -3437,8 +5684,8 @@
   "areas": [
    "driveways",
    "water_drainage",
-   "landscaping",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "landscaping"
   ],
   "types": [
    "driveway_installer",
@@ -3724,6 +5971,403 @@
   "county": "hampshire"
  },
  {
+  "id": "tf_8de7d975",
+  "name": "Scandor Landscape Contractors",
+  "legal_name": "SCANDOR LANDSCAPE CONTRACTORS LIMITED",
+  "name_normalised": "scandor landscape contractors",
+  "areas": [
+   "landscaping",
+   "lawns_grounds",
+   "fencing_boundaries",
+   "paving_patios",
+   "trees_vegetation"
+  ],
+  "types": [
+   "landscape_contractor",
+   "grounds_maintenance"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Nr Eastleigh",
+  "postcode": "SO50",
+  "lat": 50.969068031060594,
+  "lng": -1.3405471606060608,
+  "distance_miles": 33.2,
+  "serves_area_only": true,
+  "phone": "023 8069 2422",
+  "phone_e164": "+442380692422",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.scandor.co.uk",
+  "domain": "scandor.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.969068031060594&mlon=-1.3405471606060608#map=13/50.969068031060594/-1.3405471606060608",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "02111393",
+   "status": "active",
+   "incorporated": "1987-03-17",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/02111393"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 39,
+  "accreditations": [],
+  "services_notes": "Domestic & commercial landscape construction & maintenance, fencing, paving, tree surgery, play areas, safety surfacing, sports fields; Fishers Pond, Eastleigh; Hampshire & Dorset",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.scandor.co.uk/contact/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/02111393",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_e105d1f4",
+  "name": "South Garden Fencing",
+  "legal_name": "SOUTH GARDEN FENCING LTD",
+  "name_normalised": "south garden fencing",
+  "areas": [
+   "fencing_boundaries"
+  ],
+  "types": [
+   "fencing_contractor",
+   "gate_installer"
+  ],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Gosport",
+  "postcode": "PO13",
+  "lat": 50.812323362484136,
+  "lng": -1.1811759885931556,
+  "distance_miles": 35.9,
+  "serves_area_only": true,
+  "phone": "07903 882100",
+  "phone_e164": "+447903882100",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.southgardenfencing.co.uk",
+  "domain": "southgardenfencing.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.812323362484136&mlon=-1.1811759885931556#map=13/50.812323362484136/-1.1811759885931556",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13394630",
+   "status": "active",
+   "incorporated": "2021-05-13",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13394630"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [],
+  "services_notes": "Close-board & garden fencing, trellis, metal & wooden gates; Gosport/Portsmouth; featured in a Checkatrade start-up case study",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.southgardenfencing.co.uk/privacy",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/blog/trade/case-studies/covid19-business-success/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "profile"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13394630",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_d6728c06",
+  "name": "Stubbington Tree Care",
+  "legal_name": "STUBBINGTON TREE CARE LTD",
+  "name_normalised": "stubbington tree care",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Fareham",
+  "postcode": "PO14",
+  "lat": 50.838742153327,
+  "lng": -1.2193512468659595,
+  "distance_miles": 34.6,
+  "serves_area_only": true,
+  "phone": "01329 661494",
+  "phone_e164": "+441329661494",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://stubbingtontreecare.com",
+  "domain": "stubbingtontreecare.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.838742153327&mlon=-1.2193512468659595#map=13/50.838742153327/-1.2193512468659595",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "08436615",
+   "status": "active",
+   "incorporated": "2013-03-08",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08436615"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 13,
+  "accreditations": [],
+  "services_notes": "Family-run tree felling, stump grinding, hedge trimming, crown reduction, garden clearance; Stubbington, Fareham",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://stubbingtontreecare.com/contact/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08436615",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_233961e7",
+  "name": "TM Landscapes & Garden Design",
+  "legal_name": "TM LANDSCAPES LTD",
+  "name_normalised": "tm landscapes garden design",
+  "areas": [
+   "landscaping",
+   "paving_patios",
+   "driveways",
+   "decking_structures",
+   "fencing_boundaries"
+  ],
+  "types": [
+   "garden_designer",
+   "landscape_gardener",
+   "driveway_installer"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Southampton",
+  "postcode": "SO30",
+  "lat": 50.918498526060624,
+  "lng": -1.3021756351515137,
+  "distance_miles": 33.0,
+  "serves_area_only": true,
+  "phone": "023 8144 9950",
+  "phone_e164": "+442381449950",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://tmconstruct.co.uk",
+  "domain": "tmconstruct.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.918498526060624&mlon=-1.3021756351515137#map=13/50.918498526060624/-1.3021756351515137",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13080991",
+   "status": "active",
+   "incorporated": "2020-12-14",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13080991"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Garden design, paving, decking, fencing, driveways & renovations; Hedge End/Botley",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://tmconstruct.co.uk/contact-us/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13080991",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
   "id": "tf_af518cb0",
   "name": "Tina Jerome Garden Design",
   "legal_name": "TINA JEROME GARDEN DESIGN LIMITED",
@@ -3819,15 +6463,109 @@
   "county": "hampshire"
  },
  {
+  "id": "tf_7d0717e5",
+  "name": "TreeWorX Contractors",
+  "legal_name": "TREEWORX CONTRACTORS LTD",
+  "name_normalised": "treeworx contractors",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Fareham",
+  "postcode": "PO15",
+  "lat": 50.868839628734044,
+  "lng": -1.2294448492176384,
+  "distance_miles": 34.8,
+  "serves_area_only": true,
+  "phone": "01489 539604",
+  "phone_e164": "+441489539604",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://treeworx.co.uk",
+  "domain": "treeworx.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.868839628734044&mlon=-1.2294448492176384#map=13/50.868839628734044/-1.2294448492176384",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14105530",
+   "status": "active",
+   "incorporated": "2022-05-13",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14105530"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Tree surgery, removal, reduction, hedge trimming, planting; Whiteley, Hampshire & West Sussex",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://treeworx.co.uk/contact",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14105530",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
   "id": "tf_c70697c0",
   "name": "Wessex Gardeners",
   "legal_name": "WESSEX GARDENERS LIMITED",
   "name_normalised": "wessex gardeners",
   "areas": [
    "lawns_grounds",
-   "landscaping",
    "paving_patios",
    "decking_structures",
+   "landscaping",
    "fencing_boundaries",
    "trees_vegetation"
   ],
@@ -3921,14 +6659,109 @@
   "county": "hampshire"
  },
  {
+  "id": "tf_36b97276",
+  "name": "Winchester Tree Surgeons",
+  "legal_name": "WINCHESTER TREE SURGEONS LIMITED",
+  "name_normalised": "winchester tree surgeons",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Eastleigh",
+  "postcode": "SO53",
+  "lat": 50.98608225930229,
+  "lng": -1.3836618406976733,
+  "distance_miles": 32.3,
+  "serves_area_only": true,
+  "phone": "01962 392321",
+  "phone_e164": "+441962392321",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.winchestertreesurgeons.co.uk",
+  "domain": "winchestertreesurgeons.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.98608225930229&mlon=-1.3836618406976733#map=13/50.98608225930229/-1.3836618406976733",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "03470982",
+   "status": "active",
+   "incorporated": "1997-11-25",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/03470982"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 29,
+  "accreditations": [],
+  "services_notes": "Tree surgery, removal, hedge care & stump removal; Winchester, Petersfield & Haslemere",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.winchestertreesurgeons.co.uk/contact-us.html",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/03470982",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
   "id": "tf_b8745b4e",
   "name": "AnMak Surfacing",
   "legal_name": "ANMAK SURFACING LTD",
   "name_normalised": "anmak surfacing",
   "areas": [
    "surfacing",
-   "driveways",
-   "paving_patios"
+   "paving_patios",
+   "driveways"
   ],
   "types": [
    "resin_driveways",
@@ -4582,32 +7415,32 @@
   "county": "hampshire"
  },
  {
-  "id": "tf_76c9873a",
-  "name": "Award Resin",
-  "legal_name": null,
-  "name_normalised": "award resin",
+  "id": "tf_037f7494",
+  "name": "Landscapes 4 Living",
+  "legal_name": "LANDSCAPES 4 LIVING LTD",
+  "name_normalised": "landscapes 4 living",
   "areas": [
-   "driveways"
+   "landscaping",
+   "paving_patios"
   ],
   "types": [
-   "resin_bound",
-   "tarmac_driveway",
-   "block_paving"
+   "garden_designer",
+   "landscape_contractor"
   ],
-  "primary_area": "driveways",
+  "primary_area": "landscaping",
   "address": null,
-  "town": "Eastleigh",
-  "postcode": "SO50",
-  "lat": 50.952529,
-  "lng": -1.322617,
-  "distance_miles": 33.3,
+  "town": "Gosport",
+  "postcode": "PO13",
+  "lat": 50.812323362484136,
+  "lng": -1.1811759885931556,
+  "distance_miles": 35.9,
   "serves_area_only": true,
-  "phone": "0800 072 6609",
-  "phone_e164": "+448000726609",
-  "phone_type": "freephone",
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
   "email": null,
-  "website": "https://awardresinltd.co.uk",
-  "domain": "awardresinltd.co.uk",
+  "website": "https://landscapes4living.co.uk",
+  "domain": "landscapes4living.co.uk",
   "website_quality": "unknown",
   "socials": {
    "facebook": null,
@@ -4615,43 +7448,69 @@
   },
   "google_rating": null,
   "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.952529&mlon=-1.322617#map=13/50.952529/-1.322617",
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.812323362484136&mlon=-1.1811759885931556#map=13/50.812323362484136/-1.1811759885931556",
   "last_review_date": null,
   "checkatrade": null,
   "trustatrader": null,
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": null,
+  "companies_house": {
+   "number": "09444745",
+   "status": "active",
+   "incorporated": "2015-02-17",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09444745"
+  },
   "opening_hours": null,
-  "enriched_from_ch": false,
+  "enriched_from_ch": true,
   "base_unknown": false,
-  "business_form": "unknown",
+  "business_form": "ltd",
   "size_band": "unknown",
-  "years_trading": null,
-  "accreditations": [],
-  "services_notes": "Eastleigh-based (outside 25 mi); advertises New Milton",
-  "badges": [
-   "needs_check"
+  "years_trading": 11,
+  "accreditations": [
+   "TrustMark"
   ],
-  "score": 12,
+  "services_notes": "Garden design & build, patios, project management, award-winning gardens; Lee-on-the-Solent; TrustMark registered",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 14,
   "score_breakdown": {
    "rating": 0,
    "reviews": 0,
-   "vetted": 0,
-   "contact": 15,
+   "vetted": 8,
+   "contact": 6,
    "distance": 0
   },
-  "confidence": 0.4,
+  "confidence": 0.8,
   "merge_review": false,
   "sources": [
    {
-    "source": "website",
-    "url": "https://awardresinltd.co.uk/",
+    "source": "web_search",
+    "url": "https://landscapes4living.co.uk/services/",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
-     "phone",
-     "postcode"
+     "services"
+    ]
+   },
+   {
+    "source": "trustmark",
+    "url": "https://www.trustmark.org.uk/firms/Landscapes%204%20Living%20Ltd-1448435-PO13%208GL?id=b1f534c1-b903-4c8c-977a-21160c734ebc",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "membership"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09444745",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
     ]
    }
   ],
@@ -4669,8 +7528,8 @@
   "areas": [
    "groundworks",
    "driveways",
-   "water_drainage",
    "landscaping",
+   "water_drainage",
    "fencing_boundaries"
   ],
   "types": [
@@ -7061,6 +9920,103 @@
   "county": "hampshire"
  },
  {
+  "id": "tf_c433779b",
+  "name": "Hampshire Resin Driveways",
+  "legal_name": "HAMPSHIRE RESIN DRIVEWAYS LIMITED",
+  "name_normalised": "hampshire resin driveways",
+  "areas": [
+   "driveways",
+   "surfacing",
+   "paving_patios"
+  ],
+  "types": [
+   "resin_driveway"
+  ],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Eastleigh",
+  "postcode": "SO50",
+  "lat": 50.969068031060594,
+  "lng": -1.3405471606060608,
+  "distance_miles": 33.2,
+  "serves_area_only": true,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://www.hampshire-resin-driveways.co.uk",
+  "domain": "hampshire-resin-driveways.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.969068031060594&mlon=-1.3405471606060608#map=13/50.969068031060594/-1.3405471606060608",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "16548452",
+   "status": "active",
+   "incorporated": "2025-06-29",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/16548452"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 1,
+  "accreditations": [],
+  "services_notes": "Resin-bound driveways, patios & paths, SUDS-compliant, 10-year guarantee, from about £65/m²; Fair Oak, Eastleigh (a second company of the same name, 13171682, is also registered)",
+  "badges": [
+   "ltd_company",
+   "new_business"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.hampshire-resin-driveways.co.uk/resin-driveways-eastleigh",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "services",
+     "prices"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/16548452",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
   "id": "tf_a84cdcb8",
   "name": "Howard Hughes Consulting",
   "legal_name": "HOWARD HUGHES CONSULTING LIMITED",
@@ -7242,6 +10198,99 @@
   "ch_only": true,
   "out_of_scope": false,
   "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_003cc104",
+  "name": "J Nicholson Fencing",
+  "legal_name": "J NICHOLSON FENCING LIMITED",
+  "name_normalised": "j nicholson fencing",
+  "areas": [
+   "fencing_boundaries"
+  ],
+  "types": [
+   "fencing_contractor"
+  ],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Winchester",
+  "postcode": "SO22",
+  "lat": 51.06691423962514,
+  "lng": -1.3351634578313247,
+  "distance_miles": 37.4,
+  "serves_area_only": true,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://jnicholsonfencing.co.uk",
+  "domain": "jnicholsonfencing.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.06691423962514&mlon=-1.3351634578313247#map=13/51.06691423962514/-1.3351634578313247",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "15357251",
+   "status": "active",
+   "incorporated": "2023-12-17",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/15357251"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 3,
+  "accreditations": [],
+  "services_notes": "Fencing contractor; Winchester",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://jnicholsonfencing.co.uk/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "website"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/15357251",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
  },
  {
   "id": "tf_47e83e1b",
@@ -8265,15 +11314,112 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_da24e868",
+  "name": "Marvel Paving & Construction (MPAC)",
+  "legal_name": "MARVEL PAVING AND CONSTRUCTION LTD",
+  "name_normalised": "marvel paving construction mpac",
+  "areas": [
+   "driveways",
+   "paving_patios",
+   "landscaping",
+   "fencing_boundaries"
+  ],
+  "types": [
+   "driveway_installer",
+   "patio_installer"
+  ],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Eastleigh",
+  "postcode": "SO50",
+  "lat": 50.969068031060594,
+  "lng": -1.3405471606060608,
+  "distance_miles": 33.2,
+  "serves_area_only": true,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://marvelpac.co.uk",
+  "domain": "marvelpac.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.969068031060594&mlon=-1.3405471606060608#map=13/50.969068031060594/-1.3405471606060608",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11981636",
+   "status": "active",
+   "incorporated": "2019-05-07",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11981636"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 7,
+  "accreditations": [],
+  "services_notes": "Hard landscaping, patios, driveways & fencing, 14 yrs' experience; Bishopstoke, Eastleigh",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://marvelpac.co.uk/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11981636",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
   "id": "tf_d7eec49c",
   "name": "Master Driveways",
   "legal_name": "MASTER DRIVEWAYS LTD",
   "name_normalised": "master driveways",
   "areas": [
    "driveways",
-   "exterior_cleaning",
+   "surfacing",
    "paving_patios",
-   "surfacing"
+   "exterior_cleaning"
   ],
   "types": [
    "driveway_installer",
@@ -9297,8 +12443,8 @@
   "name_normalised": "robert smith landscaping",
   "areas": [
    "landscaping",
-   "lawns_grounds",
-   "decking_structures"
+   "decking_structures",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
@@ -9396,10 +12542,10 @@
   "name_normalised": "romsey chandlers ford tree landscape",
   "areas": [
    "landscaping",
-   "trees_vegetation",
-   "driveways",
    "paving_patios",
-   "fencing_boundaries"
+   "driveways",
+   "fencing_boundaries",
+   "trees_vegetation"
   ],
   "types": [
    "landscape_gardener",
@@ -9473,6 +12619,102 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/13334032",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_8bd31a6c",
+  "name": "SF Garden Services & Grounds Maintenance",
+  "legal_name": "SF GARDEN SERVICES & GROUNDS MAINTENANCE LTD",
+  "name_normalised": "sf garden grounds maintenance",
+  "areas": [
+   "lawns_grounds",
+   "exterior_cleaning",
+   "fencing_boundaries"
+  ],
+  "types": [
+   "garden_maintenance",
+   "grounds_maintenance"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Fareham",
+  "postcode": "PO15",
+  "lat": 50.868839628734044,
+  "lng": -1.2294448492176384,
+  "distance_miles": 34.8,
+  "serves_area_only": true,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://sfgardenservices.com",
+  "domain": "sfgardenservices.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.868839628734044&mlon=-1.2294448492176384#map=13/50.868839628734044/-1.2294448492176384",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "15760373",
+   "status": "active",
+   "incorporated": "2024-06-04",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/15760373"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 2,
+  "accreditations": [],
+  "services_notes": "Family-run lawn cutting, pruning, planting, jet washing, clearance & fencing; Fareham & Titchfield",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://sfgardenservices.com/contact-us/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/15760373",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "number",
@@ -9585,10 +12827,10 @@
   "name_normalised": "solent garden",
   "areas": [
    "landscaping",
-   "lawns_grounds",
-   "decking_structures",
    "paving_patios",
-   "fencing_boundaries"
+   "decking_structures",
+   "fencing_boundaries",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
@@ -9968,9 +13210,9 @@
   "name_normalised": "tab landscapes",
   "areas": [
    "landscaping",
-   "lawns_grounds",
+   "paving_patios",
    "fencing_boundaries",
-   "paving_patios"
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
@@ -10244,6 +13486,99 @@
   "ch_only": true,
   "out_of_scope": false,
   "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_e890c7b1",
+  "name": "The Wessex Garden Room Company",
+  "legal_name": "WESSEX GARDEN ROOM COMPANY LTD",
+  "name_normalised": "wessex garden room company",
+  "areas": [
+   "decking_structures"
+  ],
+  "types": [
+   "garden_room_builder"
+  ],
+  "primary_area": "decking_structures",
+  "address": null,
+  "town": "Winchester",
+  "postcode": "SO21",
+  "lat": 51.075209395693086,
+  "lng": -1.3165996890982516,
+  "distance_miles": 38.4,
+  "serves_area_only": true,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://www.thewessexgardenroomcompany.co.uk",
+  "domain": "thewessexgardenroomcompany.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.075209395693086&mlon=-1.3165996890982516#map=13/51.075209395693086/-1.3165996890982516",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13519847",
+   "status": "active",
+   "incorporated": "2021-07-20",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13519847"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [],
+  "services_notes": "Family-run design & build of bespoke garden rooms and annexes (offices, studios, gyms, bars); Winchester",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.thewessexgardenroomcompany.co.uk/why-choose-us",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13519847",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
  },
  {
   "id": "tf_ac0a7832",
@@ -10710,6 +14045,103 @@
   "ch_only": true,
   "out_of_scope": false,
   "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_07ee7d16",
+  "name": "Winchester Landscapes",
+  "legal_name": "WINCHESTER LANDSCAPES LIMITED",
+  "name_normalised": "winchester landscapes",
+  "areas": [
+   "landscaping",
+   "paving_patios",
+   "trees_vegetation",
+   "decking_structures"
+  ],
+  "types": [
+   "landscape_contractor"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Winchester",
+  "postcode": "SO21",
+  "lat": 51.075209395693086,
+  "lng": -1.3165996890982516,
+  "distance_miles": 38.4,
+  "serves_area_only": true,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://winchesterlandscapes.co.uk",
+  "domain": "winchesterlandscapes.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.075209395693086&mlon=-1.3165996890982516#map=13/51.075209395693086/-1.3165996890982516",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "07187842",
+   "status": "active",
+   "incorporated": "2010-03-12",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07187842"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 16,
+  "accreditations": [],
+  "services_notes": "Hard landscaping, garden construction, bricklaying, tree surgery & carpentry; Winchester",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://winchesterlandscapes.co.uk/services/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07187842",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
  },
  {
   "id": "tf_3e6b1933",
@@ -23523,8 +26955,8 @@
   "areas": [
    "lawns_grounds",
    "exterior_cleaning",
-   "landscaping",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "landscaping"
   ],
   "types": [
    "garden_maintenance",
@@ -26715,6 +30147,103 @@
   "ch_only": true,
   "out_of_scope": false,
   "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_74dbced2",
+  "name": "Woodslee Landscapes",
+  "legal_name": "WOODSLEE LANDSCAPES LTD",
+  "name_normalised": "woodslee landscapes",
+  "areas": [
+   "landscaping",
+   "lawns_grounds",
+   "paving_patios"
+  ],
+  "types": [
+   "garden_designer",
+   "landscape_gardener"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Eastleigh",
+  "postcode": "SO53",
+  "lat": 50.98608225930229,
+  "lng": -1.3836618406976733,
+  "distance_miles": 32.3,
+  "serves_area_only": true,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.98608225930229&mlon=-1.3836618406976733#map=13/50.98608225930229/-1.3836618406976733",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "15862754",
+   "status": "active",
+   "incorporated": "2024-07-29",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/15862754"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 2,
+  "accreditations": [],
+  "services_notes": "Garden design, planting, hard landscaping & maintenance; Stockbridge; two awards at the Gardeners' World fair (Salisbury Journal)",
+  "badges": [
+   "ltd_company",
+   "no_website"
+  ],
+  "score": 4,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "press",
+    "url": "https://www.salisburyjournal.co.uk/news/26076514.two-awards-woodslee-landscapes-gardeners-world-fair/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "awards"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/15862754",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
  },
  {
   "id": "tf_a54c2069",
@@ -39685,98 +43214,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_72e0c3cb",
-  "name": "Adam Gibson Treecare Specialist",
-  "legal_name": "ADAM GIBSON TREECARE SPECIALIST LIMITED",
-  "name_normalised": "adam gibson treecare specialist",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Southampton",
-  "postcode": "SO32",
-  "lat": 50.959,
-  "lng": -1.24,
-  "distance_miles": 36.7,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "11083034",
-   "status": "active",
-   "incorporated": "2017-11-27",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/11083034"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 9,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/11083034",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_f4b659af",
   "name": "Adam Hurst Construction",
   "legal_name": "ADAM HURST CONSTRUCTION LIMITED",
@@ -44427,97 +47864,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/15805266",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_09531d96",
-  "name": "Alan Brind Tree Services",
-  "legal_name": "ALAN BRIND TREE SERVICES LTD",
-  "name_normalised": "alan brind tree",
-  "areas": [
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "trees_vegetation",
-  "address": null,
-  "town": "Fareham",
-  "postcode": "PO15",
-  "lat": 50.87,
-  "lng": -1.253,
-  "distance_miles": 33.8,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "07267935",
-   "status": "active",
-   "incorporated": "2010-05-28",
-   "dissolved": null,
-   "sic": [
-    "02200"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/07267935"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 16,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 02200",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/07267935",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -61363,97 +64709,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_193a83da",
-  "name": "Avant Gardener",
-  "legal_name": "AVANT GARDENER LTD",
-  "name_normalised": "avant gardener",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Fareham",
-  "postcode": "PO16",
-  "lat": 50.844,
-  "lng": -1.179,
-  "distance_miles": 36.4,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "14146776",
-   "status": "active",
-   "incorporated": "2022-06-01",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/14146776"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 4,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/14146776",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_bb981a20",
   "name": "Avd Property Services",
   "legal_name": "AVD PROPERTY SERVICES LIMITED",
@@ -62070,100 +65325,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17478913",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_3a61d387",
-  "name": "Awardresin",
-  "legal_name": "AWARDRESIN LTD",
-  "name_normalised": "awardresin",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "driveways",
-   "surfacing"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Eastleigh",
-  "postcode": "SO50",
-  "lat": 50.953,
-  "lng": -1.323,
-  "distance_miles": 33.3,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "10692440",
-   "status": "active",
-   "incorporated": "2017-03-27",
-   "dissolved": null,
-   "sic": [
-    "43290",
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/10692440"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 9,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43290, 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/10692440",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -69702,97 +72863,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_f7cd4b63",
-  "name": "Bay Landscape Design",
-  "legal_name": "BAY LANDSCAPE DESIGN LTD",
-  "name_normalised": "bay landscape design",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Whiteley",
-  "postcode": "PO15",
-  "lat": 50.879,
-  "lng": -1.263,
-  "distance_miles": 33.6,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "12350550",
-   "status": "active",
-   "incorporated": "2019-12-05",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/12350550"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 7,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/12350550",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_93cb5951",
   "name": "Bbe Civils",
   "legal_name": "BBE CIVILS LTD",
@@ -71598,98 +74668,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/12486070",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_da37fb1e",
-  "name": "Bell Tree Services",
-  "legal_name": "BELL TREE SERVICES LIMITED",
-  "name_normalised": "bell tree",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Eastleigh",
-  "postcode": "SO50",
-  "lat": 50.97,
-  "lng": -1.339,
-  "distance_miles": 33.3,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "14446724",
-   "status": "active",
-   "incorporated": "2022-10-27",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/14446724"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 4,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/14446724",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -115659,98 +118637,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_7ffa6988",
-  "name": "D Mooney Fencing",
-  "legal_name": "D MOONEY FENCING LTD",
-  "name_normalised": "d mooney fencing",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "fencing_boundaries"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Eastleigh",
-  "postcode": "SO50",
-  "lat": 50.954,
-  "lng": -1.297,
-  "distance_miles": 34.4,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13565374",
-   "status": "active",
-   "incorporated": "2021-08-13",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13565374"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 5,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13565374",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_af42e6c9",
   "name": "D N Asphalt Services",
   "legal_name": "D N ASPHALT SERVICES LIMITED",
@@ -127600,97 +130486,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_b6df0616",
-  "name": "Dever Fencing",
-  "legal_name": "DEVER FENCING LTD",
-  "name_normalised": "dever fencing",
-  "areas": [
-   "fencing_boundaries"
-  ],
-  "types": [],
-  "primary_area": "fencing_boundaries",
-  "address": null,
-  "town": "Winchester",
-  "postcode": "SO22",
-  "lat": 51.05,
-  "lng": -1.336,
-  "distance_miles": 36.6,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "09058966",
-   "status": "active",
-   "incorporated": "2014-05-28",
-   "dissolved": null,
-   "sic": [
-    "43999"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/09058966"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 12,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/09058966",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_60183fe6",
   "name": "Devine Cleaning Services",
   "legal_name": "DEVINE CLEANING SERVICES LIMITED",
@@ -137724,98 +140519,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/10213339",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_a43754a5",
-  "name": "Elevated Garden Services",
-  "legal_name": "ELEVATED GARDEN SERVICES LTD",
-  "name_normalised": "elevated garden",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Eastleigh",
-  "postcode": "SO50",
-  "lat": 50.962,
-  "lng": -1.303,
-  "distance_miles": 34.4,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "12730793",
-   "status": "active",
-   "incorporated": "2020-07-09",
-   "dissolved": null,
-   "sic": [
-    "81300",
-    "96090"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/12730793"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 6,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300, 96090",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/12730793",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -159521,98 +162224,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_8b883cf4",
-  "name": "GB Fencing And Landscaping",
-  "legal_name": "GB FENCING AND LANDSCAPING LTD",
-  "name_normalised": "gb fencing landscaping",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "fencing_boundaries"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Eastleigh",
-  "postcode": "SO50",
-  "lat": 50.97,
-  "lng": -1.307,
-  "distance_miles": 34.5,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "11246169",
-   "status": "active",
-   "incorporated": "2018-03-09",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/11246169"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 8,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/11246169",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_46d27d8b",
   "name": "GB Fire Safety Management",
   "legal_name": "GB FIRE SAFETY MANAGEMENT LTD",
@@ -164245,98 +166856,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/15413067",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_1db0b703",
-  "name": "Gardens Of The Future",
-  "legal_name": "GARDENS OF THE FUTURE LIMITED",
-  "name_normalised": "gardens of future",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Fareham",
-  "postcode": "PO16",
-  "lat": 50.853,
-  "lng": -1.186,
-  "distance_miles": 36.3,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "09503052",
-   "status": "active",
-   "incorporated": "2015-03-23",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/09503052"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 11,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/09503052",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -172314,97 +174833,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_9d0c4c64",
-  "name": "Greener Landscapes",
-  "legal_name": "GREENER LANDSCAPES LTD",
-  "name_normalised": "greener landscapes",
-  "areas": [
-   "landscaping"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Winchester",
-  "postcode": "SO21",
-  "lat": 50.989,
-  "lng": -1.282,
-  "distance_miles": 36.1,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "05807132",
-   "status": "active",
-   "incorporated": "2006-05-05",
-   "dissolved": null,
-   "sic": [
-    "43999"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/05807132"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 20,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/05807132",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_0db285b5",
   "name": "Greener Landscapes Supplies",
   "legal_name": "GREENER LANDSCAPES SUPPLIES LTD",
@@ -177345,99 +179773,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_07f3c56e",
-  "name": "H-W Tree Surgeons",
-  "legal_name": "H-W TREE SURGEONS LTD",
-  "name_normalised": "h w tree surgeons",
-  "areas": [
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "trees_vegetation",
-  "address": null,
-  "town": "Eastleigh",
-  "postcode": "SO50",
-  "lat": 50.965,
-  "lng": -1.326,
-  "distance_miles": 33.6,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "09611918",
-   "status": "active",
-   "incorporated": "2015-05-28",
-   "dissolved": null,
-   "sic": [
-    "02100",
-    "02200",
-    "02400"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/09611918"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 11,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 02100, 02200, 02400",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/09611918",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_ed000b49",
   "name": "H.P.G. Maintenance",
   "legal_name": "H.P.G. MAINTENANCE LIMITED",
@@ -180906,98 +183241,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_46faea36",
-  "name": "Hambrook Landscapes",
-  "legal_name": "HAMBROOK LANDSCAPES LIMITED",
-  "name_normalised": "hambrook landscapes",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Southampton",
-  "postcode": "SO32",
-  "lat": 50.925,
-  "lng": -1.257,
-  "distance_miles": 35.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "02521354",
-   "status": "active",
-   "incorporated": "1990-07-12",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/02521354"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 36,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/02521354",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_3156cc3a",
   "name": "Hamilton Pools",
   "legal_name": "HAMILTON POOLS LIMITED",
@@ -183903,99 +186146,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/10986717",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_9ee52c87",
-  "name": "Hampshire Resin Driveways",
-  "legal_name": "HAMPSHIRE RESIN DRIVEWAYS LIMITED",
-  "name_normalised": "hampshire resin driveways",
-  "areas": [
-   "groundworks",
-   "driveways",
-   "surfacing"
-  ],
-  "types": [],
-  "primary_area": "groundworks",
-  "address": null,
-  "town": "Eastleigh",
-  "postcode": "SO50",
-  "lat": 50.974,
-  "lng": -1.308,
-  "distance_miles": 34.6,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "16548452",
-   "status": "active",
-   "incorporated": "2025-06-29",
-   "dissolved": null,
-   "sic": [
-    "43120"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/16548452"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 1,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43120",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "new_business"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/16548452",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -208531,98 +210681,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_3a78fb65",
-  "name": "J Nicholson Fencing",
-  "legal_name": "J NICHOLSON FENCING LIMITED",
-  "name_normalised": "j nicholson fencing",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "fencing_boundaries"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Winchester",
-  "postcode": "SO22",
-  "lat": 51.052,
-  "lng": -1.34,
-  "distance_miles": 36.6,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "15357251",
-   "status": "active",
-   "incorporated": "2023-12-17",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/15357251"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 3,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/15357251",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_3dcf114e",
   "name": "J P 1",
   "legal_name": "J P 1 LTD",
@@ -227438,98 +229496,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_4b4c583d",
-  "name": "KJC Drainage",
-  "legal_name": "KJC DRAINAGE LIMITED",
-  "name_normalised": "kjc drainage",
-  "areas": [
-   "water_drainage"
-  ],
-  "types": [],
-  "primary_area": "water_drainage",
-  "address": null,
-  "town": "Fareham",
-  "postcode": "PO16",
-  "lat": 50.853,
-  "lng": -1.173,
-  "distance_miles": 36.8,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13955094",
-   "status": "active",
-   "incorporated": "2022-03-04",
-   "dissolved": null,
-   "sic": [
-    "39000",
-    "43390",
-    "43999"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13955094"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 4,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 39000, 43390, 43999",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13955094",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_8b9ba31f",
   "name": "KJM Construction Services",
   "legal_name": "KJM CONSTRUCTION SERVICES LTD",
@@ -231987,100 +233953,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17460923",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_b0121140",
-  "name": "Kiwi Fencing",
-  "legal_name": "KIWI FENCING LIMITED",
-  "name_normalised": "kiwi fencing",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "fencing_boundaries"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Stockbridge",
-  "postcode": "SO20",
-  "lat": 51.116,
-  "lng": -1.512,
-  "distance_miles": 34.6,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "04959194",
-   "status": "active",
-   "incorporated": "2003-11-11",
-   "dissolved": null,
-   "sic": [
-    "01629",
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/04959194"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 23,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 01629, 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/04959194",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -238847,98 +240719,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/04432853",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_76bcd528",
-  "name": "Landscapes 4 Living",
-  "legal_name": "LANDSCAPES 4 LIVING LTD",
-  "name_normalised": "landscapes 4 living",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Gosport",
-  "postcode": "PO13",
-  "lat": 50.797,
-  "lng": -1.188,
-  "distance_miles": 35.4,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "09444745",
-   "status": "active",
-   "incorporated": "2015-02-17",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/09444745"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 11,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/09444745",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -261216,99 +262996,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/15130374",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_562a992d",
-  "name": "Marvel Paving And Construction",
-  "legal_name": "MARVEL PAVING AND CONSTRUCTION LTD",
-  "name_normalised": "marvel paving construction",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "paving_patios"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Eastleigh",
-  "postcode": "SO50",
-  "lat": 50.976,
-  "lng": -1.333,
-  "distance_miles": 33.8,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "11981636",
-   "status": "active",
-   "incorporated": "2019-05-07",
-   "dissolved": null,
-   "sic": [
-    "43290",
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/11981636"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 7,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43290, 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/11981636",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -314267,97 +315954,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_efd895ca",
-  "name": "RB Landscaping & Groundworks",
-  "legal_name": "RB LANDSCAPING & GROUNDWORKS LTD",
-  "name_normalised": "rb landscaping groundworks",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Eastleigh",
-  "postcode": "SO50",
-  "lat": 50.97,
-  "lng": -1.339,
-  "distance_miles": 33.3,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13701486",
-   "status": "active",
-   "incorporated": "2021-10-25",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13701486"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 5,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13701486",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_fccec65c",
   "name": "RBD Builders",
   "legal_name": "RBD BUILDERS LIMITED",
@@ -321203,97 +322799,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_b6cb3677",
-  "name": "Resin Works (South)",
-  "legal_name": "RESIN WORKS (SOUTH) LTD",
-  "name_normalised": "resin works south",
-  "areas": [
-   "driveways",
-   "surfacing"
-  ],
-  "types": [],
-  "primary_area": "driveways",
-  "address": null,
-  "town": "Fareham",
-  "postcode": "PO14",
-  "lat": 50.846,
-  "lng": -1.225,
-  "distance_miles": 34.5,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "14465770",
-   "status": "active",
-   "incorporated": "2022-11-07",
-   "dissolved": null,
-   "sic": [
-    "43999"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/14465770"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 4,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/14465770",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_17242dc3",
   "name": "Retroplan",
   "legal_name": "RETROPLAN LTD",
@@ -321456,98 +322961,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/09960984",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_a9c042ef",
-  "name": "Revitalise Gardens",
-  "legal_name": "REVITALISE GARDENS LTD",
-  "name_normalised": "revitalise gardens",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Southampton",
-  "postcode": "SO32",
-  "lat": 50.935,
-  "lng": -1.28,
-  "distance_miles": 34.4,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "08396702",
-   "status": "active",
-   "incorporated": "2013-02-11",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/08396702"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 13,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/08396702",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -325928,98 +327341,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/07025642",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_d93c134b",
-  "name": "Roni Phillips Landscapes",
-  "legal_name": "RONI PHILLIPS LANDSCAPES LIMITED",
-  "name_normalised": "roni phillips landscapes",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Eastleigh",
-  "postcode": "SO50",
-  "lat": 50.987,
-  "lng": -1.356,
-  "distance_miles": 33.3,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "04507810",
-   "status": "active",
-   "incorporated": "2002-08-09",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/04507810"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 24,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/04507810",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -335070,97 +336391,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_3c23e3f8",
-  "name": "SF Garden Services & Grounds Maintenance",
-  "legal_name": "SF GARDEN SERVICES & GROUNDS MAINTENANCE LTD",
-  "name_normalised": "sf garden grounds maintenance",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Fareham",
-  "postcode": "PO15",
-  "lat": 50.862,
-  "lng": -1.251,
-  "distance_miles": 33.7,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "15760373",
-   "status": "active",
-   "incorporated": "2024-06-04",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/15760373"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 2,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/15760373",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_317c105e",
   "name": "SG Sports Turf",
   "legal_name": "SG SPORTS TURF LTD",
@@ -343553,98 +344783,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/10322489",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_33904adb",
-  "name": "Scandor Landscape Contractors",
-  "legal_name": "SCANDOR LANDSCAPE CONTRACTORS LIMITED",
-  "name_normalised": "scandor landscape contractors",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Nr Eastleigh",
-  "postcode": "SO50",
-  "lat": 50.991,
-  "lng": -1.297,
-  "distance_miles": 35.6,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "02111393",
-   "status": "active",
-   "incorporated": "1987-03-17",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/02111393"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 39,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/02111393",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -358017,99 +359155,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_083da7fe",
-  "name": "South Garden Fencing",
-  "legal_name": "SOUTH GARDEN FENCING LTD",
-  "name_normalised": "south garden fencing",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "fencing_boundaries"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Gosport",
-  "postcode": "PO13",
-  "lat": 50.822,
-  "lng": -1.176,
-  "distance_miles": 36.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13394630",
-   "status": "active",
-   "incorporated": "2021-05-13",
-   "dissolved": null,
-   "sic": [
-    "43290",
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13394630"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 5,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43290, 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13394630",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_207fc84d",
   "name": "South Hants Carpentry",
   "legal_name": "SOUTH HANTS CARPENTRY LIMITED",
@@ -358180,97 +359225,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/14402395",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_4eee1068",
-  "name": "South Hants Landscapes",
-  "legal_name": "SOUTH HANTS LANDSCAPES LIMITED",
-  "name_normalised": "south hants landscapes",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Fair Oak",
-  "postcode": "SO50",
-  "lat": 50.962,
-  "lng": -1.285,
-  "distance_miles": 35.1,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "12758287",
-   "status": "active",
-   "incorporated": "2020-07-21",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/12758287"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 6,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/12758287",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -365140,100 +366094,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_a783e66c",
-  "name": "Stay Sure Drives And Patios",
-  "legal_name": "STAY SURE DRIVES AND PATIOS LTD",
-  "name_normalised": "stay sure drives patios",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "driveways",
-   "paving_patios"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Southampton",
-  "postcode": "SO30",
-  "lat": 50.914,
-  "lng": -1.271,
-  "distance_miles": 34.1,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "17378975",
-   "status": "active",
-   "incorporated": "2026-08-04",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/17378975"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 0,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "new_business"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/17378975",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_b3de83d4",
   "name": "Stedman Groundworks & Sons",
   "legal_name": "STEDMAN GROUNDWORKS & SONS LTD",
@@ -368956,99 +369816,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/12314356",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_fe186a0f",
-  "name": "Stubbington Tree Care",
-  "legal_name": "STUBBINGTON TREE CARE LTD",
-  "name_normalised": "stubbington tree care",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Fareham",
-  "postcode": "PO14",
-  "lat": 50.822,
-  "lng": -1.213,
-  "distance_miles": 34.6,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "08436615",
-   "status": "active",
-   "incorporated": "2013-03-08",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/08436615"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 13,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/08436615",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -375459,96 +376226,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/09953555",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_12bfc78e",
-  "name": "TM Landscapes",
-  "legal_name": "TM LANDSCAPES LTD",
-  "name_normalised": "tm landscapes",
-  "areas": [
-   "landscaping"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Southampton",
-  "postcode": "SO30",
-  "lat": 50.915,
-  "lng": -1.282,
-  "distance_miles": 33.7,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13080991",
-   "status": "active",
-   "incorporated": "2020-12-14",
-   "dissolved": null,
-   "sic": [
-    "43999"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13080991"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 6,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13080991",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -391315,96 +391992,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_c284db21",
-  "name": "Treeworx Contractors",
-  "legal_name": "TREEWORX CONTRACTORS LTD",
-  "name_normalised": "treeworx contractors",
-  "areas": [
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "trees_vegetation",
-  "address": null,
-  "town": "Fareham",
-  "postcode": "PO15",
-  "lat": 50.868,
-  "lng": -1.251,
-  "distance_miles": 33.8,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "14105530",
-   "status": "active",
-   "incorporated": "2022-05-13",
-   "dissolved": null,
-   "sic": [
-    "02200"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/14105530"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 4,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 02200",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/14105530",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_d589ebf6",
   "name": "Treloar",
   "legal_name": "TRELOAR LTD",
@@ -406971,97 +407558,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_12d236f9",
-  "name": "Wessex Garden Room Company",
-  "legal_name": "WESSEX GARDEN ROOM COMPANY LTD",
-  "name_normalised": "wessex garden room company",
-  "areas": [
-   "landscaping",
-   "decking_structures"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Winchester",
-  "postcode": "SO21",
-  "lat": 50.993,
-  "lng": -1.312,
-  "distance_miles": 35.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13519847",
-   "status": "active",
-   "incorporated": "2021-07-20",
-   "dissolved": null,
-   "sic": [
-    "43999"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13519847"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 5,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13519847",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_83a5db2e",
   "name": "Wessex Heritage & Remedial",
   "legal_name": "WESSEX HERITAGE & REMEDIAL LIMITED",
@@ -411344,98 +411840,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_e6908173",
-  "name": "Winchester Landscapes",
-  "legal_name": "WINCHESTER LANDSCAPES LIMITED",
-  "name_normalised": "winchester landscapes",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Winchester",
-  "postcode": "SO21",
-  "lat": 51.016,
-  "lng": -1.316,
-  "distance_miles": 35.9,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "07187842",
-   "status": "active",
-   "incorporated": "2010-03-12",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/07187842"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 16,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/07187842",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_32e418b7",
   "name": "Winchester Outdoor Kitchens",
   "legal_name": "WINCHESTER OUTDOOR KITCHENS LIMITED",
@@ -411781,100 +412185,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/08069398",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_391d0b99",
-  "name": "Winchester Tree Surgeons",
-  "legal_name": "WINCHESTER TREE SURGEONS LIMITED",
-  "name_normalised": "winchester tree surgeons",
-  "areas": [
-   "trees_vegetation",
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "trees_vegetation",
-  "address": null,
-  "town": "Eastleigh",
-  "postcode": "SO53",
-  "lat": 50.996,
-  "lng": -1.37,
-  "distance_miles": 33.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "03470982",
-   "status": "active",
-   "incorporated": "1997-11-25",
-   "dissolved": null,
-   "sic": [
-    "02200",
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/03470982"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 29,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 02200, 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/03470982",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -413705,97 +414015,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/08305115",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_07c7c6c1",
-  "name": "Woodslee Landscapes",
-  "legal_name": "WOODSLEE LANDSCAPES LTD",
-  "name_normalised": "woodslee landscapes",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Eastleigh",
-  "postcode": "SO53",
-  "lat": 50.996,
-  "lng": -1.37,
-  "distance_miles": 33.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "15862754",
-   "status": "active",
-   "incorporated": "2024-07-29",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/15862754"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 2,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/15862754",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -641177,8 +641396,8 @@
   "name_normalised": "lopperwood tree landscapes",
   "areas": [
    "trees_vegetation",
-   "landscaping",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "landscaping"
   ],
   "types": [
    "tree_surgeon",
