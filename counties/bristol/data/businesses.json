@@ -1,5 +1,1583 @@
 [
  {
+  "id": "tf_92611f7f",
+  "name": "Artisan Landscapes",
+  "legal_name": "Artisan Landscapes",
+  "name_normalised": "artisan landscapes",
+  "areas": [
+   "landscaping"
+  ],
+  "types": [
+   "garden_designer",
+   "landscape_contractor"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Westbury Hill, Bristol",
+  "postcode": "BS9",
+  "lat": 51.48725654514677,
+  "lng": -2.6267850079006783,
+  "distance_miles": 60.1,
+  "serves_area_only": false,
+  "phone": "0117 973 8519",
+  "phone_e164": "+441179738519",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://artisanlandscapes.co.uk/",
+  "domain": "artisanlandscapes.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.48725654514677&mlon=-2.6267850079006783#map=13/51.48725654514677/-2.6267850079006783",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "08571991",
+   "status": "active",
+   "incorporated": "2013-06-17",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08571991"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 13,
+  "accreditations": [
+   "BALI",
+   "TrustMark"
+  ],
+  "services_notes": "Award-winning garden design, build and aftercare; Bristol, Bath & South West; BALI member, TrustMark registered",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 23,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 8,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.9,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://artisanlandscapes.co.uk/contact/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "bali",
+    "url": "https://www.bali.org.uk/members/artisan-landscapes-ltd-215018/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "membership"
+    ]
+   },
+   {
+    "source": "trustmark",
+    "url": "https://www.trustmark.org.uk/firms/Artisan%20Landscapes%20Limited-977222-BS9%203AA?id=355b0782-7cff-4cfb-a9a4-d83cc1be770e",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "accreditation"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08571991",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
+  "id": "tf_b6332fdb",
+  "name": "Aquaflora Landscapes",
+  "legal_name": "Aquaflora Landscapes",
+  "name_normalised": "aquaflora landscapes",
+  "areas": [
+   "landscaping"
+  ],
+  "types": [
+   "pond_specialist",
+   "landscape_contractor"
+  ],
+  "primary_area": "water_features",
+  "address": null,
+  "town": "Bristol",
+  "postcode": "BS9",
+  "lat": 51.48725654514677,
+  "lng": -2.6267850079006783,
+  "distance_miles": 60.1,
+  "serves_area_only": false,
+  "phone": "07592 602512",
+  "phone_e164": "+447592602512",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://aquafloralandscapes.co.uk/",
+  "domain": "aquafloralandscapes.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.48725654514677&mlon=-2.6267850079006783#map=13/51.48725654514677/-2.6267850079006783",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11331148",
+   "status": "active",
+   "incorporated": "2018-04-26",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11331148"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 8,
+  "accreditations": [],
+  "services_notes": "Pond & water-feature design, build, cleaning, repairs, restoration; Bristol, Bath, Chepstow",
+  "badges": [
+   "top_pick",
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://aquafloralandscapes.co.uk/contact-us/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11331148",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
+  "id": "tf_4acbcaac",
+  "name": "Boundary Fencing South-West",
+  "legal_name": "Boundary Fencing (South-West)",
+  "name_normalised": "boundary fencing south west",
+  "areas": [
+   "fencing_boundaries"
+  ],
+  "types": [
+   "fencing_contractor"
+  ],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Withywood, Bristol",
+  "postcode": "BS13",
+  "lat": 51.41205431225801,
+  "lng": -2.6115764722580646,
+  "distance_miles": 55.3,
+  "serves_area_only": false,
+  "phone": "0117 205 3404",
+  "phone_e164": "+441172053404",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.boundaryfencingsouthwest.co.uk/",
+  "domain": "boundaryfencingsouthwest.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.41205431225801&mlon=-2.6115764722580646#map=13/51.41205431225801/-2.6115764722580646",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "06058812",
+   "status": "active",
+   "incorporated": "2007-01-19",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/06058812"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 19,
+  "accreditations": [],
+  "services_notes": "Domestic, composite, industrial and security fencing, gates, repairs",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.boundaryfencingsouthwest.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/06058812",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
+  "id": "tf_8324d2b3",
+  "name": "Cabot Landscapes",
+  "legal_name": "Cabot Landscapes",
+  "name_normalised": "cabot landscapes",
+  "areas": [
+   "lawns_grounds",
+   "landscaping"
+  ],
+  "types": [
+   "landscape_contractor",
+   "grounds_maintenance"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Avonmouth, Bristol",
+  "postcode": "BS11",
+  "lat": 51.4974971797557,
+  "lng": -2.6745339057591617,
+  "distance_miles": 61.7,
+  "serves_area_only": false,
+  "phone": "0117 982 0054",
+  "phone_e164": "+441179820054",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://cabot-landscapes.com/",
+  "domain": "cabot-landscapes.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.4974971797557&mlon=-2.6745339057591617#map=13/51.4974971797557/-2.6745339057591617",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "07635313",
+   "status": "active",
+   "incorporated": "2011-05-16",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07635313"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 15,
+  "accreditations": [],
+  "services_notes": "Commercial landscape design, construction, maintenance and sports-turf care across the South West",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://cabot-landscapes.com/contact.html",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07635313",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
+  "id": "tf_a1ddaf82",
+  "name": "Craig West Turf",
+  "legal_name": "Craig West Turf",
+  "name_normalised": "craig west turf",
+  "areas": [
+   "lawns_grounds",
+   "fencing_boundaries",
+   "landscaping"
+  ],
+  "types": [
+   "turf_supplier",
+   "landscape_contractor"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Avonmouth, Bristol",
+  "postcode": "BS11",
+  "lat": 51.4974971797557,
+  "lng": -2.6745339057591617,
+  "distance_miles": 61.7,
+  "serves_area_only": false,
+  "phone": "0117 982 2255",
+  "phone_e164": "+441179822255",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.cwtls.co.uk/",
+  "domain": "cwtls.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.4974971797557&mlon=-2.6745339057591617#map=13/51.4974971797557/-2.6745339057591617",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "04608635",
+   "status": "active",
+   "incorporated": "2002-12-04",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04608635"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 24,
+  "accreditations": [],
+  "services_notes": "Turf, topsoil, landscape supplies, fencing, site clearance, grounds maintenance",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.cwtls.co.uk/contact",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/04608635",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
+  "id": "tf_c4692241",
+  "name": "Crest Tree Services",
+  "legal_name": "Crest Tree Services",
+  "name_normalised": "crest tree",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Westbury-on-Trym, Bristol",
+  "postcode": "BS9",
+  "lat": 51.48725654514677,
+  "lng": -2.6267850079006783,
+  "distance_miles": 60.1,
+  "serves_area_only": false,
+  "phone": "07968 354747",
+  "phone_e164": "+447968354747",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.cresttrees.co.uk/",
+  "domain": "cresttrees.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.48725654514677&mlon=-2.6267850079006783#map=13/51.48725654514677/-2.6267850079006783",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09211029",
+   "status": "active",
+   "incorporated": "2014-09-10",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09211029"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 12,
+  "accreditations": [],
+  "services_notes": "Pruning, felling, stump removal, inspections, cable bracing, hedges, planting",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.cresttrees.co.uk/contact",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09211029",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
+  "id": "tf_acc92ae7",
+  "name": "Enviro The Landscape Group",
+  "legal_name": "Enviro The Landscape Group",
+  "name_normalised": "enviro landscape group",
+  "areas": [
+   "lawns_grounds",
+   "landscaping",
+   "trees_vegetation"
+  ],
+  "types": [
+   "landscape_contractor",
+   "grounds_maintenance"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Westbury-on-Trym, Bristol",
+  "postcode": "BS9",
+  "lat": 51.48725654514677,
+  "lng": -2.6267850079006783,
+  "distance_miles": 60.1,
+  "serves_area_only": false,
+  "phone": "0800 878 9099",
+  "phone_e164": "+448008789099",
+  "phone_type": "freephone",
+  "email": null,
+  "website": "https://www.envirolandscapegroup.co.uk/",
+  "domain": "envirolandscapegroup.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.48725654514677&mlon=-2.6267850079006783#map=13/51.48725654514677/-2.6267850079006783",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11130500",
+   "status": "active",
+   "incorporated": "2018-01-03",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11130500"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 8,
+  "accreditations": [],
+  "services_notes": "Commercial landscaping, grounds maintenance, arboriculture, ecological management, site clearance; SW & South Wales",
+  "badges": [
+   "top_pick",
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.envirolandscapegroup.co.uk/contact-us",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11130500",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
+  "id": "tf_039edc81",
+  "name": "Green Elephant Gardens",
+  "legal_name": "Green Elephant Gardens",
+  "name_normalised": "green elephant gardens",
+  "areas": [
+   "lawns_grounds",
+   "landscaping",
+   "fencing_boundaries",
+   "trees_vegetation"
+  ],
+  "types": [
+   "gardener",
+   "grounds_maintenance"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Bristol",
+  "postcode": "BS7",
+  "lat": 51.487048441919235,
+  "lng": -2.58104725378788,
+  "distance_miles": 59.2,
+  "serves_area_only": false,
+  "phone": "07542 097332",
+  "phone_e164": "+447542097332",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.greenelephantgardens.co.uk/",
+  "domain": "greenelephantgardens.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.487048441919235&mlon=-2.58104725378788#map=13/51.487048441919235/-2.58104725378788",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09803015",
+   "status": "active",
+   "incorporated": "2015-10-01",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09803015"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 11,
+  "accreditations": [],
+  "services_notes": "Residential & commercial garden maintenance, landscaping, fencing, redesigns, tree work",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.greenelephantgardens.co.uk/contact",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09803015",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
+  "id": "tf_15e11b4f",
+  "name": "Incastone",
+  "legal_name": "Incastone Landscaping",
+  "name_normalised": "incastone",
+  "areas": [
+   "paving_patios",
+   "driveways",
+   "landscaping"
+  ],
+  "types": [
+   "landscape_contractor",
+   "stonemason"
+  ],
+  "primary_area": "paving_patios",
+  "address": null,
+  "town": "Bristol",
+  "postcode": "BS13",
+  "lat": 51.41205431225801,
+  "lng": -2.6115764722580646,
+  "distance_miles": 55.3,
+  "serves_area_only": false,
+  "phone": "0117 908 3457",
+  "phone_e164": "+441179083457",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://incastone.co.uk/",
+  "domain": "incastone.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.41205431225801&mlon=-2.6115764722580646#map=13/51.41205431225801/-2.6115764722580646",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "04006900",
+   "status": "active",
+   "incorporated": "2000-06-02",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04006900"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 26,
+  "accreditations": [],
+  "services_notes": "Bespoke driveways, patios, paths, Pennant stone walls, reclaimed cobbles, garden design",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://incastone.co.uk/contact/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/04006900",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
+  "id": "tf_29b82499",
+  "name": "L&M Tree Services",
+  "legal_name": "L&M Tree Services",
+  "name_normalised": "l m tree",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Whitchurch, Bristol",
+  "postcode": "BS14",
+  "lat": 51.41296272252748,
+  "lng": -2.5635452403846144,
+  "distance_miles": 54.3,
+  "serves_area_only": false,
+  "phone": "07795 100258",
+  "phone_e164": "+447795100258",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.lmtreeservices.com/",
+  "domain": "lmtreeservices.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.41296272252748&mlon=-2.5635452403846144#map=13/51.41296272252748/-2.5635452403846144",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "05715893",
+   "status": "active",
+   "incorporated": "2006-02-21",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05715893"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 20,
+  "accreditations": [],
+  "services_notes": "Tree surgery, 24h call-out; merged with RSK Hi-Line Bristol operations June 2024",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.lmtreeservices.com/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://www.hi-line.co.uk/lm-tree-services/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "merger_note"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05715893",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
+  "id": "tf_687aa930",
+  "name": "Meadow Landscapes",
+  "legal_name": "Meadow Landscapes",
+  "name_normalised": "meadow landscapes",
+  "areas": [
+   "lawns_grounds",
+   "trees_vegetation",
+   "landscaping"
+  ],
+  "types": [
+   "grounds_maintenance"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Brentry, Bristol",
+  "postcode": "BS10",
+  "lat": 51.50742917503218,
+  "lng": -2.610960261261259,
+  "distance_miles": 61.1,
+  "serves_area_only": false,
+  "phone": "0117 950 6655",
+  "phone_e164": "+441179506655",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.meadowlandscapes.co.uk/",
+  "domain": "meadowlandscapes.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.50742917503218&mlon=-2.610960261261259#map=13/51.50742917503218/-2.610960261261259",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09544379",
+   "status": "active",
+   "incorporated": "2015-04-15",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09544379"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 11,
+  "accreditations": [],
+  "services_notes": "Commercial & residential grounds maintenance: grass, shrubs, trees, planting, car parks, communal areas",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.meadowlandscapes.co.uk/contact-us/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09544379",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
+  "id": "tf_c261be88",
+  "name": "Squirrel Design Treehouses",
+  "legal_name": "Squirrel Design Treehouses",
+  "name_normalised": "squirrel design treehouses",
+  "areas": [
+   "decking_structures"
+  ],
+  "types": [
+   "treehouse_builder",
+   "garden_room_builder"
+  ],
+  "primary_area": "decking_structures",
+  "address": null,
+  "town": "Kingswood, Bristol",
+  "postcode": "BS15",
+  "lat": 51.459611902753906,
+  "lng": -2.5068994397590334,
+  "distance_miles": 56.2,
+  "serves_area_only": false,
+  "phone": "0117 325 9326",
+  "phone_e164": "+441173259326",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://treehouses.squirreldesign.co.uk/",
+  "domain": "treehouses.squirreldesign.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.459611902753906&mlon=-2.5068994397590334#map=13/51.459611902753906/-2.5068994397590334",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "05155679",
+   "status": "active",
+   "incorporated": "2004-06-16",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05155679"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 22,
+  "accreditations": [],
+  "services_notes": "Family-run bespoke treehouses, glamping units, garden offices, playhouses",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://treehouses.squirreldesign.co.uk/contact-us/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05155679",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
+  "id": "tf_ac656f98",
+  "name": "Top Tree Services",
+  "legal_name": "Top Tree Services",
+  "name_normalised": "top tree",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Whitchurch, Bristol",
+  "postcode": "BS14",
+  "lat": 51.41296272252748,
+  "lng": -2.5635452403846144,
+  "distance_miles": 54.3,
+  "serves_area_only": false,
+  "phone": "01275 839254",
+  "phone_e164": "+441275839254",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.toptreeservices.co.uk/",
+  "domain": "toptreeservices.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.41296272252748&mlon=-2.5635452403846144#map=13/51.41296272252748/-2.5635452403846144",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "10095277",
+   "status": "active",
+   "incorporated": "2016-03-31",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10095277"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 10,
+  "accreditations": [],
+  "services_notes": "Family-run: pruning, removals, hedges, planting, stump grinding",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.toptreeservices.co.uk/contact-us",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10095277",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
+  "id": "tf_3af7728b",
+  "name": "Wildwood Treecare",
+  "legal_name": "Wildwood Treecare Bristol",
+  "name_normalised": "wildwood treecare",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Clifton, Bristol",
+  "postcode": "BS8",
+  "lat": 51.45748821065371,
+  "lng": -2.6223301295399546,
+  "distance_miles": 58.2,
+  "serves_area_only": false,
+  "phone": "07971 986814",
+  "phone_e164": "+447971986814",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.wildwoodtreecare.co.uk/",
+  "domain": "wildwoodtreecare.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.45748821065371&mlon=-2.6223301295399546#map=13/51.45748821065371/-2.6223301295399546",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12720727",
+   "status": "active",
+   "incorporated": "2020-07-05",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12720727"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Pruning, removals, hedges, stump grinding, planting, emergency & commercial tree management; Bristol, S Glos, Somerset",
+  "badges": [
+   "top_pick",
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.wildwoodtreecare.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12720727",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
+  "id": "tf_74f442bb",
+  "name": "Bristol Landscapes",
+  "legal_name": "Bristol Landscapes",
+  "name_normalised": "bristol landscapes",
+  "areas": [
+   "landscaping",
+   "paving_patios",
+   "driveways",
+   "decking_structures"
+  ],
+  "types": [
+   "landscape_gardener"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Bedminster, Bristol",
+  "postcode": "BS3",
+  "lat": 51.43867565883551,
+  "lng": -2.6031941818181776,
+  "distance_miles": 56.7,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://www.bristollandscapes.co.uk/",
+  "domain": "bristollandscapes.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.43867565883551&mlon=-2.6031941818181776#map=13/51.43867565883551/-2.6031941818181776",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "07346680",
+   "status": "active",
+   "incorporated": "2010-08-16",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07346680"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 16,
+  "accreditations": [],
+  "services_notes": "Garden design, paving, driveways, decking, retaining walls, artificial grass, play areas",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.bristollandscapes.co.uk/contact",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "website"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07346680",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
+  "id": "tf_781b771f",
+  "name": "Tree & Boundary Services",
+  "legal_name": "Tree And Boundary Services",
+  "name_normalised": "tree boundary",
+  "areas": [
+   "trees_vegetation",
+   "fencing_boundaries",
+   "lawns_grounds"
+  ],
+  "types": [
+   "tree_surgeon",
+   "fencing_contractor",
+   "gardener"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Bristol / Saltford",
+  "postcode": "BS15",
+  "lat": 51.459611902753906,
+  "lng": -2.5068994397590334,
+  "distance_miles": 56.2,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://tbservicesltd.co.uk/",
+  "domain": "tbservicesltd.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.459611902753906&mlon=-2.5068994397590334#map=13/51.459611902753906/-2.5068994397590334",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "05087482",
+   "status": "active",
+   "incorporated": "2004-03-29",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05087482"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 22,
+  "accreditations": [],
+  "services_notes": "Tree surgery, mowing, fences, walls, hedge laying",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://tbservicesltd.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "website"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05087482",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
   "id": "tf_20cbfa81",
   "name": "360 Landscapes And Design",
   "legal_name": "360 LANDSCAPES AND DESIGN LTD",
@@ -2477,97 +4055,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_4592371d",
-  "name": "Aquaflora Landscapes",
-  "legal_name": "AQUAFLORA LANDSCAPES LIMITED",
-  "name_normalised": "aquaflora landscapes",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bristol",
-  "postcode": "BS9",
-  "lat": 51.486,
-  "lng": -2.641,
-  "distance_miles": 60.4,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "11331148",
-   "status": "active",
-   "incorporated": "2018-04-26",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/11331148"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 8,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/11331148",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_17ed53d2",
   "name": "Aquatak Waterscapes",
   "legal_name": "AQUATAK WATERSCAPES LTD",
@@ -3280,98 +4767,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/14260503",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_bfa7313d",
-  "name": "Artisan Landscapes",
-  "legal_name": "ARTISAN LANDSCAPES LIMITED",
-  "name_normalised": "artisan landscapes",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bristol",
-  "postcode": "BS9",
-  "lat": 51.493,
-  "lng": -2.618,
-  "distance_miles": 60.3,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "08571991",
-   "status": "active",
-   "incorporated": "2013-06-17",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/08571991"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 13,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/08571991",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
@@ -6591,97 +7986,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_2c859ab8",
-  "name": "Boundary Fencing (South-West)",
-  "legal_name": "BOUNDARY FENCING (SOUTH-WEST) LIMITED",
-  "name_normalised": "boundary fencing south west",
-  "areas": [
-   "fencing_boundaries"
-  ],
-  "types": [],
-  "primary_area": "fencing_boundaries",
-  "address": null,
-  "town": "Withywood",
-  "postcode": "BS13",
-  "lat": 51.41,
-  "lng": -2.625,
-  "distance_miles": 55.4,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "06058812",
-   "status": "active",
-   "incorporated": "2007-01-19",
-   "dissolved": null,
-   "sic": [
-    "43999"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/06058812"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 19,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/06058812",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_803e0c36",
   "name": "Brandwells Construction Company",
   "legal_name": "BRANDWELLS CONSTRUCTION COMPANY LIMITED",
@@ -7574,98 +8878,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/08857287",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_45bd5aac",
-  "name": "Bristol Landscapes",
-  "legal_name": "BRISTOL LANDSCAPES LTD",
-  "name_normalised": "bristol landscapes",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bristol",
-  "postcode": "BS3",
-  "lat": 51.435,
-  "lng": -2.606,
-  "distance_miles": 56.5,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "07346680",
-   "status": "active",
-   "incorporated": "2010-08-16",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/07346680"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 16,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/07346680",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
@@ -9770,98 +10982,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/08948748",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_d1f40aad",
-  "name": "Cabot Landscapes",
-  "legal_name": "CABOT LANDSCAPES LTD",
-  "name_normalised": "cabot landscapes",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bristol",
-  "postcode": "BS11",
-  "lat": 51.505,
-  "lng": -2.69,
-  "distance_miles": 62.5,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "07635313",
-   "status": "active",
-   "incorporated": "2011-05-16",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/07635313"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 15,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/07635313",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
@@ -12243,192 +13363,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/15084228",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_5d1d0a12",
-  "name": "Craig West Turf",
-  "legal_name": "CRAIG WEST TURF LIMITED",
-  "name_normalised": "craig west turf",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bristol",
-  "postcode": "BS11",
-  "lat": 51.5,
-  "lng": -2.701,
-  "distance_miles": 62.4,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "04608635",
-   "status": "active",
-   "incorporated": "2002-12-04",
-   "dissolved": null,
-   "sic": [
-    "46220",
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/04608635"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 24,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 46220, 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/04608635",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_6b45404b",
-  "name": "Crest Tree Services",
-  "legal_name": "CREST TREE SERVICES LIMITED",
-  "name_normalised": "crest tree",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bristol",
-  "postcode": "BS9",
-  "lat": 51.501,
-  "lng": -2.62,
-  "distance_miles": 60.9,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "09211029",
-   "status": "active",
-   "incorporated": "2014-09-10",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/09211029"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 12,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/09211029",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
@@ -15355,98 +16289,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/12332203",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_b4bf1b4f",
-  "name": "Enviro The Landscape Group",
-  "legal_name": "ENVIRO THE LANDSCAPE GROUP LIMITED",
-  "name_normalised": "enviro landscape group",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bristol",
-  "postcode": "BS9",
-  "lat": 51.486,
-  "lng": -2.613,
-  "distance_miles": 59.8,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "11130500",
-   "status": "active",
-   "incorporated": "2018-01-03",
-   "dissolved": null,
-   "sic": [
-    "81300",
-    "99999"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/11130500"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 8,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300, 99999",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/11130500",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
@@ -19051,98 +19893,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_e3df144f",
-  "name": "Green Elephant Gardens",
-  "legal_name": "GREEN ELEPHANT GARDENS LTD",
-  "name_normalised": "green elephant gardens",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bristol",
-  "postcode": "BS7",
-  "lat": 51.487,
-  "lng": -2.568,
-  "distance_miles": 59.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "09803015",
-   "status": "active",
-   "incorporated": "2015-10-01",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/09803015"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 11,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/09803015",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_ce9ad52c",
   "name": "Green Genie Landscapes",
   "legal_name": "GREEN GENIE LANDSCAPES LTD",
@@ -21326,98 +22076,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/12848105",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_9e566536",
-  "name": "Incastone Landscaping",
-  "legal_name": "INCASTONE LANDSCAPING LTD",
-  "name_normalised": "incastone landscaping",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bristol",
-  "postcode": "BS13",
-  "lat": 51.411,
-  "lng": -2.629,
-  "distance_miles": 55.6,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "04006900",
-   "status": "active",
-   "incorporated": "2000-06-02",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/04006900"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 26,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/04006900",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
@@ -24068,99 +24726,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/09771504",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_d881568d",
-  "name": "L&M Tree Services",
-  "legal_name": "L&M TREE SERVICES LTD",
-  "name_normalised": "l m tree",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Whitchurch",
-  "postcode": "BS14",
-  "lat": 51.418,
-  "lng": -2.576,
-  "distance_miles": 54.9,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "05715893",
-   "status": "active",
-   "incorporated": "2006-02-21",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/05715893"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 20,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/05715893",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
@@ -28181,98 +28746,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/14630872",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_f273f619",
-  "name": "Meadow Landscapes",
-  "legal_name": "MEADOW LANDSCAPES LIMITED",
-  "name_normalised": "meadow landscapes",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bristol",
-  "postcode": "BS10",
-  "lat": 51.513,
-  "lng": -2.597,
-  "distance_miles": 61.1,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "09544379",
-   "status": "active",
-   "incorporated": "2015-04-15",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/09544379"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 11,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/09544379",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
@@ -38631,97 +39104,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_93ba8354",
-  "name": "Squirrel Design Treehouses",
-  "legal_name": "SQUIRREL DESIGN TREEHOUSES LIMITED",
-  "name_normalised": "squirrel design treehouses",
-  "areas": [
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "trees_vegetation",
-  "address": null,
-  "town": "Bristol",
-  "postcode": "BS15",
-  "lat": 51.465,
-  "lng": -2.523,
-  "distance_miles": 56.8,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "05155679",
-   "status": "active",
-   "incorporated": "2004-06-16",
-   "dissolved": null,
-   "sic": [
-    "43999"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/05155679"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 22,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/05155679",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_89b7be8a",
   "name": "Srbmd",
   "legal_name": "SRBMD LTD",
@@ -41284,99 +41666,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_3bcb895b",
-  "name": "Top Tree Services",
-  "legal_name": "TOP TREE SERVICES LIMITED",
-  "name_normalised": "top tree",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bristol",
-  "postcode": "BS14",
-  "lat": 51.422,
-  "lng": -2.559,
-  "distance_miles": 54.8,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "10095277",
-   "status": "active",
-   "incorporated": "2016-03-31",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/10095277"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 10,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/10095277",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_959178d3",
   "name": "Top Watch Uk",
   "legal_name": "TOP WATCH UK LTD",
@@ -41819,100 +42108,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/14002817",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_1a948189",
-  "name": "Tree And Boundary Services",
-  "legal_name": "TREE AND BOUNDARY SERVICES LTD",
-  "name_normalised": "tree boundary",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "fencing_boundaries",
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "BS15",
-  "postcode": "BS15",
-  "lat": 51.463,
-  "lng": -2.514,
-  "distance_miles": 56.5,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "05087482",
-   "status": "active",
-   "incorporated": "2004-03-29",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/05087482"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 22,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/05087482",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
@@ -45205,98 +45400,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/15718204",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_8395309c",
-  "name": "Wildwood Treecare Bristol",
-  "legal_name": "WILDWOOD TREECARE BRISTOL LTD",
-  "name_normalised": "wildwood treecare bristol",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bristol",
-  "postcode": "BS8",
-  "lat": 51.46,
-  "lng": -2.613,
-  "distance_miles": 58.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "12720727",
-   "status": "active",
-   "incorporated": "2020-07-05",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/12720727"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 6,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/12720727",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",

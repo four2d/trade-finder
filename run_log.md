@@ -73,3 +73,5 @@
 - 18:44 BST: Issue 02: +58 enriched Wiltshire/Somerset firms; Bristol filled out by postcode district
 
 - 18:56 BST: Issue 02: +56 enriched Wiltshire/Somerset firms
+
+- 19:10 BST: Issue 02: +63 enriched firms (Somerset, Berkshire, Bristol)
