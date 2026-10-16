@@ -331,12 +331,12 @@
   "name_normalised": "mjt landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "decking_structures",
-   "lawns_grounds",
-   "paving_patios",
    "groundworks",
-   "driveways"
+   "paving_patios",
+   "driveways",
+   "decking_structures",
+   "fencing_boundaries",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_contractor",
@@ -444,10 +444,10 @@
   "name_normalised": "owen thomas garden landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "paving_patios",
    "decking_structures",
-   "lawns_grounds",
-   "paving_patios"
+   "fencing_boundaries",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_contractor",
@@ -557,10 +557,10 @@
   "name_normalised": "simply green landscapes",
   "areas": [
    "landscaping",
-   "lawns_grounds",
+   "paving_patios",
    "decking_structures",
    "fencing_boundaries",
-   "paving_patios"
+   "lawns_grounds"
   ],
   "types": [
    "landscape_contractor",
@@ -669,8 +669,8 @@
   "name_normalised": "garden design company",
   "areas": [
    "landscaping",
-   "lawns_grounds",
-   "decking_structures"
+   "decking_structures",
+   "lawns_grounds"
   ],
   "types": [
    "garden_designer",
@@ -779,8 +779,8 @@
    "landscaping",
    "paving_patios",
    "driveways",
-   "fencing_boundaries",
-   "decking_structures"
+   "decking_structures",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_contractor",
@@ -984,11 +984,11 @@
   "areas": [
    "lawns_grounds",
    "landscaping",
-   "fencing_boundaries",
-   "decking_structures",
+   "trees_vegetation",
    "paving_patios",
    "driveways",
-   "trees_vegetation"
+   "decking_structures",
+   "fencing_boundaries"
   ],
   "types": [
    "gardener",
@@ -1084,9 +1084,9 @@
   "name_normalised": "bud design landscaping",
   "areas": [
    "landscaping",
+   "paving_patios",
    "decking_structures",
-   "lawns_grounds",
-   "paving_patios"
+   "lawns_grounds"
   ],
   "types": [
    "garden_designer",
@@ -1232,7 +1232,6 @@
   "accreditations": [],
   "services_notes": "Garden & estate maintenance, landscape construction, commercial maintenance; Berks & Surrey",
   "badges": [
-   "top_pick",
    "ltd_company",
    "established"
   ],
@@ -1368,14 +1367,132 @@
   "county": "berkshire"
  },
  {
+  "id": "tf_7af8b4d6",
+  "name": "Deckor Decking",
+  "legal_name": "Deckor Group",
+  "name_normalised": "deckor decking",
+  "areas": [
+   "decking_structures",
+   "fencing_boundaries"
+  ],
+  "types": [
+   "decking_installer"
+  ],
+  "primary_area": "decking_structures",
+  "address": null,
+  "town": "Fifield, Maidenhead",
+  "postcode": "SL6",
+  "lat": 51.523970283246975,
+  "lng": -0.7289799145077733,
+  "distance_miles": 78.1,
+  "serves_area_only": false,
+  "phone": "020 8087 1345",
+  "phone_e164": "+442080871345",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://deckordecking.co.uk/",
+  "domain": "deckordecking.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.523970283246975&mlon=-0.7289799145077733#map=13/51.523970283246975/-0.7289799145077733",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": null,
+   "reviews": null,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/deckorgroup",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14403858",
+   "status": "active",
+   "incorporated": "2022-10-07",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14403858"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Hardwood, softwood & composite decking, raised decks, balconies, fencing, pool/hot-tub surrounds; verified Millboard installer; Checkatrade & Bark profiles",
+  "badges": [
+   "top_pick",
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.9,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://deckordecking.co.uk/contact-us",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "millboard",
+    "url": "https://www.millboard.com/en-gb/installers/deckor-decking/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "accreditation"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/deckorgroup",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14403858",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "berkshire"
+ },
+ {
   "id": "tf_093836a3",
   "name": "Driveline Paving Services",
   "legal_name": "Driveline Paving Services",
   "name_normalised": "driveline paving",
   "areas": [
    "driveways",
-   "paving_patios",
    "landscaping",
+   "paving_patios",
    "exterior_cleaning"
   ],
   "types": [
@@ -1855,8 +1972,8 @@
   "name_normalised": "home view landscapes",
   "areas": [
    "landscaping",
-   "driveways",
    "paving_patios",
+   "driveways",
    "fencing_boundaries",
    "lawns_grounds"
   ],
@@ -1931,6 +2048,105 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/12326252",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "berkshire"
+ },
+ {
+  "id": "tf_914ef958",
+  "name": "KS Paving",
+  "legal_name": "KS Paving",
+  "name_normalised": "ks paving",
+  "areas": [
+   "paving_patios",
+   "driveways",
+   "landscaping",
+   "fencing_boundaries"
+  ],
+  "types": [
+   "paving_contractor",
+   "driveway_contractor"
+  ],
+  "primary_area": "paving_patios",
+  "address": null,
+  "town": "Caversham, Reading",
+  "postcode": "RG4",
+  "lat": 51.482895193,
+  "lng": -0.9696834250000015,
+  "distance_miles": 69.0,
+  "serves_area_only": false,
+  "phone": "0118 969 6630",
+  "phone_e164": "+441189696630",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://kspaving.co.uk/",
+  "domain": "kspaving.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.482895193&mlon=-0.9696834250000015#map=13/51.482895193/-0.9696834250000015",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "10209742",
+   "status": "active",
+   "incorporated": "2016-06-01",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10209742"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 10,
+  "accreditations": [],
+  "services_notes": "Family-run; block paving, driveways, patios, gravel, brickwork, fencing; written guarantees",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://kspaving.co.uk/contact-us/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10209742",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "number",
@@ -2140,14 +2356,121 @@
   "county": "berkshire"
  },
  {
+  "id": "tf_bad33550",
+  "name": "M & J Landscapes & Groundworks",
+  "legal_name": "M & J Landscapes & Groundworks",
+  "name_normalised": "m j landscapes groundworks",
+  "areas": [
+   "landscaping",
+   "groundworks",
+   "paving_patios",
+   "decking_structures",
+   "fencing_boundaries",
+   "driveways"
+  ],
+  "types": [
+   "landscape_contractor",
+   "groundworks_contractor"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Bracknell",
+  "postcode": "RG12",
+  "lat": 51.40669537395349,
+  "lng": -0.7498115590697678,
+  "distance_miles": 71.9,
+  "serves_area_only": false,
+  "phone": "07809 140128",
+  "phone_e164": "+447809140128",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.mandjlandscapes-groundworksltd.co.uk/",
+  "domain": "mandjlandscapes-groundworksltd.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.40669537395349&mlon=-0.7498115590697678#map=13/51.40669537395349/-0.7498115590697678",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11141202",
+   "status": "active",
+   "incorporated": "2018-01-09",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11141202"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 8,
+  "accreditations": [],
+  "services_notes": "Turf, artificial grass, patios, decking, fencing, driveways, drainage, tarmac, foundations; ~20 miles of Bracknell; MyBuilder profile",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.mandjlandscapes-groundworksltd.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "mybuilder",
+    "url": "https://www.mybuilder.com/profile/m_j_landscapes_groundworks_ltd",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11141202",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "berkshire"
+ },
+ {
   "id": "tf_4431cd2c",
   "name": "Major Landscapes",
   "legal_name": "Major Landscapes",
   "name_normalised": "major landscapes",
   "areas": [
    "landscaping",
-   "driveways",
    "paving_patios",
+   "driveways",
    "lawns_grounds"
   ],
   "types": [
@@ -2243,9 +2566,9 @@
   "name_normalised": "next level landscapes",
   "areas": [
    "landscaping",
+   "groundworks",
    "paving_patios",
    "driveways",
-   "groundworks",
    "fencing_boundaries"
   ],
   "types": [
@@ -2641,8 +2964,8 @@
    "landscaping",
    "paving_patios",
    "decking_structures",
-   "lawns_grounds",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
@@ -2716,6 +3039,118 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/11249922",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "berkshire"
+ },
+ {
+  "id": "tf_fea908dc",
+  "name": "Roots Gardens",
+  "legal_name": "Roots Garden Nursery",
+  "name_normalised": "roots gardens",
+  "areas": [
+   "landscaping",
+   "lawns_grounds",
+   "decking_structures",
+   "paving_patios"
+  ],
+  "types": [
+   "landscape_gardener",
+   "gardener"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Holyport, Maidenhead",
+  "postcode": "SL6",
+  "lat": 51.523970283246975,
+  "lng": -0.7289799145077733,
+  "distance_miles": 78.1,
+  "serves_area_only": false,
+  "phone": "01628 604840",
+  "phone_e164": "+441628604840",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.rootsgardens.co.uk/",
+  "domain": "rootsgardens.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.523970283246975&mlon=-0.7289799145077733#map=13/51.523970283246975/-0.7289799145077733",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": null,
+   "reviews": null,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/rootsgardennurseryltd",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "06945871",
+   "status": "active",
+   "incorporated": "2009-06-26",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/06945871"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 17,
+  "accreditations": [],
+  "services_notes": "Garden design, planting, turf, artificial grass, decking, paving, clearance, maintenance; Berks & Bucks; Checkatrade profile (score not read)",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.rootsgardens.co.uk/landscaping-maidenhead/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/rootsgardennurseryltd",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/06945871",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "number",
@@ -2827,14 +3262,111 @@
   "county": "berkshire"
  },
  {
+  "id": "tf_997cc830",
+  "name": "Thompson Garden Care & Design",
+  "legal_name": "Thompson Garden Care & Design",
+  "name_normalised": "thompson garden care design",
+  "areas": [
+   "lawns_grounds",
+   "landscaping"
+  ],
+  "types": [
+   "gardener",
+   "garden_designer"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Crowthorne",
+  "postcode": "RG45",
+  "lat": 51.37228746827129,
+  "lng": -0.7986901225382942,
+  "distance_miles": 68.8,
+  "serves_area_only": false,
+  "phone": "07456 242344",
+  "phone_e164": "+447456242344",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://thompsongardencare.co.uk/",
+  "domain": "thompsongardencare.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.37228746827129&mlon=-0.7986901225382942#map=13/51.37228746827129/-0.7986901225382942",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "16503363",
+   "status": "active",
+   "incorporated": "2025-06-08",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/16503363"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 1,
+  "accreditations": [],
+  "services_notes": "Lawn & border care, pruning, seasonal maintenance, planting and border design; Bracknell area",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "new_business"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://thompsongardencare.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/16503363",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "berkshire"
+ },
+ {
   "id": "tf_7b9fcb79",
   "name": "Walsh Landscaping",
   "legal_name": "Walsh Landscaping",
   "name_normalised": "walsh landscaping",
   "areas": [
    "landscaping",
-   "driveways",
    "paving_patios",
+   "driveways",
    "decking_structures",
    "fencing_boundaries"
   ],
@@ -2925,18 +3457,131 @@
   "county": "berkshire"
  },
  {
+  "id": "tf_b92c22c7",
+  "name": "Williams Brothers Groundworks",
+  "legal_name": "Williams Brothers Groundworks",
+  "name_normalised": "williams brothers groundworks",
+  "areas": [
+   "groundworks",
+   "driveways",
+   "paving_patios",
+   "decking_structures",
+   "fencing_boundaries"
+  ],
+  "types": [
+   "groundworks_contractor",
+   "landscape_contractor"
+  ],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Curridge, Thatcham",
+  "postcode": "RG18",
+  "lat": 51.43119547145489,
+  "lng": -1.2605440718232033,
+  "distance_miles": 58.7,
+  "serves_area_only": false,
+  "phone": "07738 285811",
+  "phone_e164": "+447738285811",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.wbgroundworks.com/",
+  "domain": "wbgroundworks.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.43119547145489&mlon=-1.2605440718232033#map=13/51.43119547145489/-1.2605440718232033",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": null,
+   "reviews": null,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/williamsbrothersgroundworks",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11813341",
+   "status": "active",
+   "incorporated": "2019-02-07",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11813341"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 7,
+  "accreditations": [],
+  "services_notes": "Driveways, patios, paths, decking, fencing, drainage, hard landscaping; Berks, Hants, Wilts; Checkatrade profile",
+  "badges": [
+   "top_pick",
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.wbgroundworks.com/contact",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/williamsbrothersgroundworks",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11813341",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "berkshire"
+ },
+ {
   "id": "tf_3bc28d4a",
   "name": "Windsor & Ascot Landscaping",
   "legal_name": "Windsor & Ascot Landscaping",
   "name_normalised": "windsor ascot landscaping",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "trees_vegetation",
-   "decking_structures",
-   "lawns_grounds",
    "paving_patios",
-   "driveways"
+   "driveways",
+   "decking_structures",
+   "fencing_boundaries",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener"
@@ -3030,10 +3675,10 @@
   "name_normalised": "wyvern landscapes",
   "areas": [
    "landscaping",
-   "lawns_grounds",
+   "trees_vegetation",
    "paving_patios",
    "fencing_boundaries",
-   "trees_vegetation"
+   "lawns_grounds"
   ],
   "types": [
    "landscape_contractor"
@@ -3217,14 +3862,115 @@
   "county": "berkshire"
  },
  {
+  "id": "tf_86f2af33",
+  "name": "Wellingtonia Landscaping",
+  "legal_name": "Wellingtonia Landscaping",
+  "name_normalised": "wellingtonia landscaping",
+  "areas": [
+   "landscaping",
+   "paving_patios",
+   "driveways",
+   "decking_structures",
+   "lawns_grounds",
+   "fencing_boundaries"
+  ],
+  "types": [
+   "landscape_contractor",
+   "garden_designer"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Shinfield, Reading",
+  "postcode": "RG2",
+  "lat": 51.41878878083483,
+  "lng": -0.9504554535104365,
+  "distance_miles": 66.3,
+  "serves_area_only": false,
+  "phone": "07826 022447",
+  "phone_e164": "+447826022447",
+  "phone_type": "mobile",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.41878878083483&mlon=-0.9504554535104365#map=13/51.41878878083483/-0.9504554535104365",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13994599",
+   "status": "active",
+   "incorporated": "2022-03-22",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13994599"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Garden design incl. 3D, planting, hard landscaping, patios, driveways, decking, turf, fencing; Fixatrader profile",
+  "badges": [
+   "ltd_company",
+   "no_website"
+  ],
+  "score": 13,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 9,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "fixatrader",
+    "url": "https://fixatrader.com/profile/wellingtonia-landscaping-ltd",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13994599",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "berkshire"
+ },
+ {
   "id": "tf_c45fd2ea",
   "name": "Avalonian Gardens",
   "legal_name": "Avalonian Gardens",
   "name_normalised": "avalonian gardens",
   "areas": [
    "lawns_grounds",
-   "trees_vegetation",
-   "landscaping"
+   "landscaping",
+   "trees_vegetation"
   ],
   "types": [
    "gardener",
@@ -3392,6 +4138,198 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16505296",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "berkshire"
+ },
+ {
+  "id": "tf_fdd6a570",
+  "name": "Breen Tree Surgery",
+  "legal_name": "Breen Tree Surgery",
+  "name_normalised": "breen tree surgery",
+  "areas": [
+   "trees_vegetation",
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Binfield, Bracknell",
+  "postcode": "RG42",
+  "lat": 51.42813809637311,
+  "lng": -0.7570822196891209,
+  "distance_miles": 72.7,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://breentree-surgery.co.uk/",
+  "domain": "breentree-surgery.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.42813809637311&mlon=-0.7570822196891209#map=13/51.42813809637311/-0.7570822196891209",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "16352382",
+   "status": "active",
+   "incorporated": "2025-03-30",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/16352382"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 1,
+  "accreditations": [],
+  "services_notes": "Tree surgery, arborist work, landscaping, garden maintenance; Bracknell, Wokingham, Ascot",
+  "badges": [
+   "ltd_company",
+   "new_business"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://breentree-surgery.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "website"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/16352382",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "berkshire"
+ },
+ {
+  "id": "tf_a71d4f4e",
+  "name": "DGM Landscaping & Ground Maintenance",
+  "legal_name": "DGM Landscape & Ground Maintenance Services",
+  "name_normalised": "dgm landscaping ground maintenance",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [
+   "landscape_contractor",
+   "grounds_maintenance"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Hungerford",
+  "postcode": "RG17",
+  "lat": 51.443202965204236,
+  "lng": -1.5032973040847202,
+  "distance_miles": 54.5,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://www.dgmlandscape.co.uk/",
+  "domain": "dgmlandscape.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.443202965204236&mlon=-1.5032973040847202#map=13/51.443202965204236/-1.5032973040847202",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "16451281",
+   "status": "active",
+   "incorporated": "2025-05-14",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/16451281"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 1,
+  "accreditations": [],
+  "services_notes": "Landscaping and grounds maintenance",
+  "badges": [
+   "ltd_company",
+   "new_business"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.dgmlandscape.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "website"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/16451281",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "number",
@@ -3892,10 +4830,10 @@
   "areas": [
    "fencing_boundaries",
    "landscaping",
-   "decking_structures",
-   "lawns_grounds",
    "paving_patios",
-   "driveways"
+   "driveways",
+   "decking_structures",
+   "lawns_grounds"
   ],
   "types": [
    "fencing_contractor",
@@ -4115,8 +5053,8 @@
   "name_normalised": "tslandscapes",
   "areas": [
    "landscaping",
-   "driveways",
    "paving_patios",
+   "driveways",
    "decking_structures",
    "fencing_boundaries"
   ],
@@ -12850,99 +13788,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_c95aa2bb",
-  "name": "Breen Tree Surgery",
-  "legal_name": "BREEN TREE SURGERY LTD",
-  "name_normalised": "breen tree surgery",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bracknell",
-  "postcode": "RG42",
-  "lat": 51.415,
-  "lng": -0.793,
-  "distance_miles": 70.9,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "16352382",
-   "status": "active",
-   "incorporated": "2025-03-30",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/16352382"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 1,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "new_business"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/16352382",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "berkshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_a12bbe61",
   "name": "Brickell Swimming Pools",
   "legal_name": "BRICKELL SWIMMING POOLS LIMITED",
@@ -17510,98 +18355,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_fa6f562c",
-  "name": "DGM Landscape & Ground Maintenance Services",
-  "legal_name": "DGM LANDSCAPE & GROUND MAINTENANCE SERVICES LIMITED",
-  "name_normalised": "dgm landscape ground maintenance",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Berkshire",
-  "postcode": "RG14",
-  "lat": 51.407,
-  "lng": -1.333,
-  "distance_miles": 55.6,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "16451281",
-   "status": "active",
-   "incorporated": "2025-05-14",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/16451281"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 1,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "new_business"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/16451281",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "berkshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_60ede88f",
   "name": "DR Content Studio",
   "legal_name": "DR CONTENT STUDIO LTD",
@@ -18402,98 +19155,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/09532612",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "berkshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_79bdf5db",
-  "name": "Deckor Group",
-  "legal_name": "DECKOR GROUP LTD",
-  "name_normalised": "deckor group",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "decking_structures"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Maidenhead",
-  "postcode": "SL6",
-  "lat": 51.482,
-  "lng": -0.692,
-  "distance_miles": 77.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "14403858",
-   "status": "active",
-   "incorporated": "2022-10-07",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/14403858"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 4,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/14403858",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
@@ -33368,99 +34029,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_abe4a1b0",
-  "name": "KS Paving",
-  "legal_name": "KS PAVING LTD",
-  "name_normalised": "ks paving",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "paving_patios"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Berkshire",
-  "postcode": "RG4",
-  "lat": 51.463,
-  "lng": -0.917,
-  "distance_miles": 69.5,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "10209742",
-   "status": "active",
-   "incorporated": "2016-06-01",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/10209742"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 10,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/10209742",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "berkshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_3c6b7429",
   "name": "Kamboj PS",
   "legal_name": "KAMBOJ PS LIMITED",
@@ -36459,97 +37027,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/13369331",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "berkshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_cdc2007e",
-  "name": "M & J Landscapes & Groundworks",
-  "legal_name": "M & J LANDSCAPES & GROUNDWORKS LTD",
-  "name_normalised": "m j landscapes groundworks",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bracknell",
-  "postcode": "RG12",
-  "lat": 51.399,
-  "lng": -0.735,
-  "distance_miles": 72.1,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "11141202",
-   "status": "active",
-   "incorporated": "2018-01-09",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/11141202"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 8,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/11141202",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
@@ -46458,99 +46935,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_ec4cd874",
-  "name": "Roots Garden Nursery",
-  "legal_name": "ROOTS GARDEN NURSERY LIMITED",
-  "name_normalised": "roots garden nursery",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Maidenhead",
-  "postcode": "SL6",
-  "lat": 51.49,
-  "lng": -0.704,
-  "distance_miles": 77.3,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "06945871",
-   "status": "active",
-   "incorporated": "2009-06-26",
-   "dissolved": null,
-   "sic": [
-    "01300",
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/06945871"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 17,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 01300, 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/06945871",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "berkshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_c66b85ca",
   "name": "Round Seven",
   "legal_name": "ROUND SEVEN LTD",
@@ -53424,98 +53808,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_cc6c4365",
-  "name": "Thompson Garden Care & Design",
-  "legal_name": "THOMPSON GARDEN CARE & DESIGN LTD",
-  "name_normalised": "thompson garden care design",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bracknell",
-  "postcode": "RG12",
-  "lat": 51.394,
-  "lng": -0.729,
-  "distance_miles": 72.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "16503363",
-   "status": "active",
-   "incorporated": "2025-06-08",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/16503363"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 1,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "new_business"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/16503363",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "berkshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_7419269f",
   "name": "Thornton House Developments",
   "legal_name": "THORNTON HOUSE DEVELOPMENTS LIMITED",
@@ -55894,97 +56186,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_60af2667",
-  "name": "Wellingtonia Landscaping",
-  "legal_name": "WELLINGTONIA LANDSCAPING LTD",
-  "name_normalised": "wellingtonia landscaping",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Berkshire",
-  "postcode": "RG2",
-  "lat": 51.405,
-  "lng": -0.943,
-  "distance_miles": 65.8,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13994599",
-   "status": "active",
-   "incorporated": "2022-03-22",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13994599"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 4,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13994599",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "berkshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_c0ad89e0",
   "name": "Whelehan Construction",
   "legal_name": "WHELEHAN CONSTRUCTION LTD",
@@ -56330,97 +56531,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/13767356",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "berkshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_e061ee1b",
-  "name": "Williams Brothers Groundworks",
-  "legal_name": "WILLIAMS BROTHERS GROUNDWORKS LTD",
-  "name_normalised": "williams brothers groundworks",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Thatcham",
-  "postcode": "RG18",
-  "lat": 51.441,
-  "lng": -1.292,
-  "distance_miles": 58.5,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "11813341",
-   "status": "active",
-   "incorporated": "2019-02-07",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/11813341"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 7,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/11813341",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",

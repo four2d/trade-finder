@@ -77,3 +77,5 @@
 - 19:10 BST: Issue 02: +63 enriched firms (Somerset, Berkshire, Bristol)
 
 - 19:24 BST: Issue 02: +42 enriched Berkshire/Bristol firms
+
+- 19:46 BST: b8: +30 Somerset/Berkshire/Bristol firms; Dorset quality pass (~45 records given phone/website/second source)

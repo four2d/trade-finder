@@ -219,6 +219,850 @@
   "county": "dorset"
  },
  {
+  "id": "tf_0390f8f3",
+  "name": "Mason & Turner",
+  "legal_name": "MASON & TURNER LTD",
+  "name_normalised": "mason turner",
+  "areas": [
+   "landscaping"
+  ],
+  "types": [
+   "hard_landscaping"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Bournemouth",
+  "postcode": null,
+  "lat": 50.7192,
+  "lng": -1.8808,
+  "distance_miles": 4.7,
+  "serves_area_only": false,
+  "phone": "01202 759904",
+  "phone_e164": "+441202759904",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://mandtconstruction.co.uk/",
+  "domain": "mandtconstruction.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.7192&mlon=-1.8808#map=13/50.7192/-1.8808",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 9.92,
+   "reviews": 510,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/masonandturnerconstruction",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "05567535",
+   "status": "active",
+   "incorporated": "2005-09-19",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05567535"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Landscaping & construction (Ltd), Bournemouth. Matched by name + district to MASON & TURNER LTD (check)",
+  "badges": [
+   "top_pick",
+   "highly_rated",
+   "vetted",
+   "nearby",
+   "ltd_company",
+   "needs_check"
+  ],
+  "score": 89,
+  "score_breakdown": {
+   "rating": 35,
+   "reviews": 15,
+   "vetted": 12,
+   "contact": 15,
+   "distance": 12
+  },
+  "confidence": 0.7,
+  "merge_review": true,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://mandtconstruction.co.uk/contact/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/masonandturnerconstruction",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "base"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05567535",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_fdadf65c",
+  "name": "The Tree Musketeers",
+  "legal_name": null,
+  "name_normalised": "tree musketeers",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon",
+   "stump_grinding",
+   "hedge_maintenance"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Bournemouth",
+  "postcode": null,
+  "lat": 50.7192,
+  "lng": -1.8808,
+  "distance_miles": 4.7,
+  "serves_area_only": false,
+  "phone": "01202 383940",
+  "phone_e164": "+441202383940",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://thetreemusketeers.com/",
+  "domain": "thetreemusketeers.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.7192&mlon=-1.8808#map=13/50.7192/-1.8808",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 10.0,
+   "reviews": 259,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/thetreemusketeers335024",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Trees, hedges & stump removal across Dorset & Hampshire",
+  "badges": [
+   "top_pick",
+   "highly_rated",
+   "vetted",
+   "nearby"
+  ],
+  "score": 88,
+  "score_breakdown": {
+   "rating": 35,
+   "reviews": 14,
+   "vetted": 12,
+   "contact": 15,
+   "distance": 12
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://thetreemusketeers.com/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/thetreemusketeers335024",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "base"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_4c65d992",
+  "name": "BRW Tree Surgeons",
+  "legal_name": null,
+  "name_normalised": "brw tree surgeons",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon",
+   "stump_grinding"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Bournemouth",
+  "postcode": "BH10",
+  "lat": 50.75954124999999,
+  "lng": -1.8927827089843747,
+  "distance_miles": 5.1,
+  "serves_area_only": false,
+  "phone": "07426 922737",
+  "phone_e164": "+447426922737",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.brwtreespecialists.co.uk/",
+  "domain": "brwtreespecialists.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.75954124999999&mlon=-1.8927827089843747#map=13/50.75954124999999/-1.8927827089843747",
+  "last_review_date": "2026-10-09",
+  "checkatrade": {
+   "score": 10.0,
+   "reviews": 129,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/brwtreespecialists",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Crown reduction/thinning, felling, stump grinding, logs",
+  "badges": [
+   "top_pick",
+   "highly_rated",
+   "vetted",
+   "busy"
+  ],
+  "score": 87,
+  "score_breakdown": {
+   "rating": 35,
+   "reviews": 13,
+   "vetted": 12,
+   "contact": 15,
+   "distance": 12
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.brwtreespecialists.co.uk/contact",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/brwtreespecialists",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "phone",
+     "district",
+     "last_review"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_c5caf9ee",
+  "name": "J.M. Tree and Garden Services",
+  "legal_name": "J.M TREE AND GARDEN SERVICES LIMITED",
+  "name_normalised": "j m tree garden",
+  "areas": [
+   "trees_vegetation",
+   "fencing_boundaries",
+   "lawns_grounds"
+  ],
+  "types": [
+   "tree_surgeon",
+   "garden_maintenance"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Wimborne Minster",
+  "postcode": "BH21",
+  "lat": 50.81214016510068,
+  "lng": -1.9745063221476504,
+  "distance_miles": 6.7,
+  "serves_area_only": false,
+  "phone": "07427 875586",
+  "phone_e164": "+447427875586",
+  "phone_type": "mobile",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.81214016510068&mlon=-1.9745063221476504#map=13/50.81214016510068/-1.9745063221476504",
+  "last_review_date": "2026-08-14",
+  "checkatrade": {
+   "score": 10.0,
+   "reviews": 419,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/jmtreeandgardenservices",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14052366",
+   "status": "active",
+   "incorporated": "2022-04-19",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14052366"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Tree surgery, pruning & garden maintenance, Wimborne",
+  "badges": [
+   "top_pick",
+   "highly_rated",
+   "vetted",
+   "ltd_company",
+   "no_website"
+  ],
+  "score": 86,
+  "score_breakdown": {
+   "rating": 35,
+   "reviews": 15,
+   "vetted": 16,
+   "contact": 9,
+   "distance": 11
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14052366",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/jmtreeandgardenservices",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/jmtreeandgardenservices",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "base",
+     "last_review"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_2c111fd2",
+  "name": "Shawn Oak Landscapes",
+  "legal_name": "SHAWN OAK LANDSCAPES LTD",
+  "name_normalised": "shawn oak landscapes",
+  "areas": [
+   "landscaping"
+  ],
+  "types": [
+   "landscape_gardener"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Bournemouth",
+  "postcode": null,
+  "lat": 50.7192,
+  "lng": -1.8808,
+  "distance_miles": 4.7,
+  "serves_area_only": false,
+  "phone": "07886 306518",
+  "phone_e164": "+447886306518",
+  "phone_type": "mobile",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.7192&mlon=-1.8808#map=13/50.7192/-1.8808",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 10.0,
+   "reviews": 215,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/shawnoaklandscapesltd",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "08823929",
+   "status": "active",
+   "incorporated": "2013-12-23",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08823929"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 13,
+  "accreditations": [],
+  "services_notes": "Landscaper (Ltd), Bournemouth",
+  "badges": [
+   "top_pick",
+   "highly_rated",
+   "vetted",
+   "ltd_company",
+   "established",
+   "no_website",
+   "nearby"
+  ],
+  "score": 86,
+  "score_breakdown": {
+   "rating": 35,
+   "reviews": 14,
+   "vetted": 16,
+   "contact": 9,
+   "distance": 12
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08823929",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/shawnoaklandscapesltd",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/shawnoaklandscapesltd",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "base"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_d50a2c7f",
+  "name": "Sunshine Gardens",
+  "legal_name": null,
+  "name_normalised": "sunshine gardens",
+  "areas": [
+   "landscaping"
+  ],
+  "types": [
+   "landscape_gardener"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Christchurch",
+  "postcode": "BH23",
+  "lat": 50.747632589195916,
+  "lng": -1.7542380684673364,
+  "distance_miles": 10.4,
+  "serves_area_only": false,
+  "phone": "01202 478066",
+  "phone_e164": "+441202478066",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://sunshinegardensdorset.com/",
+  "domain": "sunshinegardensdorset.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.747632589195916&mlon=-1.7542380684673364#map=13/50.747632589195916/-1.7542380684673364",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 10.0,
+   "reviews": 352,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/sunshinegardens",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Landscaper, Christchurch",
+  "badges": [
+   "top_pick",
+   "highly_rated",
+   "vetted"
+  ],
+  "score": 86,
+  "score_breakdown": {
+   "rating": 35,
+   "reviews": 15,
+   "vetted": 12,
+   "contact": 15,
+   "distance": 9
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://sunshinegardensdorset.com/contact-us/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/sunshinegardens",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "base"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_4080d143",
+  "name": "Newlook Driveways",
+  "legal_name": null,
+  "name_normalised": "newlook driveways",
+  "areas": [
+   "driveways"
+  ],
+  "types": [
+   "block_paving",
+   "tarmac_driveway",
+   "resin_bound",
+   "concrete_driveway",
+   "gravel_driveway",
+   "driveway_repair"
+  ],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Ferndown",
+  "postcode": "BH22",
+  "lat": 50.80499117270203,
+  "lng": -1.888526324512533,
+  "distance_miles": 7.6,
+  "serves_area_only": false,
+  "phone": "01202 041516",
+  "phone_e164": "+441202041516",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.newlookdrivewaysdorset.co.uk/",
+  "domain": "newlookdrivewaysdorset.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.80499117270203&mlon=-1.888526324512533#map=13/50.80499117270203/-1.888526324512533",
+  "last_review_date": "2026-09-17",
+  "checkatrade": {
+   "score": 9.83,
+   "reviews": 185,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/newlookdrivewaysdorset",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Family firm, 25+ yrs; block, resin, tarmac; cleaning & sealing",
+  "badges": [
+   "top_pick",
+   "highly_rated",
+   "vetted",
+   "busy"
+  ],
+  "score": 85,
+  "score_breakdown": {
+   "rating": 34,
+   "reviews": 14,
+   "vetted": 12,
+   "contact": 15,
+   "distance": 10
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.newlookdrivewaysdorset.co.uk/get-in-touch/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/newlookdrivewaysdorset",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "services",
+     "last_review"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_a847aec1",
+  "name": "RHV Tree Hedge & Woodland Specialists",
+  "legal_name": null,
+  "name_normalised": "rhv tree hedge woodland specialists",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon",
+   "stump_grinding",
+   "hedge_maintenance"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Verwood",
+  "postcode": "BH31",
+  "lat": 50.87655792691031,
+  "lng": -1.8732798571428557,
+  "distance_miles": 12.2,
+  "serves_area_only": false,
+  "phone": "07414 268847",
+  "phone_e164": "+447414268847",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://rhvtreesurgeons.co.uk/",
+  "domain": "rhvtreesurgeons.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.87655792691031&mlon=-1.8732798571428557#map=13/50.87655792691031/-1.8732798571428557",
+  "last_review_date": "2026-09-26",
+  "checkatrade": {
+   "score": 9.9,
+   "reviews": 376,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/rhvtreehedgeandwoodlandspecia",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": 37,
+  "accreditations": [],
+  "services_notes": "In tree care since 1989; felling, crown work, stump grinding, logs. Says Ferndown-based; Checkatrade lists Verwood",
+  "badges": [
+   "top_pick",
+   "highly_rated",
+   "vetted",
+   "established",
+   "busy"
+  ],
+  "score": 85,
+  "score_breakdown": {
+   "rating": 35,
+   "reviews": 15,
+   "vetted": 12,
+   "contact": 15,
+   "distance": 8
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://rhvtreesurgeons.co.uk/contact/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/rhvtreehedgeandwoodlandspecia",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "phone",
+     "base",
+     "last_review"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
   "id": "tf_1c0926f6",
   "name": "Brantal Surfacing",
   "legal_name": "BRANTAL SURFACING LIMITED",
@@ -323,6 +1167,106 @@
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "number"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_56fcf0ca",
+  "name": "Dorset Driveway Centre",
+  "legal_name": null,
+  "name_normalised": "dorset driveway centre",
+  "areas": [
+   "driveways"
+  ],
+  "types": [
+   "block_paving",
+   "tarmac_driveway",
+   "resin_bound",
+   "concrete_driveway",
+   "gravel_driveway",
+   "driveway_repair"
+  ],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Blandford Forum",
+  "postcode": "DT11",
+  "lat": 50.86181440550457,
+  "lng": -2.1833819550458724,
+  "distance_miles": 13.3,
+  "serves_area_only": false,
+  "phone": "07307 284643",
+  "phone_e164": "+447307284643",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://dorsetdrivewaycentre.co.uk/",
+  "domain": "dorsetdrivewaycentre.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.86181440550457&mlon=-2.1833819550458724#map=13/50.86181440550457/-2.1833819550458724",
+  "last_review_date": "2026-08-15",
+  "checkatrade": {
+   "score": 9.82,
+   "reviews": 588,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/dorsetdrivewaycentre",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Bases in Blandford & Poole; all driveway types incl. imprinted concrete re-sealing",
+  "badges": [
+   "highly_rated",
+   "vetted"
+  ],
+  "score": 83,
+  "score_breakdown": {
+   "rating": 34,
+   "reviews": 15,
+   "vetted": 12,
+   "contact": 15,
+   "distance": 7
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://dorsetdrivewaycentre.co.uk/about",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "address"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/dorsetdrivewaycentre",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "phone",
+     "district"
     ]
    }
   ],
@@ -466,8 +1410,8 @@
   "name_normalised": "dreamscape landscaping groundworks",
   "areas": [
    "landscaping",
-   "paving_patios",
    "groundworks",
+   "paving_patios",
    "driveways"
   ],
   "types": [
@@ -635,7 +1579,6 @@
   "accreditations": [],
   "services_notes": "Tarmac, block, resin, concrete & gravel; soakaways. Directory phone differs (023 8098 3503) — check",
   "badges": [
-   "top_pick",
    "highly_rated",
    "vetted",
    "no_website",
@@ -778,6 +1721,393 @@
   "county": "dorset"
  },
  {
+  "id": "tf_d9084872",
+  "name": "Southern Tree Specialists",
+  "legal_name": null,
+  "name_normalised": "southern tree specialists",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Christchurch",
+  "postcode": "BH23",
+  "lat": 50.747632589195916,
+  "lng": -1.7542380684673364,
+  "distance_miles": 10.4,
+  "serves_area_only": false,
+  "phone": "07788 298127",
+  "phone_e164": "+447788298127",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.s-tree-s.co.uk/",
+  "domain": "s-tree-s.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.747632589195916&mlon=-1.7542380684673364#map=13/50.747632589195916/-1.7542380684673364",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 10.0,
+   "reviews": 67,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/southerntreespecialists",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": 15,
+  "accreditations": [],
+  "services_notes": "Small team led by Andy Broadwell; 15+ yrs; Hampshire & Dorset",
+  "badges": [
+   "top_pick",
+   "highly_rated",
+   "vetted",
+   "established"
+  ],
+  "score": 79,
+  "score_breakdown": {
+   "rating": 32,
+   "reviews": 11,
+   "vetted": 12,
+   "contact": 15,
+   "distance": 9
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.s-tree-s.co.uk/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "website"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/southerntreespecialists",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "base"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_9e34effc",
+  "name": "Tree Logic",
+  "legal_name": null,
+  "name_normalised": "tree logic",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon",
+   "hedge_maintenance"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Wimborne Minster",
+  "postcode": "BH21",
+  "lat": 50.81214016510068,
+  "lng": -1.9745063221476504,
+  "distance_miles": 6.7,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "http://treelogic.biz/",
+  "domain": "treelogic.biz",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.81214016510068&mlon=-1.9745063221476504#map=13/50.81214016510068/-1.9745063221476504",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 10.0,
+   "reviews": 207,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/treelogic",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Tree surgery & hedge reduction, Wimborne",
+  "badges": [
+   "highly_rated",
+   "vetted"
+  ],
+  "score": 78,
+  "score_breakdown": {
+   "rating": 35,
+   "reviews": 14,
+   "vetted": 12,
+   "contact": 6,
+   "distance": 11
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "http://treelogic.biz/about-us.html",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "website"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/treelogic",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "base"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_e633abc9",
+  "name": "Coppice Tree & Garden Services",
+  "legal_name": null,
+  "name_normalised": "coppice tree garden",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Poole",
+  "postcode": null,
+  "lat": 50.715,
+  "lng": -1.9872,
+  "distance_miles": 0.0,
+  "serves_area_only": false,
+  "phone": "01202 621211",
+  "phone_e164": "+441202621211",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.coppicetree.co.uk/",
+  "domain": "coppicetree.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 10.0,
+   "reviews": 380,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/coppicetreeandgardenservices",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Tree surgery & pruning (Ltd); handles BCP TPO applications",
+  "badges": [
+   "highly_rated",
+   "vetted",
+   "nearby"
+  ],
+  "score": 77,
+  "score_breakdown": {
+   "rating": 35,
+   "reviews": 15,
+   "vetted": 12,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.coppicetree.co.uk/contact",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/coppicetreeandgardenservices",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "base"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_19977916",
+  "name": "Andy P Fencing",
+  "legal_name": null,
+  "name_normalised": "andy p fencing",
+  "areas": [
+   "fencing_boundaries"
+  ],
+  "types": [
+   "fencing_contractor",
+   "gate_installer"
+  ],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Poole",
+  "postcode": null,
+  "lat": 50.715,
+  "lng": -1.9872,
+  "distance_miles": 0.0,
+  "serves_area_only": false,
+  "phone": "07957 946091",
+  "phone_e164": "+447957946091",
+  "phone_type": "mobile",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 10.0,
+   "reviews": 213,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/westparkbuildingandmaintenance",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [
+   "Trading Standards Approved (Buy With Confidence)"
+  ],
+  "services_notes": "Close-board & panel fencing, wooden gates; Trading Standards approved (Poole)",
+  "badges": [
+   "top_pick",
+   "highly_rated",
+   "vetted",
+   "no_website",
+   "nearby"
+  ],
+  "score": 74,
+  "score_breakdown": {
+   "rating": 35,
+   "reviews": 14,
+   "vetted": 16,
+   "contact": 9,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "trustatrader",
+    "url": "https://www.trustatrader.com/traders/andy-p-fencing-bournemouth-1",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/westparkbuildingandmaintenance",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "accreditation",
+     "base"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
   "id": "tf_19818fc0",
   "name": "P.G. Dunn Tree & Garden Care",
   "legal_name": "P.G. DUNN TREE & LANDSCAPING LTD",
@@ -785,9 +2115,9 @@
   "areas": [
    "trees_vegetation",
    "landscaping",
+   "paving_patios",
    "fencing_boundaries",
-   "lawns_grounds",
-   "paving_patios"
+   "lawns_grounds"
   ],
   "types": [
    "tree_surgeon",
@@ -844,7 +2174,6 @@
   "accreditations": [],
   "services_notes": "Tree & hedge work plus hard & soft landscaping (patios, driveways, fencing, turfing); trades as P.G. Dunn Tree & Garden Care",
   "badges": [
-   "top_pick",
    "highly_rated",
    "vetted",
    "ltd_company",
@@ -896,8 +2225,8 @@
   "areas": [
    "driveways",
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "concrete_driveway",
@@ -986,6 +2315,202 @@
      "reviews",
      "hours",
      "address"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_f52d68ab",
+  "name": "S W Gardening",
+  "legal_name": null,
+  "name_normalised": "s w gardening",
+  "areas": [
+   "landscaping",
+   "fencing_boundaries"
+  ],
+  "types": [
+   "landscape_gardener",
+   "fencing_contractor"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Poole",
+  "postcode": null,
+  "lat": 50.715,
+  "lng": -1.9872,
+  "distance_miles": 0.0,
+  "serves_area_only": false,
+  "phone": "01202 035750",
+  "phone_e164": "+441202035750",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://swgardening.co.uk/",
+  "domain": "swgardening.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 10.0,
+   "reviews": 85,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/swgardening",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Landscaping, fence panels & gates, gravel paths and sleeper beds",
+  "badges": [
+   "top_pick",
+   "highly_rated",
+   "vetted",
+   "nearby"
+  ],
+  "score": 73,
+  "score_breakdown": {
+   "rating": 34,
+   "reviews": 12,
+   "vetted": 12,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://swgardening.co.uk/contact-us/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "postcode"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/swgardening",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "base"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_ff0b0b7f",
+  "name": "SPK Tree Services",
+  "legal_name": null,
+  "name_normalised": "spk tree",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon",
+   "hedge_maintenance",
+   "stump_grinding"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Poole",
+  "postcode": null,
+  "lat": 50.715,
+  "lng": -1.9872,
+  "distance_miles": 0.0,
+  "serves_area_only": false,
+  "phone": "07511 168956",
+  "phone_e164": "+447511168956",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://spktreeservices.co.uk/",
+  "domain": "spktreeservices.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 9.98,
+   "reviews": 89,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/spktreeservices1086930",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Tree & hedge management, Poole; TPO work",
+  "badges": [
+   "highly_rated",
+   "vetted",
+   "nearby"
+  ],
+  "score": 73,
+  "score_breakdown": {
+   "rating": 34,
+   "reviews": 12,
+   "vetted": 12,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://spktreeservices.co.uk/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/spktreeservices1086930",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "base"
     ]
    }
   ],
@@ -1115,8 +2640,8 @@
   "name_normalised": "classic landscaping",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "driveways"
+   "driveways",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -1170,7 +2695,6 @@
   ],
   "services_notes": "Patios (porcelain, natural stone), block paving; run by Ian and Scott; Environment Agency registered waste carrier",
   "badges": [
-   "top_pick",
    "highly_rated",
    "vetted",
    "nearby"
@@ -1310,378 +2834,6 @@
   "county": "dorset"
  },
  {
-  "id": "tf_6700da82",
-  "name": "BRW Tree Surgeons",
-  "legal_name": null,
-  "name_normalised": "brw tree surgeons",
-  "areas": [
-   "trees_vegetation"
-  ],
-  "types": [
-   "tree_surgeon",
-   "stump_grinding"
-  ],
-  "primary_area": "trees_vegetation",
-  "address": null,
-  "town": "Bournemouth",
-  "postcode": "BH10",
-  "lat": 50.75954124999999,
-  "lng": -1.8927827089843747,
-  "distance_miles": 5.1,
-  "serves_area_only": false,
-  "phone": "07426 922737",
-  "phone_e164": "+447426922737",
-  "phone_type": "mobile",
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.75954124999999&mlon=-1.8927827089843747#map=13/50.75954124999999/-1.8927827089843747",
-  "last_review_date": "2026-10-09",
-  "checkatrade": {
-   "score": 10.0,
-   "reviews": 129,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/trades/brwtreespecialists",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": null,
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": false,
-  "business_form": "unknown",
-  "size_band": "unknown",
-  "years_trading": null,
-  "accreditations": [],
-  "services_notes": "Crown reduction/thinning, felling, stump grinding, logs",
-  "badges": [
-   "top_pick",
-   "highly_rated",
-   "vetted",
-   "busy",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 65,
-  "score_breakdown": {
-   "rating": 35,
-   "reviews": 13,
-   "vetted": 12,
-   "contact": 9,
-   "distance": 12
-  },
-  "confidence": 0.3,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/trades/brwtreespecialists",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "score",
-     "reviews",
-     "phone",
-     "district",
-     "last_review"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
-  "id": "tf_24761677",
-  "name": "RHV Tree Hedge & Woodland Specialists",
-  "legal_name": null,
-  "name_normalised": "rhv tree hedge woodland specialists",
-  "areas": [
-   "trees_vegetation"
-  ],
-  "types": [
-   "tree_surgeon",
-   "stump_grinding",
-   "hedge_maintenance"
-  ],
-  "primary_area": "trees_vegetation",
-  "address": null,
-  "town": "Verwood",
-  "postcode": "BH31",
-  "lat": 50.87655792691031,
-  "lng": -1.8732798571428557,
-  "distance_miles": 12.2,
-  "serves_area_only": false,
-  "phone": "07414 268847",
-  "phone_e164": "+447414268847",
-  "phone_type": "mobile",
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.87655792691031&mlon=-1.8732798571428557#map=13/50.87655792691031/-1.8732798571428557",
-  "last_review_date": "2026-09-26",
-  "checkatrade": {
-   "score": 9.9,
-   "reviews": 376,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/trades/rhvtreehedgeandwoodlandspecia",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": null,
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": false,
-  "business_form": "unknown",
-  "size_band": "unknown",
-  "years_trading": 37,
-  "accreditations": [],
-  "services_notes": "In tree care since 1989; felling, crown work, stump grinding, logs. Says Ferndown-based; Checkatrade lists Verwood",
-  "badges": [
-   "top_pick",
-   "highly_rated",
-   "vetted",
-   "established",
-   "busy",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 63,
-  "score_breakdown": {
-   "rating": 35,
-   "reviews": 15,
-   "vetted": 12,
-   "contact": 9,
-   "distance": 8
-  },
-  "confidence": 0.3,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/trades/rhvtreehedgeandwoodlandspecia",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "score",
-     "reviews",
-     "phone",
-     "base",
-     "last_review"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
-  "id": "tf_218c59dd",
-  "name": "Dorset Driveway Centre",
-  "legal_name": null,
-  "name_normalised": "dorset driveway centre",
-  "areas": [
-   "driveways"
-  ],
-  "types": [
-   "block_paving",
-   "tarmac_driveway",
-   "resin_bound",
-   "concrete_driveway",
-   "gravel_driveway",
-   "driveway_repair"
-  ],
-  "primary_area": "driveways",
-  "address": null,
-  "town": "Blandford Forum",
-  "postcode": "DT11",
-  "lat": 50.86181440550457,
-  "lng": -2.1833819550458724,
-  "distance_miles": 13.3,
-  "serves_area_only": false,
-  "phone": "07307 284643",
-  "phone_e164": "+447307284643",
-  "phone_type": "mobile",
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.86181440550457&mlon=-2.1833819550458724#map=13/50.86181440550457/-2.1833819550458724",
-  "last_review_date": "2026-08-15",
-  "checkatrade": {
-   "score": 9.82,
-   "reviews": 588,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/trades/dorsetdrivewaycentre",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": null,
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": false,
-  "business_form": "unknown",
-  "size_band": "unknown",
-  "years_trading": null,
-  "accreditations": [],
-  "services_notes": "Bases in Blandford & Poole; all driveway types incl. imprinted concrete re-sealing",
-  "badges": [
-   "highly_rated",
-   "vetted",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 62,
-  "score_breakdown": {
-   "rating": 34,
-   "reviews": 15,
-   "vetted": 12,
-   "contact": 9,
-   "distance": 7
-  },
-  "confidence": 0.3,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/trades/dorsetdrivewaycentre",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "score",
-     "reviews",
-     "phone",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
-  "id": "tf_3b4abc75",
-  "name": "Mason & Turner",
-  "legal_name": null,
-  "name_normalised": "mason turner",
-  "areas": [
-   "landscaping"
-  ],
-  "types": [
-   "hard_landscaping"
-  ],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bournemouth",
-  "postcode": null,
-  "lat": 50.7192,
-  "lng": -1.8808,
-  "distance_miles": 4.7,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.7192&mlon=-1.8808#map=13/50.7192/-1.8808",
-  "last_review_date": null,
-  "checkatrade": {
-   "score": 9.92,
-   "reviews": 510,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/trades/masonandturnerconstruction",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": null,
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": false,
-  "business_form": "unknown",
-  "size_band": "unknown",
-  "years_trading": null,
-  "accreditations": [],
-  "services_notes": "Landscaping & construction (Ltd), Bournemouth",
-  "badges": [
-   "top_pick",
-   "highly_rated",
-   "vetted",
-   "no_website",
-   "nearby",
-   "needs_check"
-  ],
-  "score": 59,
-  "score_breakdown": {
-   "rating": 35,
-   "reviews": 15,
-   "vetted": 12,
-   "contact": 0,
-   "distance": 12
-  },
-  "confidence": 0.3,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/trades/masonandturnerconstruction",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "score",
-     "reviews",
-     "base"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
   "id": "tf_b8626775",
   "name": "D Pope Surfacing & Landscapes",
   "legal_name": null,
@@ -1704,9 +2856,9 @@
   "lng": -1.9745063221476504,
   "distance_miles": 6.7,
   "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
+  "phone": "07360 266232",
+  "phone_e164": "+447360266232",
+  "phone_type": "mobile",
   "email": null,
   "website": null,
   "domain": null,
@@ -1742,17 +2894,27 @@
    "vetted",
    "no_website"
   ],
-  "score": 58,
+  "score": 67,
   "score_breakdown": {
    "rating": 26,
    "reviews": 9,
    "vetted": 12,
-   "contact": 0,
+   "contact": 9,
    "distance": 11
   },
   "confidence": 0.5,
   "merge_review": false,
   "sources": [
+   {
+    "source": "trustatrader",
+    "url": "https://www.trustatrader.com/traders/d-pope-surfacing-landscapes-blockpaving-driveways-east-dorset",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services",
+     "rating"
+    ]
+   },
    {
     "source": "trustatrader",
     "url": "https://www.trustatrader.com/traders/d-pope-surfacing-landscapes-blockpaving-driveways-east-dorset",
@@ -1798,9 +2960,9 @@
   "lng": -1.8808,
   "distance_miles": 4.7,
   "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
+  "phone": "01202 080057",
+  "phone_e164": "+441202080057",
+  "phone_type": "landline",
   "email": null,
   "website": null,
   "domain": null,
@@ -1841,17 +3003,25 @@
    "nearby",
    "needs_check"
   ],
-  "score": 58,
+  "score": 65,
   "score_breakdown": {
    "rating": 35,
    "reviews": 13,
    "vetted": 12,
-   "contact": 0,
+   "contact": 9,
    "distance": 12
   },
   "confidence": 0.3,
   "merge_review": false,
   "sources": [
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/dwyfencingandlandscaping",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
    {
     "source": "checkatrade",
     "url": "https://www.checkatrade.com/trades/dwyfencingandlandscaping",
@@ -1870,50 +3040,47 @@
   "county": "dorset"
  },
  {
-  "id": "tf_c5caf9ee",
-  "name": "J.M. Tree and Garden Services",
+  "id": "tf_007672ae",
+  "name": "Dorset Taylormade Gardens",
   "legal_name": null,
-  "name_normalised": "j m tree garden",
+  "name_normalised": "dorset taylormade gardens",
   "areas": [
-   "trees_vegetation",
-   "lawns_grounds",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "landscaping"
   ],
   "types": [
-   "tree_surgeon",
-   "garden_maintenance"
+   "fencing_contractor",
+   "landscape_gardener"
   ],
-  "primary_area": "trees_vegetation",
+  "primary_area": "fencing_boundaries",
   "address": null,
-  "town": "Wimborne Minster",
-  "postcode": "BH21",
-  "lat": 50.81214016510068,
-  "lng": -1.9745063221476504,
-  "distance_miles": 6.7,
+  "town": "Bournemouth",
+  "postcode": null,
+  "lat": 50.7192,
+  "lng": -1.8808,
+  "distance_miles": 4.7,
   "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
+  "phone": "07444 224037",
+  "phone_e164": "+447444224037",
+  "phone_type": "mobile",
   "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
+  "website": "https://www.dorsettaylormadegardens.co.uk/",
+  "domain": "dorsettaylormadegardens.co.uk",
+  "website_quality": "unknown",
   "socials": {
    "facebook": null,
    "instagram": null
   },
   "google_rating": null,
   "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.81214016510068&mlon=-1.9745063221476504#map=13/50.81214016510068/-1.9745063221476504",
-  "last_review_date": "2026-08-14",
-  "checkatrade": {
-   "score": 10.0,
-   "reviews": 419,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/trades/jmtreeandgardenservices",
-   "unvetted": false
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.7192&mlon=-1.8808#map=13/50.7192/-1.8808",
+  "last_review_date": "2026-09-14",
+  "checkatrade": null,
+  "trustatrader": {
+   "rating": 5.0,
+   "reviews": 11,
+   "url": "https://www.trustatrader.com/traders/dorset-taylormade-gardens-fencing-kinson-winton-and-charminster"
   },
-  "trustatrader": null,
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
@@ -1925,28 +3092,34 @@
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Tree surgery, pruning & garden maintenance, Wimborne",
+  "services_notes": "TrustATrader vetted; covers Kinson, Winton & Charminster",
   "badges": [
    "top_pick",
-   "highly_rated",
    "vetted",
-   "no_website",
-   "needs_check"
+   "nearby"
   ],
-  "score": 58,
+  "score": 64,
   "score_breakdown": {
-   "rating": 35,
-   "reviews": 15,
+   "rating": 19,
+   "reviews": 6,
    "vetted": 12,
-   "contact": 0,
-   "distance": 11
+   "contact": 15,
+   "distance": 12
   },
-  "confidence": 0.3,
+  "confidence": 0.5,
   "merge_review": false,
   "sources": [
    {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/trades/jmtreeandgardenservices",
+    "source": "web_search",
+    "url": "https://www.dorsettaylormadegardens.co.uk/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "trustatrader",
+    "url": "https://www.trustatrader.com/traders/dorset-taylormade-gardens-fencing-kinson-winton-and-charminster",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "score",
@@ -1963,483 +3136,10 @@
   "county": "dorset"
  },
  {
-  "id": "tf_2c111fd2",
-  "name": "Shawn Oak Landscapes",
+  "id": "tf_413ac5bd",
+  "name": "C and J Fenceworks",
   "legal_name": null,
-  "name_normalised": "shawn oak landscapes",
-  "areas": [
-   "landscaping"
-  ],
-  "types": [
-   "landscape_gardener"
-  ],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bournemouth",
-  "postcode": null,
-  "lat": 50.7192,
-  "lng": -1.8808,
-  "distance_miles": 4.7,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.7192&mlon=-1.8808#map=13/50.7192/-1.8808",
-  "last_review_date": null,
-  "checkatrade": {
-   "score": 10.0,
-   "reviews": 215,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/trades/shawnoaklandscapesltd",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": null,
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": false,
-  "business_form": "unknown",
-  "size_band": "unknown",
-  "years_trading": null,
-  "accreditations": [],
-  "services_notes": "Landscaper (Ltd), Bournemouth",
-  "badges": [
-   "top_pick",
-   "highly_rated",
-   "vetted",
-   "no_website",
-   "nearby",
-   "needs_check"
-  ],
-  "score": 58,
-  "score_breakdown": {
-   "rating": 35,
-   "reviews": 14,
-   "vetted": 12,
-   "contact": 0,
-   "distance": 12
-  },
-  "confidence": 0.3,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/trades/shawnoaklandscapesltd",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "score",
-     "reviews",
-     "base"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
-  "id": "tf_6e858403",
-  "name": "The Tree Musketeers",
-  "legal_name": null,
-  "name_normalised": "tree musketeers",
-  "areas": [
-   "trees_vegetation"
-  ],
-  "types": [
-   "tree_surgeon",
-   "stump_grinding",
-   "hedge_maintenance"
-  ],
-  "primary_area": "trees_vegetation",
-  "address": null,
-  "town": "Bournemouth",
-  "postcode": null,
-  "lat": 50.7192,
-  "lng": -1.8808,
-  "distance_miles": 4.7,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.7192&mlon=-1.8808#map=13/50.7192/-1.8808",
-  "last_review_date": null,
-  "checkatrade": {
-   "score": 10.0,
-   "reviews": 259,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/trades/thetreemusketeers335024",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": null,
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": false,
-  "business_form": "unknown",
-  "size_band": "unknown",
-  "years_trading": null,
-  "accreditations": [],
-  "services_notes": "Trees, hedges & stump removal across Dorset & Hampshire",
-  "badges": [
-   "top_pick",
-   "highly_rated",
-   "vetted",
-   "no_website",
-   "nearby",
-   "needs_check"
-  ],
-  "score": 58,
-  "score_breakdown": {
-   "rating": 35,
-   "reviews": 14,
-   "vetted": 12,
-   "contact": 0,
-   "distance": 12
-  },
-  "confidence": 0.3,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/trades/thetreemusketeers335024",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "score",
-     "reviews",
-     "base"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
-  "id": "tf_65d5b08c",
-  "name": "Tree Logic",
-  "legal_name": null,
-  "name_normalised": "tree logic",
-  "areas": [
-   "trees_vegetation"
-  ],
-  "types": [
-   "tree_surgeon",
-   "hedge_maintenance"
-  ],
-  "primary_area": "trees_vegetation",
-  "address": null,
-  "town": "Wimborne Minster",
-  "postcode": "BH21",
-  "lat": 50.81214016510068,
-  "lng": -1.9745063221476504,
-  "distance_miles": 6.7,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.81214016510068&mlon=-1.9745063221476504#map=13/50.81214016510068/-1.9745063221476504",
-  "last_review_date": null,
-  "checkatrade": {
-   "score": 10.0,
-   "reviews": 207,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/trades/treelogic",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": null,
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": false,
-  "business_form": "unknown",
-  "size_band": "unknown",
-  "years_trading": null,
-  "accreditations": [],
-  "services_notes": "Tree surgery & hedge reduction, Wimborne",
-  "badges": [
-   "highly_rated",
-   "vetted",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 58,
-  "score_breakdown": {
-   "rating": 35,
-   "reviews": 14,
-   "vetted": 12,
-   "contact": 0,
-   "distance": 11
-  },
-  "confidence": 0.3,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/trades/treelogic",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "score",
-     "reviews",
-     "base"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
-  "id": "tf_c80f21de",
-  "name": "Sunshine Gardens",
-  "legal_name": null,
-  "name_normalised": "sunshine gardens",
-  "areas": [
-   "landscaping"
-  ],
-  "types": [
-   "landscape_gardener"
-  ],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Christchurch",
-  "postcode": "BH23",
-  "lat": 50.747632589195916,
-  "lng": -1.7542380684673364,
-  "distance_miles": 10.4,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.747632589195916&mlon=-1.7542380684673364#map=13/50.747632589195916/-1.7542380684673364",
-  "last_review_date": null,
-  "checkatrade": {
-   "score": 10.0,
-   "reviews": 352,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/trades/sunshinegardens",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": null,
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": false,
-  "business_form": "unknown",
-  "size_band": "unknown",
-  "years_trading": null,
-  "accreditations": [],
-  "services_notes": "Landscaper, Christchurch",
-  "badges": [
-   "top_pick",
-   "highly_rated",
-   "vetted",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 57,
-  "score_breakdown": {
-   "rating": 35,
-   "reviews": 15,
-   "vetted": 12,
-   "contact": 0,
-   "distance": 9
-  },
-  "confidence": 0.3,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/trades/sunshinegardens",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "score",
-     "reviews",
-     "base"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
-  "id": "tf_b4df2508",
-  "name": "Newlook Driveways",
-  "legal_name": "NEWLOOK LANDSCAPING & DRIVEWAYS LTD",
-  "name_normalised": "newlook driveways",
-  "areas": [
-   "driveways"
-  ],
-  "types": [
-   "block_paving",
-   "tarmac_driveway",
-   "resin_bound",
-   "concrete_driveway",
-   "gravel_driveway",
-   "driveway_repair"
-  ],
-  "primary_area": "driveways",
-  "address": null,
-  "town": "Ferndown",
-  "postcode": "BH22",
-  "lat": 50.80499117270203,
-  "lng": -1.888526324512533,
-  "distance_miles": 7.6,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.80499117270203&mlon=-1.888526324512533#map=13/50.80499117270203/-1.888526324512533",
-  "last_review_date": "2026-09-17",
-  "checkatrade": {
-   "score": 9.83,
-   "reviews": 185,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/trades/newlookdrivewaysdorset",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "09160761",
-   "status": "active",
-   "incorporated": "2014-08-05",
-   "sic": [
-    "43999"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/09160761"
-  },
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": false,
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": null,
-  "accreditations": [],
-  "services_notes": "Family firm, 25+ yrs; block, resin, tarmac; cleaning & sealing. Matched by name + district to NEWLOOK LANDSCAPING & DRIVEWAYS LTD (check)",
-  "badges": [
-   "highly_rated",
-   "vetted",
-   "busy",
-   "no_website",
-   "needs_check",
-   "ltd_company"
-  ],
-  "score": 56,
-  "score_breakdown": {
-   "rating": 34,
-   "reviews": 14,
-   "vetted": 12,
-   "contact": 0,
-   "distance": 10
-  },
-  "confidence": 0.5,
-  "merge_review": true,
-  "sources": [
-   {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/trades/newlookdrivewaysdorset",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "score",
-     "reviews",
-     "services",
-     "last_review"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/09160761",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
-  "id": "tf_19977916",
-  "name": "Andy P Fencing",
-  "legal_name": null,
-  "name_normalised": "andy p fencing",
+  "name_normalised": "c j fenceworks",
   "areas": [
    "fencing_boundaries"
   ],
@@ -2448,6 +3148,104 @@
    "gate_installer"
   ],
   "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Poole",
+  "postcode": null,
+  "lat": 50.715,
+  "lng": -1.9872,
+  "distance_miles": 0.0,
+  "serves_area_only": false,
+  "phone": "07830 374614",
+  "phone_e164": "+447830374614",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.candjfenceworks.co.uk/",
+  "domain": "candjfenceworks.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 9.97,
+   "reviews": 36,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/candjfenceworksltd",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Newly established fencing company (Ltd), 15+ yrs experience",
+  "badges": [
+   "top_pick",
+   "highly_rated",
+   "vetted",
+   "nearby"
+  ],
+  "score": 63,
+  "score_breakdown": {
+   "rating": 27,
+   "reviews": 9,
+   "vetted": 12,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.candjfenceworks.co.uk/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "website"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/candjfenceworksltd",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "base"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_455c8f87",
+  "name": "Pinnacle Landscaping and Groundworks",
+  "legal_name": "PINNACLE LANDSCAPING AND GROUNDWORKS LIMITED",
+  "name_normalised": "pinnacle landscaping groundworks",
+  "areas": [
+   "landscaping",
+   "groundworks"
+  ],
+  "types": [
+   "landscape_gardener",
+   "groundworks_contractor"
+  ],
+  "primary_area": "landscaping",
   "address": null,
   "town": "Poole",
   "postcode": null,
@@ -2472,9 +3270,120 @@
   "last_review_date": null,
   "checkatrade": {
    "score": 10.0,
-   "reviews": 213,
+   "reviews": 79,
    "member_since": null,
-   "url": "https://www.checkatrade.com/trades/westparkbuildingandmaintenance",
+   "url": "https://www.checkatrade.com/Search/Landscaper/in/Poole",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "16428066",
+   "status": "active",
+   "incorporated": "2025-05-03",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/16428066"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": true,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 1,
+  "accreditations": [],
+  "services_notes": "Landscaping & groundworks (seen on Checkatrade Poole list)",
+  "badges": [
+   "highly_rated",
+   "vetted",
+   "ltd_company",
+   "new_business",
+   "no_website",
+   "nearby",
+   "needs_check"
+  ],
+  "score": 60,
+  "score_breakdown": {
+   "rating": 33,
+   "reviews": 11,
+   "vetted": 16,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": true,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/16428066",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/Search/Landscaper/in/Poole",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_aae5673d",
+  "name": "Pro Finish Landscapes",
+  "legal_name": null,
+  "name_normalised": "pro finish landscapes",
+  "areas": [
+   "landscaping",
+   "decking_structures",
+   "fencing_boundaries"
+  ],
+  "types": [
+   "landscape_gardener",
+   "fencing_contractor",
+   "pergola",
+   "timber_decking"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Poole",
+  "postcode": null,
+  "lat": 50.715,
+  "lng": -1.9872,
+  "distance_miles": 0.0,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 10.0,
+   "reviews": 126,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/profinishlandscapes",
    "unvetted": false
   },
   "trustatrader": null,
@@ -2488,10 +3397,221 @@
   "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
-  "accreditations": [
-   "Trading Standards Approved (Buy With Confidence)"
+  "accreditations": [],
+  "services_notes": "Fencing, gates, pergolas and decking",
+  "badges": [
+   "highly_rated",
+   "vetted",
+   "no_website",
+   "nearby"
   ],
-  "services_notes": "Close-board & panel fencing, wooden gates; Trading Standards approved (Poole)",
+  "score": 60,
+  "score_breakdown": {
+   "rating": 35,
+   "reviews": 13,
+   "vetted": 12,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "ratedpeople",
+    "url": "https://www.ratedpeople.com/profile/profinish-landscapes",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/profinishlandscapes",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "base"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_ec761b1c",
+  "name": "CJI Landscape",
+  "legal_name": "CJI LANDSCAPE LTD",
+  "name_normalised": "cji landscape",
+  "areas": [
+   "landscaping",
+   "decking_structures",
+   "paving_patios"
+  ],
+  "types": [
+   "hard_landscaping",
+   "composite_decking",
+   "landscape_gardener"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Bournemouth",
+  "postcode": "BH9",
+  "lat": 50.74963760060058,
+  "lng": -1.8725517987988018,
+  "distance_miles": 5.6,
+  "serves_area_only": false,
+  "phone": "07481 337013",
+  "phone_e164": "+447481337013",
+  "phone_type": "mobile",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.74963760060058&mlon=-1.8725517987988018#map=13/50.74963760060058/-1.8725517987988018",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 10.0,
+   "reviews": 6,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/cjilandscapeltd",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "16971513",
+   "status": "active",
+   "incorporated": "2026-01-19",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/16971513"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 0,
+  "accreditations": [],
+  "services_notes": "Hard landscaping, composite decking, artificial grass, brickwork; Checkatrade member since Feb 2026",
+  "badges": [
+   "vetted",
+   "ltd_company",
+   "new_business",
+   "no_website"
+  ],
+  "score": 57,
+  "score_breakdown": {
+   "rating": 15,
+   "reviews": 5,
+   "vetted": 16,
+   "contact": 9,
+   "distance": 12
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/cjilandscapeltd",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/cjilandscapeltd",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews",
+     "base",
+     "member_since"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/16971513",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_0565e627",
+  "name": "Purbeck Fencing",
+  "legal_name": null,
+  "name_normalised": "purbeck fencing",
+  "areas": [
+   "fencing_boundaries"
+  ],
+  "types": [
+   "fencing_contractor"
+  ],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Poole",
+  "postcode": null,
+  "lat": 50.715,
+  "lng": -1.9872,
+  "distance_miles": 0.0,
+  "serves_area_only": false,
+  "phone": "01929 459034",
+  "phone_e164": "+441929459034",
+  "phone_type": "landline",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 9.98,
+   "reviews": 341,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/Search/Fencing-Contractor/in/Poole",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": true,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Fencing (Ltd) (seen on Checkatrade Poole list)",
   "badges": [
    "top_pick",
    "highly_rated",
@@ -2500,12 +3620,210 @@
    "nearby",
    "needs_check"
   ],
-  "score": 52,
+  "score": 57,
+  "score_breakdown": {
+   "rating": 35,
+   "reviews": 15,
+   "vetted": 12,
+   "contact": 9,
+   "distance": 0
+  },
+  "confidence": 0.3,
+  "merge_review": true,
+  "sources": [
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/purbeckfencing",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/Search/Fencing-Contractor/in/Poole",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_a8276b9e",
+  "name": "Douglas Hutchins Landscaping & Driveways",
+  "legal_name": null,
+  "name_normalised": "douglas hutchins landscaping driveways",
+  "areas": [
+   "landscaping",
+   "driveways"
+  ],
+  "types": [
+   "landscape_gardener",
+   "block_paving"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Poole",
+  "postcode": null,
+  "lat": 50.715,
+  "lng": -1.9872,
+  "distance_miles": 0.0,
+  "serves_area_only": false,
+  "phone": "01202 788376",
+  "phone_e164": "+441202788376",
+  "phone_type": "landline",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 9.9,
+   "reviews": 208,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/Search/Landscaper/in/Poole",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": true,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Landscaping & driveways (seen on Checkatrade Poole list)",
+  "badges": [
+   "highly_rated",
+   "vetted",
+   "no_website",
+   "nearby",
+   "needs_check"
+  ],
+  "score": 56,
   "score_breakdown": {
    "rating": 35,
    "reviews": 14,
-   "vetted": 16,
-   "contact": 0,
+   "vetted": 12,
+   "contact": 9,
+   "distance": 0
+  },
+  "confidence": 0.3,
+  "merge_review": true,
+  "sources": [
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/douglashutchinslandscapinganddriveways",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/Search/Landscaper/in/Poole",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_29fc0d88",
+  "name": "A & C Landscaping & Garden Services",
+  "legal_name": null,
+  "name_normalised": "a c landscaping garden",
+  "areas": [
+   "landscaping",
+   "fencing_boundaries",
+   "lawns_grounds"
+  ],
+  "types": [
+   "landscape_gardener",
+   "garden_maintenance"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Poole",
+  "postcode": null,
+  "lat": 50.715,
+  "lng": -1.9872,
+  "distance_miles": 0.0,
+  "serves_area_only": false,
+  "phone": "07307 206171",
+  "phone_e164": "+447307206171",
+  "phone_type": "mobile",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 9.96,
+   "reviews": 158,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/aandclandscapingandgardenservices",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": 15,
+  "accreditations": [],
+  "services_notes": "Family-run, established in Dorset 15+ years; landscaping, paths, fence repairs, emergency garden service",
+  "badges": [
+   "highly_rated",
+   "vetted",
+   "established",
+   "no_website",
+   "nearby",
+   "needs_check"
+  ],
+  "score": 55,
+  "score_breakdown": {
+   "rating": 35,
+   "reviews": 13,
+   "vetted": 12,
+   "contact": 9,
    "distance": 0
   },
   "confidence": 0.3,
@@ -2513,13 +3831,234 @@
   "sources": [
    {
     "source": "checkatrade",
-    "url": "https://www.checkatrade.com/trades/westparkbuildingandmaintenance",
+    "url": "https://www.checkatrade.com/trades/aandclandscapingandgardenservices",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/aandclandscapingandgardenservices",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "score",
      "reviews",
-     "accreditation",
      "base"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_222667ae",
+  "name": "Clearcut Tree Surgery",
+  "legal_name": null,
+  "name_normalised": "clearcut tree surgery",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon",
+   "stump_grinding",
+   "hedge_maintenance"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Ferndown",
+  "postcode": "BH22",
+  "lat": 50.80499117270203,
+  "lng": -1.888526324512533,
+  "distance_miles": 7.6,
+  "serves_area_only": false,
+  "phone": "01202 022560",
+  "phone_e164": "+441202022560",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://clearcuttreesurgery.com",
+  "domain": "clearcuttreesurgery.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.80499117270203&mlon=-1.888526324512533#map=13/50.80499117270203/-1.888526324512533",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": {
+   "source": "Google",
+   "rating": 5.0,
+   "reviews": 50,
+   "url": "https://clearcuttreesurgery.com/tree-surgeon-christchurch/"
+  },
+  "companies_house": null,
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [
+   "NPTC",
+   "City & Guilds",
+   "Lantra"
+  ],
+  "services_notes": "NPTC-qualified; 24-hr emergency; logs; office in Ferndown. Google 5.0 from 50+ reviews as stated on own site",
+  "badges": [
+   "highly_rated",
+   "needs_check"
+  ],
+  "score": 55,
+  "score_breakdown": {
+   "rating": 30,
+   "reviews": 10,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 10
+  },
+  "confidence": 0.3,
+  "merge_review": true,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://clearcuttreesurgery.com/contact-us/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://clearcuttreesurgery.com/tree-surgeon-christchurch/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "base",
+     "services",
+     "accreditations",
+     "rating_claim"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_21ccf8d1",
+  "name": "Hampshire & Dorset Landscapes",
+  "legal_name": "HAMPSHIRE & DORSET LANDSCAPES LTD",
+  "name_normalised": "hampshire dorset landscapes",
+  "areas": [
+   "landscaping"
+  ],
+  "types": [
+   "landscape_gardener"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Poole",
+  "postcode": null,
+  "lat": 50.715,
+  "lng": -1.9872,
+  "distance_miles": 0.0,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://www.hampshireanddorsetgardencare.co.uk/",
+  "domain": "hampshireanddorsetgardencare.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 9.59,
+   "reviews": 35,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/Search/Landscaper/in/Poole",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14886704",
+   "status": "active",
+   "incorporated": "2023-05-22",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14886704"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": true,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Landscaper (Ltd) (seen on Checkatrade Poole list). Matched by name + district to HAMPSHIRE & DORSET LANDSCAPES LTD (check)",
+  "badges": [
+   "highly_rated",
+   "vetted",
+   "nearby",
+   "needs_check",
+   "ltd_company"
+  ],
+  "score": 53,
+  "score_breakdown": {
+   "rating": 26,
+   "reviews": 9,
+   "vetted": 12,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": true,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.hampshireanddorsetgardencare.co.uk/contact-us",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "website"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/Search/Landscaper/in/Poole",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14886704",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status"
     ]
    }
   ],
@@ -2695,7 +4234,6 @@
   "accreditations": [],
   "services_notes": "Fencing (seen on Checkatrade Poole list)",
   "badges": [
-   "top_pick",
    "highly_rated",
    "vetted",
    "no_website",
@@ -2721,184 +4259,6 @@
      "score",
      "reviews",
      "phone"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
-  "id": "tf_9b81a565",
-  "name": "Southern Tree Specialists",
-  "legal_name": null,
-  "name_normalised": "southern tree specialists",
-  "areas": [
-   "trees_vegetation"
-  ],
-  "types": [
-   "tree_surgeon"
-  ],
-  "primary_area": "trees_vegetation",
-  "address": null,
-  "town": "Christchurch",
-  "postcode": "BH23",
-  "lat": 50.747632589195916,
-  "lng": -1.7542380684673364,
-  "distance_miles": 10.4,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.747632589195916&mlon=-1.7542380684673364#map=13/50.747632589195916/-1.7542380684673364",
-  "last_review_date": null,
-  "checkatrade": {
-   "score": 10.0,
-   "reviews": 67,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/trades/southerntreespecialists",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": null,
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": false,
-  "business_form": "unknown",
-  "size_band": "unknown",
-  "years_trading": 15,
-  "accreditations": [],
-  "services_notes": "Small team led by Andy Broadwell; 15+ yrs; Hampshire & Dorset",
-  "badges": [
-   "highly_rated",
-   "vetted",
-   "established",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 51,
-  "score_breakdown": {
-   "rating": 32,
-   "reviews": 11,
-   "vetted": 12,
-   "contact": 0,
-   "distance": 9
-  },
-  "confidence": 0.3,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/trades/southerntreespecialists",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "score",
-     "reviews",
-     "base"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
-  "id": "tf_b5374dbe",
-  "name": "Coppice Tree & Garden Services",
-  "legal_name": null,
-  "name_normalised": "coppice tree garden",
-  "areas": [
-   "trees_vegetation"
-  ],
-  "types": [
-   "tree_surgeon"
-  ],
-  "primary_area": "trees_vegetation",
-  "address": null,
-  "town": "Poole",
-  "postcode": null,
-  "lat": 50.715,
-  "lng": -1.9872,
-  "distance_miles": 0.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
-  "last_review_date": null,
-  "checkatrade": {
-   "score": 10.0,
-   "reviews": 380,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/trades/coppicetreeandgardenservices",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": null,
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": false,
-  "business_form": "unknown",
-  "size_band": "unknown",
-  "years_trading": null,
-  "accreditations": [],
-  "services_notes": "Tree surgery & pruning (Ltd); handles BCP TPO applications",
-  "badges": [
-   "highly_rated",
-   "vetted",
-   "no_website",
-   "nearby",
-   "needs_check"
-  ],
-  "score": 50,
-  "score_breakdown": {
-   "rating": 35,
-   "reviews": 15,
-   "vetted": 12,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.3,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/trades/coppicetreeandgardenservices",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "score",
-     "reviews",
-     "base"
     ]
    }
   ],
@@ -2963,7 +4323,6 @@
   "accreditations": [],
   "services_notes": "Fencing (Ltd) (seen on Checkatrade Poole list)",
   "badges": [
-   "top_pick",
    "highly_rated",
    "vetted",
    "no_website",
@@ -2998,10 +4357,10 @@
   "county": "dorset"
  },
  {
-  "id": "tf_0565e627",
-  "name": "Purbeck Fencing",
-  "legal_name": "PURBECK FENCING LIMITED",
-  "name_normalised": "purbeck fencing",
+  "id": "tf_a24cd4f5",
+  "name": "C W Montgomery Fencing",
+  "legal_name": null,
+  "name_normalised": "c w montgomery fencing",
   "areas": [
    "fencing_boundaries"
   ],
@@ -3016,9 +4375,9 @@
   "lng": -1.9872,
   "distance_miles": 0.0,
   "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
+  "phone": "07427 990373",
+  "phone_e164": "+447427990373",
+  "phone_type": "mobile",
   "email": null,
   "website": null,
   "domain": null,
@@ -3032,119 +4391,10 @@
   "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
   "last_review_date": null,
   "checkatrade": {
-   "score": 9.98,
-   "reviews": 341,
+   "score": 9.93,
+   "reviews": 54,
    "member_since": null,
    "url": "https://www.checkatrade.com/Search/Fencing-Contractor/in/Poole",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "07031565",
-   "status": "active",
-   "incorporated": "2009-09-28",
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/07031565"
-  },
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": true,
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": null,
-  "accreditations": [],
-  "services_notes": "Fencing (Ltd) (seen on Checkatrade Poole list). Matched by name + district to PURBECK FENCING LIMITED (check)",
-  "badges": [
-   "top_pick",
-   "highly_rated",
-   "vetted",
-   "no_website",
-   "nearby",
-   "needs_check",
-   "ltd_company"
-  ],
-  "score": 50,
-  "score_breakdown": {
-   "rating": 35,
-   "reviews": 15,
-   "vetted": 12,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": true,
-  "sources": [
-   {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/Search/Fencing-Contractor/in/Poole",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "score",
-     "reviews"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/07031565",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
-  "id": "tf_a8276b9e",
-  "name": "Douglas Hutchins Landscaping & Driveways",
-  "legal_name": null,
-  "name_normalised": "douglas hutchins landscaping driveways",
-  "areas": [
-   "landscaping",
-   "driveways"
-  ],
-  "types": [
-   "landscape_gardener",
-   "block_paving"
-  ],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Poole",
-  "postcode": null,
-  "lat": 50.715,
-  "lng": -1.9872,
-  "distance_miles": 0.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
-  "last_review_date": null,
-  "checkatrade": {
-   "score": 9.9,
-   "reviews": 208,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/Search/Landscaper/in/Poole",
    "unvetted": false
   },
   "trustatrader": null,
@@ -3159,7 +4409,7 @@
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Landscaping & driveways (seen on Checkatrade Poole list)",
+  "services_notes": "Fencing (seen on Checkatrade Poole list)",
   "badges": [
    "highly_rated",
    "vetted",
@@ -3169,10 +4419,10 @@
   ],
   "score": 49,
   "score_breakdown": {
-   "rating": 35,
-   "reviews": 14,
+   "rating": 30,
+   "reviews": 10,
    "vetted": 12,
-   "contact": 0,
+   "contact": 9,
    "distance": 0
   },
   "confidence": 0.3,
@@ -3180,7 +4430,111 @@
   "sources": [
    {
     "source": "checkatrade",
-    "url": "https://www.checkatrade.com/Search/Landscaper/in/Poole",
+    "url": "https://www.checkatrade.com/trades/cwmontgomeryfencing",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/Search/Fencing-Contractor/in/Poole",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "score",
+     "reviews"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_7ca4da51",
+  "name": "LJ Fencing and Landscaping",
+  "legal_name": null,
+  "name_normalised": "lj fencing landscaping",
+  "areas": [
+   "fencing_boundaries"
+  ],
+  "types": [
+   "fencing_contractor"
+  ],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Poole",
+  "postcode": null,
+  "lat": 50.715,
+  "lng": -1.9872,
+  "distance_miles": 0.0,
+  "serves_area_only": false,
+  "phone": "07427 136868",
+  "phone_e164": "+447427136868",
+  "phone_type": "mobile",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": 9.88,
+   "reviews": 50,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/Search/Fencing-Contractor/in/Poole",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": true,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Fencing & landscaping (seen on Checkatrade Poole list)",
+  "badges": [
+   "highly_rated",
+   "vetted",
+   "no_website",
+   "nearby",
+   "needs_check"
+  ],
+  "score": 49,
+  "score_breakdown": {
+   "rating": 30,
+   "reviews": 10,
+   "vetted": 12,
+   "contact": 9,
+   "distance": 0
+  },
+  "confidence": 0.3,
+  "merge_review": true,
+  "sources": [
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/Search/Garden-Fencing/in/Poole",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/Search/Fencing-Contractor/in/Poole",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "score",
@@ -3261,9 +4615,17 @@
    "contact": 0,
    "distance": 0
   },
-  "confidence": 0.5,
+  "confidence": 0.6,
   "merge_review": false,
   "sources": [
+   {
+    "source": "mybuilder",
+    "url": "https://www.mybuilder.com/profile/southern-patios-and-landscaping",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
    {
     "source": "checkatrade",
     "url": "https://www.checkatrade.com/trades/lcmhomeimprovements",
@@ -3395,394 +4757,6 @@
   "county": "dorset"
  },
  {
-  "id": "tf_29fc0d88",
-  "name": "A & C Landscaping & Garden Services",
-  "legal_name": null,
-  "name_normalised": "a c landscaping garden",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "fencing_boundaries"
-  ],
-  "types": [
-   "landscape_gardener",
-   "garden_maintenance"
-  ],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Poole",
-  "postcode": null,
-  "lat": 50.715,
-  "lng": -1.9872,
-  "distance_miles": 0.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
-  "last_review_date": null,
-  "checkatrade": {
-   "score": 9.96,
-   "reviews": 158,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/trades/aandclandscapingandgardenservices",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": null,
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": false,
-  "business_form": "unknown",
-  "size_band": "unknown",
-  "years_trading": 15,
-  "accreditations": [],
-  "services_notes": "Family-run, established in Dorset 15+ years; landscaping, paths, fence repairs, emergency garden service",
-  "badges": [
-   "highly_rated",
-   "vetted",
-   "established",
-   "no_website",
-   "nearby",
-   "needs_check"
-  ],
-  "score": 48,
-  "score_breakdown": {
-   "rating": 35,
-   "reviews": 13,
-   "vetted": 12,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.3,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/trades/aandclandscapingandgardenservices",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "score",
-     "reviews",
-     "base"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
-  "id": "tf_ec761b1c",
-  "name": "CJI Landscape",
-  "legal_name": "CJI LANDSCAPE LTD",
-  "name_normalised": "cji landscape",
-  "areas": [
-   "landscaping",
-   "decking_structures",
-   "paving_patios"
-  ],
-  "types": [
-   "hard_landscaping",
-   "composite_decking",
-   "landscape_gardener"
-  ],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bournemouth",
-  "postcode": "BH9",
-  "lat": 50.74963760060058,
-  "lng": -1.8725517987988018,
-  "distance_miles": 5.6,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.74963760060058&mlon=-1.8725517987988018#map=13/50.74963760060058/-1.8725517987988018",
-  "last_review_date": null,
-  "checkatrade": {
-   "score": 10.0,
-   "reviews": 6,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/trades/cjilandscapeltd",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "16971513",
-   "status": "active",
-   "incorporated": "2026-01-19",
-   "sic": [],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/16971513"
-  },
-  "opening_hours": null,
-  "enriched_from_ch": true,
-  "base_unknown": false,
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 0,
-  "accreditations": [],
-  "services_notes": "Hard landscaping, composite decking, artificial grass, brickwork; Checkatrade member since Feb 2026",
-  "badges": [
-   "vetted",
-   "ltd_company",
-   "new_business",
-   "no_website"
-  ],
-  "score": 48,
-  "score_breakdown": {
-   "rating": 15,
-   "reviews": 5,
-   "vetted": 16,
-   "contact": 0,
-   "distance": 12
-  },
-  "confidence": 0.7,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/trades/cjilandscapeltd",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "score",
-     "reviews",
-     "base",
-     "member_since"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/16971513",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status",
-     "incorporated"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
-  "id": "tf_222667ae",
-  "name": "Clearcut Tree Surgery",
-  "legal_name": null,
-  "name_normalised": "clearcut tree surgery",
-  "areas": [
-   "trees_vegetation"
-  ],
-  "types": [
-   "tree_surgeon",
-   "stump_grinding",
-   "hedge_maintenance"
-  ],
-  "primary_area": "trees_vegetation",
-  "address": null,
-  "town": "Ferndown",
-  "postcode": "BH22",
-  "lat": 50.80499117270203,
-  "lng": -1.888526324512533,
-  "distance_miles": 7.6,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": "https://clearcuttreesurgery.com",
-  "domain": "clearcuttreesurgery.com",
-  "website_quality": "unknown",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.80499117270203&mlon=-1.888526324512533#map=13/50.80499117270203/-1.888526324512533",
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": {
-   "source": "Google",
-   "rating": 5.0,
-   "reviews": 50,
-   "url": "https://clearcuttreesurgery.com/tree-surgeon-christchurch/"
-  },
-  "companies_house": null,
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": false,
-  "business_form": "unknown",
-  "size_band": "unknown",
-  "years_trading": null,
-  "accreditations": [
-   "NPTC",
-   "City & Guilds",
-   "Lantra"
-  ],
-  "services_notes": "NPTC-qualified; 24-hr emergency; logs; office in Ferndown. Google 5.0 from 50+ reviews as stated on own site",
-  "badges": [
-   "highly_rated",
-   "needs_check"
-  ],
-  "score": 48,
-  "score_breakdown": {
-   "rating": 30,
-   "reviews": 10,
-   "vetted": 4,
-   "contact": 6,
-   "distance": 10
-  },
-  "confidence": 0.3,
-  "merge_review": true,
-  "sources": [
-   {
-    "source": "web_search",
-    "url": "https://clearcuttreesurgery.com/tree-surgeon-christchurch/",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "base",
-     "services",
-     "accreditations",
-     "rating_claim"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
-  "id": "tf_aae5673d",
-  "name": "Pro Finish Landscapes",
-  "legal_name": null,
-  "name_normalised": "pro finish landscapes",
-  "areas": [
-   "landscaping",
-   "decking_structures",
-   "fencing_boundaries"
-  ],
-  "types": [
-   "landscape_gardener",
-   "fencing_contractor",
-   "pergola",
-   "timber_decking"
-  ],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Poole",
-  "postcode": null,
-  "lat": 50.715,
-  "lng": -1.9872,
-  "distance_miles": 0.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
-  "last_review_date": null,
-  "checkatrade": {
-   "score": 10.0,
-   "reviews": 126,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/trades/profinishlandscapes",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": null,
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": false,
-  "business_form": "unknown",
-  "size_band": "unknown",
-  "years_trading": null,
-  "accreditations": [],
-  "services_notes": "Fencing, gates, pergolas and decking",
-  "badges": [
-   "highly_rated",
-   "vetted",
-   "no_website",
-   "nearby",
-   "needs_check"
-  ],
-  "score": 48,
-  "score_breakdown": {
-   "rating": 35,
-   "reviews": 13,
-   "vetted": 12,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.3,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/trades/profinishlandscapes",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "score",
-     "reviews",
-     "base"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
   "id": "tf_eabb46da",
   "name": "Fletchamoore",
   "legal_name": "FLETCHAMOORE (POOLE) LTD",
@@ -3894,7 +4868,7 @@
  {
   "id": "tf_dc178db2",
   "name": "DS Elite",
-  "legal_name": null,
+  "legal_name": "DS ELITE LTD",
   "name_normalised": "ds elite",
   "areas": [
    "landscaping",
@@ -3936,23 +4910,33 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": null,
+  "companies_house": {
+   "number": "15108297",
+   "status": "active",
+   "incorporated": "2023-08-31",
+   "sic": [
+    "41100",
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/15108297"
+  },
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "unknown",
+  "business_form": "ltd",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [
    "NPTC",
    "City & Guilds"
   ],
-  "services_notes": "Landscape gardeners (Ltd); TrustATrader vetted; NPTC / City & Guilds",
+  "services_notes": "Landscape gardeners (Ltd); TrustATrader vetted; NPTC / City & Guilds. Matched by name + district to DS ELITE LTD (check)",
   "badges": [
    "highly_rated",
    "vetted",
    "no_website",
-   "needs_check"
+   "needs_check",
+   "ltd_company"
   ],
   "score": 46,
   "score_breakdown": {
@@ -3962,9 +4946,18 @@
    "contact": 0,
    "distance": 9
   },
-  "confidence": 0.3,
-  "merge_review": false,
+  "confidence": 0.5,
+  "merge_review": true,
   "sources": [
+   {
+    "source": "trustatrader",
+    "url": "https://www.trustatrader.com/traders/ds-elite-ltd-landscape-gardeners-christchurch",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "listing",
+     "services"
+    ]
+   },
    {
     "source": "trustatrader",
     "url": "https://www.trustatrader.com/traders/ds-elite-ltd-landscape-gardeners-christchurch",
@@ -3975,96 +4968,14 @@
      "base",
      "accreditations"
     ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
-  "id": "tf_97565651",
-  "name": "S W Gardening",
-  "legal_name": null,
-  "name_normalised": "s w gardening",
-  "areas": [
-   "landscaping",
-   "fencing_boundaries"
-  ],
-  "types": [
-   "landscape_gardener",
-   "fencing_contractor"
-  ],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Poole",
-  "postcode": null,
-  "lat": 50.715,
-  "lng": -1.9872,
-  "distance_miles": 0.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
-  "last_review_date": null,
-  "checkatrade": {
-   "score": 10.0,
-   "reviews": 85,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/trades/swgardening",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": null,
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": false,
-  "business_form": "unknown",
-  "size_band": "unknown",
-  "years_trading": null,
-  "accreditations": [],
-  "services_notes": "Landscaping, fence panels & gates, gravel paths and sleeper beds",
-  "badges": [
-   "highly_rated",
-   "vetted",
-   "no_website",
-   "nearby",
-   "needs_check"
-  ],
-  "score": 46,
-  "score_breakdown": {
-   "rating": 34,
-   "reviews": 12,
-   "vetted": 12,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.3,
-  "merge_review": false,
-  "sources": [
+   },
    {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/trades/swgardening",
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/15108297",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
-     "score",
-     "reviews",
-     "base"
+     "number",
+     "status"
     ]
    }
   ],
@@ -4075,19 +4986,17 @@
   "county": "dorset"
  },
  {
-  "id": "tf_f41287ce",
-  "name": "SPK Tree Services",
+  "id": "tf_a9a8ad11",
+  "name": "EDT Fencing and Landscaping",
   "legal_name": null,
-  "name_normalised": "spk tree",
+  "name_normalised": "edt fencing landscaping",
   "areas": [
-   "trees_vegetation"
+   "fencing_boundaries"
   ],
   "types": [
-   "tree_surgeon",
-   "hedge_maintenance",
-   "stump_grinding"
+   "fencing_contractor"
   ],
-  "primary_area": "trees_vegetation",
+  "primary_area": "fencing_boundaries",
   "address": null,
   "town": "Poole",
   "postcode": null,
@@ -4095,9 +5004,9 @@
   "lng": -1.9872,
   "distance_miles": 0.0,
   "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
+  "phone": "07427 913496",
+  "phone_e164": "+447427913496",
+  "phone_type": "mobile",
   "email": null,
   "website": null,
   "domain": null,
@@ -4111,10 +5020,10 @@
   "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
   "last_review_date": null,
   "checkatrade": {
-   "score": 9.98,
-   "reviews": 89,
+   "score": 9.9,
+   "reviews": 37,
    "member_since": null,
-   "url": "https://www.checkatrade.com/trades/spktreeservices1086930",
+   "url": "https://www.checkatrade.com/Search/Fencing-Contractor/in/Poole",
    "unvetted": false
   },
   "trustatrader": null,
@@ -4124,12 +5033,12 @@
   "companies_house": null,
   "opening_hours": null,
   "enriched_from_ch": false,
-  "base_unknown": false,
+  "base_unknown": true,
   "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Tree & hedge management, Poole; TPO work",
+  "services_notes": "Fencing & landscaping (seen on Checkatrade Poole list)",
   "badges": [
    "highly_rated",
    "vetted",
@@ -4139,23 +5048,30 @@
   ],
   "score": 46,
   "score_breakdown": {
-   "rating": 34,
-   "reviews": 12,
+   "rating": 27,
+   "reviews": 9,
    "vetted": 12,
-   "contact": 0,
+   "contact": 9,
    "distance": 0
   },
   "confidence": 0.3,
-  "merge_review": false,
+  "merge_review": true,
   "sources": [
    {
     "source": "checkatrade",
-    "url": "https://www.checkatrade.com/trades/spktreeservices1086930",
+    "url": "https://www.checkatrade.com/trades/edtfencingandlandscaping1090063",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/Search/Fencing-Contractor/in/Poole",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "score",
-     "reviews",
-     "base"
+     "reviews"
     ]
    }
   ],
@@ -4259,105 +5175,17 @@
   "county": "dorset"
  },
  {
-  "id": "tf_455c8f87",
-  "name": "Pinnacle Landscaping and Groundworks",
+  "id": "tf_cf237eed",
+  "name": "Gardening With Care",
   "legal_name": null,
-  "name_normalised": "pinnacle landscaping groundworks",
+  "name_normalised": "gardening with care",
   "areas": [
-   "landscaping",
-   "groundworks"
+   "fencing_boundaries",
+   "lawns_grounds"
   ],
   "types": [
-   "landscape_gardener",
-   "groundworks_contractor"
-  ],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Poole",
-  "postcode": null,
-  "lat": 50.715,
-  "lng": -1.9872,
-  "distance_miles": 0.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
-  "last_review_date": null,
-  "checkatrade": {
-   "score": 10.0,
-   "reviews": 79,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/Search/Landscaper/in/Poole",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": null,
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": true,
-  "business_form": "unknown",
-  "size_band": "unknown",
-  "years_trading": null,
-  "accreditations": [],
-  "services_notes": "Landscaping & groundworks (seen on Checkatrade Poole list)",
-  "badges": [
-   "highly_rated",
-   "vetted",
-   "no_website",
-   "nearby",
-   "needs_check"
-  ],
-  "score": 45,
-  "score_breakdown": {
-   "rating": 33,
-   "reviews": 11,
-   "vetted": 12,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.3,
-  "merge_review": true,
-  "sources": [
-   {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/Search/Landscaper/in/Poole",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "score",
-     "reviews"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
-  "id": "tf_a24cd4f5",
-  "name": "C W Montgomery Fencing",
-  "legal_name": null,
-  "name_normalised": "c w montgomery fencing",
-  "areas": [
-   "fencing_boundaries"
-  ],
-  "types": [
-   "fencing_contractor"
+   "fencing_contractor",
+   "garden_maintenance"
   ],
   "primary_area": "fencing_boundaries",
   "address": null,
@@ -4367,9 +5195,9 @@
   "lng": -1.9872,
   "distance_miles": 0.0,
   "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
+  "phone": "07411 503175",
+  "phone_e164": "+447411503175",
+  "phone_type": "mobile",
   "email": null,
   "website": null,
   "domain": null,
@@ -4381,140 +5209,61 @@
   "google_rating": null,
   "google_reviews": null,
   "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
-  "last_review_date": null,
-  "checkatrade": {
-   "score": 9.93,
-   "reviews": 54,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/Search/Fencing-Contractor/in/Poole",
-   "unvetted": false
+  "last_review_date": "2026-10-07",
+  "checkatrade": null,
+  "trustatrader": {
+   "rating": 4.93,
+   "reviews": 18,
+   "url": "https://www.trustatrader.com/traders/gardening--care-fencing--poole"
   },
-  "trustatrader": null,
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
   "companies_house": null,
   "opening_hours": null,
   "enriched_from_ch": false,
-  "base_unknown": true,
+  "base_unknown": false,
   "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Fencing (seen on Checkatrade Poole list)",
+  "services_notes": "TrustATrader vetted; fencing & gardening, Poole",
   "badges": [
-   "highly_rated",
    "vetted",
+   "busy",
    "no_website",
    "nearby",
    "needs_check"
   ],
-  "score": 42,
+  "score": 41,
   "score_breakdown": {
-   "rating": 30,
-   "reviews": 10,
+   "rating": 22,
+   "reviews": 8,
    "vetted": 12,
-   "contact": 0,
+   "contact": 9,
    "distance": 0
   },
   "confidence": 0.3,
-  "merge_review": true,
+  "merge_review": false,
   "sources": [
    {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/Search/Fencing-Contractor/in/Poole",
+    "source": "trustatrader",
+    "url": "https://www.trustatrader.com/traders/gardening--care-fencing-poole",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
-     "score",
-     "reviews"
+     "phone",
+     "address"
     ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
-  "id": "tf_7ca4da51",
-  "name": "LJ Fencing and Landscaping",
-  "legal_name": null,
-  "name_normalised": "lj fencing landscaping",
-  "areas": [
-   "fencing_boundaries"
-  ],
-  "types": [
-   "fencing_contractor"
-  ],
-  "primary_area": "fencing_boundaries",
-  "address": null,
-  "town": "Poole",
-  "postcode": null,
-  "lat": 50.715,
-  "lng": -1.9872,
-  "distance_miles": 0.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
-  "last_review_date": null,
-  "checkatrade": {
-   "score": 9.88,
-   "reviews": 50,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/Search/Fencing-Contractor/in/Poole",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": null,
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": true,
-  "business_form": "unknown",
-  "size_band": "unknown",
-  "years_trading": null,
-  "accreditations": [],
-  "services_notes": "Fencing & landscaping (seen on Checkatrade Poole list)",
-  "badges": [
-   "highly_rated",
-   "vetted",
-   "no_website",
-   "nearby",
-   "needs_check"
-  ],
-  "score": 42,
-  "score_breakdown": {
-   "rating": 30,
-   "reviews": 10,
-   "vetted": 12,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.3,
-  "merge_review": true,
-  "sources": [
+   },
    {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/Search/Fencing-Contractor/in/Poole",
+    "source": "trustatrader",
+    "url": "https://www.trustatrader.com/traders/gardening--care-fencing--poole",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "score",
-     "reviews"
+     "reviews",
+     "base",
+     "last_review"
     ]
    }
   ],
@@ -4604,184 +5353,6 @@
      "reviews",
      "base",
      "last_review"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
-  "id": "tf_b014f7c4",
-  "name": "C and J Fenceworks",
-  "legal_name": null,
-  "name_normalised": "c j fenceworks",
-  "areas": [
-   "fencing_boundaries"
-  ],
-  "types": [
-   "fencing_contractor",
-   "gate_installer"
-  ],
-  "primary_area": "fencing_boundaries",
-  "address": null,
-  "town": "Poole",
-  "postcode": null,
-  "lat": 50.715,
-  "lng": -1.9872,
-  "distance_miles": 0.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
-  "last_review_date": null,
-  "checkatrade": {
-   "score": 9.97,
-   "reviews": 36,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/trades/candjfenceworksltd",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": null,
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": false,
-  "business_form": "unknown",
-  "size_band": "unknown",
-  "years_trading": null,
-  "accreditations": [],
-  "services_notes": "Newly established fencing company (Ltd), 15+ yrs experience",
-  "badges": [
-   "highly_rated",
-   "vetted",
-   "no_website",
-   "nearby",
-   "needs_check"
-  ],
-  "score": 38,
-  "score_breakdown": {
-   "rating": 27,
-   "reviews": 9,
-   "vetted": 12,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.3,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/trades/candjfenceworksltd",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "score",
-     "reviews",
-     "base"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
-  "id": "tf_a9a8ad11",
-  "name": "EDT Fencing and Landscaping",
-  "legal_name": null,
-  "name_normalised": "edt fencing landscaping",
-  "areas": [
-   "fencing_boundaries"
-  ],
-  "types": [
-   "fencing_contractor"
-  ],
-  "primary_area": "fencing_boundaries",
-  "address": null,
-  "town": "Poole",
-  "postcode": null,
-  "lat": 50.715,
-  "lng": -1.9872,
-  "distance_miles": 0.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
-  "last_review_date": null,
-  "checkatrade": {
-   "score": 9.9,
-   "reviews": 37,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/Search/Fencing-Contractor/in/Poole",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": null,
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": true,
-  "business_form": "unknown",
-  "size_band": "unknown",
-  "years_trading": null,
-  "accreditations": [],
-  "services_notes": "Fencing & landscaping (seen on Checkatrade Poole list)",
-  "badges": [
-   "highly_rated",
-   "vetted",
-   "no_website",
-   "nearby",
-   "needs_check"
-  ],
-  "score": 38,
-  "score_breakdown": {
-   "rating": 27,
-   "reviews": 9,
-   "vetted": 12,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.3,
-  "merge_review": true,
-  "sources": [
-   {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/Search/Fencing-Contractor/in/Poole",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "score",
-     "reviews"
     ]
    }
   ],
@@ -5301,9 +5872,9 @@
   "name_normalised": "bamboo landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "paving_patios",
    "decking_structures",
-   "paving_patios"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -5412,8 +5983,8 @@
   "name_normalised": "bonsai landscapes",
   "areas": [
    "landscaping",
-   "lawns_grounds",
-   "paving_patios"
+   "paving_patios",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
@@ -5511,11 +6082,11 @@
   "name_normalised": "freeman s landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "decking_structures",
-   "lawns_grounds",
    "paving_patios",
-   "driveways"
+   "driveways",
+   "decking_structures",
+   "fencing_boundaries",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
@@ -5606,106 +6177,16 @@
   "county": "dorset"
  },
  {
-  "id": "tf_cf237eed",
-  "name": "Gardening With Care",
-  "legal_name": null,
-  "name_normalised": "gardening with care",
-  "areas": [
-   "fencing_boundaries",
-   "lawns_grounds"
-  ],
-  "types": [
-   "fencing_contractor",
-   "garden_maintenance"
-  ],
-  "primary_area": "fencing_boundaries",
-  "address": null,
-  "town": "Poole",
-  "postcode": null,
-  "lat": 50.715,
-  "lng": -1.9872,
-  "distance_miles": 0.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
-  "last_review_date": "2026-10-07",
-  "checkatrade": null,
-  "trustatrader": {
-   "rating": 4.93,
-   "reviews": 18,
-   "url": "https://www.trustatrader.com/traders/gardening--care-fencing--poole"
-  },
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": null,
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": false,
-  "business_form": "unknown",
-  "size_band": "unknown",
-  "years_trading": null,
-  "accreditations": [],
-  "services_notes": "TrustATrader vetted; fencing & gardening, Poole",
-  "badges": [
-   "vetted",
-   "busy",
-   "no_website",
-   "nearby",
-   "needs_check"
-  ],
-  "score": 34,
-  "score_breakdown": {
-   "rating": 22,
-   "reviews": 8,
-   "vetted": 12,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.3,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "trustatrader",
-    "url": "https://www.trustatrader.com/traders/gardening--care-fencing--poole",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "score",
-     "reviews",
-     "base",
-     "last_review"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
   "id": "tf_e1398b51",
   "name": "PDgroundscape",
   "legal_name": "PDGROUNDSCAPE LIMITED",
   "name_normalised": "pdgroundscape",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "water_drainage",
+   "groundworks",
    "paving_patios",
-   "groundworks"
+   "fencing_boundaries",
+   "water_drainage"
   ],
   "types": [
    "landscape_gardener",
@@ -6441,10 +6922,10 @@
   "name_normalised": "samson landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "decking_structures",
    "paving_patios",
-   "driveways"
+   "driveways",
+   "decking_structures",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -6743,8 +7224,8 @@
   "name_normalised": "loveland forestry fencing",
   "areas": [
    "trees_vegetation",
-   "lawns_grounds",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "lawns_grounds"
   ],
   "types": [
    "tree_surgeon",
@@ -7043,8 +7524,8 @@
   "name_normalised": "rockbound resin surfacing",
   "areas": [
    "driveways",
-   "surfacing",
-   "paving_patios"
+   "paving_patios",
+   "surfacing"
   ],
   "types": [
    "resin_bound"
@@ -7247,9 +7728,9 @@
   "name_normalised": "total landscaping works",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "paving_patios",
-   "driveways"
+   "driveways",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -7545,8 +8026,8 @@
   "name_normalised": "vision landscapers",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "water_drainage"
+   "water_drainage",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -7644,9 +8125,9 @@
   "name_normalised": "bourne surfacing civils",
   "areas": [
    "surfacing",
-   "water_drainage",
    "groundworks",
-   "driveways"
+   "driveways",
+   "water_drainage"
   ],
   "types": [
    "tarmac",
@@ -7753,8 +8234,8 @@
   "name_normalised": "cps fencing sons",
   "areas": [
    "fencing_boundaries",
-   "lawns_grounds",
-   "trees_vegetation"
+   "trees_vegetation",
+   "lawns_grounds"
   ],
   "types": [
    "fencing_contractor",
@@ -7963,9 +8444,9 @@
   "name_normalised": "green guys landscaping",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "paving_patios",
    "decking_structures",
-   "paving_patios"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -8070,8 +8551,8 @@
   "name_normalised": "l b driveways",
   "areas": [
    "driveways",
-   "paving_patios",
-   "groundworks"
+   "groundworks",
+   "paving_patios"
   ],
   "types": [
    "block_paving",
@@ -8262,6 +8743,130 @@
      "number",
      "status",
      "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_3532c0a0",
+  "name": "Matthew Wilkins Landscapes",
+  "legal_name": "MATTHEW WILKINS LANDSCAPES LTD",
+  "name_normalised": "matthew wilkins landscapes",
+  "areas": [
+   "landscaping",
+   "paving_patios",
+   "fencing_boundaries",
+   "lawns_grounds"
+  ],
+  "types": [
+   "landscape_gardener",
+   "patio_installer",
+   "fencing_contractor",
+   "garden_maintenance"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Bournemouth",
+  "postcode": "BH9",
+  "lat": 50.74963760060058,
+  "lng": -1.8725517987988018,
+  "distance_miles": 5.6,
+  "serves_area_only": false,
+  "phone": "07930 803009",
+  "phone_e164": "+447930803009",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://matthewwilkinsgardens.com",
+  "domain": "matthewwilkinsgardens.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.74963760060058&mlon=-1.8725517987988018#map=13/50.74963760060058/-1.8725517987988018",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09056669",
+   "status": "active",
+   "incorporated": "2014-05-27",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09056669"
+  },
+  "opening_hours": "Mon–Fri 08:00–18:00; Sat 08:00–13:00",
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 15,
+  "accreditations": [
+   "Buy With Confidence"
+  ],
+  "services_notes": "Ltd; FreeIndex member since 2009, checks passed Jul 2026 (incl. Companies House); Buy With Confidence. Matched by name + district to MATTHEW WILKINS LANDSCAPES LTD (check)",
+  "badges": [
+   "established",
+   "ltd_company",
+   "needs_check"
+  ],
+  "score": 31,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 12
+  },
+  "confidence": 0.8,
+  "merge_review": true,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.matthewwilkinsgardens.com/contact-matthew-wilkins-gardens/",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "houzz",
+    "url": "https://www.houzz.co.uk/professionals/landscape-contractors/matthew-wilkins-landscapes-and-garden-services-pfvwgb-pf~507615960",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
+   {
+    "source": "freeindex",
+    "url": "https://www.freeindex.co.uk/profile(matthew-wilkins-landscapes-ltd)_199393.htm",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "district",
+     "web",
+     "hours",
+     "accreditations"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09056669",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status"
     ]
    }
   ],
@@ -8590,11 +9195,11 @@
   "name_normalised": "chs landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "decking_structures",
-   "lawns_grounds",
    "paving_patios",
-   "driveways"
+   "driveways",
+   "decking_structures",
+   "fencing_boundaries",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
@@ -8993,8 +9598,8 @@
   "areas": [
    "groundworks",
    "landscaping",
-   "water_drainage",
-   "driveways"
+   "driveways",
+   "water_drainage"
   ],
   "types": [
    "groundworks_contractor",
@@ -9417,9 +10022,9 @@
   "name_normalised": "james dean creative landscapes",
   "areas": [
    "landscaping",
+   "driveways",
    "decking_structures",
-   "lawns_grounds",
-   "driveways"
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
@@ -9736,8 +10341,8 @@
   "areas": [
    "fencing_boundaries",
    "landscaping",
-   "decking_structures",
-   "paving_patios"
+   "paving_patios",
+   "decking_structures"
   ],
   "types": [
    "fencing_contractor",
@@ -9836,10 +10441,10 @@
   "name_normalised": "purbeck landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "outdoor_masonry",
+   "groundworks",
    "paving_patios",
-   "groundworks"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -10240,8 +10845,8 @@
   "name_normalised": "alpine construction landscape",
   "areas": [
    "landscaping",
-   "lawns_grounds",
-   "groundworks"
+   "groundworks",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
@@ -10549,6 +11154,124 @@
   "county": "dorset"
  },
  {
+  "id": "tf_58b5355f",
+  "name": "Grit And Graft",
+  "legal_name": "GRIT AND GRAFT LTD",
+  "name_normalised": "grit graft",
+  "areas": [
+   "paving_patios",
+   "landscaping",
+   "driveways"
+  ],
+  "types": [
+   "porcelain_paving",
+   "patio_installer",
+   "garden_designer"
+  ],
+  "primary_area": "paving_patios",
+  "address": null,
+  "town": "Bournemouth",
+  "postcode": null,
+  "lat": 50.7192,
+  "lng": -1.8808,
+  "distance_miles": 4.7,
+  "serves_area_only": false,
+  "phone": "07476 232666",
+  "phone_e164": "+447476232666",
+  "phone_type": "mobile",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.7192&mlon=-1.8808#map=13/50.7192/-1.8808",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": null,
+   "reviews": null,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/gritandgraftltd",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13317036",
+   "status": "active",
+   "incorporated": "2021-04-07",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13317036"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [
+   "City & Guilds L3 Garden Design"
+  ],
+  "services_notes": "Landscaping & groundworks, Dorset & Hampshire; porcelain patios from £150/m²; garden design with CAD",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "no_website",
+   "nearby"
+  ],
+  "score": 29,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 8,
+   "contact": 9,
+   "distance": 12
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13317036",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/gritandgraftltd",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/gritandgraftltd",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "services",
+     "pricing",
+     "base"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
   "id": "tf_fef92cd9",
   "name": "MJP Landscapes",
   "legal_name": "MJP LANDSCAPES LIMITED",
@@ -10556,8 +11279,8 @@
   "areas": [
    "driveways",
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "driveway_installer",
@@ -10747,6 +11470,101 @@
   ],
   "first_seen": "2026-10-16",
   "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_ce429b75",
+  "name": "All Surface Care",
+  "legal_name": null,
+  "name_normalised": "all surface care",
+  "areas": [
+   "exterior_cleaning"
+  ],
+  "types": [
+   "driveway_cleaning",
+   "patio_cleaning"
+  ],
+  "primary_area": "exterior_cleaning",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH16",
+  "lat": 50.740467761557184,
+  "lng": -2.047525423357664,
+  "distance_miles": 3.2,
+  "serves_area_only": false,
+  "phone": "01202 620377",
+  "phone_e164": "+441202620377",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.allsurfacecare.com/",
+  "domain": "allsurfacecare.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.740467761557184&mlon=-2.047525423357664#map=13/50.740467761557184/-2.047525423357664",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": {
+   "source": "Freeindex",
+   "rating": null,
+   "reviews": 0,
+   "url": "https://www.freeindex.co.uk/profile(all-surface-care)_46741.htm"
+  },
+  "companies_house": null,
+  "opening_hours": "Mon–Fri 09:00–17:00",
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": 16,
+  "accreditations": [],
+  "services_notes": "Family business ~16 yrs; driveway/patio/roof cleaning & sealing; FreeIndex verified Dec 2024",
+  "badges": [
+   "top_pick",
+   "established",
+   "nearby"
+  ],
+  "score": 28,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 15,
+   "distance": 13
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.allsurfacecare.com/contact",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "freeindex",
+    "url": "https://www.freeindex.co.uk/profile(all-surface-care)_46741.htm",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "district",
+     "hours",
+     "services"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
   "status": "active",
   "pete_notes": "",
   "county": "dorset"
@@ -10960,6 +11778,99 @@
   ],
   "first_seen": "2026-10-16",
   "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_3bfd9390",
+  "name": "Primary Tree Care",
+  "legal_name": null,
+  "name_normalised": "primary tree care",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH16",
+  "lat": 50.740467761557184,
+  "lng": -2.047525423357664,
+  "distance_miles": 3.2,
+  "serves_area_only": false,
+  "phone": "01202 042662",
+  "phone_e164": "+441202042662",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.primarytreecare.co.uk/",
+  "domain": "primarytreecare.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.740467761557184&mlon=-2.047525423357664#map=13/50.740467761557184/-2.047525423357664",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": null,
+   "reviews": 178,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/PrimaryTreeCareLtd",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Tree surgeon (Ltd); no Checkatrade reviews in last 12 months so no current score",
+  "badges": [
+   "nearby"
+  ],
+  "score": 28,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 15,
+   "distance": 13
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.primarytreecare.co.uk/contact",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/PrimaryTreeCareLtd",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "reviews",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
   "status": "active",
   "pete_notes": "",
   "county": "dorset"
@@ -11686,8 +12597,8 @@
   "name_normalised": "elite construction landscapes",
   "areas": [
    "landscaping",
-   "groundworks",
-   "driveways"
+   "driveways",
+   "groundworks"
   ],
   "types": [
    "landscape_gardener"
@@ -11783,8 +12694,8 @@
   "areas": [
    "paving_patios",
    "landscaping",
-   "fencing_boundaries",
-   "driveways"
+   "driveways",
+   "fencing_boundaries"
   ],
   "types": [
    "block_paving",
@@ -12162,9 +13073,9 @@
   "areas": [
    "groundworks",
    "landscaping",
-   "water_drainage",
    "paving_patios",
-   "driveways"
+   "driveways",
+   "water_drainage"
   ],
   "types": [
    "groundworks_contractor",
@@ -12259,7 +13170,7 @@
  {
   "id": "tf_057dff24",
   "name": "M&R Paving Landscaping",
-  "legal_name": "M & R PAVING & LANDSCAPING SPECIALISTS LTD",
+  "legal_name": null,
   "name_normalised": "m r paving landscaping",
   "areas": [
    "driveways"
@@ -12297,27 +13208,17 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": {
-   "number": "16246744",
-   "status": "active",
-   "incorporated": "2025-02-12",
-   "sic": [
-    "43999",
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/16246744"
-  },
+  "companies_house": null,
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "ltd",
+  "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Resin-bound & bonded surfacing, paving; covers Bournemouth, Poole, Christchurch & New Forest. Matched by name + district to M & R PAVING & LANDSCAPING SPECIALISTS LTD (check)",
+  "services_notes": "Resin-bound & bonded surfacing, paving; covers Bournemouth, Poole, Christchurch & New Forest",
   "badges": [
-   "needs_check",
-   "ltd_company"
+   "needs_check"
   ],
   "score": 22,
   "score_breakdown": {
@@ -12327,8 +13228,8 @@
    "contact": 15,
    "distance": 12
   },
-  "confidence": 0.5,
-  "merge_review": true,
+  "confidence": 0.3,
+  "merge_review": false,
   "sources": [
    {
     "source": "web_search",
@@ -12338,15 +13239,6 @@
      "phone",
      "address",
      "services"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/16246744",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
     ]
    }
   ],
@@ -12548,10 +13440,10 @@
   "name_normalised": "portwey surfacing",
   "areas": [
    "surfacing",
-   "water_drainage",
-   "paving_patios",
    "groundworks",
-   "driveways"
+   "paving_patios",
+   "driveways",
+   "water_drainage"
   ],
   "types": [
    "surfacing_contractor",
@@ -12659,8 +13551,8 @@
   "name_normalised": "wessex macadams wessex surfacing",
   "areas": [
    "surfacing",
-   "groundworks",
-   "driveways"
+   "driveways",
+   "groundworks"
   ],
   "types": [
    "surfacing_contractor",
@@ -12752,36 +13644,31 @@
   "county": "dorset"
  },
  {
-  "id": "tf_3532c0a0",
-  "name": "Matthew Wilkins Landscapes",
-  "legal_name": null,
-  "name_normalised": "matthew wilkins landscapes",
+  "id": "tf_19c6503a",
+  "name": "PM Groundworks",
+  "legal_name": "P M Groundworks (Sw)",
+  "name_normalised": "pm groundworks",
   "areas": [
-   "landscaping",
-   "fencing_boundaries",
-   "lawns_grounds",
-   "paving_patios"
+   "groundworks"
   ],
   "types": [
-   "landscape_gardener",
-   "patio_installer",
-   "fencing_contractor",
-   "garden_maintenance"
+   "groundworks_contractor",
+   "civil_engineering"
   ],
-  "primary_area": "landscaping",
+  "primary_area": "groundworks",
   "address": null,
-  "town": "Bournemouth",
-  "postcode": "BH9",
-  "lat": 50.74963760060058,
-  "lng": -1.8725517987988018,
-  "distance_miles": 5.6,
+  "town": "Tortworth (reg. Clifton, Bristol)",
+  "postcode": "GL12",
+  "lat": 51.6235342851064,
+  "lng": -2.3897740234042555,
+  "distance_miles": 65.2,
   "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
+  "phone": "01454 607130",
+  "phone_e164": "+441454607130",
+  "phone_type": "landline",
   "email": null,
-  "website": "https://matthewwilkinsgardens.com",
-  "domain": "matthewwilkinsgardens.com",
+  "website": "https://pmgroundworks.com/",
+  "domain": "pmgroundworks.com",
   "website_quality": "unknown",
   "socials": {
    "facebook": null,
@@ -12789,48 +13676,160 @@
   },
   "google_rating": null,
   "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.74963760060058&mlon=-1.8725517987988018#map=13/50.74963760060058/-1.8725517987988018",
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.6235342851064&mlon=-2.3897740234042555#map=13/51.6235342851064/-2.3897740234042555",
   "last_review_date": null,
   "checkatrade": null,
   "trustatrader": null,
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": null,
-  "opening_hours": "Mon–Fri 08:00–18:00; Sat 08:00–13:00",
-  "enriched_from_ch": false,
+  "companies_house": {
+   "number": "07809459",
+   "status": "active",
+   "incorporated": "2011-10-13",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07809459"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
   "base_unknown": false,
-  "business_form": "unknown",
+  "business_form": "ltd",
   "size_band": "unknown",
   "years_trading": 15,
-  "accreditations": [
-   "Buy With Confidence"
-  ],
-  "services_notes": "Ltd; FreeIndex member since 2009, checks passed Jul 2026 (incl. Companies House); Buy With Confidence",
+  "accreditations": [],
+  "services_notes": "Groundworks & civil engineering; S Glos, Bristol, Bath, NE Somerset, Gloucester",
   "badges": [
-   "established",
-   "needs_check"
+   "top_pick",
+   "ltd_company",
+   "established"
   ],
-  "score": 18,
+  "score": 19,
   "score_breakdown": {
    "rating": 0,
    "reviews": 0,
    "vetted": 4,
-   "contact": 6,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://pmgroundworks.com/contact-us/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07809459",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_f4b671ef",
+  "name": "GardensRevolution",
+  "legal_name": null,
+  "name_normalised": "gardensrevolution",
+  "areas": [
+   "paving_patios",
+   "landscaping",
+   "decking_structures"
+  ],
+  "types": [
+   "porcelain_paving",
+   "patio_installer",
+   "landscape_gardener"
+  ],
+  "primary_area": "paving_patios",
+  "address": null,
+  "town": "Bournemouth",
+  "postcode": null,
+  "lat": 50.7192,
+  "lng": -1.8808,
+  "distance_miles": 4.7,
+  "serves_area_only": false,
+  "phone": "07862 127153",
+  "phone_e164": "+447862127153",
+  "phone_type": "mobile",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.7192&mlon=-1.8808#map=13/50.7192/-1.8808",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": null,
+   "reviews": null,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/gardensrevolution",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": false,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Porcelain patios, landscaping, decking, groundwork",
+  "badges": [
+   "top_pick",
+   "no_website",
+   "nearby",
+   "needs_check"
+  ],
+  "score": 17,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 9,
    "distance": 12
   },
   "confidence": 0.3,
   "merge_review": false,
   "sources": [
    {
-    "source": "freeindex",
-    "url": "https://www.freeindex.co.uk/profile(matthew-wilkins-landscapes-ltd)_199393.htm",
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/gardensrevolution",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
-     "district",
-     "web",
-     "hours",
-     "accreditations"
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/gardensrevolution",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "services",
+     "base"
     ]
    }
   ],
@@ -12929,6 +13928,99 @@
      "number",
      "status",
      "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
+  "id": "tf_d643a60e",
+  "name": "Agf Fencing & Carpentry",
+  "legal_name": null,
+  "name_normalised": "agf fencing carpentry",
+  "areas": [
+   "fencing_boundaries"
+  ],
+  "types": [
+   "fencing_contractor"
+  ],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Poole",
+  "postcode": null,
+  "lat": 50.715,
+  "lng": -1.9872,
+  "distance_miles": 0.0,
+  "serves_area_only": false,
+  "phone": "01202 618341",
+  "phone_e164": "+441202618341",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.agffencingandcarpentryltd.com/",
+  "domain": "agffencingandcarpentryltd.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.715&mlon=-1.9872#map=13/50.715/-1.9872",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": null,
+   "reviews": 112,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/Search/Fencing-Gates/in/Poole",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": null,
+  "opening_hours": null,
+  "enriched_from_ch": false,
+  "base_unknown": true,
+  "business_form": "unknown",
+  "size_band": "unknown",
+  "years_trading": null,
+  "accreditations": [],
+  "services_notes": "Fencing & carpentry (Ltd) (seen on Checkatrade Poole list; score not shown)",
+  "badges": [
+   "nearby",
+   "needs_check"
+  ],
+  "score": 15,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": true,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.agffencingandcarpentryltd.com/contact",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/Search/Fencing-Gates/in/Poole",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "reviews"
     ]
    }
   ],
@@ -55384,100 +56476,6 @@
   "ch_only": true,
   "out_of_scope": false,
   "out_of_scope_reason": null
- },
- {
-  "id": "tf_58b5355f",
-  "name": "Grit And Graft",
-  "legal_name": null,
-  "name_normalised": "grit graft",
-  "areas": [
-   "paving_patios",
-   "landscaping",
-   "driveways"
-  ],
-  "types": [
-   "porcelain_paving",
-   "patio_installer",
-   "garden_designer"
-  ],
-  "primary_area": "paving_patios",
-  "address": null,
-  "town": "Bournemouth",
-  "postcode": null,
-  "lat": 50.7192,
-  "lng": -1.8808,
-  "distance_miles": 4.7,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.7192&mlon=-1.8808#map=13/50.7192/-1.8808",
-  "last_review_date": null,
-  "checkatrade": {
-   "score": null,
-   "reviews": null,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/trades/gritandgraftltd",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": null,
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": false,
-  "business_form": "unknown",
-  "size_band": "unknown",
-  "years_trading": null,
-  "accreditations": [
-   "City & Guilds L3 Garden Design"
-  ],
-  "services_notes": "Landscaping & groundworks, Dorset & Hampshire; porcelain patios from £150/m²; garden design with CAD",
-  "badges": [
-   "top_pick",
-   "no_website",
-   "nearby",
-   "needs_check"
-  ],
-  "score": 13,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 12
-  },
-  "confidence": 0.3,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/trades/gritandgraftltd",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "services",
-     "pricing",
-     "base"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
  },
  {
   "id": "tf_bbb6daee",
@@ -111823,97 +112821,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_f4b671ef",
-  "name": "GardensRevolution",
-  "legal_name": null,
-  "name_normalised": "gardensrevolution",
-  "areas": [
-   "paving_patios",
-   "landscaping",
-   "decking_structures"
-  ],
-  "types": [
-   "porcelain_paving",
-   "patio_installer",
-   "landscape_gardener"
-  ],
-  "primary_area": "paving_patios",
-  "address": null,
-  "town": "Bournemouth",
-  "postcode": null,
-  "lat": 50.7192,
-  "lng": -1.8808,
-  "distance_miles": 4.7,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.7192&mlon=-1.8808#map=13/50.7192/-1.8808",
-  "last_review_date": null,
-  "checkatrade": {
-   "score": null,
-   "reviews": null,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/trades/gardensrevolution",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": null,
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": false,
-  "business_form": "unknown",
-  "size_band": "unknown",
-  "years_trading": null,
-  "accreditations": [],
-  "services_notes": "Porcelain patios, landscaping, decking, groundwork",
-  "badges": [
-   "top_pick",
-   "no_website",
-   "nearby",
-   "needs_check"
-  ],
-  "score": 10,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 0,
-   "contact": 0,
-   "distance": 12
-  },
-  "confidence": 0.3,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/trades/gardensrevolution",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "services",
-     "base"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
- },
- {
   "id": "tf_b5988f93",
   "name": "Graysons Garden Care",
   "legal_name": "GRAYSONS GARDEN CARE LIMITED",
@@ -114657,6 +115564,101 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_ed408f17",
+  "name": "Minerva Landscaping",
+  "legal_name": "Minerva Landscaping",
+  "name_normalised": "minerva landscaping",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [
+   "landscape_contractor",
+   "garden_designer"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Portishead",
+  "postcode": "BS20",
+  "lat": 51.48062422906974,
+  "lng": -2.753574672093022,
+  "distance_miles": 62.5,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://www.minervalandscaping.co.uk/",
+  "domain": "minervalandscaping.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.48062422906974&mlon=-2.753574672093022#map=13/51.48062422906974/-2.753574672093022",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13247965",
+   "status": "active",
+   "incorporated": "2021-03-05",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13247965"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [],
+  "services_notes": "Garden design, hard landscaping, construction and maintenance; Bristol, Bath, South West",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.minervalandscaping.co.uk/services/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "website"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13247965",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
   "id": "tf_79c08156",
   "name": "Morris Construction",
   "legal_name": "MORRIS CONSTRUCTION LIMITED",
@@ -115481,92 +116483,6 @@
   "ch_only": true,
   "out_of_scope": false,
   "out_of_scope_reason": null
- },
- {
-  "id": "tf_28a9f91f",
-  "name": "Primary Tree Care",
-  "legal_name": null,
-  "name_normalised": "primary tree care",
-  "areas": [
-   "trees_vegetation"
-  ],
-  "types": [
-   "tree_surgeon"
-  ],
-  "primary_area": "trees_vegetation",
-  "address": null,
-  "town": "Poole",
-  "postcode": "BH16",
-  "lat": 50.740467761557184,
-  "lng": -2.047525423357664,
-  "distance_miles": 3.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.740467761557184&mlon=-2.047525423357664#map=13/50.740467761557184/-2.047525423357664",
-  "last_review_date": null,
-  "checkatrade": {
-   "score": null,
-   "reviews": 178,
-   "member_since": null,
-   "url": "https://www.checkatrade.com/trades/PrimaryTreeCareLtd",
-   "unvetted": false
-  },
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": null,
-  "opening_hours": null,
-  "enriched_from_ch": false,
-  "base_unknown": false,
-  "business_form": "unknown",
-  "size_band": "unknown",
-  "years_trading": null,
-  "accreditations": [],
-  "services_notes": "Tree surgeon (Ltd); no Checkatrade reviews in last 12 months so no current score",
-  "badges": [
-   "no_website",
-   "nearby",
-   "needs_check"
-  ],
-  "score": 10,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 0,
-   "contact": 0,
-   "distance": 13
-  },
-  "confidence": 0.3,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "checkatrade",
-    "url": "https://www.checkatrade.com/trades/PrimaryTreeCareLtd",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "reviews",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "dorset"
  },
  {
   "id": "tf_de5ee7b5",
@@ -117919,7 +118835,6 @@
   "accreditations": [],
   "services_notes": "Groundworks contractor on the Somerset/Dorset border; no phone on home page",
   "badges": [
-   "top_pick",
    "ltd_company"
   ],
   "score": 10,
@@ -281451,9 +282366,9 @@
   "areas": [
    "driveways",
    "landscaping",
-   "fencing_boundaries",
+   "groundworks",
    "paving_patios",
-   "groundworks"
+   "fencing_boundaries"
   ],
   "types": [
    "block_paving",
