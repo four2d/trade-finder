@@ -69,3 +69,5 @@
 - 18:02 BST: Issue 02: add Berkshire and Bristol (Companies House discovery)
 
 - 18:18 BST: Issue 02: +54 enriched Hampshire firms (Bordon, Fleet, Farnborough, Tadley)
+
+- 18:44 BST: Issue 02: +58 enriched Wiltshire/Somerset firms; Bristol filled out by postcode district

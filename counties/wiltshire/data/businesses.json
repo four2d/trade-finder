@@ -108,16 +108,229 @@
   "county": "wiltshire"
  },
  {
+  "id": "tf_7f26ed66",
+  "name": "LG Landscapes",
+  "legal_name": "LG LANDSCAPES LIMITED",
+  "name_normalised": "lg landscapes",
+  "areas": [
+   "landscaping",
+   "paving_patios",
+   "driveways",
+   "fencing_boundaries",
+   "lawns_grounds"
+  ],
+  "types": [
+   "landscape_contractor"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Hilperton, Trowbridge",
+  "postcode": "BA14",
+  "lat": 51.319142832092005,
+  "lng": -2.2024691983750926,
+  "distance_miles": 42.8,
+  "serves_area_only": false,
+  "phone": "07730 570162",
+  "phone_e164": "+447730570162",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.lglandscapes-trowbridge.co.uk/",
+  "domain": "lglandscapes-trowbridge.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.319142832092005&mlon=-2.2024691983750926#map=13/51.319142832092005/-2.2024691983750926",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11893872",
+   "status": "active",
+   "incorporated": "2019-03-20",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11893872"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 7,
+  "accreditations": [
+   "TrustMark"
+  ],
+  "services_notes": "Garden design & build, patios, driveways, fencing, turfing; TrustMark registered",
+  "badges": [
+   "top_pick",
+   "ltd_company"
+  ],
+  "score": 23,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 8,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.lglandscapes-trowbridge.co.uk/contact-us/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "trustmark",
+    "url": "https://www.trustmark.org.uk/firms/LG%20Landscapes%20Ltd-1650826-BA14%207PD?id=7f78c63e-b3a4-4569-9cea-f8a06e66f58a",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "accreditation"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11893872",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
+  "id": "tf_d04b0128",
+  "name": "Twentyeight Trees",
+  "legal_name": "TWENTYEIGHT TREES LTD",
+  "name_normalised": "twentyeight trees",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "North Bradley, Trowbridge",
+  "postcode": "BA14",
+  "lat": 51.319142832092005,
+  "lng": -2.2024691983750926,
+  "distance_miles": 42.8,
+  "serves_area_only": false,
+  "phone": "07713 248709",
+  "phone_e164": "+447713248709",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.twentyeight-gtc.co.uk/",
+  "domain": "twentyeight-gtc.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.319142832092005&mlon=-2.2024691983750926#map=13/51.319142832092005/-2.2024691983750926",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13357235",
+   "status": "active",
+   "incorporated": "2021-04-26",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13357235"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [
+   "NPTC"
+  ],
+  "services_notes": "Felling, pruning, crown work, hedges, storm response, firewood, clearance; NPTC qualified; featured in Forestry Journal",
+  "badges": [
+   "top_pick",
+   "ltd_company"
+  ],
+  "score": 23,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 8,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.twentyeight-gtc.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "press",
+    "url": "https://www.forestryjournal.co.uk/features/19043060.twentyeight-trees-design-life/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "profile"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13357235",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
   "id": "tf_1a392517",
   "name": "ASG Landscaping",
   "legal_name": "ASG LANDSCAPING LIMITED",
   "name_normalised": "asg landscaping",
   "areas": [
    "landscaping",
-   "decking_structures",
+   "fencing_boundaries",
    "lawns_grounds",
-   "paving_patios",
-   "fencing_boundaries"
+   "decking_structures",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -224,11 +437,11 @@
   "name_normalised": "chalke valley landscaping",
   "areas": [
    "landscaping",
-   "lawns_grounds",
-   "paving_patios",
-   "driveways",
    "fencing_boundaries",
-   "water_drainage"
+   "lawns_grounds",
+   "driveways",
+   "water_drainage",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -334,9 +547,9 @@
   "name_normalised": "crazy pave",
   "areas": [
    "driveways",
-   "paving_patios",
    "fencing_boundaries",
-   "landscaping"
+   "landscaping",
+   "paving_patios"
   ],
   "types": [
    "driveway_installer",
@@ -654,9 +867,9 @@
   "name_normalised": "never ending fencing",
   "areas": [
    "fencing_boundaries",
-   "paving_patios",
+   "landscaping",
    "driveways",
-   "landscaping"
+   "paving_patios"
   ],
   "types": [
    "fencing_contractor",
@@ -973,11 +1186,11 @@
   "name_normalised": "abelia landscapes",
   "areas": [
    "landscaping",
-   "lawns_grounds",
-   "paving_patios",
-   "driveways",
    "fencing_boundaries",
-   "water_drainage"
+   "lawns_grounds",
+   "driveways",
+   "water_drainage",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -1171,6 +1384,102 @@
   "county": "wiltshire"
  },
  {
+  "id": "tf_4a30947d",
+  "name": "Anthony Dear Landscapes",
+  "legal_name": "ANTHONY DEAR LANDSCAPES LTD",
+  "name_normalised": "anthony dear landscapes",
+  "areas": [
+   "landscaping",
+   "paving_patios",
+   "decking_structures",
+   "water_drainage"
+  ],
+  "types": [
+   "landscape_gardener"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Melksham",
+  "postcode": "SN12",
+  "lat": 51.37195807411908,
+  "lng": -2.1361174690157974,
+  "distance_miles": 45.9,
+  "serves_area_only": false,
+  "phone": "07949 163374",
+  "phone_e164": "+447949163374",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "http://anthonydearlandscapes.co.uk/",
+  "domain": "anthonydearlandscapes.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.37195807411908&mlon=-2.1361174690157974#map=13/51.37195807411908/-2.1361174690157974",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13518301",
+   "status": "active",
+   "incorporated": "2021-07-19",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13518301"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [],
+  "services_notes": "Garden design, patios, lawns, walls, decks, water features",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "http://anthonydearlandscapes.co.uk/contact",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13518301",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
   "id": "tf_9754ed04",
   "name": "Atlas Tree Care",
   "legal_name": "ATLAS TREE CARE LIMITED",
@@ -1280,9 +1589,9 @@
   "name_normalised": "avon tree garden",
   "areas": [
    "trees_vegetation",
-   "lawns_grounds",
    "fencing_boundaries",
-   "landscaping"
+   "landscaping",
+   "lawns_grounds"
   ],
   "types": [
    "tree_surgeon",
@@ -1367,6 +1676,202 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/15852395",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
+  "id": "tf_a55ad102",
+  "name": "Axford Landscapes",
+  "legal_name": "AXFORD LANDSCAPES LIMITED",
+  "name_normalised": "axford landscapes",
+  "areas": [
+   "landscaping",
+   "lawns_grounds",
+   "fencing_boundaries",
+   "paving_patios",
+   "driveways"
+  ],
+  "types": [
+   "landscape_contractor",
+   "grounds_maintenance"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Bradford-on-Avon",
+  "postcode": "BA15",
+  "lat": 51.34832358510639,
+  "lng": -2.258127342553191,
+  "distance_miles": 45.3,
+  "serves_area_only": false,
+  "phone": "07855 338803",
+  "phone_e164": "+447855338803",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://axfordlandscapes.co.uk/",
+  "domain": "axfordlandscapes.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.34832358510639&mlon=-2.258127342553191#map=13/51.34832358510639/-2.258127342553191",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12015818",
+   "status": "active",
+   "incorporated": "2019-05-24",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12015818"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 7,
+  "accreditations": [],
+  "services_notes": "Garden & grounds maintenance, landscaping, fencing, patios, driveways, turfing; private, commercial and public clients",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://axfordlandscapes.co.uk/contact/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12015818",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
+  "id": "tf_aa8045ba",
+  "name": "Bath Garden Design",
+  "legal_name": "BATH GARDEN DESIGN LTD",
+  "name_normalised": "bath garden design",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [
+   "garden_designer",
+   "landscape_gardener"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Holt, Trowbridge",
+  "postcode": "BA14",
+  "lat": 51.319142832092005,
+  "lng": -2.2024691983750926,
+  "distance_miles": 42.8,
+  "serves_area_only": false,
+  "phone": "01225 317977",
+  "phone_e164": "+441225317977",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://bathgardendesign.com/",
+  "domain": "bathgardendesign.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.319142832092005&mlon=-2.2024691983750926#map=13/51.319142832092005/-2.2024691983750926",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "10270548",
+   "status": "active",
+   "incorporated": "2016-07-11",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10270548"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 10,
+  "accreditations": [],
+  "services_notes": "Garden consultations, design/planting plans, landscaping, maintenance; studio at Glove Factory Studios",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://bathgardendesign.com/contact",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10270548",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "number",
@@ -1592,15 +2097,111 @@
   "county": "wiltshire"
  },
  {
+  "id": "tf_d391274c",
+  "name": "Conservation Fencing (Conservation Contractors)",
+  "legal_name": "CONSERVATION FENCING LIMITED",
+  "name_normalised": "conservation fencing conservation contractors",
+  "areas": [
+   "fencing_boundaries",
+   "trees_vegetation"
+  ],
+  "types": [
+   "fencing_contractor",
+   "tree_surgeon"
+  ],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Marston, Devizes",
+  "postcode": "SN10",
+  "lat": 51.336997413621326,
+  "lng": -1.9869120573089707,
+  "distance_miles": 43.0,
+  "serves_area_only": false,
+  "phone": "01380 726739",
+  "phone_e164": "+441380726739",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.conservation-contractors.co.uk/",
+  "domain": "conservation-contractors.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.336997413621326&mlon=-1.9869120573089707#map=13/51.336997413621326/-1.9869120573089707",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13722095",
+   "status": "active",
+   "incorporated": "2021-11-03",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13722095"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [],
+  "services_notes": "Domestic, agricultural, equestrian, commercial and high-security fencing (palisade, deer, newt/reptile); tree surgery & land management; mobile 07889 461358",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.conservation-contractors.co.uk/services/fencing-and-gates/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13722095",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
   "id": "tf_e1f8f635",
   "name": "DB Landscaping & Fencing",
   "legal_name": "DB LANDSCAPING & FENCING LTD",
   "name_normalised": "db landscaping fencing",
   "areas": [
    "landscaping",
-   "paving_patios",
    "fencing_boundaries",
-   "driveways"
+   "driveways",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -1651,7 +2252,6 @@
   "accreditations": [],
   "services_notes": "Paving, landscaping, fencing, driveways, turfing and garden design around Salisbury; site also lists a Dorchester (DT2) number 01305 896956",
   "badges": [
-   "top_pick",
    "ltd_company",
    "new_business"
   ],
@@ -1707,8 +2307,8 @@
   "name_normalised": "davis fencing",
   "areas": [
    "fencing_boundaries",
-   "groundworks",
-   "landscaping"
+   "landscaping",
+   "groundworks"
   ],
   "types": [
    "fencing_contractor",
@@ -1813,11 +2413,11 @@
   "name_normalised": "gaia landscapes",
   "areas": [
    "landscaping",
+   "fencing_boundaries",
    "lawns_grounds",
    "decking_structures",
-   "paving_patios",
-   "fencing_boundaries",
-   "water_drainage"
+   "water_drainage",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -2026,12 +2626,12 @@
   "name_normalised": "hand to earth landscapes",
   "areas": [
    "landscaping",
+   "fencing_boundaries",
    "lawns_grounds",
    "decking_structures",
-   "paving_patios",
    "driveways",
-   "fencing_boundaries",
-   "trees_vegetation"
+   "trees_vegetation",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -2241,9 +2841,9 @@
   "name_normalised": "jcm fencing",
   "areas": [
    "fencing_boundaries",
-   "paving_patios",
+   "landscaping",
    "driveways",
-   "landscaping"
+   "paving_patios"
   ],
   "types": [
    "fencing_contractor",
@@ -2342,17 +2942,207 @@
   "county": "wiltshire"
  },
  {
+  "id": "tf_f229fdbb",
+  "name": "JJO Fencing & Garden Services",
+  "legal_name": "JJO FENCING & GARDENING LTD",
+  "name_normalised": "jjo fencing garden",
+  "areas": [
+   "fencing_boundaries",
+   "lawns_grounds",
+   "decking_structures"
+  ],
+  "types": [
+   "fencing_contractor",
+   "garden_maintenance"
+  ],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Warminster",
+  "postcode": "BA12",
+  "lat": 51.171432995636955,
+  "lng": -2.1891428917975593,
+  "distance_miles": 32.7,
+  "serves_area_only": false,
+  "phone": "07932 390472",
+  "phone_e164": "+447932390472",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://jjoservices.co.uk/",
+  "domain": "jjoservices.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.171432995636955&mlon=-2.1891428917975593#map=13/51.171432995636955/-2.1891428917975593",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11098582",
+   "status": "active",
+   "incorporated": "2017-12-06",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11098582"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 9,
+  "accreditations": [],
+  "services_notes": "Family-run fencing, gates, pergolas and garden work; Warminster, Westbury, Trowbridge",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://jjoservices.co.uk/contact-us/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11098582",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
+  "id": "tf_ed59aa48",
+  "name": "Johnsons Arborist",
+  "legal_name": "JOHNSONS ARBORIST LTD",
+  "name_normalised": "johnsons arborist",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Seend, Melksham",
+  "postcode": "SN10",
+  "lat": 51.336997413621326,
+  "lng": -1.9869120573089707,
+  "distance_miles": 43.0,
+  "serves_area_only": false,
+  "phone": "07811 019410",
+  "phone_e164": "+447811019410",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.johnsonsarborist.co.uk/",
+  "domain": "johnsonsarborist.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.336997413621326&mlon=-1.9869120573089707#map=13/51.336997413621326/-1.9869120573089707",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14649319",
+   "status": "active",
+   "incorporated": "2023-02-08",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14649319"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 3,
+  "accreditations": [],
+  "services_notes": "Tree surgery, clearance, pruning, reduction, removal; 24/7 emergency callouts; Devizes & Melksham",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.johnsonsarborist.co.uk/contact",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14649319",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
   "id": "tf_28e773cc",
   "name": "KDC Paving and Landscapes",
   "legal_name": "KDC PAVING AND LANDSCAPES LIMITED",
   "name_normalised": "kdc paving landscapes",
   "areas": [
    "paving_patios",
+   "fencing_boundaries",
+   "landscaping",
    "lawns_grounds",
    "decking_structures",
-   "fencing_boundaries",
-   "driveways",
-   "landscaping"
+   "driveways"
   ],
   "types": [
    "patio_installer",
@@ -2438,6 +3228,301 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/11342253",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
+  "id": "tf_fd067f85",
+  "name": "LawnTender",
+  "legal_name": "LAWNTENDER LIMITED",
+  "name_normalised": "lawntender",
+  "areas": [
+   "lawns_grounds"
+  ],
+  "types": [
+   "lawn_care"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Stanton St Bernard, Marlborough",
+  "postcode": "SN8",
+  "lat": 51.40648252872334,
+  "lng": -1.685336471276595,
+  "distance_miles": 49.5,
+  "serves_area_only": false,
+  "phone": "01672 851581",
+  "phone_e164": "+441672851581",
+  "phone_type": "landline",
+  "email": null,
+  "website": "http://www.lawntender.co.uk/",
+  "domain": "lawntender.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.40648252872334&mlon=-1.685336471276595#map=13/51.40648252872334/-1.685336471276595",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "04975322",
+   "status": "active",
+   "incorporated": "2003-11-25",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04975322"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 23,
+  "accreditations": [],
+  "services_notes": "Scheduled lawn treatments, weed & moss control, scarification, aeration",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "http://www.lawntender.co.uk/contact/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/04975322",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
+  "id": "tf_ed44e4cf",
+  "name": "Morris Lawns",
+  "legal_name": "MORRIS LAWNS LTD",
+  "name_normalised": "morris lawns",
+  "areas": [
+   "lawns_grounds"
+  ],
+  "types": [
+   "lawn_care"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Chippenham",
+  "postcode": "SN15",
+  "lat": 51.47270012386031,
+  "lng": -2.081838025835863,
+  "distance_miles": 52.5,
+  "serves_area_only": false,
+  "phone": "01249 588552",
+  "phone_e164": "+441249588552",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.morrislawns.co.uk/",
+  "domain": "morrislawns.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.47270012386031&mlon=-2.081838025835863#map=13/51.47270012386031/-2.081838025835863",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "15298351",
+   "status": "active",
+   "incorporated": "2023-11-21",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/15298351"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 3,
+  "accreditations": [],
+  "services_notes": "Lawn treatment: feeding, weed & moss control, scarification, aeration, overseeding, renovation; Yell listing",
+  "badges": [
+   "top_pick",
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.morrislawns.co.uk/contact-3",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "yell",
+    "url": "https://www.yell.com/biz/morris-lawns-lawn-treatment-specialist-chippenham-10410533/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/15298351",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
+  "id": "tf_c4e57a89",
+  "name": "Nic Payne Gardens",
+  "legal_name": "NIC PAYNE GARDENS LIMITED",
+  "name_normalised": "nic payne gardens",
+  "areas": [
+   "landscaping",
+   "paving_patios",
+   "decking_structures"
+  ],
+  "types": [
+   "garden_designer",
+   "landscape_contractor"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "All Cannings, Devizes",
+  "postcode": "SN10",
+  "lat": 51.336997413621326,
+  "lng": -1.9869120573089707,
+  "distance_miles": 43.0,
+  "serves_area_only": false,
+  "phone": "01380 848524",
+  "phone_e164": "+441380848524",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.nicpaynegardens.co.uk/",
+  "domain": "nicpaynegardens.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.336997413621326&mlon=-1.9869120573089707#map=13/51.336997413621326/-1.9869120573089707",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13879462",
+   "status": "active",
+   "incorporated": "2022-01-28",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13879462"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Garden design, construction, hard & soft landscaping, paving, decking; mobile 07742 607323",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.nicpaynegardens.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13879462",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "number",
@@ -2637,6 +3722,106 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/13600794",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
+  "id": "tf_3b2580cc",
+  "name": "R&B Landscapes and Driveways",
+  "legal_name": "RB LANDSCAPES AND DRIVEWAYS LTD",
+  "name_normalised": "r b landscapes driveways",
+  "areas": [
+   "driveways",
+   "paving_patios",
+   "fencing_boundaries",
+   "landscaping",
+   "decking_structures"
+  ],
+  "types": [
+   "driveway_installer",
+   "landscape_gardener"
+  ],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Trowbridge",
+  "postcode": "BA14",
+  "lat": 51.319142832092005,
+  "lng": -2.2024691983750926,
+  "distance_miles": 42.8,
+  "serves_area_only": false,
+  "phone": "01225 267063",
+  "phone_e164": "+441225267063",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.rblandscapesanddriveways.com/",
+  "domain": "rblandscapesanddriveways.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.319142832092005&mlon=-2.2024691983750926#map=13/51.319142832092005/-2.2024691983750926",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "17500750",
+   "status": "active",
+   "incorporated": "2026-10-05",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/17500750"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 0,
+  "accreditations": [],
+  "services_notes": "Block paving, resin & tarmac driveways, patios, fencing, artificial grass, garden buildings; free written quotes",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "new_business"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.rblandscapesanddriveways.com/contact",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/17500750",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "number",
@@ -2967,6 +4152,99 @@
   "county": "wiltshire"
  },
  {
+  "id": "tf_32ac7d04",
+  "name": "Smith & Arbor",
+  "legal_name": "SMITH AND ARBOR LTD",
+  "name_normalised": "smith arbor",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Holt",
+  "postcode": "BA14",
+  "lat": 51.319142832092005,
+  "lng": -2.2024691983750926,
+  "distance_miles": 42.8,
+  "serves_area_only": false,
+  "phone": "01225 536635",
+  "phone_e164": "+441225536635",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.smithandarbor.co.uk/",
+  "domain": "smithandarbor.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.319142832092005&mlon=-2.2024691983750926#map=13/51.319142832092005/-2.2024691983750926",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12767218",
+   "status": "active",
+   "incorporated": "2020-07-24",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12767218"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Tree surgery, hedge maintenance, stump grinding, removal within ~20 miles of Holt/Bradford-on-Avon",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.smithandarbor.co.uk/contact-us",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12767218",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
   "id": "tf_91dc2a9b",
   "name": "Southern Tree Care",
   "legal_name": "SOUTHERN TREE CARE LIMITED",
@@ -3025,7 +4303,6 @@
   "accreditations": [],
   "services_notes": "Tree surgery & felling, hedge trimming, stump grinding, fencing, landscaping & firewood; Wiltshire, Hampshire & Dorset; mobile 07523 439248",
   "badges": [
-   "top_pick",
    "ltd_company"
   ],
   "score": 19,
@@ -3080,10 +4357,10 @@
   "name_normalised": "stonehenge fencing landscape",
   "areas": [
    "fencing_boundaries",
-   "paving_patios",
+   "landscaping",
    "driveways",
    "trees_vegetation",
-   "landscaping"
+   "paving_patios"
   ],
   "types": [
    "fencing_contractor",
@@ -3187,8 +4464,8 @@
   "name_normalised": "t g cruse groundworks",
   "areas": [
    "groundworks",
-   "water_drainage",
-   "landscaping"
+   "landscaping",
+   "water_drainage"
   ],
   "types": [
    "groundworks_contractor",
@@ -3273,6 +4550,104 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/05276670",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
+  "id": "tf_22e2c22c",
+  "name": "TW Landscapes",
+  "legal_name": "T W LANDSCAPES & FENCING LTD",
+  "name_normalised": "tw landscapes",
+  "areas": [
+   "landscaping",
+   "lawns_grounds",
+   "fencing_boundaries"
+  ],
+  "types": [
+   "landscape_contractor",
+   "grounds_maintenance"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Bowerhill, Melksham",
+  "postcode": "SN12",
+  "lat": 51.37195807411908,
+  "lng": -2.1361174690157974,
+  "distance_miles": 45.9,
+  "serves_area_only": false,
+  "phone": "01225 700585",
+  "phone_e164": "+441225700585",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://twlandscapes.com/",
+  "domain": "twlandscapes.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.37195807411908&mlon=-2.1361174690157974#map=13/51.37195807411908/-2.1361174690157974",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "07413467",
+   "status": "active",
+   "incorporated": "2010-10-20",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07413467"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 16,
+  "accreditations": [],
+  "services_notes": "Landscaping, grounds maintenance, turf, planting, fencing; Unit 10 Indus Acre",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.twlandscapes.com/contact.html",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07413467",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "number",
@@ -3496,11 +4871,11 @@
   "name_normalised": "tryhorn landscape construction",
   "areas": [
    "landscaping",
-   "decking_structures",
-   "paving_patios",
-   "driveways",
    "fencing_boundaries",
-   "water_drainage"
+   "driveways",
+   "decking_structures",
+   "water_drainage",
+   "paving_patios"
   ],
   "types": [
    "landscape_contractor",
@@ -3607,10 +4982,10 @@
   "name_normalised": "upton garden fencing",
   "areas": [
    "fencing_boundaries",
-   "decking_structures",
+   "landscaping",
    "lawns_grounds",
-   "trees_vegetation",
-   "landscaping"
+   "decking_structures",
+   "trees_vegetation"
   ],
   "types": [
    "fencing_contractor",
@@ -3799,6 +5174,326 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/06940174",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
+  "id": "tf_dbb66b89",
+  "name": "West Country Tree Services",
+  "legal_name": "WEST COUNTRY TREE SERVICES LTD",
+  "name_normalised": "west country tree",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Melksham",
+  "postcode": "SN12",
+  "lat": 51.37195807411908,
+  "lng": -2.1361174690157974,
+  "distance_miles": 45.9,
+  "serves_area_only": false,
+  "phone": "07759 205453",
+  "phone_e164": "+447759205453",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://westcountrytreeservices.co.uk/",
+  "domain": "westcountrytreeservices.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.37195807411908&mlon=-2.1361174690157974#map=13/51.37195807411908/-2.1361174690157974",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": null,
+   "reviews": null,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/westcountrytreeservicesltd",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09483516",
+   "status": "active",
+   "incorporated": "2015-03-11",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09483516"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 11,
+  "accreditations": [],
+  "services_notes": "Felling, pruning, stump removal, hedges, firewood across Wiltshire, Somerset, Bath; also 01225 345137; Checkatrade profile (score not read)",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://westcountrytreeservices.co.uk/contact-us/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/westcountrytreeservicesltd",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09483516",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
+  "id": "tf_027f1bb0",
+  "name": "Wilts & Hants Power Drives & Landscaping",
+  "legal_name": "WILTS AND HANTS POWER DRIVES AND LANDSCAPING LTD",
+  "name_normalised": "wilts hants power drives landscaping",
+  "areas": [
+   "landscaping",
+   "driveways",
+   "trees_vegetation",
+   "fencing_boundaries",
+   "lawns_grounds"
+  ],
+  "types": [
+   "landscape_gardener",
+   "driveway_installer"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Amesbury, Salisbury",
+  "postcode": "SP4",
+  "lat": 51.16602336495025,
+  "lng": -1.7659002014453467,
+  "distance_miles": 32.6,
+  "serves_area_only": false,
+  "phone": "07825 302515",
+  "phone_e164": "+447825302515",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://wiltsandhantspowerdrivesandlandscapingltd.co.uk/",
+  "domain": "wiltsandhantspowerdrivesandlandscapingltd.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.16602336495025&mlon=-1.7659002014453467#map=13/51.16602336495025/-1.7659002014453467",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "16463412",
+   "status": "active",
+   "incorporated": "2025-05-20",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/16463412"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 1,
+  "accreditations": [],
+  "services_notes": "Garden design & installation, maintenance, turfing, irrigation, hedges, tree care, fencing; also gutters/fascias; Wiltshire & Hampshire",
+  "badges": [
+   "ltd_company",
+   "new_business"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://wiltsandhantspowerdrivesandlandscapingltd.co.uk/contact/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/16463412",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
+  "id": "tf_bcb9a483",
+  "name": "Wiltshire Landscapes",
+  "legal_name": "WILTSHIRE LANDSCAPES LTD",
+  "name_normalised": "wiltshire landscapes",
+  "areas": [
+   "landscaping",
+   "paving_patios",
+   "decking_structures",
+   "fencing_boundaries",
+   "lawns_grounds"
+  ],
+  "types": [
+   "landscape_gardener"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Melksham",
+  "postcode": "SN12",
+  "lat": 51.37195807411908,
+  "lng": -2.1361174690157974,
+  "distance_miles": 45.9,
+  "serves_area_only": false,
+  "phone": "07766 307029",
+  "phone_e164": "+447766307029",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.wiltshirelandscapes.com/",
+  "domain": "wiltshirelandscapes.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.37195807411908&mlon=-2.1361174690157974#map=13/51.37195807411908/-2.1361174690157974",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": null,
+   "reviews": null,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/WiltshireLandscapes",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13368041",
+   "status": "active",
+   "incorporated": "2021-04-30",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13368041"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [],
+  "services_notes": "Garden design, clearances, patios, decking, artificial grass, turf, fencing, retaining walls, pergolas; Checkatrade profile (score not read)",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.wiltshirelandscapes.com/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/WiltshireLandscapes",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13368041",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "number",
@@ -4022,6 +5717,115 @@
   "county": "wiltshire"
  },
  {
+  "id": "tf_9076774b",
+  "name": "JW Tree Care",
+  "legal_name": "JW TREECARE LIMITED",
+  "name_normalised": "jw tree care",
+  "areas": [
+   "trees_vegetation",
+   "landscaping",
+   "exterior_cleaning"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Redlynch, Salisbury",
+  "postcode": "SP5",
+  "lat": 51.021477304725224,
+  "lng": -1.77068368756027,
+  "distance_miles": 23.2,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://www.jwtreecareandpowerwashing.co.uk/home",
+  "domain": "jwtreecareandpowerwashing.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.021477304725224&mlon=-1.77068368756027#map=13/51.021477304725224/-1.77068368756027",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": null,
+   "reviews": null,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/jwtreecarelandscaping",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "15189541",
+   "status": "active",
+   "incorporated": "2023-10-05",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/15189541"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 3,
+  "accreditations": [],
+  "services_notes": "Tree care, landscaping and power washing; Checkatrade profile as JW Treecare&Landscaping (score not read)",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 11,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 1
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.jwtreecareandpowerwashing.co.uk/home",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "website"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/jwtreecarelandscaping",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/15189541",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
   "id": "tf_6f81884e",
   "name": "Joe Savage Garden Design",
   "legal_name": "JOE SAVAGE GARDEN DESIGN LTD",
@@ -4123,6 +5927,692 @@
   "county": "wiltshire"
  },
  {
+  "id": "tf_7c27936f",
+  "name": "Winchester Fine Gardens",
+  "legal_name": "WINCHESTER FINE GARDENS LTD",
+  "name_normalised": "winchester fine gardens",
+  "areas": [
+   "landscaping"
+  ],
+  "types": [
+   "garden_designer"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Salisbury area",
+  "postcode": "SP5",
+  "lat": 51.021477304725224,
+  "lng": -1.77068368756027,
+  "distance_miles": 23.2,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://www.winchesterfinegardens.co.uk/",
+  "domain": "winchesterfinegardens.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.021477304725224&mlon=-1.77068368756027#map=13/51.021477304725224/-1.77068368756027",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14534938",
+   "status": "active",
+   "incorporated": "2022-12-12",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14534938"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Garden design consultancy: design, installation management, planting plans; Hampshire, Wiltshire, London; est. 2019",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 11,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 1
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.winchesterfinegardens.co.uk/contact",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "website"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14534938",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
+  "id": "tf_81a73927",
+  "name": "Armadillo Group (Armadillo Groundworks)",
+  "legal_name": "ARMADILLO GROUNDWORKS LTD",
+  "name_normalised": "armadillo group armadillo groundworks",
+  "areas": [
+   "groundworks",
+   "driveways",
+   "surfacing",
+   "water_drainage",
+   "landscaping"
+  ],
+  "types": [
+   "groundworker",
+   "driveway_installer"
+  ],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Melksham",
+  "postcode": "SN12",
+  "lat": 51.37195807411908,
+  "lng": -2.1361174690157974,
+  "distance_miles": 45.9,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://armadillo-group.co.uk/",
+  "domain": "armadillo-group.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.37195807411908&mlon=-2.1361174690157974#map=13/51.37195807411908/-2.1361174690157974",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13942328",
+   "status": "active",
+   "incorporated": "2022-02-25",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13942328"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Driveways, tarmac, gravel, concrete, drainage, foundations, underpinning, digger & driver hire; phone not in snippet",
+  "badges": [
+   "top_pick",
+   "ltd_company"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://armadillo-group.co.uk/our-services",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13942328",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
+  "id": "tf_4583bedb",
+  "name": "Beechwood Trees",
+  "legal_name": "BEECHWOOD TREE SURGEONS LIMITED",
+  "name_normalised": "beechwood trees",
+  "areas": [
+   "trees_vegetation",
+   "landscaping"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Trowbridge",
+  "postcode": "BA14",
+  "lat": 51.319142832092005,
+  "lng": -2.2024691983750926,
+  "distance_miles": 42.8,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://www.beechwoodtrees.co.uk/",
+  "domain": "beechwoodtrees.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.319142832092005&mlon=-2.2024691983750926#map=13/51.319142832092005/-2.2024691983750926",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09948928",
+   "status": "active",
+   "incorporated": "2016-01-13",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09948928"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 10,
+  "accreditations": [],
+  "services_notes": "Arboriculture, tree surgery and landscaping across Wiltshire & South West; phone not in snippet",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.beechwoodtrees.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09948928",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
+  "id": "tf_e9cf3b34",
+  "name": "Brad's Tree & Landscape Services",
+  "legal_name": "BRAD'S TREE & LANDSCAPE SERVICES LTD",
+  "name_normalised": "brad s tree landscape",
+  "areas": [
+   "trees_vegetation",
+   "landscaping",
+   "fencing_boundaries",
+   "driveways",
+   "paving_patios"
+  ],
+  "types": [
+   "tree_surgeon",
+   "landscape_gardener"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Salisbury",
+  "postcode": "SP1",
+  "lat": 51.07524526229505,
+  "lng": -1.7886729493293594,
+  "distance_miles": 26.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://bradstreeandlandscapeservices.co.uk/",
+  "domain": "bradstreeandlandscapeservices.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.07524526229505&mlon=-1.7886729493293594#map=13/51.07524526229505/-1.7886729493293594",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "17312999",
+   "status": "active",
+   "incorporated": "2026-07-01",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/17312999"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 0,
+  "accreditations": [],
+  "services_notes": "Tree work, clearance, fencing, lawns, driveways, patios, walls, power washing; Bark profile",
+  "badges": [
+   "ltd_company",
+   "new_business"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://bradstreeandlandscapeservices.co.uk/contact-us/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "website"
+    ]
+   },
+   {
+    "source": "directory",
+    "url": "https://www.bark.com/en/gb/company/brads-tree-and-landscape-services/ZXV1Q/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/17312999",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
+  "id": "tf_80f4320d",
+  "name": "C&C Landscaping (C&C Tree Services)",
+  "legal_name": "C&C LANDSCAPING LIMITED",
+  "name_normalised": "c c landscaping c c tree",
+  "areas": [
+   "trees_vegetation",
+   "landscaping"
+  ],
+  "types": [
+   "tree_surgeon",
+   "landscape_gardener"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Westbury",
+  "postcode": "BA13",
+  "lat": 51.262022431464175,
+  "lng": -2.182234102803737,
+  "distance_miles": 38.7,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://candctreeservices.co.uk/",
+  "domain": "candctreeservices.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.262022431464175&mlon=-2.182234102803737#map=13/51.262022431464175/-2.182234102803737",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "15071889",
+   "status": "active",
+   "incorporated": "2023-08-14",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/15071889"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 3,
+  "accreditations": [],
+  "services_notes": "Tree surgery, removal, hedge cutting, garden & hard landscaping, seeding; C&C Tree Services trades from the same address; Yell listing",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://candctreeservices.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "yell",
+    "url": "https://www.yell.com/biz/candc-tree-services-westbury-901739902/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/15071889",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
+  "id": "tf_97dfcb44",
+  "name": "Compass Garden & Landscape Design",
+  "legal_name": "COMPASS GARDEN AND LANDSCAPE DESIGN LIMITED",
+  "name_normalised": "compass garden landscape design",
+  "areas": [
+   "landscaping"
+  ],
+  "types": [
+   "garden_designer"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Bradford-on-Avon",
+  "postcode": "BA15",
+  "lat": 51.34832358510639,
+  "lng": -2.258127342553191,
+  "distance_miles": 45.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://www.compassgardendesign.co.uk/",
+  "domain": "compassgardendesign.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.34832358510639&mlon=-2.258127342553191#map=13/51.34832358510639/-2.258127342553191",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11355252",
+   "status": "active",
+   "incorporated": "2018-05-10",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11355252"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 8,
+  "accreditations": [],
+  "services_notes": "Award-winning garden design (Tom Murphy), hard landscaping, planting & soft landscaping; Bath, Bristol, Wiltshire",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.compassgardendesign.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11355252",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
+  "id": "tf_02d47d68",
+  "name": "EJC Groundworks",
+  "legal_name": "E J C GROUNDWORKS LTD",
+  "name_normalised": "ejc groundworks",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [
+   "groundworker",
+   "civil_engineering"
+  ],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Salisbury (works from Newbury area)",
+  "postcode": "SP1",
+  "lat": 51.07524526229505,
+  "lng": -1.7886729493293594,
+  "distance_miles": 26.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://www.ejcgroundworks.co.uk/",
+  "domain": "ejcgroundworks.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.07524526229505&mlon=-1.7886729493293594#map=13/51.07524526229505/-1.7886729493293594",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "06615712",
+   "status": "active",
+   "incorporated": "2008-06-10",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/06615712"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 18,
+  "accreditations": [],
+  "services_notes": "Groundworks & civils for residential, commercial, education and healthcare projects within ~80 miles of Newbury",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.ejcgroundworks.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/06615712",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
   "id": "tf_77bba285",
   "name": "Hayman Gardens",
   "legal_name": "HAYMAN GARDENS LIMITED",
@@ -4178,7 +6668,6 @@
   "accreditations": [],
   "services_notes": "Garden care & landscape services, Salisbury (own site shows two slightly different mobile numbers, so none recorded)",
   "badges": [
-   "top_pick",
    "ltd_company",
    "established"
   ],
@@ -4219,15 +6708,323 @@
   "county": "wiltshire"
  },
  {
+  "id": "tf_399e777a",
+  "name": "J.B Tree Services",
+  "legal_name": "J.B TREE SERVICES LTD",
+  "name_normalised": "j b tree",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Hilperton, Trowbridge",
+  "postcode": "BA14",
+  "lat": 51.319142832092005,
+  "lng": -2.2024691983750926,
+  "distance_miles": 42.8,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://www.jbtreeserviceswilts.co.uk/",
+  "domain": "jbtreeserviceswilts.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.319142832092005&mlon=-2.2024691983750926#map=13/51.319142832092005/-2.2024691983750926",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "16630858",
+   "status": "active",
+   "incorporated": "2025-08-05",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/16630858"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 1,
+  "accreditations": [],
+  "services_notes": "Felling, pruning, crown reduction, hedges, site clearance, woodland management; Bath & Wiltshire; registered waste carrier CBDL636010",
+  "badges": [
+   "ltd_company",
+   "new_business"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.jbtreeserviceswilts.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "environment_agency",
+    "url": "https://environment.data.gov.uk/public-register/waste-carriers-brokers/registration/CBDL636010",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "waste_carrier"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/16630858",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
+  "id": "tf_fb800b80",
+  "name": "JLF Brickwork & Driveways",
+  "legal_name": "JLF BRICKWORK AND DRIVEWAYS LIMITED",
+  "name_normalised": "jlf brickwork driveways",
+  "areas": [
+   "driveways",
+   "surfacing",
+   "water_drainage"
+  ],
+  "types": [
+   "driveway_installer",
+   "bricklayer"
+  ],
+  "primary_area": "driveways",
+  "address": null,
+  "town": "Bradford-on-Avon",
+  "postcode": "BA15",
+  "lat": 51.34832358510639,
+  "lng": -2.258127342553191,
+  "distance_miles": 45.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://jlfbrickworkanddriveways.co.uk/",
+  "domain": "jlfbrickworkanddriveways.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.34832358510639&mlon=-2.258127342553191#map=13/51.34832358510639/-2.258127342553191",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "16976068",
+   "status": "active",
+   "incorporated": "2026-01-20",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/16976068"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 0,
+  "accreditations": [],
+  "services_notes": "Brickwork, block paving, tarmac & resin driveways, soakaways; Rated People profile (rating not read)",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "new_business"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://jlfbrickworkanddriveways.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "ratedpeople",
+    "url": "https://www.ratedpeople.com/profile/jlf-brickwork",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/16976068",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
+  "id": "tf_e606f4d1",
+  "name": "Leeds Landscapes & Driveways",
+  "legal_name": "LEEDS LANDSCAPES LTD",
+  "name_normalised": "leeds landscapes driveways",
+  "areas": [
+   "landscaping",
+   "driveways",
+   "fencing_boundaries",
+   "decking_structures",
+   "lawns_grounds",
+   "exterior_cleaning"
+  ],
+  "types": [
+   "landscape_gardener",
+   "driveway_installer"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Salisbury",
+  "postcode": "SP1",
+  "lat": 51.07524526229505,
+  "lng": -1.7886729493293594,
+  "distance_miles": 26.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://leedslandscapes.co.uk/",
+  "domain": "leedslandscapes.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.07524526229505&mlon=-1.7886729493293594#map=13/51.07524526229505/-1.7886729493293594",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "04634323",
+   "status": "active",
+   "incorporated": "2003-01-13",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04634323"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 23,
+  "accreditations": [],
+  "services_notes": "Landscaping, lawns, fencing, decking, block driveways, drive/patio cleaning, hedges; phone not in snippet",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://leedslandscapes.co.uk/services/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/04634323",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
   "id": "tf_fd6b70ba",
   "name": "Perry Landscape Services",
   "legal_name": "PERRY LANDSCAPES LTD",
   "name_normalised": "perry landscape",
   "areas": [
    "landscaping",
-   "decking_structures",
+   "fencing_boundaries",
    "lawns_grounds",
-   "fencing_boundaries"
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -4310,6 +7107,103 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/11661245",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
+ },
+ {
+  "id": "tf_08038c00",
+  "name": "Willow Landscapes & Design",
+  "legal_name": "WILLOW LANDSCAPES & DESIGN LTD",
+  "name_normalised": "willow landscapes design",
+  "areas": [
+   "landscaping",
+   "paving_patios",
+   "driveways",
+   "fencing_boundaries"
+  ],
+  "types": [
+   "landscape_gardener",
+   "driveway_installer"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Easton Royal, Pewsey",
+  "postcode": "SN9",
+  "lat": 51.323797321981395,
+  "lng": -1.7883537368421052,
+  "distance_miles": 42.9,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://www.willowlandscapes.uk/",
+  "domain": "willowlandscapes.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.323797321981395&mlon=-1.7883537368421052#map=13/51.323797321981395/-1.7883537368421052",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "15240444",
+   "status": "active",
+   "incorporated": "2023-10-27",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/15240444"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 3,
+  "accreditations": [],
+  "services_notes": "Fence repairs through to patios, driveways and full garden redesigns; phone not in snippet",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.willowlandscapes.uk/contact-us/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "website"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/15240444",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "number",
@@ -4763,99 +7657,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/05695060",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_a7667b33",
-  "name": "JW Treecare",
-  "legal_name": "JW TREECARE LIMITED",
-  "name_normalised": "jw treecare",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Wiltshire",
-  "postcode": "SP5",
-  "lat": 50.989,
-  "lng": -1.72,
-  "distance_miles": 22.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "15189541",
-   "status": "active",
-   "incorporated": "2023-10-05",
-   "dissolved": null,
-   "sic": [
-    "41202",
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/15189541"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 3,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 41202, 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 5,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 2
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/15189541",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -5421,22 +8222,25 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_a32c86fb",
+  "id": "tf_bca10a86",
   "name": "T.K Building & Landscaping",
   "legal_name": "T.K BUILDING & LANDSCAPING LTD",
   "name_normalised": "t k building landscaping",
   "areas": [
    "landscaping",
-   "lawns_grounds"
+   "groundworks"
   ],
-  "types": [],
+  "types": [
+   "builder",
+   "landscape_contractor"
+  ],
   "primary_area": "landscaping",
   "address": null,
-  "town": "Salisbury",
+  "town": "Redlynch, Salisbury",
   "postcode": "SP5",
-  "lat": 50.989,
-  "lng": -1.746,
-  "distance_miles": 21.6,
+  "lat": 51.021477304725224,
+  "lng": -1.77068368756027,
+  "distance_miles": 23.2,
   "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
@@ -5451,9 +8255,15 @@
   },
   "google_rating": null,
   "google_reviews": null,
-  "google_maps_url": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.021477304725224&mlon=-1.77068368756027#map=13/51.021477304725224/-1.77068368756027",
   "last_review_date": null,
-  "checkatrade": null,
+  "checkatrade": {
+   "score": null,
+   "reviews": null,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/tkbuildinglandscapingltd",
+   "unvetted": false
+  },
   "trustatrader": null,
   "mybuilder": null,
   "ratedpeople": null,
@@ -5462,21 +8272,20 @@
    "number": "15709150",
    "status": "active",
    "incorporated": "2024-05-08",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
+   "sic": [],
    "url": "https://find-and-update.company-information.service.gov.uk/company/15709150"
   },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
   "business_form": "ltd",
   "size_band": "unknown",
   "years_trading": 2,
   "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
+  "services_notes": "Building, groundwork and landscaping incl. garden studios and garden transformations; Checkatrade profile (score not read)",
   "badges": [
    "ltd_company",
-   "no_website",
-   "needs_check"
+   "no_website"
   ],
   "score": 5,
   "score_breakdown": {
@@ -5484,32 +8293,36 @@
    "reviews": 0,
    "vetted": 4,
    "contact": 0,
-   "distance": 2
+   "distance": 1
   },
-  "confidence": 0.5,
+  "confidence": 0.7,
   "merge_review": false,
   "sources": [
    {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/tkbuildinglandscapingltd",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing",
+     "services"
+    ]
+   },
+   {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/15709150",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
-     "name",
+     "number",
      "status",
-     "incorporated",
-     "sic",
-     "district"
+     "incorporated"
     ]
    }
   ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
+  "county": "wiltshire"
  },
  {
   "id": "tf_574cfe3e",
@@ -6147,6 +8960,102 @@
   "ch_only": true,
   "out_of_scope": false,
   "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_9d8d89f6",
+  "name": "GWC Fencing & Groundworks",
+  "legal_name": "GWC FENCING & GROUNDWORKS LTD",
+  "name_normalised": "gwc fencing groundworks",
+  "areas": [
+   "fencing_boundaries",
+   "groundworks"
+  ],
+  "types": [
+   "fencing_contractor",
+   "groundworker"
+  ],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Market Lavington, Devizes",
+  "postcode": "SN10",
+  "lat": 51.336997413621326,
+  "lng": -1.9869120573089707,
+  "distance_miles": 43.0,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.336997413621326&mlon=-1.9869120573089707#map=13/51.336997413621326/-1.9869120573089707",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13989263",
+   "status": "active",
+   "incorporated": "2022-03-19",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13989263"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Fencing and groundworks; Yell listing (phone not in snippet)",
+  "badges": [
+   "ltd_company",
+   "no_website"
+  ],
+  "score": 4,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "yell",
+    "url": "https://www.yell.com/biz/gwc-fencing-and-groundwork-s-ltd-devizes-10993869/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13989263",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "wiltshire"
  },
  {
   "id": "tf_71992433",
@@ -13381,97 +16290,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_2cc2f8b1",
-  "name": "Anthony Dear Landscapes",
-  "legal_name": "ANTHONY DEAR LANDSCAPES LTD",
-  "name_normalised": "anthony dear landscapes",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Melksham",
-  "postcode": "SN12",
-  "lat": 51.374,
-  "lng": -2.123,
-  "distance_miles": 45.9,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13518301",
-   "status": "active",
-   "incorporated": "2021-07-19",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13518301"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 5,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13518301",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_a8efec5e",
   "name": "Anu Services",
   "legal_name": "ANU SERVICES LIMITED",
@@ -14550,98 +17368,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/07534545",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_3315691a",
-  "name": "Armadillo Groundworks",
-  "legal_name": "ARMADILLO GROUNDWORKS LTD",
-  "name_normalised": "armadillo groundworks",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Melksham",
-  "postcode": "SN12",
-  "lat": 51.382,
-  "lng": -2.127,
-  "distance_miles": 46.5,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13942328",
-   "status": "active",
-   "incorporated": "2022-02-25",
-   "dissolved": null,
-   "sic": [
-    "41202",
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13942328"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 4,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 41202, 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13942328",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -16294,97 +19020,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16195030",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_65f6862f",
-  "name": "Axford Landscapes",
-  "legal_name": "AXFORD LANDSCAPES LIMITED",
-  "name_normalised": "axford landscapes",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Wiltshire",
-  "postcode": "BA15",
-  "lat": 51.356,
-  "lng": -2.252,
-  "distance_miles": 45.7,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "12015818",
-   "status": "active",
-   "incorporated": "2019-05-24",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/12015818"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 7,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/12015818",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -19609,98 +22244,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_3d08d74d",
-  "name": "Bath Garden Design",
-  "legal_name": "BATH GARDEN DESIGN LTD",
-  "name_normalised": "bath garden design",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Trowbridge",
-  "postcode": "BA14",
-  "lat": 51.357,
-  "lng": -2.202,
-  "distance_miles": 45.3,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "10270548",
-   "status": "active",
-   "incorporated": "2016-07-11",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/10270548"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 10,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/10270548",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_b16bf016",
   "name": "Bath Historical Buildings Trust",
   "legal_name": "BATH HISTORICAL BUILDINGS TRUST",
@@ -20593,99 +23136,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/06287577",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_3505e938",
-  "name": "Beechwood Tree Surgeons",
-  "legal_name": "BEECHWOOD TREE SURGEONS LIMITED",
-  "name_normalised": "beechwood tree surgeons",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Wiltshire",
-  "postcode": "BA14",
-  "lat": 51.32,
-  "lng": -2.215,
-  "distance_miles": 43.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "09948928",
-   "status": "active",
-   "incorporated": "2016-01-13",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/09948928"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 10,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/09948928",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -23053,99 +25503,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/04216679",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_a968e406",
-  "name": "Brad’S Tree & Landscape Services",
-  "legal_name": "BRAD’S TREE & LANDSCAPE SERVICES LTD",
-  "name_normalised": "brad s tree landscape",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Salisbury",
-  "postcode": "SP1",
-  "lat": 51.064,
-  "lng": -1.777,
-  "distance_miles": 25.8,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "17312999",
-   "status": "active",
-   "incorporated": "2026-07-01",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/17312999"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 0,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "new_business"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/17312999",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -26889,97 +29246,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17063459",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_e68f6302",
-  "name": "C&C Landscaping",
-  "legal_name": "C&C LANDSCAPING LIMITED",
-  "name_normalised": "c c landscaping",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Westbury",
-  "postcode": "BA13",
-  "lat": 51.252,
-  "lng": -2.184,
-  "distance_miles": 38.1,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "15071889",
-   "status": "active",
-   "incorporated": "2023-08-14",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/15071889"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 3,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/15071889",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -31580,97 +33846,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_6d9ca8f5",
-  "name": "Compass Garden And Landscape Design",
-  "legal_name": "COMPASS GARDEN AND LANDSCAPE DESIGN LIMITED",
-  "name_normalised": "compass garden landscape design",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Wiltshire",
-  "postcode": "BA15",
-  "lat": 51.345,
-  "lng": -2.251,
-  "distance_miles": 45.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "11355252",
-   "status": "active",
-   "incorporated": "2018-05-10",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/11355252"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 8,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/11355252",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_4792ed29",
   "name": "Complete Fencing Solutions",
   "legal_name": "COMPLETE FENCING SOLUTIONS LTD",
@@ -32113,98 +34288,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/07490679",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_838f1cbe",
-  "name": "Conservation Fencing",
-  "legal_name": "CONSERVATION FENCING LIMITED",
-  "name_normalised": "conservation fencing",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "fencing_boundaries"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Wiltshire",
-  "postcode": "SN10",
-  "lat": 51.311,
-  "lng": -2.047,
-  "distance_miles": 41.3,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13722095",
-   "status": "active",
-   "incorporated": "2021-11-03",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13722095"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 5,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13722095",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -41719,97 +43802,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_2f838da9",
-  "name": "E J C Groundworks",
-  "legal_name": "E J C GROUNDWORKS LTD",
-  "name_normalised": "e j c groundworks",
-  "areas": [
-   "groundworks"
-  ],
-  "types": [],
-  "primary_area": "groundworks",
-  "address": null,
-  "town": "Salisbury",
-  "postcode": "SP1",
-  "lat": 51.062,
-  "lng": -1.778,
-  "distance_miles": 25.6,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "06615712",
-   "status": "active",
-   "incorporated": "2008-06-10",
-   "dissolved": null,
-   "sic": [
-    "42990"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/06615712"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 18,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 42990",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/06615712",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_9a7f0b02",
   "name": "E S Professional Window Cleaning",
   "legal_name": "E S PROFESSIONAL WINDOW CLEANING LTD",
@@ -42521,97 +44513,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/04149929",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_593ba0ad",
-  "name": "Easton Landscapes",
-  "legal_name": "EASTON LANDSCAPES LIMITED",
-  "name_normalised": "easton landscapes",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Wiltshire",
-  "postcode": "SP11",
-  "lat": 51.255,
-  "lng": -1.628,
-  "distance_miles": 40.4,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "14231431",
-   "status": "active",
-   "incorporated": "2022-07-13",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/14231431"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 4,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/14231431",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -50285,96 +52186,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16732986",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_bbab3de3",
-  "name": "GWC Fencing & Groundworks",
-  "legal_name": "GWC FENCING & GROUNDWORKS LTD",
-  "name_normalised": "gwc fencing groundworks",
-  "areas": [
-   "fencing_boundaries"
-  ],
-  "types": [],
-  "primary_area": "fencing_boundaries",
-  "address": null,
-  "town": "Wiltshire",
-  "postcode": "SN10",
-  "lat": 51.286,
-  "lng": -1.987,
-  "distance_miles": 39.5,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13989263",
-   "status": "active",
-   "incorporated": "2022-03-19",
-   "dissolved": null,
-   "sic": [
-    "43999"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13989263"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 4,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13989263",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -64106,99 +65917,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_d46dd160",
-  "name": "J.B Tree Services",
-  "legal_name": "J.B TREE SERVICES LTD",
-  "name_normalised": "j b tree",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Trowbridge",
-  "postcode": "BA14",
-  "lat": 51.324,
-  "lng": -2.19,
-  "distance_miles": 43.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "16630858",
-   "status": "active",
-   "incorporated": "2025-08-05",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/16630858"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 1,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "new_business"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/16630858",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_1424b3c1",
   "name": "J.C.E Precast Flooring",
   "legal_name": "J.C.E PRECAST FLOORING LTD",
@@ -67273,97 +68991,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_057ba8b0",
-  "name": "JLF Brickwork And Driveways",
-  "legal_name": "JLF BRICKWORK AND DRIVEWAYS LIMITED",
-  "name_normalised": "jlf brickwork driveways",
-  "areas": [
-   "driveways"
-  ],
-  "types": [],
-  "primary_area": "driveways",
-  "address": null,
-  "town": "Wiltshire",
-  "postcode": "BA15",
-  "lat": 51.345,
-  "lng": -2.251,
-  "distance_miles": 45.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "16976068",
-   "status": "active",
-   "incorporated": "2026-01-20",
-   "dissolved": null,
-   "sic": [
-    "43999"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/16976068"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 0,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "new_business"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/16976068",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_9faf5b2a",
   "name": "JM Cleaning Services",
   "legal_name": "JM CLEANING SERVICES LTD",
@@ -69198,98 +70825,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_9e13444e",
-  "name": "Jjo Fencing & Gardening",
-  "legal_name": "JJO FENCING & GARDENING LTD",
-  "name_normalised": "jjo fencing gardening",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "fencing_boundaries"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Warminster",
-  "postcode": "BA12",
-  "lat": 51.204,
-  "lng": -2.204,
-  "distance_miles": 35.1,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "11098582",
-   "status": "active",
-   "incorporated": "2017-12-06",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/11098582"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 9,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/11098582",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_7c51ffc3",
   "name": "Jma Groundworks",
   "legal_name": "JMA GROUNDWORKS LIMITED",
@@ -69908,96 +71443,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/14985925",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_db02fcd3",
-  "name": "Johnsons Arborist",
-  "legal_name": "JOHNSONS ARBORIST LTD",
-  "name_normalised": "johnsons arborist",
-  "areas": [
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "trees_vegetation",
-  "address": null,
-  "town": "Devizes",
-  "postcode": "SN10",
-  "lat": 51.322,
-  "lng": -1.873,
-  "distance_miles": 42.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "14649319",
-   "status": "active",
-   "incorporated": "2023-02-08",
-   "dissolved": null,
-   "sic": [
-    "02100"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/14649319"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 3,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 02100",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/14649319",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -74585,97 +76030,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_d1ebacae",
-  "name": "LG Landscapes",
-  "legal_name": "LG LANDSCAPES LIMITED",
-  "name_normalised": "lg landscapes",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Wiltshire",
-  "postcode": "BA14",
-  "lat": 51.336,
-  "lng": -2.197,
-  "distance_miles": 43.9,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "11893872",
-   "status": "active",
-   "incorporated": "2019-03-20",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/11893872"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 7,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/11893872",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_bb3e2db7",
   "name": "LH Controls",
   "legal_name": "LH CONTROLS LTD",
@@ -76473,98 +77827,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/08554880",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_2e26ee76",
-  "name": "Lawntender",
-  "legal_name": "LAWNTENDER LIMITED",
-  "name_normalised": "lawntender",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Marlborough",
-  "postcode": "SN8",
-  "lat": 51.362,
-  "lng": -1.868,
-  "distance_miles": 45.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "04975322",
-   "status": "active",
-   "incorporated": "2003-11-25",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/04975322"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 23,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/04975322",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -88369,97 +89631,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_30df3786",
-  "name": "Morris Lawns",
-  "legal_name": "MORRIS LAWNS LIMITED",
-  "name_normalised": "morris lawns",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Chippenham",
-  "postcode": "SN15",
-  "lat": 51.386,
-  "lng": -2.054,
-  "distance_miles": 46.4,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "15298351",
-   "status": "active",
-   "incorporated": "2023-11-21",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/15298351"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 3,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/15298351",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_19310c2c",
   "name": "Mortarculture",
   "legal_name": "MORTARCULTURE LTD",
@@ -92380,97 +93551,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/13976055",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_6b8a640d",
-  "name": "Nic Payne Gardens",
-  "legal_name": "NIC PAYNE GARDENS LIMITED",
-  "name_normalised": "nic payne gardens",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Devizes",
-  "postcode": "SN10",
-  "lat": 51.341,
-  "lng": -1.89,
-  "distance_miles": 43.4,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13879462",
-   "status": "active",
-   "incorporated": "2022-01-28",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13879462"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 4,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13879462",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -105380,99 +106460,6 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_f3313488",
-  "name": "RB Landscapes And Driveways",
-  "legal_name": "RB LANDSCAPES AND DRIVEWAYS LTD",
-  "name_normalised": "rb landscapes driveways",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "driveways"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Trowbridge",
-  "postcode": "BA14",
-  "lat": 51.314,
-  "lng": -2.221,
-  "distance_miles": 42.6,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "17500750",
-   "status": "active",
-   "incorporated": "2026-10-05",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/17500750"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 0,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "new_business"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/17500750",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "wiltshire",
@@ -118657,98 +119644,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_378262ca",
-  "name": "Smith And Arbor",
-  "legal_name": "SMITH AND ARBOR LTD",
-  "name_normalised": "smith arbor",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Wiltshire",
-  "postcode": "BA14",
-  "lat": 51.359,
-  "lng": -2.196,
-  "distance_miles": 45.4,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "12767218",
-   "status": "active",
-   "incorporated": "2020-07-24",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/12767218"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 6,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/12767218",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_4fb9a789",
   "name": "Sofra Plant",
   "legal_name": "SOFRA PLANT LIMITED",
@@ -124402,99 +125297,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16772669",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_4761c8dc",
-  "name": "T W Landscapes & Fencing",
-  "legal_name": "T W LANDSCAPES & FENCING LTD",
-  "name_normalised": "t w landscapes fencing",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "fencing_boundaries"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Devizes",
-  "postcode": "SN10",
-  "lat": 51.353,
-  "lng": -1.997,
-  "distance_miles": 44.1,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "07413467",
-   "status": "active",
-   "incorporated": "2010-10-20",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/07413467"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 16,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/07413467",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -133593,98 +134395,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_e08a2370",
-  "name": "Twentyeight Trees",
-  "legal_name": "TWENTYEIGHT TREES LTD",
-  "name_normalised": "twentyeight trees",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Trowbridge",
-  "postcode": "BA14",
-  "lat": 51.337,
-  "lng": -2.19,
-  "distance_miles": 43.9,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13357235",
-   "status": "active",
-   "incorporated": "2021-04-26",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13357235"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 5,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13357235",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_38c02f0e",
   "name": "Uk Groundwork Contractors",
   "legal_name": "UK GROUNDWORK CONTRACTORS LIMITED",
@@ -137439,99 +138149,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_6227af09",
-  "name": "West Country Tree Services",
-  "legal_name": "WEST COUNTRY TREE SERVICES LIMITED",
-  "name_normalised": "west country tree",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Wiltshire",
-  "postcode": "SN12",
-  "lat": 51.387,
-  "lng": -2.113,
-  "distance_miles": 46.7,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "09483516",
-   "status": "active",
-   "incorporated": "2015-03-11",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/09483516"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 11,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/09483516",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_6e513103",
   "name": "Westbury Kitchens",
   "legal_name": "WESTBURY KITCHENS LTD",
@@ -138999,97 +139616,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_545faa64",
-  "name": "Willow Landscapes & Design",
-  "legal_name": "WILLOW LANDSCAPES & DESIGN LTD",
-  "name_normalised": "willow landscapes design",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Pewsey",
-  "postcode": "SN9",
-  "lat": 51.349,
-  "lng": -1.7,
-  "distance_miles": 45.5,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "15240444",
-   "status": "active",
-   "incorporated": "2023-10-27",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/15240444"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 3,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/15240444",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_4a5b3b59",
   "name": "Wills Brickwork",
   "legal_name": "WILLS BRICKWORK LIMITED",
@@ -139251,101 +139777,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/03380129",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_29f04aac",
-  "name": "Wilts And Hants Power Drives And Landscaping",
-  "legal_name": "WILTS AND HANTS POWER DRIVES AND LANDSCAPING LTD",
-  "name_normalised": "wilts hants power drives landscaping",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "driveways"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Salisbury",
-  "postcode": "SP4",
-  "lat": 51.179,
-  "lng": -1.754,
-  "distance_miles": 33.6,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "16463412",
-   "status": "active",
-   "incorporated": "2025-05-20",
-   "dissolved": null,
-   "sic": [
-    "41202",
-    "43910",
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/16463412"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 1,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 41202, 43910, 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "new_business"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/16463412",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -139805,97 +140236,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/08279953",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_50fec4cb",
-  "name": "Wiltshire Landscapes",
-  "legal_name": "WILTSHIRE LANDSCAPES LTD",
-  "name_normalised": "wiltshire landscapes",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Melksham",
-  "postcode": "SN12",
-  "lat": 51.375,
-  "lng": -2.115,
-  "distance_miles": 45.9,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13368041",
-   "status": "active",
-   "incorporated": "2021-04-30",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13368041"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 5,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13368041",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -140804,97 +141144,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/15515505",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "wiltshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_a529330c",
-  "name": "Winchester Fine Gardens",
-  "legal_name": "WINCHESTER FINE GARDENS LTD",
-  "name_normalised": "winchester fine gardens",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Salisbury",
-  "postcode": "SP5",
-  "lat": 51.035,
-  "lng": -1.661,
-  "distance_miles": 26.3,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "14534938",
-   "status": "active",
-   "incorporated": "2022-12-12",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/14534938"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 4,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/14534938",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
