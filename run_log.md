@@ -75,3 +75,5 @@
 - 18:56 BST: Issue 02: +56 enriched Wiltshire/Somerset firms
 
 - 19:10 BST: Issue 02: +63 enriched firms (Somerset, Berkshire, Bristol)
+
+- 19:24 BST: Issue 02: +42 enriched Berkshire/Bristol firms
