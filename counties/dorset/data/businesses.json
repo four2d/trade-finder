@@ -467,8 +467,8 @@
   "areas": [
    "landscaping",
    "groundworks",
-   "paving_patios",
-   "driveways"
+   "driveways",
+   "paving_patios"
   ],
   "types": [
    "hard_landscaping",
@@ -785,9 +785,9 @@
   "areas": [
    "trees_vegetation",
    "lawns_grounds",
-   "landscaping",
+   "fencing_boundaries",
    "paving_patios",
-   "fencing_boundaries"
+   "landscaping"
   ],
   "types": [
    "tree_surgeon",
@@ -895,9 +895,9 @@
   "name_normalised": "agr fencing landscaping",
   "areas": [
    "driveways",
-   "landscaping",
+   "fencing_boundaries",
    "paving_patios",
-   "fencing_boundaries"
+   "landscaping"
   ],
   "types": [
    "concrete_driveway",
@@ -1594,7 +1594,7 @@
  {
   "id": "tf_3b4abc75",
   "name": "Mason & Turner",
-  "legal_name": "MASON & TURNER LTD",
+  "legal_name": null,
   "name_normalised": "mason turner",
   "areas": [
    "landscaping"
@@ -1636,31 +1636,22 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": {
-   "number": "05567535",
-   "status": "active",
-   "incorporated": "2005-09-19",
-   "sic": [
-    "43999"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/05567535"
-  },
+  "companies_house": null,
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "ltd",
+  "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Landscaping & construction (Ltd), Bournemouth. Matched by name + district to MASON & TURNER LTD (check)",
+  "services_notes": "Landscaping & construction (Ltd), Bournemouth",
   "badges": [
    "top_pick",
    "highly_rated",
    "vetted",
    "no_website",
    "nearby",
-   "needs_check",
-   "ltd_company"
+   "needs_check"
   ],
   "score": 59,
   "score_breakdown": {
@@ -1670,8 +1661,8 @@
    "contact": 0,
    "distance": 12
   },
-  "confidence": 0.5,
-  "merge_review": true,
+  "confidence": 0.3,
+  "merge_review": false,
   "sources": [
    {
     "source": "checkatrade",
@@ -1681,15 +1672,6 @@
      "score",
      "reviews",
      "base"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/05567535",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
     ]
    }
   ],
@@ -1890,7 +1872,7 @@
  {
   "id": "tf_c5caf9ee",
   "name": "J.M. Tree and Garden Services",
-  "legal_name": "J.M TREE AND GARDEN SERVICES LIMITED",
+  "legal_name": null,
   "name_normalised": "j m tree garden",
   "areas": [
    "trees_vegetation",
@@ -1935,30 +1917,21 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": {
-   "number": "14052366",
-   "status": "active",
-   "incorporated": "2022-04-19",
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/14052366"
-  },
+  "companies_house": null,
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "ltd",
+  "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Tree surgery, pruning & garden maintenance, Wimborne. Matched by name + district to J.M TREE AND GARDEN SERVICES LIMITED (check)",
+  "services_notes": "Tree surgery, pruning & garden maintenance, Wimborne",
   "badges": [
    "top_pick",
    "highly_rated",
    "vetted",
    "no_website",
-   "needs_check",
-   "ltd_company"
+   "needs_check"
   ],
   "score": 58,
   "score_breakdown": {
@@ -1968,8 +1941,8 @@
    "contact": 0,
    "distance": 11
   },
-  "confidence": 0.5,
-  "merge_review": true,
+  "confidence": 0.3,
+  "merge_review": false,
   "sources": [
    {
     "source": "checkatrade",
@@ -1980,15 +1953,6 @@
      "reviews",
      "base",
      "last_review"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/14052366",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
     ]
    }
   ],
@@ -2001,7 +1965,7 @@
  {
   "id": "tf_2c111fd2",
   "name": "Shawn Oak Landscapes",
-  "legal_name": "SHAWN OAK LANDSCAPES LTD",
+  "legal_name": null,
   "name_normalised": "shawn oak landscapes",
   "areas": [
    "landscaping"
@@ -2043,31 +2007,22 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": {
-   "number": "08823929",
-   "status": "active",
-   "incorporated": "2013-12-23",
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/08823929"
-  },
+  "companies_house": null,
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "ltd",
+  "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Landscaper (Ltd), Bournemouth. Matched by name + district to SHAWN OAK LANDSCAPES LTD (check)",
+  "services_notes": "Landscaper (Ltd), Bournemouth",
   "badges": [
    "top_pick",
    "highly_rated",
    "vetted",
    "no_website",
    "nearby",
-   "needs_check",
-   "ltd_company"
+   "needs_check"
   ],
   "score": 58,
   "score_breakdown": {
@@ -2077,8 +2032,8 @@
    "contact": 0,
    "distance": 12
   },
-  "confidence": 0.5,
-  "merge_review": true,
+  "confidence": 0.3,
+  "merge_review": false,
   "sources": [
    {
     "source": "checkatrade",
@@ -2088,15 +2043,6 @@
      "score",
      "reviews",
      "base"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/08823929",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
     ]
    }
   ],
@@ -2379,7 +2325,7 @@
  {
   "id": "tf_b4df2508",
   "name": "Newlook Driveways",
-  "legal_name": null,
+  "legal_name": "NEWLOOK LANDSCAPING & DRIVEWAYS LTD",
   "name_normalised": "newlook driveways",
   "areas": [
    "driveways"
@@ -2426,21 +2372,30 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": null,
+  "companies_house": {
+   "number": "09160761",
+   "status": "active",
+   "incorporated": "2014-08-05",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09160761"
+  },
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "unknown",
+  "business_form": "ltd",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Family firm, 25+ yrs; block, resin, tarmac; cleaning & sealing",
+  "services_notes": "Family firm, 25+ yrs; block, resin, tarmac; cleaning & sealing. Matched by name + district to NEWLOOK LANDSCAPING & DRIVEWAYS LTD (check)",
   "badges": [
    "highly_rated",
    "vetted",
    "busy",
    "no_website",
-   "needs_check"
+   "needs_check",
+   "ltd_company"
   ],
   "score": 56,
   "score_breakdown": {
@@ -2450,8 +2405,8 @@
    "contact": 0,
    "distance": 10
   },
-  "confidence": 0.3,
-  "merge_review": false,
+  "confidence": 0.5,
+  "merge_review": true,
   "sources": [
    {
     "source": "checkatrade",
@@ -2462,6 +2417,15 @@
      "reviews",
      "services",
      "last_review"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09160761",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status"
     ]
    }
   ],
@@ -3912,7 +3876,7 @@
  {
   "id": "tf_dc178db2",
   "name": "DS Elite",
-  "legal_name": "DS ELITE LTD",
+  "legal_name": null,
   "name_normalised": "ds elite",
   "areas": [
    "landscaping",
@@ -3954,33 +3918,23 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": {
-   "number": "15108297",
-   "status": "active",
-   "incorporated": "2023-08-31",
-   "sic": [
-    "41100",
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/15108297"
-  },
+  "companies_house": null,
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "ltd",
+  "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [
    "NPTC",
    "City & Guilds"
   ],
-  "services_notes": "Landscape gardeners (Ltd); TrustATrader vetted; NPTC / City & Guilds. Matched by name + district to DS ELITE LTD (check)",
+  "services_notes": "Landscape gardeners (Ltd); TrustATrader vetted; NPTC / City & Guilds",
   "badges": [
    "highly_rated",
    "vetted",
    "no_website",
-   "needs_check",
-   "ltd_company"
+   "needs_check"
   ],
   "score": 46,
   "score_breakdown": {
@@ -3990,8 +3944,8 @@
    "contact": 0,
    "distance": 9
   },
-  "confidence": 0.5,
-  "merge_review": true,
+  "confidence": 0.3,
+  "merge_review": false,
   "sources": [
    {
     "source": "trustatrader",
@@ -4002,15 +3956,6 @@
      "reviews",
      "base",
      "accreditations"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/15108297",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
     ]
    }
   ],
@@ -4298,7 +4243,7 @@
  {
   "id": "tf_455c8f87",
   "name": "Pinnacle Landscaping and Groundworks",
-  "legal_name": "PINNACLE LANDSCAPING AND GROUNDWORKS LIMITED",
+  "legal_name": null,
   "name_normalised": "pinnacle landscaping groundworks",
   "areas": [
    "landscaping",
@@ -4342,30 +4287,21 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": {
-   "number": "16428066",
-   "status": "active",
-   "incorporated": "2025-05-03",
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/16428066"
-  },
+  "companies_house": null,
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": true,
-  "business_form": "ltd",
+  "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Landscaping & groundworks (seen on Checkatrade Poole list). Matched by name + district to PINNACLE LANDSCAPING AND GROUNDWORKS LIMITED (check)",
+  "services_notes": "Landscaping & groundworks (seen on Checkatrade Poole list)",
   "badges": [
    "highly_rated",
    "vetted",
    "no_website",
    "nearby",
-   "needs_check",
-   "ltd_company"
+   "needs_check"
   ],
   "score": 45,
   "score_breakdown": {
@@ -4375,7 +4311,7 @@
    "contact": 0,
    "distance": 0
   },
-  "confidence": 0.5,
+  "confidence": 0.3,
   "merge_review": true,
   "sources": [
    {
@@ -4385,15 +4321,6 @@
     "fields": [
      "score",
      "reviews"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/16428066",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
     ]
    }
   ],
@@ -4849,7 +4776,7 @@
  {
   "id": "tf_5fb299e9",
   "name": "Hampshire & Dorset Landscapes",
-  "legal_name": "HAMPSHIRE & DORSET LANDSCAPES LTD",
+  "legal_name": null,
   "name_normalised": "hampshire dorset landscapes",
   "areas": [
    "landscaping"
@@ -4891,30 +4818,21 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": {
-   "number": "14886704",
-   "status": "active",
-   "incorporated": "2023-05-22",
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/14886704"
-  },
+  "companies_house": null,
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": true,
-  "business_form": "ltd",
+  "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Landscaper (Ltd) (seen on Checkatrade Poole list). Matched by name + district to HAMPSHIRE & DORSET LANDSCAPES LTD (check)",
+  "services_notes": "Landscaper (Ltd) (seen on Checkatrade Poole list)",
   "badges": [
    "highly_rated",
    "vetted",
    "no_website",
    "nearby",
-   "needs_check",
-   "ltd_company"
+   "needs_check"
   ],
   "score": 38,
   "score_breakdown": {
@@ -4924,7 +4842,7 @@
    "contact": 0,
    "distance": 0
   },
-  "confidence": 0.5,
+  "confidence": 0.3,
   "merge_review": true,
   "sources": [
    {
@@ -4934,15 +4852,6 @@
     "fields": [
      "score",
      "reviews"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/14886704",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
     ]
    }
   ],
@@ -5374,8 +5283,8 @@
   "name_normalised": "bamboo landscapes",
   "areas": [
    "landscaping",
-   "paving_patios",
    "fencing_boundaries",
+   "paving_patios",
    "decking_structures"
   ],
   "types": [
@@ -5585,9 +5494,9 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "paving_patios",
    "fencing_boundaries",
    "driveways",
+   "paving_patios",
    "decking_structures"
   ],
   "types": [
@@ -5776,9 +5685,9 @@
   "areas": [
    "landscaping",
    "groundworks",
+   "fencing_boundaries",
    "paving_patios",
-   "water_drainage",
-   "fencing_boundaries"
+   "water_drainage"
   ],
   "types": [
    "landscape_gardener",
@@ -5998,8 +5907,8 @@
   "name_normalised": "t c lowes building paving",
   "areas": [
    "driveways",
-   "landscaping",
-   "paving_patios"
+   "paving_patios",
+   "landscaping"
   ],
   "types": [
    "driveway_installer",
@@ -6514,9 +6423,9 @@
   "name_normalised": "samson landscapes",
   "areas": [
    "landscaping",
-   "paving_patios",
    "fencing_boundaries",
    "driveways",
+   "paving_patios",
    "decking_structures"
   ],
   "types": [
@@ -7320,9 +7229,9 @@
   "name_normalised": "total landscaping works",
   "areas": [
    "landscaping",
-   "paving_patios",
    "fencing_boundaries",
-   "driveways"
+   "driveways",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -7618,8 +7527,8 @@
   "name_normalised": "vision landscapers",
   "areas": [
    "landscaping",
-   "water_drainage",
-   "paving_patios"
+   "paving_patios",
+   "water_drainage"
   ],
   "types": [
    "landscape_gardener",
@@ -7717,9 +7626,9 @@
   "name_normalised": "bourne surfacing civils",
   "areas": [
    "surfacing",
-   "water_drainage",
    "groundworks",
-   "driveways"
+   "driveways",
+   "water_drainage"
   ],
   "types": [
    "tarmac",
@@ -8036,8 +7945,8 @@
   "name_normalised": "green guys landscaping",
   "areas": [
    "landscaping",
-   "paving_patios",
    "fencing_boundaries",
+   "paving_patios",
    "decking_structures"
   ],
   "types": [
@@ -8143,8 +8052,8 @@
   "name_normalised": "l b driveways",
   "areas": [
    "driveways",
-   "groundworks",
-   "paving_patios"
+   "paving_patios",
+   "groundworks"
   ],
   "types": [
    "block_paving",
@@ -8551,6 +8460,112 @@
   "county": "dorset"
  },
  {
+  "id": "tf_ab0ea8c6",
+  "name": "All Surfacing Contractors",
+  "legal_name": "A.L.L. SURFACING CONTRACTORS LTD",
+  "name_normalised": "all surfacing contractors",
+  "areas": [
+   "surfacing",
+   "driveways"
+  ],
+  "types": [
+   "surfacing_contractor",
+   "tarmac_driveways"
+  ],
+  "primary_area": "surfacing",
+  "address": null,
+  "town": "Ferndown",
+  "postcode": "BH21",
+  "lat": 50.81214016510068,
+  "lng": -1.9745063221476504,
+  "distance_miles": 6.7,
+  "serves_area_only": false,
+  "phone": "01202 827020",
+  "phone_e164": "+441202827020",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.allsurfacing.net",
+  "domain": "allsurfacing.net",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.81214016510068&mlon=-1.9745063221476504#map=13/50.81214016510068/-1.9745063221476504",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "07395662",
+   "status": "active",
+   "incorporated": "2010-10-04",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07395662"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 16,
+  "accreditations": [],
+  "services_notes": "Road & other surfacing contractor; operating base 44a Cobham Road, Ferndown Industrial Estate (registered office Salisbury)",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 30,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 11
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.allsurfacing.net/contact/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://www.allsurfacing.net/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07395662",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
+ },
+ {
   "id": "tf_bb6ee9e3",
   "name": "CHS Landscapes",
   "legal_name": "CHS LANDSCAPES LTD",
@@ -8558,9 +8573,9 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "paving_patios",
    "fencing_boundaries",
    "driveways",
+   "paving_patios",
    "decking_structures"
   ],
   "types": [
@@ -8959,9 +8974,9 @@
   "name_normalised": "earthworm landscapes",
   "areas": [
    "groundworks",
+   "driveways",
    "water_drainage",
-   "landscaping",
-   "driveways"
+   "landscaping"
   ],
   "types": [
    "groundworks_contractor",
@@ -9492,8 +9507,8 @@
   "name_normalised": "kevin jolly fencing",
   "areas": [
    "fencing_boundaries",
-   "paving_patios",
    "driveways",
+   "paving_patios",
    "landscaping"
   ],
   "types": [
@@ -9702,9 +9717,9 @@
   "name_normalised": "path life fencing landscaping",
   "areas": [
    "fencing_boundaries",
-   "landscaping",
    "paving_patios",
-   "decking_structures"
+   "decking_structures",
+   "landscaping"
   ],
   "types": [
    "fencing_contractor",
@@ -9803,10 +9818,10 @@
   "name_normalised": "purbeck landscapes",
   "areas": [
    "landscaping",
-   "groundworks",
-   "paving_patios",
    "outdoor_masonry",
-   "fencing_boundaries"
+   "groundworks",
+   "fencing_boundaries",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -10522,9 +10537,9 @@
   "name_normalised": "mjp landscapes",
   "areas": [
    "driveways",
-   "landscaping",
+   "fencing_boundaries",
    "paving_patios",
-   "fencing_boundaries"
+   "landscaping"
   ],
   "types": [
    "driveway_installer",
@@ -11246,8 +11261,8 @@
   "name_normalised": "dolphin fences gardens",
   "areas": [
    "fencing_boundaries",
-   "landscaping",
-   "decking_structures"
+   "decking_structures",
+   "landscaping"
   ],
   "types": [
    "fencing_contractor",
@@ -11451,8 +11466,8 @@
   "name_normalised": "unique pavestones unique outdoor living group",
   "areas": [
    "decking_structures",
-   "landscaping",
-   "paving_patios"
+   "paving_patios",
+   "landscaping"
   ],
   "types": [
    "decking_installer",
@@ -11653,8 +11668,8 @@
   "name_normalised": "elite construction landscapes",
   "areas": [
    "landscaping",
-   "groundworks",
-   "driveways"
+   "driveways",
+   "groundworks"
   ],
   "types": [
    "landscape_gardener"
@@ -11749,9 +11764,9 @@
   "name_normalised": "jsc paving landscaping",
   "areas": [
    "paving_patios",
-   "landscaping",
    "fencing_boundaries",
-   "driveways"
+   "driveways",
+   "landscaping"
   ],
   "types": [
    "block_paving",
@@ -12128,10 +12143,10 @@
   "name_normalised": "four groundworks landscaping",
   "areas": [
    "groundworks",
-   "water_drainage",
-   "landscaping",
+   "driveways",
    "paving_patios",
-   "driveways"
+   "water_drainage",
+   "landscaping"
   ],
   "types": [
    "groundworks_contractor",
@@ -12226,7 +12241,7 @@
  {
   "id": "tf_057dff24",
   "name": "M&R Paving Landscaping",
-  "legal_name": null,
+  "legal_name": "M & R PAVING & LANDSCAPING SPECIALISTS LTD",
   "name_normalised": "m r paving landscaping",
   "areas": [
    "driveways"
@@ -12264,17 +12279,27 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": null,
+  "companies_house": {
+   "number": "16246744",
+   "status": "active",
+   "incorporated": "2025-02-12",
+   "sic": [
+    "43999",
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/16246744"
+  },
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "unknown",
+  "business_form": "ltd",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Resin-bound & bonded surfacing, paving; covers Bournemouth, Poole, Christchurch & New Forest",
+  "services_notes": "Resin-bound & bonded surfacing, paving; covers Bournemouth, Poole, Christchurch & New Forest. Matched by name + district to M & R PAVING & LANDSCAPING SPECIALISTS LTD (check)",
   "badges": [
-   "needs_check"
+   "needs_check",
+   "ltd_company"
   ],
   "score": 22,
   "score_breakdown": {
@@ -12284,8 +12309,8 @@
    "contact": 15,
    "distance": 12
   },
-  "confidence": 0.3,
-  "merge_review": false,
+  "confidence": 0.5,
+  "merge_review": true,
   "sources": [
    {
     "source": "web_search",
@@ -12295,6 +12320,15 @@
      "phone",
      "address",
      "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/16246744",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status"
     ]
    }
   ],
@@ -12496,10 +12530,10 @@
   "name_normalised": "portwey surfacing",
   "areas": [
    "surfacing",
-   "driveways",
    "groundworks",
-   "water_drainage",
-   "paving_patios"
+   "driveways",
+   "paving_patios",
+   "water_drainage"
   ],
   "types": [
    "surfacing_contractor",
@@ -12702,13 +12736,13 @@
  {
   "id": "tf_3532c0a0",
   "name": "Matthew Wilkins Landscapes",
-  "legal_name": "MATTHEW WILKINS LANDSCAPES LTD",
+  "legal_name": null,
   "name_normalised": "matthew wilkins landscapes",
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "paving_patios",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -12744,29 +12778,20 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": {
-   "number": "09056669",
-   "status": "active",
-   "incorporated": "2014-05-27",
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/09056669"
-  },
+  "companies_house": null,
   "opening_hours": "Mon–Fri 08:00–18:00; Sat 08:00–13:00",
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "ltd",
+  "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": 15,
   "accreditations": [
    "Buy With Confidence"
   ],
-  "services_notes": "Ltd; FreeIndex member since 2009, checks passed Jul 2026 (incl. Companies House); Buy With Confidence. Matched by name + district to MATTHEW WILKINS LANDSCAPES LTD (check)",
+  "services_notes": "Ltd; FreeIndex member since 2009, checks passed Jul 2026 (incl. Companies House); Buy With Confidence",
   "badges": [
    "established",
-   "needs_check",
-   "ltd_company"
+   "needs_check"
   ],
   "score": 18,
   "score_breakdown": {
@@ -12776,8 +12801,8 @@
    "contact": 6,
    "distance": 12
   },
-  "confidence": 0.5,
-  "merge_review": true,
+  "confidence": 0.3,
+  "merge_review": false,
   "sources": [
    {
     "source": "freeindex",
@@ -12788,15 +12813,6 @@
      "web",
      "hours",
      "accreditations"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/09056669",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
     ]
    }
   ],
@@ -54717,12 +54733,12 @@
  {
   "id": "tf_58b5355f",
   "name": "Grit And Graft",
-  "legal_name": "GRIT AND GRAFT LTD",
+  "legal_name": null,
   "name_normalised": "grit graft",
   "areas": [
    "paving_patios",
-   "landscaping",
-   "driveways"
+   "driveways",
+   "landscaping"
   ],
   "types": [
    "porcelain_paving",
@@ -54763,31 +54779,22 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": {
-   "number": "13317036",
-   "status": "active",
-   "incorporated": "2021-04-07",
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13317036"
-  },
+  "companies_house": null,
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "ltd",
+  "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [
    "City & Guilds L3 Garden Design"
   ],
-  "services_notes": "Landscaping & groundworks, Dorset & Hampshire; porcelain patios from £150/m²; garden design with CAD. Matched by name + district to GRIT AND GRAFT LTD (check)",
+  "services_notes": "Landscaping & groundworks, Dorset & Hampshire; porcelain patios from £150/m²; garden design with CAD",
   "badges": [
    "top_pick",
    "no_website",
    "nearby",
-   "needs_check",
-   "ltd_company"
+   "needs_check"
   ],
   "score": 13,
   "score_breakdown": {
@@ -54797,8 +54804,8 @@
    "contact": 0,
    "distance": 12
   },
-  "confidence": 0.5,
-  "merge_review": true,
+  "confidence": 0.3,
+  "merge_review": false,
   "sources": [
    {
     "source": "checkatrade",
@@ -54808,15 +54815,6 @@
      "services",
      "pricing",
      "base"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13317036",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
     ]
    }
   ],
@@ -76050,6 +76048,107 @@
   "ch_only": true,
   "out_of_scope": false,
   "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_57bf3137",
+  "name": "Daniel Combes Garden Design",
+  "legal_name": "DANIEL COMBES GARDEN DESIGN LTD",
+  "name_normalised": "daniel combes garden design",
+  "areas": [
+   "landscaping"
+  ],
+  "types": [
+   "garden_designer"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Shaftesbury",
+  "postcode": "SP7",
+  "lat": 51.00505653761757,
+  "lng": -2.184328760188085,
+  "distance_miles": 21.8,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://www.danielcombes.co.uk",
+  "domain": "danielcombes.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.00505653761757&mlon=-2.184328760188085#map=13/51.00505653761757/-2.184328760188085",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11178595",
+   "status": "active",
+   "incorporated": "2018-01-30",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11178595"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 8,
+  "accreditations": [],
+  "services_notes": "Garden & landscape design studio for historic homes, country houses & estates: master planning, construction documentation, contractor tendering, project monitoring; Dorset/Wiltshire border",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 12,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 2
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.danielcombes.co.uk/design-process",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://www.danielcombes.co.uk/dorset-garden-design",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "coverage"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11178595",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset"
  },
  {
   "id": "tf_1400e10b",
@@ -110784,8 +110883,8 @@
   "name_normalised": "gardensrevolution",
   "areas": [
    "paving_patios",
-   "landscaping",
-   "decking_structures"
+   "decking_structures",
+   "landscaping"
   ],
   "types": [
    "porcelain_paving",
@@ -160331,6 +160430,96 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_7bd2044e",
+  "name": "Lyme Consulting",
+  "legal_name": "LYME CONSULTING LIMITED",
+  "name_normalised": "lyme consulting",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Chard",
+  "postcode": "TA20",
+  "lat": 50.827,
+  "lng": -2.888,
+  "distance_miles": 40.1,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "15646591",
+   "status": "active",
+   "incorporated": "2024-04-15",
+   "dissolved": null,
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/15646591"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 2,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/15646591",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_ba34f8ff",
   "name": "Lyons Gate Contracting Services",
   "legal_name": "LYONS GATE CONTRACTING SERVICES LIMITED",
@@ -163451,6 +163640,97 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_20166a95",
+  "name": "S.W.D.",
+  "legal_name": "S.W.D. LIMITED",
+  "name_normalised": "s w d",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Chard",
+  "postcode": "TA20",
+  "lat": 50.834,
+  "lng": -2.941,
+  "distance_miles": 42.5,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "01686066",
+   "status": "active",
+   "incorporated": "1982-12-10",
+   "dissolved": null,
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/01686066"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 44,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/01686066",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_fd54077a",
   "name": "Sacred Windows",
   "legal_name": "SACRED WINDOWS LTD",
@@ -164071,6 +164351,98 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/11267179",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_8097600b",
+  "name": "Stanley Landscapes",
+  "legal_name": "STANLEY LANDSCAPES LTD",
+  "name_normalised": "stanley landscapes",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Halstock",
+  "postcode": "BA22",
+  "lat": 50.879,
+  "lng": -2.633,
+  "distance_miles": 30.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "04895280",
+   "status": "active",
+   "incorporated": "2003-09-11",
+   "dissolved": null,
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04895280"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 23,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/04895280",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -250786,6 +251158,92 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_1b5883de",
+  "name": "M J & C Site Management",
+  "legal_name": "M J & C SITE MANAGEMENT LIMITED",
+  "name_normalised": "m j c site management",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Somerset",
+  "postcode": "BA22",
+  "lat": 50.87,
+  "lng": -2.655,
+  "distance_miles": 31.1,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "10943641",
+   "status": "dissolved",
+   "incorporated": "2017-09-04",
+   "dissolved": "2022-02-01",
+   "sic": [
+    "43120"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10943641"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 9,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43120",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10943641",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-15",
+  "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_dc3cbb19",
   "name": "M L Jackson Construction",
   "legal_name": "M L JACKSON CONSTRUCTION LTD.",
@@ -278815,9 +279273,9 @@
   "areas": [
    "driveways",
    "groundworks",
-   "landscaping",
+   "fencing_boundaries",
    "paving_patios",
-   "fencing_boundaries"
+   "landscaping"
   ],
   "types": [
    "block_paving",
