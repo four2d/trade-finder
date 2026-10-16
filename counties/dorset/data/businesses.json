@@ -467,8 +467,8 @@
   "areas": [
    "landscaping",
    "groundworks",
-   "driveways",
-   "paving_patios"
+   "paving_patios",
+   "driveways"
   ],
   "types": [
    "hard_landscaping",
@@ -784,10 +784,10 @@
   "name_normalised": "p g dunn tree garden care",
   "areas": [
    "trees_vegetation",
-   "lawns_grounds",
+   "paving_patios",
    "landscaping",
    "fencing_boundaries",
-   "paving_patios"
+   "lawns_grounds"
   ],
   "types": [
    "tree_surgeon",
@@ -895,9 +895,9 @@
   "name_normalised": "agr fencing landscaping",
   "areas": [
    "driveways",
+   "paving_patios",
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios"
+   "fencing_boundaries"
   ],
   "types": [
    "concrete_driveway",
@@ -1115,8 +1115,8 @@
   "name_normalised": "classic landscaping",
   "areas": [
    "landscaping",
-   "driveways",
-   "paving_patios"
+   "paving_patios",
+   "driveways"
   ],
   "types": [
    "landscape_gardener",
@@ -1594,7 +1594,7 @@
  {
   "id": "tf_3b4abc75",
   "name": "Mason & Turner",
-  "legal_name": "MASON & TURNER LTD",
+  "legal_name": null,
   "name_normalised": "mason turner",
   "areas": [
    "landscaping"
@@ -1636,31 +1636,22 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": {
-   "number": "05567535",
-   "status": "active",
-   "incorporated": "2005-09-19",
-   "sic": [
-    "43999"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/05567535"
-  },
+  "companies_house": null,
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "ltd",
+  "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Landscaping & construction (Ltd), Bournemouth. Matched by name + district to MASON & TURNER LTD (check)",
+  "services_notes": "Landscaping & construction (Ltd), Bournemouth",
   "badges": [
    "top_pick",
    "highly_rated",
    "vetted",
    "no_website",
    "nearby",
-   "needs_check",
-   "ltd_company"
+   "needs_check"
   ],
   "score": 59,
   "score_breakdown": {
@@ -1670,8 +1661,8 @@
    "contact": 0,
    "distance": 12
   },
-  "confidence": 0.5,
-  "merge_review": true,
+  "confidence": 0.3,
+  "merge_review": false,
   "sources": [
    {
     "source": "checkatrade",
@@ -1681,15 +1672,6 @@
      "score",
      "reviews",
      "base"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/05567535",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
     ]
    }
   ],
@@ -1890,7 +1872,7 @@
  {
   "id": "tf_c5caf9ee",
   "name": "J.M. Tree and Garden Services",
-  "legal_name": "J.M TREE AND GARDEN SERVICES LIMITED",
+  "legal_name": null,
   "name_normalised": "j m tree garden",
   "areas": [
    "trees_vegetation",
@@ -1935,30 +1917,21 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": {
-   "number": "14052366",
-   "status": "active",
-   "incorporated": "2022-04-19",
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/14052366"
-  },
+  "companies_house": null,
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "ltd",
+  "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Tree surgery, pruning & garden maintenance, Wimborne. Matched by name + district to J.M TREE AND GARDEN SERVICES LIMITED (check)",
+  "services_notes": "Tree surgery, pruning & garden maintenance, Wimborne",
   "badges": [
    "top_pick",
    "highly_rated",
    "vetted",
    "no_website",
-   "needs_check",
-   "ltd_company"
+   "needs_check"
   ],
   "score": 58,
   "score_breakdown": {
@@ -1968,8 +1941,8 @@
    "contact": 0,
    "distance": 11
   },
-  "confidence": 0.5,
-  "merge_review": true,
+  "confidence": 0.3,
+  "merge_review": false,
   "sources": [
    {
     "source": "checkatrade",
@@ -1980,15 +1953,6 @@
      "reviews",
      "base",
      "last_review"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/14052366",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
     ]
    }
   ],
@@ -2001,7 +1965,7 @@
  {
   "id": "tf_2c111fd2",
   "name": "Shawn Oak Landscapes",
-  "legal_name": "SHAWN OAK LANDSCAPES LTD",
+  "legal_name": null,
   "name_normalised": "shawn oak landscapes",
   "areas": [
    "landscaping"
@@ -2043,31 +2007,22 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": {
-   "number": "08823929",
-   "status": "active",
-   "incorporated": "2013-12-23",
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/08823929"
-  },
+  "companies_house": null,
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "ltd",
+  "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Landscaper (Ltd), Bournemouth. Matched by name + district to SHAWN OAK LANDSCAPES LTD (check)",
+  "services_notes": "Landscaper (Ltd), Bournemouth",
   "badges": [
    "top_pick",
    "highly_rated",
    "vetted",
    "no_website",
    "nearby",
-   "needs_check",
-   "ltd_company"
+   "needs_check"
   ],
   "score": 58,
   "score_breakdown": {
@@ -2077,8 +2032,8 @@
    "contact": 0,
    "distance": 12
   },
-  "confidence": 0.5,
-  "merge_review": true,
+  "confidence": 0.3,
+  "merge_review": false,
   "sources": [
    {
     "source": "checkatrade",
@@ -2088,15 +2043,6 @@
      "score",
      "reviews",
      "base"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/08823929",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
     ]
    }
   ],
@@ -2379,7 +2325,7 @@
  {
   "id": "tf_b4df2508",
   "name": "Newlook Driveways",
-  "legal_name": null,
+  "legal_name": "NEWLOOK LANDSCAPING & DRIVEWAYS LTD",
   "name_normalised": "newlook driveways",
   "areas": [
    "driveways"
@@ -2426,21 +2372,30 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": null,
+  "companies_house": {
+   "number": "09160761",
+   "status": "active",
+   "incorporated": "2014-08-05",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09160761"
+  },
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "unknown",
+  "business_form": "ltd",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Family firm, 25+ yrs; block, resin, tarmac; cleaning & sealing",
+  "services_notes": "Family firm, 25+ yrs; block, resin, tarmac; cleaning & sealing. Matched by name + district to NEWLOOK LANDSCAPING & DRIVEWAYS LTD (check)",
   "badges": [
    "highly_rated",
    "vetted",
    "busy",
    "no_website",
-   "needs_check"
+   "needs_check",
+   "ltd_company"
   ],
   "score": 56,
   "score_breakdown": {
@@ -2450,8 +2405,8 @@
    "contact": 0,
    "distance": 10
   },
-  "confidence": 0.3,
-  "merge_review": false,
+  "confidence": 0.5,
+  "merge_review": true,
   "sources": [
    {
     "source": "checkatrade",
@@ -2462,6 +2417,15 @@
      "reviews",
      "services",
      "last_review"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09160761",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status"
     ]
    }
   ],
@@ -3036,7 +3000,7 @@
  {
   "id": "tf_0565e627",
   "name": "Purbeck Fencing",
-  "legal_name": null,
+  "legal_name": "PURBECK FENCING LIMITED",
   "name_normalised": "purbeck fencing",
   "areas": [
    "fencing_boundaries"
@@ -3078,22 +3042,31 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": null,
+  "companies_house": {
+   "number": "07031565",
+   "status": "active",
+   "incorporated": "2009-09-28",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07031565"
+  },
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": true,
-  "business_form": "unknown",
+  "business_form": "ltd",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Fencing (Ltd) (seen on Checkatrade Poole list)",
+  "services_notes": "Fencing (Ltd) (seen on Checkatrade Poole list). Matched by name + district to PURBECK FENCING LIMITED (check)",
   "badges": [
    "top_pick",
    "highly_rated",
    "vetted",
    "no_website",
    "nearby",
-   "needs_check"
+   "needs_check",
+   "ltd_company"
   ],
   "score": 50,
   "score_breakdown": {
@@ -3103,7 +3076,7 @@
    "contact": 0,
    "distance": 0
   },
-  "confidence": 0.3,
+  "confidence": 0.5,
   "merge_review": true,
   "sources": [
    {
@@ -3113,6 +3086,15 @@
     "fields": [
      "score",
      "reviews"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07031565",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status"
     ]
    }
   ],
@@ -3713,8 +3695,8 @@
   "name_normalised": "pro finish landscapes",
   "areas": [
    "landscaping",
-   "decking_structures",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -3912,7 +3894,7 @@
  {
   "id": "tf_dc178db2",
   "name": "DS Elite",
-  "legal_name": "DS ELITE LTD",
+  "legal_name": null,
   "name_normalised": "ds elite",
   "areas": [
    "landscaping",
@@ -3954,33 +3936,23 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": {
-   "number": "15108297",
-   "status": "active",
-   "incorporated": "2023-08-31",
-   "sic": [
-    "41100",
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/15108297"
-  },
+  "companies_house": null,
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "ltd",
+  "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [
    "NPTC",
    "City & Guilds"
   ],
-  "services_notes": "Landscape gardeners (Ltd); TrustATrader vetted; NPTC / City & Guilds. Matched by name + district to DS ELITE LTD (check)",
+  "services_notes": "Landscape gardeners (Ltd); TrustATrader vetted; NPTC / City & Guilds",
   "badges": [
    "highly_rated",
    "vetted",
    "no_website",
-   "needs_check",
-   "ltd_company"
+   "needs_check"
   ],
   "score": 46,
   "score_breakdown": {
@@ -3990,8 +3962,8 @@
    "contact": 0,
    "distance": 9
   },
-  "confidence": 0.5,
-  "merge_review": true,
+  "confidence": 0.3,
+  "merge_review": false,
   "sources": [
    {
     "source": "trustatrader",
@@ -4002,15 +3974,6 @@
      "reviews",
      "base",
      "accreditations"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/15108297",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
     ]
    }
   ],
@@ -4298,7 +4261,7 @@
  {
   "id": "tf_455c8f87",
   "name": "Pinnacle Landscaping and Groundworks",
-  "legal_name": "PINNACLE LANDSCAPING AND GROUNDWORKS LIMITED",
+  "legal_name": null,
   "name_normalised": "pinnacle landscaping groundworks",
   "areas": [
    "landscaping",
@@ -4342,30 +4305,21 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": {
-   "number": "16428066",
-   "status": "active",
-   "incorporated": "2025-05-03",
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/16428066"
-  },
+  "companies_house": null,
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": true,
-  "business_form": "ltd",
+  "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Landscaping & groundworks (seen on Checkatrade Poole list). Matched by name + district to PINNACLE LANDSCAPING AND GROUNDWORKS LIMITED (check)",
+  "services_notes": "Landscaping & groundworks (seen on Checkatrade Poole list)",
   "badges": [
    "highly_rated",
    "vetted",
    "no_website",
    "nearby",
-   "needs_check",
-   "ltd_company"
+   "needs_check"
   ],
   "score": 45,
   "score_breakdown": {
@@ -4375,7 +4329,7 @@
    "contact": 0,
    "distance": 0
   },
-  "confidence": 0.5,
+  "confidence": 0.3,
   "merge_review": true,
   "sources": [
    {
@@ -4385,15 +4339,6 @@
     "fields": [
      "score",
      "reviews"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/16428066",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
     ]
    }
   ],
@@ -4849,7 +4794,7 @@
  {
   "id": "tf_5fb299e9",
   "name": "Hampshire & Dorset Landscapes",
-  "legal_name": "HAMPSHIRE & DORSET LANDSCAPES LTD",
+  "legal_name": null,
   "name_normalised": "hampshire dorset landscapes",
   "areas": [
    "landscaping"
@@ -4891,30 +4836,21 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": {
-   "number": "14886704",
-   "status": "active",
-   "incorporated": "2023-05-22",
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/14886704"
-  },
+  "companies_house": null,
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": true,
-  "business_form": "ltd",
+  "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Landscaper (Ltd) (seen on Checkatrade Poole list). Matched by name + district to HAMPSHIRE & DORSET LANDSCAPES LTD (check)",
+  "services_notes": "Landscaper (Ltd) (seen on Checkatrade Poole list)",
   "badges": [
    "highly_rated",
    "vetted",
    "no_website",
    "nearby",
-   "needs_check",
-   "ltd_company"
+   "needs_check"
   ],
   "score": 38,
   "score_breakdown": {
@@ -4924,7 +4860,7 @@
    "contact": 0,
    "distance": 0
   },
-  "confidence": 0.5,
+  "confidence": 0.3,
   "merge_review": true,
   "sources": [
    {
@@ -4934,15 +4870,6 @@
     "fields": [
      "score",
      "reviews"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/14886704",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
     ]
    }
   ],
@@ -5374,9 +5301,9 @@
   "name_normalised": "bamboo landscapes",
   "areas": [
    "landscaping",
-   "decking_structures",
+   "paving_patios",
    "fencing_boundaries",
-   "paving_patios"
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -5485,8 +5412,8 @@
   "name_normalised": "bonsai landscapes",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "lawns_grounds"
+   "lawns_grounds",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -5584,11 +5511,11 @@
   "name_normalised": "freeman s landscapes",
   "areas": [
    "landscaping",
+   "paving_patios",
    "lawns_grounds",
-   "decking_structures",
-   "driveways",
    "fencing_boundaries",
-   "paving_patios"
+   "decking_structures",
+   "driveways"
   ],
   "types": [
    "landscape_gardener",
@@ -5775,10 +5702,10 @@
   "name_normalised": "pdgroundscape",
   "areas": [
    "landscaping",
-   "water_drainage",
    "groundworks",
-   "fencing_boundaries",
-   "paving_patios"
+   "paving_patios",
+   "water_drainage",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -5998,8 +5925,8 @@
   "name_normalised": "t c lowes building paving",
   "areas": [
    "driveways",
-   "paving_patios",
-   "landscaping"
+   "landscaping",
+   "paving_patios"
   ],
   "types": [
    "driveway_installer",
@@ -6310,8 +6237,8 @@
   "name_normalised": "fenceworks dorset",
   "areas": [
    "fencing_boundaries",
-   "decking_structures",
-   "landscaping"
+   "landscaping",
+   "decking_structures"
   ],
   "types": [
    "fencing_contractor"
@@ -6514,10 +6441,10 @@
   "name_normalised": "samson landscapes",
   "areas": [
    "landscaping",
-   "decking_structures",
-   "driveways",
+   "paving_patios",
    "fencing_boundaries",
-   "paving_patios"
+   "decking_structures",
+   "driveways"
   ],
   "types": [
    "landscape_gardener",
@@ -7320,9 +7247,9 @@
   "name_normalised": "total landscaping works",
   "areas": [
    "landscaping",
-   "driveways",
+   "paving_patios",
    "fencing_boundaries",
-   "paving_patios"
+   "driveways"
   ],
   "types": [
    "landscape_gardener",
@@ -7717,8 +7644,8 @@
   "name_normalised": "bourne surfacing civils",
   "areas": [
    "surfacing",
-   "water_drainage",
    "groundworks",
+   "water_drainage",
    "driveways"
   ],
   "types": [
@@ -7826,8 +7753,8 @@
   "name_normalised": "cps fencing sons",
   "areas": [
    "fencing_boundaries",
-   "lawns_grounds",
-   "trees_vegetation"
+   "trees_vegetation",
+   "lawns_grounds"
   ],
   "types": [
    "fencing_contractor",
@@ -8036,9 +7963,9 @@
   "name_normalised": "green guys landscaping",
   "areas": [
    "landscaping",
-   "decking_structures",
+   "paving_patios",
    "fencing_boundaries",
-   "paving_patios"
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -8351,8 +8278,8 @@
   "name_normalised": "green team",
   "areas": [
    "lawns_grounds",
-   "landscaping",
-   "trees_vegetation"
+   "trees_vegetation",
+   "landscaping"
   ],
   "types": [
    "garden_maintenance"
@@ -8449,8 +8376,8 @@
   "name_normalised": "your eco gardener",
   "areas": [
    "lawns_grounds",
-   "landscaping",
-   "trees_vegetation"
+   "trees_vegetation",
+   "landscaping"
   ],
   "types": [
    "garden_maintenance",
@@ -8663,11 +8590,11 @@
   "name_normalised": "chs landscapes",
   "areas": [
    "landscaping",
+   "paving_patios",
    "lawns_grounds",
-   "decking_structures",
-   "driveways",
    "fencing_boundaries",
-   "paving_patios"
+   "decking_structures",
+   "driveways"
   ],
   "types": [
    "landscape_gardener",
@@ -9065,8 +8992,8 @@
   "name_normalised": "earthworm landscapes",
   "areas": [
    "groundworks",
-   "water_drainage",
    "landscaping",
+   "water_drainage",
    "driveways"
   ],
   "types": [
@@ -9598,9 +9525,9 @@
   "name_normalised": "kevin jolly fencing",
   "areas": [
    "fencing_boundaries",
+   "paving_patios",
    "landscaping",
-   "driveways",
-   "paving_patios"
+   "driveways"
   ],
   "types": [
    "fencing_contractor",
@@ -9808,9 +9735,9 @@
   "name_normalised": "path life fencing landscaping",
   "areas": [
    "fencing_boundaries",
+   "paving_patios",
    "landscaping",
-   "decking_structures",
-   "paving_patios"
+   "decking_structures"
   ],
   "types": [
    "fencing_contractor",
@@ -9910,9 +9837,9 @@
   "areas": [
    "landscaping",
    "groundworks",
-   "fencing_boundaries",
+   "paving_patios",
    "outdoor_masonry",
-   "paving_patios"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -10628,9 +10555,9 @@
   "name_normalised": "mjp landscapes",
   "areas": [
    "driveways",
+   "paving_patios",
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios"
+   "fencing_boundaries"
   ],
   "types": [
    "driveway_installer",
@@ -11352,8 +11279,8 @@
   "name_normalised": "dolphin fences gardens",
   "areas": [
    "fencing_boundaries",
-   "decking_structures",
-   "landscaping"
+   "landscaping",
+   "decking_structures"
   ],
   "types": [
    "fencing_contractor",
@@ -11557,8 +11484,8 @@
   "name_normalised": "unique pavestones unique outdoor living group",
   "areas": [
    "decking_structures",
-   "paving_patios",
-   "landscaping"
+   "landscaping",
+   "paving_patios"
   ],
   "types": [
    "decking_installer",
@@ -11856,8 +11783,8 @@
   "areas": [
    "paving_patios",
    "landscaping",
-   "driveways",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "driveways"
   ],
   "types": [
    "block_paving",
@@ -12234,10 +12161,10 @@
   "name_normalised": "four groundworks landscaping",
   "areas": [
    "groundworks",
-   "water_drainage",
+   "paving_patios",
    "landscaping",
-   "driveways",
-   "paving_patios"
+   "water_drainage",
+   "driveways"
   ],
   "types": [
    "groundworks_contractor",
@@ -12332,7 +12259,7 @@
  {
   "id": "tf_057dff24",
   "name": "M&R Paving Landscaping",
-  "legal_name": null,
+  "legal_name": "M & R PAVING & LANDSCAPING SPECIALISTS LTD",
   "name_normalised": "m r paving landscaping",
   "areas": [
    "driveways"
@@ -12370,17 +12297,27 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": null,
+  "companies_house": {
+   "number": "16246744",
+   "status": "active",
+   "incorporated": "2025-02-12",
+   "sic": [
+    "43999",
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/16246744"
+  },
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "unknown",
+  "business_form": "ltd",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Resin-bound & bonded surfacing, paving; covers Bournemouth, Poole, Christchurch & New Forest",
+  "services_notes": "Resin-bound & bonded surfacing, paving; covers Bournemouth, Poole, Christchurch & New Forest. Matched by name + district to M & R PAVING & LANDSCAPING SPECIALISTS LTD (check)",
   "badges": [
-   "needs_check"
+   "needs_check",
+   "ltd_company"
   ],
   "score": 22,
   "score_breakdown": {
@@ -12390,8 +12327,8 @@
    "contact": 15,
    "distance": 12
   },
-  "confidence": 0.3,
-  "merge_review": false,
+  "confidence": 0.5,
+  "merge_review": true,
   "sources": [
    {
     "source": "web_search",
@@ -12401,6 +12338,15 @@
      "phone",
      "address",
      "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/16246744",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status"
     ]
    }
   ],
@@ -12602,10 +12548,10 @@
   "name_normalised": "portwey surfacing",
   "areas": [
    "surfacing",
-   "water_drainage",
    "groundworks",
-   "driveways",
-   "paving_patios"
+   "paving_patios",
+   "water_drainage",
+   "driveways"
   ],
   "types": [
    "surfacing_contractor",
@@ -12808,13 +12754,13 @@
  {
   "id": "tf_3532c0a0",
   "name": "Matthew Wilkins Landscapes",
-  "legal_name": "MATTHEW WILKINS LANDSCAPES LTD",
+  "legal_name": null,
   "name_normalised": "matthew wilkins landscapes",
   "areas": [
    "landscaping",
-   "lawns_grounds",
+   "paving_patios",
    "fencing_boundaries",
-   "paving_patios"
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
@@ -12850,29 +12796,20 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": {
-   "number": "09056669",
-   "status": "active",
-   "incorporated": "2014-05-27",
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/09056669"
-  },
+  "companies_house": null,
   "opening_hours": "Mon–Fri 08:00–18:00; Sat 08:00–13:00",
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "ltd",
+  "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": 15,
   "accreditations": [
    "Buy With Confidence"
   ],
-  "services_notes": "Ltd; FreeIndex member since 2009, checks passed Jul 2026 (incl. Companies House); Buy With Confidence. Matched by name + district to MATTHEW WILKINS LANDSCAPES LTD (check)",
+  "services_notes": "Ltd; FreeIndex member since 2009, checks passed Jul 2026 (incl. Companies House); Buy With Confidence",
   "badges": [
    "established",
-   "needs_check",
-   "ltd_company"
+   "needs_check"
   ],
   "score": 18,
   "score_breakdown": {
@@ -12882,8 +12819,8 @@
    "contact": 6,
    "distance": 12
   },
-  "confidence": 0.5,
-  "merge_review": true,
+  "confidence": 0.3,
+  "merge_review": false,
   "sources": [
    {
     "source": "freeindex",
@@ -12894,15 +12831,6 @@
      "web",
      "hours",
      "accreditations"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/09056669",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
     ]
    }
   ],
@@ -16840,6 +16768,97 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_d08c266d",
+  "name": "Ajm Civils",
+  "legal_name": "AJM CIVILS LTD",
+  "name_normalised": "ajm civils",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH13",
+  "lat": 50.72,
+  "lng": -1.914,
+  "distance_miles": 3.2,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "17325995",
+   "status": "active",
+   "incorporated": "2026-07-07",
+   "dissolved": null,
+   "sic": [
+    "42990"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/17325995"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 0,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 42990",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "new_business"
+  ],
+  "score": 14,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 13
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/17325995",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_eb13d658",
   "name": "Al Signature Drainage",
   "legal_name": "AL SIGNATURE DRAINAGE LTD",
@@ -18380,6 +18399,99 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_c0f7e2dd",
+  "name": "Awell",
+  "legal_name": "AWELL LTD",
+  "name_normalised": "awell",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH13",
+  "lat": 50.723,
+  "lng": -1.909,
+  "distance_miles": 3.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "10951844",
+   "status": "active",
+   "incorporated": "2017-09-07",
+   "dissolved": null,
+   "sic": [
+    "41100",
+    "43390",
+    "43999",
+    "96020"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10951844"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 9,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 41100, 43390, 43999, 96020",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 14,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 13
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10951844",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "dorset",
@@ -21034,6 +21146,97 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_a6f0ead3",
+  "name": "Building Control Projects",
+  "legal_name": "BUILDING CONTROL PROJECTS LTD",
+  "name_normalised": "building control projects",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH13",
+  "lat": 50.704,
+  "lng": -1.925,
+  "distance_miles": 2.8,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "03870156",
+   "status": "active",
+   "incorporated": "1999-11-02",
+   "dissolved": null,
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/03870156"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 27,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 14,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 13
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/03870156",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "dorset",
@@ -24043,6 +24246,96 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_bfa042f0",
+  "name": "Cuthbury Insulations",
+  "legal_name": "CUTHBURY INSULATIONS LIMITED",
+  "name_normalised": "cuthbury insulations",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH13",
+  "lat": 50.705,
+  "lng": -1.924,
+  "distance_miles": 2.8,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14802224",
+   "status": "active",
+   "incorporated": "2023-04-14",
+   "dissolved": null,
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14802224"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 3,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 14,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 13
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14802224",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "dorset",
@@ -33280,6 +33573,97 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_e3fec98d",
+  "name": "M P James (Construction)",
+  "legal_name": "M P JAMES (CONSTRUCTION) LIMITED",
+  "name_normalised": "m p james construction",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH13",
+  "lat": 50.688,
+  "lng": -1.942,
+  "distance_miles": 2.7,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "05110612",
+   "status": "active",
+   "incorporated": "2004-04-23",
+   "dissolved": null,
+   "sic": [
+    "42990"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05110612"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 22,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 42990",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 14,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 13
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05110612",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_0869dcf6",
   "name": "M S O Joinery",
   "legal_name": "M S O JOINERY LIMITED",
@@ -34908,6 +35292,96 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_2ea42dd6",
+  "name": "Miles Engineering Consultants",
+  "legal_name": "MILES ENGINEERING CONSULTANTS LIMITED",
+  "name_normalised": "miles engineering consultants",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH13",
+  "lat": 50.697,
+  "lng": -1.929,
+  "distance_miles": 2.8,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "10719964",
+   "status": "active",
+   "incorporated": "2017-04-11",
+   "dissolved": null,
+   "sic": [
+    "77320"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10719964"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 9,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 77320",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 14,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 13
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10719964",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "dorset",
@@ -54914,12 +55388,12 @@
  {
   "id": "tf_58b5355f",
   "name": "Grit And Graft",
-  "legal_name": "GRIT AND GRAFT LTD",
+  "legal_name": null,
   "name_normalised": "grit graft",
   "areas": [
    "paving_patios",
-   "driveways",
-   "landscaping"
+   "landscaping",
+   "driveways"
   ],
   "types": [
    "porcelain_paving",
@@ -54960,31 +55434,22 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": {
-   "number": "13317036",
-   "status": "active",
-   "incorporated": "2021-04-07",
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13317036"
-  },
+  "companies_house": null,
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "ltd",
+  "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [
    "City & Guilds L3 Garden Design"
   ],
-  "services_notes": "Landscaping & groundworks, Dorset & Hampshire; porcelain patios from £150/m²; garden design with CAD. Matched by name + district to GRIT AND GRAFT LTD (check)",
+  "services_notes": "Landscaping & groundworks, Dorset & Hampshire; porcelain patios from £150/m²; garden design with CAD",
   "badges": [
    "top_pick",
    "no_website",
    "nearby",
-   "needs_check",
-   "ltd_company"
+   "needs_check"
   ],
   "score": 13,
   "score_breakdown": {
@@ -54994,8 +55459,8 @@
    "contact": 0,
    "distance": 12
   },
-  "confidence": 0.5,
-  "merge_review": true,
+  "confidence": 0.3,
+  "merge_review": false,
   "sources": [
    {
     "source": "checkatrade",
@@ -55005,15 +55470,6 @@
      "services",
      "pricing",
      "base"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13317036",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
     ]
    }
   ],
@@ -111280,8 +111736,8 @@
   "name_normalised": "gardensrevolution",
   "areas": [
    "paving_patios",
-   "decking_structures",
-   "landscaping"
+   "landscaping",
+   "decking_structures"
   ],
   "types": [
    "porcelain_paving",
@@ -167316,6 +167772,92 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_b7546b97",
+  "name": "4shore Property & Building",
+  "legal_name": "4SHORE PROPERTY & BUILDING LIMITED",
+  "name_normalised": "4shore property building",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Brudenell Avenue",
+  "postcode": "BH13",
+  "lat": 50.702,
+  "lng": -1.933,
+  "distance_miles": 2.6,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "05623610",
+   "status": "dissolved",
+   "incorporated": "2005-11-15",
+   "dissolved": "2019-02-26",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05623610"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 21,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05623610",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_d7c2ed3e",
   "name": "7 Alpha",
   "legal_name": "7 ALPHA LIMITED",
@@ -185081,6 +185623,93 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_5c36ff57",
+  "name": "Blinder Bunker Liner",
+  "legal_name": "BLINDER BUNKER LINER LTD",
+  "name_normalised": "blinder bunker liner",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH13",
+  "lat": 50.686,
+  "lng": -1.946,
+  "distance_miles": 2.7,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "07303346",
+   "status": "dissolved",
+   "incorporated": "2010-07-02",
+   "dissolved": "2015-11-24",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07303346"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 16,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 81300",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07303346",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_88e23551",
   "name": "Blounts Green H.V.",
   "legal_name": "BLOUNTS GREEN H.V. LIMITED",
@@ -185680,6 +186309,92 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_9edb3295",
+  "name": "Borbet Flooring",
+  "legal_name": "BORBET FLOORING LIMITED",
+  "name_normalised": "borbet flooring",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH13",
+  "lat": 50.724,
+  "lng": -1.91,
+  "distance_miles": 3.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "08577167",
+   "status": "dissolved",
+   "incorporated": "2013-06-20",
+   "dissolved": "2015-04-28",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08577167"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 13,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08577167",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "dorset",
@@ -186728,6 +187443,92 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_efb8483c",
+  "name": "Brace Roofing & Construction",
+  "legal_name": "BRACE ROOFING & CONSTRUCTION LIMITED",
+  "name_normalised": "brace roofing construction",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH13",
+  "lat": 50.721,
+  "lng": -1.926,
+  "distance_miles": 2.7,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12685758",
+   "status": "dissolved",
+   "incorporated": "2020-06-20",
+   "dissolved": "2021-09-28",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12685758"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12685758",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "dorset",
@@ -194790,6 +195591,95 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_ae9d318a",
+  "name": "Chip£Dale",
+  "legal_name": "CHIP£DALE LTD",
+  "name_normalised": "chip dale",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH13",
+  "lat": 50.723,
+  "lng": -1.91,
+  "distance_miles": 3.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11343451",
+   "status": "dissolved",
+   "incorporated": "2018-05-03",
+   "dissolved": "2019-10-08",
+   "sic": [
+    "41202",
+    "49410",
+    "56103",
+    "81299"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11343451"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 8,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 41202, 49410, 56103, 81299",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11343451",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_d7ab4c66",
   "name": "Chris Kimpton Crane Services",
   "legal_name": "CHRIS KIMPTON CRANE SERVICES LTD",
@@ -196773,6 +197663,93 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_f8519ce6",
+  "name": "Cobb Bros. (Joiners & Contractors)",
+  "legal_name": "COBB BROS. (JOINERS & CONTRACTORS) LIMITED",
+  "name_normalised": "cobb bros joiners contractors",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH13",
+  "lat": 50.707,
+  "lng": -1.922,
+  "distance_miles": 2.9,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "01110115",
+   "status": "dissolved",
+   "incorporated": "1973-04-26",
+   "dissolved": "2019-10-08",
+   "sic": [
+    "31090",
+    "43320"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/01110115"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 53,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 31090, 43320",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/01110115",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "dorset",
@@ -207332,6 +208309,92 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_57f6117d",
+  "name": "Dorset Drainflow",
+  "legal_name": "DORSET DRAINFLOW LIMITED",
+  "name_normalised": "dorset drainflow",
+  "areas": [
+   "water_drainage"
+  ],
+  "types": [],
+  "primary_area": "water_drainage",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH13",
+  "lat": 50.724,
+  "lng": -1.917,
+  "distance_miles": 3.2,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09100373",
+   "status": "dissolved",
+   "incorporated": "2014-06-24",
+   "dissolved": "2015-12-29",
+   "sic": [
+    "81299"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09100373"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 12,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 81299",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09100373",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "dorset",
@@ -224152,6 +225215,92 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_95e58fe2",
+  "name": "Green Deal Outlet",
+  "legal_name": "GREEN DEAL OUTLET LTD",
+  "name_normalised": "green deal outlet",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH13",
+  "lat": 50.708,
+  "lng": -1.912,
+  "distance_miles": 3.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "07889183",
+   "status": "dissolved",
+   "incorporated": "2011-12-21",
+   "dissolved": "2013-06-18",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07889183"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 15,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07889183",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "dorset",
@@ -244472,6 +245621,92 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_6ca45e13",
+  "name": "Kimhunt Engineering Design Services",
+  "legal_name": "KIMHUNT ENGINEERING DESIGN SERVICES LTD",
+  "name_normalised": "kimhunt engineering design",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH13",
+  "lat": 50.716,
+  "lng": -1.911,
+  "distance_miles": 3.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12021777",
+   "status": "dissolved",
+   "incorporated": "2019-05-29",
+   "dissolved": "2021-08-10",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12021777"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 7,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12021777",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_a33d40d0",
   "name": "Kingsman Resin Drives",
   "legal_name": "KINGSMAN RESIN DRIVES LTD",
@@ -246978,6 +248213,92 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_3a6077dc",
+  "name": "L.R.P.D",
+  "legal_name": "L.R.P.D LIMITED",
+  "name_normalised": "l r p d",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH13",
+  "lat": 50.705,
+  "lng": -1.924,
+  "distance_miles": 2.8,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "06494019",
+   "status": "dissolved",
+   "incorporated": "2008-02-05",
+   "dissolved": "2015-04-21",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/06494019"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 18,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/06494019",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "dorset",
@@ -280036,10 +281357,10 @@
   "name_normalised": "r j holden",
   "areas": [
    "driveways",
-   "landscaping",
    "groundworks",
-   "fencing_boundaries",
-   "paving_patios"
+   "paving_patios",
+   "landscaping",
+   "fencing_boundaries"
   ],
   "types": [
    "block_paving",
@@ -282794,6 +284115,92 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_04a0c9bb",
+  "name": "Radley Technical Services",
+  "legal_name": "RADLEY TECHNICAL SERVICES LTD",
+  "name_normalised": "radley technical",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH13",
+  "lat": 50.704,
+  "lng": -1.92,
+  "distance_miles": 3.1,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "06227419",
+   "status": "dissolved",
+   "incorporated": "2007-04-26",
+   "dissolved": "2026-05-05",
+   "sic": [
+    "42990"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/06227419"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 19,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 42990",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/06227419",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "dorset",
@@ -291626,6 +293033,92 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_0bac9720",
+  "name": "Saltern Properties",
+  "legal_name": "SALTERN PROPERTIES LIMITED",
+  "name_normalised": "saltern properties",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH13",
+  "lat": 50.707,
+  "lng": -1.922,
+  "distance_miles": 2.9,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "07749872",
+   "status": "dissolved",
+   "incorporated": "2011-08-23",
+   "dissolved": "2015-04-21",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07749872"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 15,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07749872",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_6f09d089",
   "name": "Samara Cleaner 4 You",
   "legal_name": "SAMARA CLEANER 4 YOU LTD",
@@ -295681,6 +297174,92 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_f3c9bf66",
+  "name": "Site Direction",
+  "legal_name": "SITE DIRECTION LTD",
+  "name_normalised": "site direction",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH13",
+  "lat": 50.713,
+  "lng": -1.928,
+  "distance_miles": 2.6,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09629053",
+   "status": "dissolved",
+   "incorporated": "2015-06-08",
+   "dissolved": "2021-03-23",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09629053"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 11,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09629053",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "dorset",
@@ -303387,6 +304966,92 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_5f501e17",
+  "name": "Sterling Housing (Chelmsford)",
+  "legal_name": "STERLING HOUSING (CHELMSFORD) LTD",
+  "name_normalised": "sterling housing chelmsford",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH13",
+  "lat": 50.709,
+  "lng": -1.909,
+  "distance_miles": 3.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "08007445",
+   "status": "dissolved",
+   "incorporated": "2012-03-27",
+   "dissolved": "2014-06-10",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08007445"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 14,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08007445",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "dorset",
@@ -312667,6 +314332,92 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "dorset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_fd2c8f3b",
+  "name": "Toma Engineering",
+  "legal_name": "TOMA ENGINEERING LTD",
+  "name_normalised": "toma engineering",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Poole",
+  "postcode": "BH13",
+  "lat": 50.723,
+  "lng": -1.911,
+  "distance_miles": 3.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13906847",
+   "status": "dissolved",
+   "incorporated": "2022-02-10",
+   "dissolved": "2026-04-14",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13906847"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13906847",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "dorset",

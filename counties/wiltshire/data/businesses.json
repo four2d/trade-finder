@@ -114,9 +114,9 @@
   "name_normalised": "asg landscaping",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "decking_structures",
    "paving_patios",
+   "decking_structures",
+   "fencing_boundaries",
    "lawns_grounds"
   ],
   "types": [
@@ -224,11 +224,11 @@
   "name_normalised": "chalke valley landscaping",
   "areas": [
    "landscaping",
+   "paving_patios",
    "water_drainage",
-   "lawns_grounds",
-   "driveways",
    "fencing_boundaries",
-   "paving_patios"
+   "lawns_grounds",
+   "driveways"
   ],
   "types": [
    "landscape_gardener",
@@ -335,8 +335,8 @@
   "areas": [
    "driveways",
    "paving_patios",
-   "fencing_boundaries",
-   "landscaping"
+   "landscaping",
+   "fencing_boundaries"
   ],
   "types": [
    "driveway_installer",
@@ -654,9 +654,9 @@
   "name_normalised": "never ending fencing",
   "areas": [
    "fencing_boundaries",
+   "paving_patios",
    "landscaping",
-   "driveways",
-   "paving_patios"
+   "driveways"
   ],
   "types": [
    "fencing_contractor",
@@ -867,8 +867,8 @@
   "name_normalised": "viva landscapes",
   "areas": [
    "landscaping",
-   "lawns_grounds",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
@@ -973,11 +973,11 @@
   "name_normalised": "abelia landscapes",
   "areas": [
    "landscaping",
+   "paving_patios",
    "water_drainage",
-   "lawns_grounds",
-   "driveways",
    "fencing_boundaries",
-   "paving_patios"
+   "lawns_grounds",
+   "driveways"
   ],
   "types": [
    "landscape_gardener",
@@ -1280,9 +1280,9 @@
   "name_normalised": "avon tree garden",
   "areas": [
    "trees_vegetation",
-   "lawns_grounds",
    "landscaping",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "lawns_grounds"
   ],
   "types": [
    "tree_surgeon",
@@ -1598,8 +1598,8 @@
   "name_normalised": "db landscaping fencing",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "paving_patios",
+   "fencing_boundaries",
    "driveways"
   ],
   "types": [
@@ -1707,8 +1707,8 @@
   "name_normalised": "davis fencing",
   "areas": [
    "fencing_boundaries",
-   "groundworks",
-   "landscaping"
+   "landscaping",
+   "groundworks"
   ],
   "types": [
    "fencing_contractor",
@@ -1813,11 +1813,11 @@
   "name_normalised": "gaia landscapes",
   "areas": [
    "landscaping",
-   "water_drainage",
+   "paving_patios",
    "lawns_grounds",
-   "decking_structures",
+   "water_drainage",
    "fencing_boundaries",
-   "paving_patios"
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -2026,12 +2026,12 @@
   "name_normalised": "hand to earth landscapes",
   "areas": [
    "landscaping",
-   "lawns_grounds",
-   "decking_structures",
-   "driveways",
-   "fencing_boundaries",
+   "trees_vegetation",
    "paving_patios",
-   "trees_vegetation"
+   "lawns_grounds",
+   "fencing_boundaries",
+   "decking_structures",
+   "driveways"
   ],
   "types": [
    "landscape_gardener",
@@ -2241,9 +2241,9 @@
   "name_normalised": "jcm fencing",
   "areas": [
    "fencing_boundaries",
+   "paving_patios",
    "landscaping",
-   "driveways",
-   "paving_patios"
+   "driveways"
   ],
   "types": [
    "fencing_contractor",
@@ -2350,9 +2350,9 @@
    "paving_patios",
    "lawns_grounds",
    "landscaping",
+   "fencing_boundaries",
    "decking_structures",
-   "driveways",
-   "fencing_boundaries"
+   "driveways"
   ],
   "types": [
    "patio_installer",
@@ -2763,9 +2763,9 @@
   "name_normalised": "rysie s patios driveways",
   "areas": [
    "paving_patios",
-   "driveways",
    "landscaping",
-   "water_drainage"
+   "water_drainage",
+   "driveways"
   ],
   "types": [
    "patio_installer",
@@ -2973,8 +2973,8 @@
   "name_normalised": "southern tree care",
   "areas": [
    "trees_vegetation",
-   "fencing_boundaries",
-   "landscaping"
+   "landscaping",
+   "fencing_boundaries"
   ],
   "types": [
    "tree_surgeon",
@@ -3080,10 +3080,10 @@
   "name_normalised": "stonehenge fencing landscape",
   "areas": [
    "fencing_boundaries",
-   "landscaping",
-   "driveways",
+   "trees_vegetation",
    "paving_patios",
-   "trees_vegetation"
+   "landscaping",
+   "driveways"
   ],
   "types": [
    "fencing_contractor",
@@ -3187,8 +3187,8 @@
   "name_normalised": "t g cruse groundworks",
   "areas": [
    "groundworks",
-   "water_drainage",
-   "landscaping"
+   "landscaping",
+   "water_drainage"
   ],
   "types": [
    "groundworks_contractor",
@@ -3497,10 +3497,10 @@
   "areas": [
    "landscaping",
    "paving_patios",
-   "driveways",
+   "water_drainage",
    "fencing_boundaries",
    "decking_structures",
-   "water_drainage"
+   "driveways"
   ],
   "types": [
    "landscape_contractor",
@@ -3607,10 +3607,10 @@
   "name_normalised": "upton garden fencing",
   "areas": [
    "fencing_boundaries",
+   "trees_vegetation",
    "lawns_grounds",
    "landscaping",
-   "decking_structures",
-   "trees_vegetation"
+   "decking_structures"
   ],
   "types": [
    "fencing_contractor",
