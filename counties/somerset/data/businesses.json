@@ -530,8 +530,8 @@
   "name_normalised": "maple garden management",
   "areas": [
    "lawns_grounds",
-   "trees_vegetation",
-   "landscaping"
+   "landscaping",
+   "trees_vegetation"
   ],
   "types": [
    "grounds_maintenance",
@@ -1156,8 +1156,8 @@
   "name_normalised": "boarder landscapes",
   "areas": [
    "landscaping",
-   "groundworks",
-   "lawns_grounds"
+   "lawns_grounds",
+   "groundworks"
   ],
   "types": [
    "landscape_gardener",
@@ -1256,8 +1256,8 @@
   "areas": [
    "fencing_boundaries",
    "paving_patios",
-   "landscaping",
-   "decking_structures"
+   "decking_structures",
+   "landscaping"
   ],
   "types": [
    "fencing_contractor",
@@ -1573,8 +1573,8 @@
   "name_normalised": "town tree landscaping",
   "areas": [
    "landscaping",
-   "trees_vegetation",
-   "lawns_grounds"
+   "lawns_grounds",
+   "trees_vegetation"
   ],
   "types": [
    "landscape_gardener",
