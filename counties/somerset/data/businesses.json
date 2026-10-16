@@ -326,8 +326,8 @@
   "name_normalised": "kingfisher landscapes design",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "driveways"
+   "driveways",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -636,8 +636,8 @@
   "name_normalised": "premier fencing",
   "areas": [
    "fencing_boundaries",
-   "landscaping",
-   "decking_structures"
+   "decking_structures",
+   "landscaping"
   ],
   "types": [
    "fencing_contractor",
@@ -744,8 +744,8 @@
   "name_normalised": "somerset landscapes",
   "areas": [
    "landscaping",
-   "lawns_grounds",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "lawns_grounds"
   ],
   "types": [
    "commercial_landscaper",
@@ -950,8 +950,8 @@
   "name_normalised": "valletta surfacing",
   "areas": [
    "surfacing",
-   "paving_patios",
-   "driveways"
+   "driveways",
+   "paving_patios"
   ],
   "types": [
    "surfacing_contractor",
@@ -1156,8 +1156,8 @@
   "name_normalised": "boarder landscapes",
   "areas": [
    "landscaping",
-   "lawns_grounds",
-   "groundworks"
+   "groundworks",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
@@ -1255,9 +1255,9 @@
   "name_normalised": "fox fencing landscaping",
   "areas": [
    "fencing_boundaries",
+   "decking_structures",
    "paving_patios",
-   "landscaping",
-   "decking_structures"
+   "landscaping"
   ],
   "types": [
    "fencing_contractor",
@@ -1573,8 +1573,8 @@
   "name_normalised": "town tree landscaping",
   "areas": [
    "landscaping",
-   "lawns_grounds",
-   "trees_vegetation"
+   "trees_vegetation",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
