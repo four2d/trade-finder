@@ -51,3 +51,11 @@
 - 00:05 BST: Enrichment: 46 more CH-only firms given websites/phones (Hampshire queue + Poole/Bournemouth/Christchurch), raw_2026-10-16a
 
 - 01:26 BST: Somerset Companies House SIC discovery (TA, BA1-11/16/20-22, BS22-29/31/39-41/48-49) added; Somerset in progress; no further counties
+
+## 2026-10-16 07:00–07:50 BST — Issue 02 · daily run (Dorset, Hampshire, Wiltshire, Somerset; no new counties)
+- **Companies House:** new tool `tools/ch_recent.py` — companies incorporated or dissolved 1–16 Oct 2026 under the 16 trade SIC codes, nationwide, kept only for active-county postcode areas (2,667 rows seen, 187 kept). 9 newly registered companies added as leads (needs check); no known trading firm was newly dissolved. Build now lets the newest Companies House check win.
+- **Enrichment (work/raw_2026-10-16b.py):** 29 Companies House-only leads in Wiltshire (14) and Somerset (15) given public websites/phones (web search + home/contact pages, robots respected, 4 s pacing). Skipped where the match was unclear (JW Treecare, O'Callaghan Tree Surgeons, Easton Landscapes, Treecycle, A & G Surfacing, C&C Landscaping, Conservation Fencing). Leeds Landscapes marked out of scope (trades in Leeds).
+- **Fix:** web-checked firms beyond 25 miles but inside an active county were wrongly flagged "serves the area only", which kept ~220 of them out of search, the map and the counts. Now shown normally (checked firms 176 → 398). Also removed a stray non-plan area ("lighting") from one old record.
+- **Page:** the issue line in the hero ran under the yellow cover panel on desktop, hiding the date; it now wraps inside the black half (mobile unchanged).
+- **QC:** dup domains 0, dup company numbers 0, dup phones 1 (Gaia Landscapes and Henley Gardeners: separate companies sharing one office number — kept, explained); checked firms with phone or website 87% (target 90%); confidence ≥0.5 88% (target 90%); spot check 9/10 (the one miss was a directory page now returning 404 — source removed); screenshots desktop + mobile checked.
+- **Blocked / not used:** Checkatrade, Yell, MyBuilder (search snippets only); sites with robots disallow (Fencesmart, West Country Lawns, Genesis Gardens, Baber, Allsorts, Pave-Rite) not fetched; Thomson Local returned 403.

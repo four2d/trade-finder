@@ -1,5 +1,1677 @@
 [
  {
+  "id": "tf_22c26baa",
+  "name": "Baber Plant Hire and Groundworks",
+  "legal_name": "BABER PLANT HIRE AND GROUNDWORKS LIMITED",
+  "name_normalised": "baber plant hire groundworks",
+  "areas": [
+   "groundworks",
+   "water_drainage"
+  ],
+  "types": [
+   "groundworks_contractor",
+   "plant_hire",
+   "drainage_contractor"
+  ],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Frome",
+  "postcode": "BA11",
+  "lat": 51.23271412966108,
+  "lng": -2.324636457627118,
+  "distance_miles": 38.7,
+  "serves_area_only": false,
+  "phone": "01373 467845",
+  "phone_e164": "+441373467845",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.babercivils.co.uk/ground.html",
+  "domain": "babercivils.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.23271412966108&mlon=-2.324636457627118#map=13/51.23271412966108/-2.324636457627118",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "04318363",
+   "status": "active",
+   "incorporated": "2001-11-07",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04318363"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 25,
+  "accreditations": [],
+  "services_notes": "Plant hire, site preparation, demolition, drainage and excavations, Frome; phone from directory listings (site blocks robots)",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.babercivils.co.uk/ground.html",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "directory",
+    "url": "https://frome.city-advisor.uk/baber-plant-hire-groundworks-ltd/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/04318363",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
+  "id": "tf_9db2c66f",
+  "name": "Howe Tree Surgery",
+  "legal_name": "HOWE TREE SURGERY LTD",
+  "name_normalised": "howe tree surgery",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon",
+   "arboricultural_consultant",
+   "stump_grinding"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Ilminster",
+  "postcode": "TA19",
+  "lat": 50.935381339366494,
+  "lng": -2.9161899117647083,
+  "distance_miles": 43.3,
+  "serves_area_only": false,
+  "phone": "07841 202304",
+  "phone_e164": "+447841202304",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.howetreeconsultants.co.uk",
+  "domain": "howetreeconsultants.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.935381339366494&mlon=-2.9161899117647083#map=13/50.935381339366494/-2.9161899117647083",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13076519",
+   "status": "active",
+   "incorporated": "2020-12-11",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13076519"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Trades as Howe Tree Consultants: tree surgery, surveys, stump grinding; Somerset, Dorset, Devon & Cornwall; registered waste carrier (Environment Agency CBDL519539)",
+  "badges": [
+   "top_pick",
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.howetreeconsultants.co.uk/contact",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "environment_agency",
+    "url": "https://environment.data.gov.uk/public-register/waste-carriers-brokers/registration/CBDL519539",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "waste_carrier"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13076519",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
+  "id": "tf_e2330d35",
+  "name": "JM Fencing & Landscaping",
+  "legal_name": "JM FENCING & LANDSCAPING LTD",
+  "name_normalised": "jm fencing landscaping",
+  "areas": [
+   "fencing_boundaries",
+   "landscaping",
+   "paving_patios",
+   "lawns_grounds"
+  ],
+  "types": [
+   "fencing_contractor",
+   "landscape_gardener",
+   "patio_installer"
+  ],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Beckington, Frome",
+  "postcode": "BA11",
+  "lat": 51.23271412966108,
+  "lng": -2.324636457627118,
+  "distance_miles": 38.7,
+  "serves_area_only": false,
+  "phone": "07753 100890",
+  "phone_e164": "+447753100890",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.jmfltd.com",
+  "domain": "jmfltd.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.23271412966108&mlon=-2.324636457627118#map=13/51.23271412966108/-2.324636457627118",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12686347",
+   "status": "active",
+   "incorporated": "2020-06-20",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12686347"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Fencing, patios, turfing, garden makeovers and maintenance, residential & commercial; Mon-Fri 8-5, Sat 9-12:30 (directory)",
+  "badges": [
+   "top_pick",
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.jmfltd.com/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "myjobquote",
+    "url": "https://www.myjobquote.co.uk/t/jm-fencing-landscaping-ltd",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing",
+     "hours"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12686347",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
+  "id": "tf_b2f521f3",
+  "name": "Kingfisher Landscapes and Design",
+  "legal_name": "KINGFISHER LANDSCAPES AND DESIGN LIMITED",
+  "name_normalised": "kingfisher landscapes design",
+  "areas": [
+   "landscaping",
+   "driveways",
+   "paving_patios"
+  ],
+  "types": [
+   "landscape_gardener",
+   "garden_designer",
+   "driveway_installer"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Henstridge",
+  "postcode": "BA8",
+  "lat": 50.996437051886794,
+  "lng": -2.411889712264151,
+  "distance_miles": 26.9,
+  "serves_area_only": false,
+  "phone": "07971 108436",
+  "phone_e164": "+447971108436",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "http://www.kingfisherlandscapesanddesign.co.uk/",
+  "domain": "kingfisherlandscapesanddesign.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.996437051886794&mlon=-2.411889712264151#map=13/50.996437051886794/-2.411889712264151",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09324119",
+   "status": "active",
+   "incorporated": "2014-11-24",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09324119"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 12,
+  "accreditations": [],
+  "services_notes": "Garden design, hard & soft landscaping and driveways, Henstridge (Somerset/Dorset border)",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.kingfisherlandscapesanddesign.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09324119",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
+  "id": "tf_586a00a3",
+  "name": "Lockett Tree Surgery",
+  "legal_name": "LOCKETT TREE SURGERY LTD",
+  "name_normalised": "lockett tree surgery",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon",
+   "stump_grinding"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Podimore, Yeovil",
+  "postcode": "BA22",
+  "lat": 50.97004692795032,
+  "lng": -2.639008920496894,
+  "distance_miles": 33.5,
+  "serves_area_only": false,
+  "phone": "07747 127023",
+  "phone_e164": "+447747127023",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://locketttreesurgery.com",
+  "domain": "locketttreesurgery.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.97004692795032&mlon=-2.639008920496894#map=13/50.97004692795032/-2.639008920496894",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "15016213",
+   "status": "active",
+   "incorporated": "2023-07-20",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/15016213"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 3,
+  "accreditations": [],
+  "services_notes": "Domestic & commercial tree surgery, arboriculture, woodland management and stump removal across Somerset and the South West",
+  "badges": [
+   "top_pick",
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://locketttreesurgery.com/contact-us/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://locketttreesurgery.com/services/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/15016213",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
+  "id": "tf_fa0d598e",
+  "name": "Maple Garden Management",
+  "legal_name": "MAPLE GARDEN MANAGEMENT LTD",
+  "name_normalised": "maple garden management",
+  "areas": [
+   "lawns_grounds",
+   "landscaping",
+   "trees_vegetation"
+  ],
+  "types": [
+   "grounds_maintenance",
+   "garden_maintenance"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Yeovil",
+  "postcode": "BA21",
+  "lat": 50.95210559767139,
+  "lng": -2.6338878369987038,
+  "distance_miles": 32.6,
+  "serves_area_only": false,
+  "phone": "01935 872018",
+  "phone_e164": "+441935872018",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.maplegardenmanagement.co.uk",
+  "domain": "maplegardenmanagement.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.95210559767139&mlon=-2.6338878369987038#map=13/50.95210559767139/-2.6338878369987038",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "05464679",
+   "status": "active",
+   "incorporated": "2005-05-26",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05464679"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 21,
+  "accreditations": [],
+  "services_notes": "Garden & grounds maintenance for homes, schools, hotels, care homes and estates across Dorset & Somerset: soft landscaping, lawn & tree care, clearance",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.maplegardenmanagement.co.uk/contact",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://www.maplegardenmanagement.co.uk/private-services",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05464679",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
+  "id": "tf_402ed78d",
+  "name": "Premier Fencing",
+  "legal_name": "PREMIER FENCING LTD",
+  "name_normalised": "premier fencing",
+  "areas": [
+   "fencing_boundaries",
+   "decking_structures",
+   "landscaping"
+  ],
+  "types": [
+   "fencing_contractor",
+   "fencing_supplier",
+   "gate_installer"
+  ],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Cheddar",
+  "postcode": "BS27",
+  "lat": 51.2727041262459,
+  "lng": -2.7729325182724236,
+  "distance_miles": 51.5,
+  "serves_area_only": false,
+  "phone": "01934 733380",
+  "phone_e164": "+441934733380",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://premierfencing.biz",
+  "domain": "premierfencing.biz",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.2727041262459&mlon=-2.7729325182724236#map=13/51.2727041262459/-2.7729325182724236",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "05736075",
+   "status": "active",
+   "incorporated": "2006-03-09",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05736075"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 20,
+  "accreditations": [],
+  "services_notes": "Domestic, commercial & agricultural fencing supply and installation, gates, sheds, decking, landscaping, turfing; yard at Labourham Business Park, Cheddar (registered office Ilminster)",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://premierfencing.biz/contact-us/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://premierfencing.biz/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05736075",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
+  "id": "tf_c60237a9",
+  "name": "Somerset Landscapes",
+  "legal_name": "SOMERSET LANDSCAPES LIMITED",
+  "name_normalised": "somerset landscapes",
+  "areas": [
+   "landscaping",
+   "lawns_grounds",
+   "fencing_boundaries"
+  ],
+  "types": [
+   "commercial_landscaper",
+   "grounds_maintenance",
+   "fencing_contractor"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Yeovil",
+  "postcode": "BA22",
+  "lat": 50.97004692795032,
+  "lng": -2.639008920496894,
+  "distance_miles": 33.5,
+  "serves_area_only": false,
+  "phone": "01935 471734",
+  "phone_e164": "+441935471734",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://somersetlandscapes.co.uk",
+  "domain": "somersetlandscapes.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.97004692795032&mlon=-2.639008920496894#map=13/50.97004692795032/-2.639008920496894",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "02857721",
+   "status": "active",
+   "incorporated": "1993-09-28",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/02857721"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 33,
+  "accreditations": [],
+  "services_notes": "Commercial landscaping & grounds maintenance contractor (Houndstone Business Park): playgrounds, fencing & gates, synthetic grass, thermoplastic markings, shelters",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://somersetlandscapes.co.uk/contacts/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://somersetlandscapes.co.uk/about-us/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/02857721",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
+  "id": "tf_f3648a36",
+  "name": "Toomer Tree Services",
+  "legal_name": "TOOMER TREE SERVICES LIMITED",
+  "name_normalised": "toomer tree",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon",
+   "stump_grinding",
+   "hedge_maintenance",
+   "site_clearance"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Templecombe",
+  "postcode": "BA8",
+  "lat": 50.996437051886794,
+  "lng": -2.411889712264151,
+  "distance_miles": 26.9,
+  "serves_area_only": false,
+  "phone": "01963 250088",
+  "phone_e164": "+441963250088",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.toomertreeservices.com",
+  "domain": "toomertreeservices.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.996437051886794&mlon=-2.411889712264151#map=13/50.996437051886794/-2.411889712264151",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14473965",
+   "status": "active",
+   "incorporated": "2022-11-09",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14473965"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Tree surgery, pruning, felling, hedge cutting, site clearance, stump grinding and storm damage; Milborne Port/Templecombe area; mobile 07515 030611",
+  "badges": [
+   "top_pick",
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.toomertreeservices.com/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14473965",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
+  "id": "tf_985ee260",
+  "name": "Valletta Surfacing",
+  "legal_name": "VALLETTA SURFACING LIMITED",
+  "name_normalised": "valletta surfacing",
+  "areas": [
+   "surfacing",
+   "driveways",
+   "paving_patios"
+  ],
+  "types": [
+   "surfacing_contractor",
+   "tarmac_driveway",
+   "block_paving"
+  ],
+  "primary_area": "surfacing",
+  "address": null,
+  "town": "Standerwick, Frome",
+  "postcode": "BA11",
+  "lat": 51.23271412966108,
+  "lng": -2.324636457627118,
+  "distance_miles": 38.7,
+  "serves_area_only": false,
+  "phone": "01373 823827",
+  "phone_e164": "+441373823827",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.vallettasurfacing.co.uk",
+  "domain": "vallettasurfacing.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.23271412966108&mlon=-2.324636457627118#map=13/51.23271412966108/-2.324636457627118",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "01554885",
+   "status": "active",
+   "incorporated": "1981-04-06",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/01554885"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 45,
+  "accreditations": [],
+  "services_notes": "Driveways, paving and asphalt/macadam surfacing, Frome",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.vallettasurfacing.co.uk/contact",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/01554885",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
+  "id": "tf_f8c7abb5",
+  "name": "Walton Civil Engineering",
+  "legal_name": "WALTON CIVIL ENGINEERING AND SURFACING CONTRACTORS LIMITED",
+  "name_normalised": "walton civil engineering",
+  "areas": [
+   "surfacing",
+   "groundworks"
+  ],
+  "types": [
+   "civil_engineering",
+   "surfacing_contractor"
+  ],
+  "primary_area": "surfacing",
+  "address": null,
+  "town": "Shepton Mallet",
+  "postcode": "BA4",
+  "lat": 51.17234376019187,
+  "lng": -2.5318817242206215,
+  "distance_miles": 39.5,
+  "serves_area_only": false,
+  "phone": "01749 333800",
+  "phone_e164": "+441749333800",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://waltonltd.com",
+  "domain": "waltonltd.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.17234376019187&mlon=-2.5318817242206215#map=13/51.17234376019187/-2.5318817242206215",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "03457890",
+   "status": "active",
+   "incorporated": "1997-10-30",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/03457890"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 29,
+  "accreditations": [],
+  "services_notes": "Utility reinstatement and surfacing contractor across southern England; Shepton Mallet head office with depots incl. Poole (BH12) and Southampton; mainly commercial/utility work",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://waltonltd.com/contact/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address",
+     "company_number"
+    ]
+   },
+   {
+    "source": "web_search",
+    "url": "https://waltonltd.com/utility-reinstatement/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/03457890",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
+  "id": "tf_b6e9975a",
+  "name": "Boarder Landscapes",
+  "legal_name": "BOARDER LANDSCAPES LTD",
+  "name_normalised": "boarder landscapes",
+  "areas": [
+   "landscaping",
+   "lawns_grounds",
+   "groundworks"
+  ],
+  "types": [
+   "landscape_gardener",
+   "garden_maintenance"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "North Cadbury, Yeovil",
+  "postcode": "BA22",
+  "lat": 50.97004692795032,
+  "lng": -2.639008920496894,
+  "distance_miles": 33.5,
+  "serves_area_only": false,
+  "phone": "01963 440071",
+  "phone_e164": "+441963440071",
+  "phone_type": "landline",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.97004692795032&mlon=-2.639008920496894#map=13/50.97004692795032/-2.639008920496894",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14456666",
+   "status": "active",
+   "incorporated": "2022-11-02",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14456666"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Garden maintenance & clearance, lawn care, landscaping/groundworks and natural swimming ponds; mobile 07894 913601; listed on the Castle Cary business directory",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "no_website"
+  ],
+  "score": 13,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 9,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "directory",
+    "url": "https://castle-cary.co.uk/businesses/boarder-landscapes/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14456666",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
+  "id": "tf_9da240d8",
+  "name": "Fox Fencing and Landscaping",
+  "legal_name": "FOX FENCING AND LANDSCAPING LTD",
+  "name_normalised": "fox fencing landscaping",
+  "areas": [
+   "fencing_boundaries",
+   "landscaping",
+   "paving_patios",
+   "decking_structures"
+  ],
+  "types": [
+   "fencing_contractor",
+   "landscape_gardener"
+  ],
+  "primary_area": "fencing_boundaries",
+  "address": null,
+  "town": "Blatchbridge, Frome",
+  "postcode": "BA11",
+  "lat": 51.23271412966108,
+  "lng": -2.324636457627118,
+  "distance_miles": 38.7,
+  "serves_area_only": false,
+  "phone": "07928 893372",
+  "phone_e164": "+447928893372",
+  "phone_type": "mobile",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.23271412966108&mlon=-2.324636457627118#map=13/51.23271412966108/-2.324636457627118",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "15928290",
+   "status": "active",
+   "incorporated": "2024-09-01",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/15928290"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 2,
+  "accreditations": [],
+  "services_notes": "Fencing, patios, pergolas, trellis, garden maintenance and landscaping, Frome; listed as a Jacksons Fencing installer; no own website found",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "no_website"
+  ],
+  "score": 13,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 9,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "directory",
+    "url": "https://www.jacksons-fencing.co.uk/fence-installation/somerset/fox-fencing-and-landscaping",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing",
+     "phone"
+    ]
+   },
+   {
+    "source": "press",
+    "url": "https://www.frometimes.co.uk/fox-fencing-landscaping/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/15928290",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
+  "id": "tf_d09b8daa",
+  "name": "Mike Ball Surfacing",
+  "legal_name": "MIKE BALL SURFACING LIMITED",
+  "name_normalised": "mike ball surfacing",
+  "areas": [
+   "surfacing"
+  ],
+  "types": [
+   "surfacing_contractor"
+  ],
+  "primary_area": "surfacing",
+  "address": null,
+  "town": "Frome",
+  "postcode": "BA11",
+  "lat": 51.23271412966108,
+  "lng": -2.324636457627118,
+  "distance_miles": 38.7,
+  "serves_area_only": false,
+  "phone": "01373 451348",
+  "phone_e164": "+441373451348",
+  "phone_type": "landline",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.23271412966108&mlon=-2.324636457627118#map=13/51.23271412966108/-2.324636457627118",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "03421644",
+   "status": "active",
+   "incorporated": "1997-08-19",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/03421644"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 29,
+  "accreditations": [],
+  "services_notes": "Road surfacing contractor, Frome; phone from directory listings only",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established",
+   "no_website"
+  ],
+  "score": 13,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 9,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "directory",
+    "url": "https://www.theconstructionindex.co.uk/company/Mike-Ball-surfacing-ltd/98091",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "directory",
+    "url": "https://www.wegetyoufound.co.uk/listings/mike-ball-surfacing-ltd/frome/road-construction-company",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/03421644",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
+  "id": "tf_73177c06",
+  "name": "West Country Lawns",
+  "legal_name": "WEST COUNTRY LAWNS LTD",
+  "name_normalised": "west country lawns",
+  "areas": [
+   "lawns_grounds",
+   "landscaping"
+  ],
+  "types": [
+   "lawn_care"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Galhampton, Yeovil",
+  "postcode": "BA22",
+  "lat": 50.97004692795032,
+  "lng": -2.639008920496894,
+  "distance_miles": 33.5,
+  "serves_area_only": false,
+  "phone": "01963 458045",
+  "phone_e164": "+441963458045",
+  "phone_type": "landline",
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.97004692795032&mlon=-2.639008920496894#map=13/50.97004692795032/-2.639008920496894",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "07513946",
+   "status": "active",
+   "incorporated": "2011-02-02",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07513946"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 15,
+  "accreditations": [],
+  "services_notes": "Family-run lawn maintenance & landscaping (scarifying, aerating, seasonal treatments) across Somerset, Dorset & Wiltshire; phone from directory listings; own site blocks robots so not checked",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established",
+   "no_website"
+  ],
+  "score": 13,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 9,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "directory",
+    "url": "https://yeovil.cylex-uk.co.uk/company/west-country-lawns-ltd-22204794.html",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "directory",
+    "url": "https://mawlawn.com/catalog/yeovil/lawn-care-service/west-country-lawns-ltd-5518/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07513946",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
+  "id": "tf_f0706c64",
+  "name": "Town Tree Landscaping",
+  "legal_name": "TOWN TREE LANDSCAPING LIMITED",
+  "name_normalised": "town tree landscaping",
+  "areas": [
+   "landscaping",
+   "lawns_grounds",
+   "trees_vegetation"
+  ],
+  "types": [
+   "landscape_gardener",
+   "garden_maintenance"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Martock",
+  "postcode": "TA12",
+  "lat": 50.97485088235294,
+  "lng": -2.773556170588233,
+  "distance_miles": 38.7,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://towntreelandscaping.co.uk",
+  "domain": "towntreelandscaping.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.97485088235294&mlon=-2.773556170588233#map=13/50.97485088235294/-2.773556170588233",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14626139",
+   "status": "active",
+   "incorporated": "2023-01-30",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14626139"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 3,
+  "accreditations": [],
+  "services_notes": "Landscaping and garden maintenance (lawns, tree trimming, hard landscaping, clearance), Martock; MyBuilder profile seen via search only; no phone on home/contact pages",
+  "badges": [
+   "top_pick",
+   "ltd_company"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://towntreelandscaping.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "services"
+    ]
+   },
+   {
+    "source": "mybuilder",
+    "url": "https://www.mybuilder.com/profile/town_tree_landscaping_65",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14626139",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
   "id": "tf_fe12fb27",
   "name": "Tavernor Fencing",
   "legal_name": "TAVERNOR FENCING LTD",
@@ -18,7 +1690,7 @@
   "lat": 50.935381339366494,
   "lng": -2.9161899117647083,
   "distance_miles": 43.3,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -55,6 +1727,7 @@
   "accreditations": [],
   "services_notes": "Agricultural, equine, domestic & industrial fencing, repairs and fallen-tree removal; Somerset, East Devon & Dorset; Yell listing (Companies House office is in BA12)",
   "badges": [
+   "top_pick",
    "ltd_company",
    "no_website"
   ],
@@ -4571,6 +6244,97 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_c3bdd8d1",
+  "name": "A2B Maintenance",
+  "legal_name": "A2B MAINTENANCE LTD",
+  "name_normalised": "a2b maintenance",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Somerset",
+  "postcode": "TA24",
+  "lat": 51.206,
+  "lng": -3.479,
+  "distance_miles": 73.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "17508978",
+   "status": "active",
+   "incorporated": "2026-10-08",
+   "dissolved": null,
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/17508978"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 0,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "new_business"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/17508978",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_0a2ebba9",
   "name": "Aa Pike Plant",
   "legal_name": "AA PIKE PLANT LTD",
@@ -6831,7 +8595,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17509785",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -6842,7 +8606,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -20283,99 +22047,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_97109857",
-  "name": "Baber Plant Hire And Groundworks",
-  "legal_name": "BABER PLANT HIRE AND GROUNDWORKS LIMITED",
-  "name_normalised": "baber plant hire groundworks",
-  "areas": [
-   "groundworks"
-  ],
-  "types": [],
-  "primary_area": "groundworks",
-  "address": null,
-  "town": "Frome",
-  "postcode": "BA11",
-  "lat": 51.221,
-  "lng": -2.322,
-  "distance_miles": 37.8,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "04318363",
-   "status": "active",
-   "incorporated": "2001-11-07",
-   "dissolved": null,
-   "sic": [
-    "41202",
-    "43110",
-    "43120"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/04318363"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 25,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 41202, 43110, 43120",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/04318363",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_0aa4d1cd",
   "name": "Backwell Construction Services",
   "legal_name": "BACKWELL CONSTRUCTION SERVICES LTD",
@@ -25385,98 +27056,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/07891146",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_9d269a9e",
-  "name": "Boarder Landscapes",
-  "legal_name": "BOARDER LANDSCAPES LTD",
-  "name_normalised": "boarder landscapes",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Yeovil",
-  "postcode": "BA22",
-  "lat": 51.046,
-  "lng": -2.549,
-  "distance_miles": 33.5,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "14456666",
-   "status": "active",
-   "incorporated": "2022-11-02",
-   "dissolved": null,
-   "sic": [
-    "41100",
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/14456666"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 4,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 41100, 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/14456666",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -55935,98 +57514,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_c16619d8",
-  "name": "Fox Fencing And Landscaping",
-  "legal_name": "FOX FENCING AND LANDSCAPING LTD",
-  "name_normalised": "fox fencing landscaping",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "fencing_boundaries"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Frome",
-  "postcode": "BA11",
-  "lat": 51.211,
-  "lng": -2.322,
-  "distance_miles": 37.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "15928290",
-   "status": "active",
-   "incorporated": "2024-09-01",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/15928290"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 2,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/15928290",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_dd7ba61c",
   "name": "Frame: Design-Construct",
   "legal_name": "FRAME: DESIGN-CONSTRUCT LIMITED",
@@ -70180,97 +71667,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_3e86aaf1",
-  "name": "Howe Tree Surgery",
-  "legal_name": "HOWE TREE SURGERY LTD",
-  "name_normalised": "howe tree surgery",
-  "areas": [
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "trees_vegetation",
-  "address": null,
-  "town": "Ilminster",
-  "postcode": "TA19",
-  "lat": 50.927,
-  "lng": -2.906,
-  "distance_miles": 42.7,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13076519",
-   "status": "active",
-   "incorporated": "2020-12-11",
-   "dissolved": null,
-   "sic": [
-    "02100",
-    "02400"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13076519"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 6,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 02100, 02400",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13076519",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_504a94cc",
   "name": "Howlett&Co Window Cleaning",
   "legal_name": "HOWLETT&CO WINDOW CLEANING LTD",
@@ -73905,7 +75301,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17523853",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -73916,7 +75312,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -75012,6 +76408,97 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_12a3d090",
+  "name": "J R Steel",
+  "legal_name": "J R STEEL LIMITED",
+  "name_normalised": "j r steel",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Bristol",
+  "postcode": "BS20",
+  "lat": 51.483,
+  "lng": -2.796,
+  "distance_miles": 63.6,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "17506419",
+   "status": "active",
+   "incorporated": "2026-10-07",
+   "dissolved": null,
+   "sic": [
+    "42990"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/17506419"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 0,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 42990",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "new_business"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/17506419",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -76638,7 +78125,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17510793",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -76649,7 +78136,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -77093,98 +78580,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/13001647",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_efaae0f2",
-  "name": "JM Fencing & Landscaping",
-  "legal_name": "JM FENCING & LANDSCAPING LTD",
-  "name_normalised": "jm fencing landscaping",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "fencing_boundaries"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Somerset",
-  "postcode": "BA11",
-  "lat": 51.269,
-  "lng": -2.286,
-  "distance_miles": 40.4,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "12686347",
-   "status": "active",
-   "incorporated": "2020-06-20",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/12686347"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 6,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/12686347",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -84242,98 +85637,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_912a53b7",
-  "name": "Kingfisher Landscapes And Design",
-  "legal_name": "KINGFISHER LANDSCAPES AND DESIGN LIMITED",
-  "name_normalised": "kingfisher landscapes design",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Henstridge",
-  "postcode": "BA8",
-  "lat": 50.974,
-  "lng": -2.393,
-  "distance_miles": 25.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "09324119",
-   "status": "active",
-   "incorporated": "2014-11-24",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/09324119"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 12,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/09324119",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_95edee86",
   "name": "Kingfisher Tree Services",
   "legal_name": "KINGFISHER TREE SERVICES LTD",
@@ -87628,6 +88931,98 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_dad917e6",
+  "name": "Landscapes West SW",
+  "legal_name": "LANDSCAPES WEST SW LTD",
+  "name_normalised": "landscapes west sw",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Clevedon",
+  "postcode": "BS21",
+  "lat": 51.437,
+  "lng": -2.852,
+  "distance_miles": 62.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "17495560",
+   "status": "active",
+   "incorporated": "2026-10-02",
+   "dissolved": null,
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/17495560"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 0,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "new_business"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/17495560",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_a4935689",
   "name": "Landscaping Works (Sw)",
   "legal_name": "LANDSCAPING WORKS (SW) LTD",
@@ -90353,99 +91748,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/07657483",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_31aa5c75",
-  "name": "Lockett Tree Surgery",
-  "legal_name": "LOCKETT TREE SURGERY LTD",
-  "name_normalised": "lockett tree surgery",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Somerset",
-  "postcode": "BA20",
-  "lat": 50.943,
-  "lng": -2.632,
-  "distance_miles": 32.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "15016213",
-   "status": "active",
-   "incorporated": "2023-07-20",
-   "dissolved": null,
-   "sic": [
-    "02400",
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/15016213"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 3,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 02400, 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/15016213",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -96932,7 +98234,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17501062",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -96943,7 +98245,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -97570,98 +98872,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/08643132",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_72ad3b0b",
-  "name": "Maple Garden Management",
-  "legal_name": "MAPLE GARDEN MANAGEMENT LTD",
-  "name_normalised": "maple garden management",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Yeovil",
-  "postcode": "BA21",
-  "lat": 50.951,
-  "lng": -2.636,
-  "distance_miles": 32.7,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "05464679",
-   "status": "active",
-   "incorporated": "2005-05-26",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/05464679"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 21,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/05464679",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -101128,98 +102338,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/05812399",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_882fddad",
-  "name": "Mike Ball Surfacing",
-  "legal_name": "MIKE BALL SURFACING LIMITED",
-  "name_normalised": "mike ball surfacing",
-  "areas": [
-   "surfacing",
-   "driveways"
-  ],
-  "types": [],
-  "primary_area": "surfacing",
-  "address": null,
-  "town": "Frome",
-  "postcode": "BA11",
-  "lat": 51.24,
-  "lng": -2.293,
-  "distance_miles": 38.6,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "03421644",
-   "status": "active",
-   "incorporated": "1997-08-19",
-   "dissolved": null,
-   "sic": [
-    "42110"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/03421644"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 29,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 42110",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/03421644",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -117672,6 +118790,97 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_c64952c4",
+  "name": "Portishead Brickwork",
+  "legal_name": "PORTISHEAD BRICKWORK LTD",
+  "name_normalised": "portishead brickwork",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Bristol",
+  "postcode": "BS20",
+  "lat": 51.472,
+  "lng": -2.777,
+  "distance_miles": 62.5,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "17510720",
+   "status": "active",
+   "incorporated": "2026-10-09",
+   "dissolved": null,
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/17510720"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 0,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "new_business"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/17510720",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_7a06522d",
   "name": "Posh Wash Showers",
   "legal_name": "POSH WASH SHOWERS LIMITED",
@@ -117926,97 +119135,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/01284079",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_18ca9ba7",
-  "name": "Premier Fencing",
-  "legal_name": "PREMIER FENCING LTD",
-  "name_normalised": "premier fencing",
-  "areas": [
-   "fencing_boundaries"
-  ],
-  "types": [],
-  "primary_area": "fencing_boundaries",
-  "address": null,
-  "town": "Somerset",
-  "postcode": "TA19",
-  "lat": 50.927,
-  "lng": -2.909,
-  "distance_miles": 42.8,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "05736075",
-   "status": "active",
-   "incorporated": "2006-03-09",
-   "dissolved": null,
-   "sic": [
-    "43999"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/05736075"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 20,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/05736075",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -142057,98 +143175,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_fddbe2e8",
-  "name": "Somerset Landscapes",
-  "legal_name": "SOMERSET LANDSCAPES LIMITED",
-  "name_normalised": "somerset landscapes",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Yeovil",
-  "postcode": "BA22",
-  "lat": 50.947,
-  "lng": -2.674,
-  "distance_miles": 34.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "02857721",
-   "status": "active",
-   "incorporated": "1993-09-28",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/02857721"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 33,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/02857721",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_52149240",
   "name": "Somerset Lawn Care",
   "legal_name": "SOMERSET LAWN CARE LTD",
@@ -154943,96 +155969,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_a778ec97",
-  "name": "Three Counties Groundworks",
-  "legal_name": "THREE COUNTIES GROUNDWORKS LTD",
-  "name_normalised": "three counties groundworks",
-  "areas": [
-   "groundworks"
-  ],
-  "types": [],
-  "primary_area": "groundworks",
-  "address": null,
-  "town": "Sherborne",
-  "postcode": "DT9",
-  "lat": 51.007,
-  "lng": -2.479,
-  "distance_miles": 29.5,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "15182908",
-   "status": "active",
-   "incorporated": "2023-10-03",
-   "dissolved": null,
-   "sic": [
-    "43120"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/15182908"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 3,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43120",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/15182908",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_07fce70b",
   "name": "Three Counties Landscaping",
   "legal_name": "THREE COUNTIES LANDSCAPING LIMITED",
@@ -156861,98 +157797,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_a3d23856",
-  "name": "Toomer Tree Services",
-  "legal_name": "TOOMER TREE SERVICES LIMITED",
-  "name_normalised": "toomer tree",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Templecombe",
-  "postcode": "BA8",
-  "lat": 50.974,
-  "lng": -2.417,
-  "distance_miles": 25.9,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "14473965",
-   "status": "active",
-   "incorporated": "2022-11-09",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/14473965"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 4,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/14473965",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_debbff61",
   "name": "Top Glass Exterior Cleaning",
   "legal_name": "TOP GLASS EXTERIOR CLEANING LTD",
@@ -157760,98 +158604,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17451609",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_dc461828",
-  "name": "Town Tree Landscaping",
-  "legal_name": "TOWN TREE LANDSCAPING LIMITED",
-  "name_normalised": "town tree landscaping",
-  "areas": [
-   "landscaping",
-   "trees_vegetation"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Martock",
-  "postcode": "TA12",
-  "lat": 50.996,
-  "lng": -2.791,
-  "distance_miles": 40.1,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "14626139",
-   "status": "active",
-   "incorporated": "2023-01-30",
-   "dissolved": null,
-   "sic": [
-    "43999",
-    "94990"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/14626139"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 3,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43999, 94990",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/14626139",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -164105,98 +164857,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_06ddfa71",
-  "name": "Walton Civil Engineering And Surfacing Contractors",
-  "legal_name": "WALTON CIVIL ENGINEERING AND SURFACING CONTRACTORS LIMITED",
-  "name_normalised": "walton civil engineering surfacing contractors",
-  "areas": [
-   "surfacing",
-   "driveways"
-  ],
-  "types": [],
-  "primary_area": "surfacing",
-  "address": null,
-  "town": "Yellingmill Lane",
-  "postcode": "BA4",
-  "lat": 51.204,
-  "lng": -2.528,
-  "distance_miles": 41.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "03457890",
-   "status": "active",
-   "incorporated": "1997-10-30",
-   "dissolved": null,
-   "sic": [
-    "42110"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/03457890"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 29,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 42110",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/03457890",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_2784077c",
   "name": "Ward Tree Surgeons",
   "legal_name": "WARD TREE SURGEONS LTD",
@@ -164914,7 +165574,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17507688",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -164925,7 +165585,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -166374,98 +167034,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/05356663",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_0b84c2d6",
-  "name": "West Country Lawns",
-  "legal_name": "WEST COUNTRY LAWNS LTD",
-  "name_normalised": "west country lawns",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Yeovil",
-  "postcode": "BA22",
-  "lat": 51.063,
-  "lng": -2.522,
-  "distance_miles": 33.5,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "07513946",
-   "status": "active",
-   "incorporated": "2011-02-02",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/07513946"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 15,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/07513946",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -196006,7 +196574,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16455230",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -196017,7 +196585,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -202419,7 +202987,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/08546341",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -202430,7 +202998,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -230260,7 +230828,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/15898385",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -230271,7 +230839,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -257205,7 +257773,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/15739435",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -257216,7 +257784,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -279555,7 +280123,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/15599592",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -279566,7 +280134,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -281979,7 +282547,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16010167",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -281990,7 +282558,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",

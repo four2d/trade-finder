@@ -249,7 +249,7 @@
   "lat": 50.913493505154676,
   "lng": -1.0116185544100806,
   "distance_miles": 44.7,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07999 748792",
   "phone_e164": "+447999748792",
   "phone_type": "mobile",
@@ -294,6 +294,7 @@
   ],
   "services_notes": "Domestic & commercial fencing (close board, palisade, chain link), made-to-measure gates, retaining walls, decking; Horndean, 20+ yrs",
   "badges": [
+   "top_pick",
    "highly_rated",
    "vetted",
    "ltd_company"
@@ -364,7 +365,7 @@
   "lat": 50.8828287314376,
   "lng": -1.0408509581358616,
   "distance_miles": 42.9,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07921 997272",
   "phone_e164": "+447921997272",
   "phone_type": "mobile",
@@ -409,6 +410,7 @@
   ],
   "services_notes": "Tree & garden specialists since 2008, led by ex-police officer Stephen Cornwell: felling, crown work, hedges, stump grinding, TPO applications; near Fareham, across Hampshire, West Sussex & Dorset",
   "badges": [
+   "top_pick",
    "highly_rated",
    "vetted",
    "ltd_company",
@@ -469,8 +471,8 @@
    "landscaping",
    "lawns_grounds",
    "fencing_boundaries",
-   "trees_vegetation",
-   "paving_patios"
+   "paving_patios",
+   "trees_vegetation"
   ],
   "types": [
    "landscape_gardener"
@@ -482,7 +484,7 @@
   "lat": 50.913493505154676,
   "lng": -1.0116185544100806,
   "distance_miles": 44.7,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07886 072285",
   "phone_e164": "+447886072285",
   "phone_type": "mobile",
@@ -527,6 +529,7 @@
   ],
   "services_notes": "Family-run since 2014 (owner ex-police officer Chris Dinenage): patios, paths, fencing & gates, artificial grass & turf, makeovers, tree work; Waterlooville & Hambledon",
   "badges": [
+   "top_pick",
    "highly_rated",
    "vetted",
    "ltd_company",
@@ -596,7 +599,7 @@
   "lat": 51.22726043797464,
   "lng": -1.1631869291139239,
   "distance_miles": 50.4,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07446 478667",
   "phone_e164": "+447446478667",
   "phone_type": "mobile",
@@ -642,6 +645,7 @@
   ],
   "services_notes": "Tree surgery, felling, pruning, pollarding, stump grinding, emergency work; Overton, serving Basingstoke/Winchester/Andover/Newbury",
   "badges": [
+   "top_pick",
    "highly_rated",
    "vetted",
    "ltd_company"
@@ -701,10 +705,10 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "fencing_boundaries",
+   "decking_structures",
    "driveways",
-   "paving_patios",
-   "decking_structures"
+   "fencing_boundaries",
+   "paving_patios"
   ],
   "types": [
    "garden_designer",
@@ -718,7 +722,7 @@
   "lat": 50.94776630678472,
   "lng": -1.2099190191740428,
   "distance_miles": 37.5,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07862 136707",
   "phone_e164": "+447862136707",
   "phone_type": "mobile",
@@ -761,6 +765,7 @@
   "accreditations": [],
   "services_notes": "Garden design (CAD/3D) & build: patios, walling, block/permeable/tarmac drives, decking, pergolas, ponds, lawns, maintenance; Botley; founder holds HND Garden Design (Sparsholt)",
   "badges": [
+   "top_pick",
    "highly_rated",
    "vetted",
    "ltd_company",
@@ -820,10 +825,10 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "fencing_boundaries",
+   "decking_structures",
    "driveways",
-   "paving_patios",
-   "decking_structures"
+   "fencing_boundaries",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -837,7 +842,7 @@
   "lat": 50.969068031060594,
   "lng": -1.3405471606060608,
   "distance_miles": 33.2,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07939 515577",
   "phone_e164": "+447939515577",
   "phone_type": "mobile",
@@ -880,6 +885,7 @@
   "accreditations": [],
   "services_notes": "Landscaping, block/gravel/concrete drives, patios, fencing & gates, commercial grounds maintenance; Havant/Portsmouth area",
   "badges": [
+   "top_pick",
    "highly_rated",
    "vetted",
    "ltd_company"
@@ -937,10 +943,10 @@
   "name_normalised": "garden force",
   "areas": [
    "lawns_grounds",
+   "landscaping",
    "fencing_boundaries",
-   "trees_vegetation",
    "paving_patios",
-   "landscaping"
+   "trees_vegetation"
   ],
   "types": [
    "garden_maintenance",
@@ -954,7 +960,7 @@
   "lat": 50.838742153327,
   "lng": -1.2193512468659595,
   "distance_miles": 34.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07361 585491",
   "phone_e164": "+447361585491",
   "phone_type": "mobile",
@@ -999,6 +1005,7 @@
   ],
   "services_notes": "Garden maintenance, hard & soft landscaping, tree care since 1999; Fareham; Checkatrade listing is in director James Phelan's name (sole-trader profile, member since 2009)",
   "badges": [
+   "top_pick",
    "highly_rated",
    "vetted",
    "ltd_company",
@@ -1064,7 +1071,7 @@
   "lat": 50.969068031060594,
   "lng": -1.3405471606060608,
   "distance_miles": 33.2,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01962 601010",
   "phone_e164": "+441962601010",
   "phone_type": "landline",
@@ -1110,6 +1117,7 @@
   ],
   "services_notes": "Family-run tree surgery & grounds maintenance, 20+ yrs, 24-hr call-out; Eastleigh/Winchester, covers Dorset & Wiltshire too",
   "badges": [
+   "top_pick",
    "highly_rated",
    "vetted",
    "ltd_company",
@@ -1169,10 +1177,10 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "fencing_boundaries",
+   "decking_structures",
    "driveways",
-   "paving_patios",
-   "decking_structures"
+   "fencing_boundaries",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -1284,9 +1292,9 @@
   "name_normalised": "resin works south",
   "areas": [
    "driveways",
+   "water_drainage",
    "surfacing",
-   "paving_patios",
-   "water_drainage"
+   "paving_patios"
   ],
   "types": [
    "resin_driveway",
@@ -1300,7 +1308,7 @@
   "lat": 50.838742153327,
   "lng": -1.2193512468659595,
   "distance_miles": 34.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07966 276849",
   "phone_e164": "+447966276849",
   "phone_type": "mobile",
@@ -1343,6 +1351,7 @@
   "accreditations": [],
   "services_notes": "Resin-bound drives, patios & paths, block & permeable paving, drop kerbs, soakaways; Fareham",
   "badges": [
+   "top_pick",
    "highly_rated",
    "vetted",
    "ltd_company"
@@ -1401,10 +1410,10 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
+   "decking_structures",
    "fencing_boundaries",
-   "trees_vegetation",
    "paving_patios",
-   "decking_structures"
+   "trees_vegetation"
   ],
   "types": [
    "landscape_gardener",
@@ -1418,7 +1427,7 @@
   "lat": 50.84687819321675,
   "lng": -1.3948305734840696,
   "distance_miles": 27.4,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07360 278941",
   "phone_e164": "+447360278941",
   "phone_type": "mobile",
@@ -1461,6 +1470,7 @@
   "accreditations": [],
   "services_notes": "Family-run landscaping: turf & artificial grass, patios, driveways, fencing, decking, hedges, pressure washing, maintenance; Checkatrade says public liability insurance unverified",
   "badges": [
+   "top_pick",
    "highly_rated",
    "vetted",
    "ltd_company"
@@ -1519,9 +1529,9 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
+   "decking_structures",
    "fencing_boundaries",
-   "paving_patios",
-   "decking_structures"
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -1534,7 +1544,7 @@
   "lat": 50.98608225930229,
   "lng": -1.3836618406976733,
   "distance_miles": 32.3,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "023 8168 4209",
   "phone_e164": "+442381684209",
   "phone_type": "landline",
@@ -1634,8 +1644,8 @@
   "name_normalised": "post to post fencing landscaping",
   "areas": [
    "fencing_boundaries",
-   "lawns_grounds",
-   "decking_structures"
+   "decking_structures",
+   "lawns_grounds"
   ],
   "types": [
    "fencing_contractor"
@@ -1647,7 +1657,7 @@
   "lat": 50.913493505154676,
   "lng": -1.0116185544100806,
   "distance_miles": 44.7,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07830 319507",
   "phone_e164": "+447830319507",
   "phone_type": "mobile",
@@ -1690,6 +1700,7 @@
   "accreditations": [],
   "services_notes": "All fencing types, gates, storm repairs, sheds, log/bin stores, pergolas, turfing; Cowplain & south-east Hampshire, 24-hr call-out",
   "badges": [
+   "top_pick",
    "highly_rated",
    "vetted",
    "ltd_company",
@@ -1752,7 +1763,7 @@
   "lat": 51.11658237582134,
   "lng": -0.8504970197109066,
   "distance_miles": 56.8,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01420 257074",
   "phone_e164": "+441420257074",
   "phone_type": "landline",
@@ -1795,6 +1806,7 @@
   "accreditations": [],
   "services_notes": "Blocked drains, CCTV surveys, relining, soakaways, septic tanks & treatment plants, land drains, 24-hr call-out, no call-out charge; Bordon (owner Danny Pinhorn)",
   "badges": [
+   "top_pick",
    "highly_rated",
    "vetted",
    "ltd_company"
@@ -1866,7 +1878,7 @@
   "lat": 50.99613051078327,
   "lng": -1.5036176583427916,
   "distance_miles": 28.7,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07723 448016",
   "phone_e164": "+447723448016",
   "phone_type": "mobile",
@@ -1909,6 +1921,7 @@
   "accreditations": [],
   "services_notes": "Fencing, gates, decking, sheds, pergolas, sleeper work & brickwork; 20+ yrs experience; 24-hr call-out",
   "badges": [
+   "top_pick",
    "highly_rated",
    "vetted",
    "ltd_company",
@@ -1961,9 +1974,9 @@
   "areas": [
    "driveways",
    "lawns_grounds",
+   "landscaping",
    "groundworks",
-   "paving_patios",
-   "landscaping"
+   "paving_patios"
   ],
   "types": [
    "driveway_installer",
@@ -1977,7 +1990,7 @@
   "lat": 50.918498526060624,
   "lng": -1.3021756351515137,
   "distance_miles": 33.0,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07360 269242",
   "phone_e164": "+447360269242",
   "phone_type": "mobile",
@@ -2020,6 +2033,7 @@
   "accreditations": [],
   "services_notes": "Block-paved driveways, patios & paths, hard & soft landscaping, artificial grass, brickwork; Hedge End",
   "badges": [
+   "top_pick",
    "highly_rated",
    "vetted",
    "ltd_company",
@@ -2071,10 +2085,10 @@
   "name_normalised": "mc groundworks",
   "areas": [
    "groundworks",
-   "fencing_boundaries",
+   "water_drainage",
    "driveways",
-   "paving_patios",
-   "water_drainage"
+   "fencing_boundaries",
+   "paving_patios"
   ],
   "types": [
    "groundworks_contractor",
@@ -2191,10 +2205,10 @@
   "name_normalised": "meon valley surfacing",
   "areas": [
    "driveways",
+   "landscaping",
    "groundworks",
    "surfacing",
-   "paving_patios",
-   "landscaping"
+   "paving_patios"
   ],
   "types": [
    "driveway_installer",
@@ -2208,7 +2222,7 @@
   "lat": 50.94776630678472,
   "lng": -1.2099190191740428,
   "distance_miles": 37.5,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07366 310522",
   "phone_e164": "+447366310522",
   "phone_type": "mobile",
@@ -2251,6 +2265,7 @@
   "accreditations": [],
   "services_notes": "Family-run (25+ yrs) tarmac, block paving, resin, concrete & permeable driveways, patios, groundworks; Waltham Chase",
   "badges": [
+   "top_pick",
    "highly_rated",
    "vetted",
    "ltd_company",
@@ -2304,9 +2319,9 @@
    "landscaping",
    "lawns_grounds",
    "groundworks",
+   "decking_structures",
    "fencing_boundaries",
-   "paving_patios",
-   "decking_structures"
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -2319,7 +2334,7 @@
   "lat": 50.969068031060594,
   "lng": -1.3405471606060608,
   "distance_miles": 33.2,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07717 336149",
   "phone_e164": "+447717336149",
   "phone_type": "mobile",
@@ -2419,9 +2434,9 @@
   "areas": [
    "driveways",
    "lawns_grounds",
-   "paving_patios",
+   "landscaping",
    "decking_structures",
-   "landscaping"
+   "paving_patios"
   ],
   "types": [
    "block_paving",
@@ -2514,7 +2529,7 @@
  {
   "id": "tf_e00b0ba1",
   "name": "Peter Yeates Arboriculture",
-  "legal_name": null,
+  "legal_name": "PETER YEATES ARBORICULTURE LTD",
   "name_normalised": "peter yeates arboriculture",
   "areas": [
    "trees_vegetation"
@@ -2557,20 +2572,29 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": null,
+  "companies_house": {
+   "number": "14039979",
+   "status": "active",
+   "incorporated": "2022-04-11",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14039979"
+  },
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "unknown",
+  "business_form": "ltd",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Tree surgeon based in Winchester; covers Hampshire",
+  "services_notes": "Tree surgeon based in Winchester; covers Hampshire. Matched by name + district to PETER YEATES ARBORICULTURE LTD (check)",
   "badges": [
    "highly_rated",
    "vetted",
    "no_website",
-   "needs_check"
+   "needs_check",
+   "ltd_company"
   ],
   "score": 56,
   "score_breakdown": {
@@ -2580,8 +2604,8 @@
    "contact": 9,
    "distance": 0
   },
-  "confidence": 0.3,
-  "merge_review": false,
+  "confidence": 0.5,
+  "merge_review": true,
   "sources": [
    {
     "source": "checkatrade",
@@ -2592,6 +2616,15 @@
      "reviews",
      "phone",
      "base"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14039979",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status"
     ]
    }
   ],
@@ -2620,7 +2653,7 @@
   "lat": 51.13878135159447,
   "lng": -0.9872055903515946,
   "distance_miles": 52.5,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01420 571455",
   "phone_e164": "+441420571455",
   "phone_type": "landline",
@@ -2663,6 +2696,7 @@
   "accreditations": [],
   "services_notes": "Garden maintenance since 2017: hedges & trees, lawn treatment, clearance, mulching, pond cleaning; Alton (owner Tom Skinner)",
   "badges": [
+   "top_pick",
    "vetted",
    "ltd_company"
   ],
@@ -2725,7 +2759,7 @@
   "lat": 51.06691423962514,
   "lng": -1.3351634578313247,
   "distance_miles": 37.4,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07456 443605",
   "phone_e164": "+447456443605",
   "phone_type": "mobile",
@@ -2762,6 +2796,7 @@
   "accreditations": [],
   "services_notes": "Driveways & patios throughout Hampshire",
   "badges": [
+   "top_pick",
    "highly_rated",
    "vetted",
    "no_website",
@@ -2819,7 +2854,7 @@
   "lat": 50.93675223994808,
   "lng": -1.4335212872892342,
   "distance_miles": 28.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07367 072634",
   "phone_e164": "+447367072634",
   "phone_type": "mobile",
@@ -2909,7 +2944,7 @@
   "lat": 50.8828287314376,
   "lng": -1.0408509581358616,
   "distance_miles": 42.9,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07890 261347",
   "phone_e164": "+447890261347",
   "phone_type": "mobile",
@@ -2953,6 +2988,7 @@
   ],
   "services_notes": "Family-run tree felling, stump grinding, crown work, hedges, TPO help; Waterlooville, across Hampshire, West Sussex & Surrey; Which? Trusted Trader",
   "badges": [
+   "top_pick",
    "ltd_company",
    "no_website"
   ],
@@ -3002,10 +3038,10 @@
   "name_normalised": "stay sure drives patios",
   "areas": [
    "driveways",
+   "landscaping",
    "surfacing",
    "paving_patios",
-   "exterior_cleaning",
-   "landscaping"
+   "exterior_cleaning"
   ],
   "types": [
    "driveway_installer",
@@ -3019,7 +3055,7 @@
   "lat": 50.918498526060624,
   "lng": -1.3021756351515137,
   "distance_miles": 33.0,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07846 727479",
   "phone_e164": "+447846727479",
   "phone_type": "mobile",
@@ -3221,9 +3257,9 @@
   "name_normalised": "salden groundworks",
   "areas": [
    "groundworks",
+   "water_drainage",
    "driveways",
-   "paving_patios",
-   "water_drainage"
+   "paving_patios"
   ],
   "types": [
    "groundworks_contractor",
@@ -3322,10 +3358,10 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "fencing_boundaries",
+   "decking_structures",
    "driveways",
-   "paving_patios",
-   "decking_structures"
+   "fencing_boundaries",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -3376,7 +3412,6 @@
   "accreditations": [],
   "services_notes": "Patios, driveways, decking, fencing, lawns, pergolas, garden walls & maintenance; Ringwood, Verwood, Ferndown, Wimborne, Bournemouth",
   "badges": [
-   "top_pick",
    "ltd_company"
   ],
   "score": 27,
@@ -3425,10 +3460,10 @@
   "areas": [
    "landscaping",
    "groundworks",
-   "fencing_boundaries",
+   "decking_structures",
    "driveways",
-   "paving_patios",
-   "decking_structures"
+   "fencing_boundaries",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -3479,7 +3514,6 @@
   "accreditations": [],
   "services_notes": "Family-run hard landscaping & groundworks: patios, paths, driveways, bases, drainage, fencing, decking, artificial grass; 50-mile radius of Ringwood",
   "badges": [
-   "top_pick",
    "ltd_company",
    "new_business"
   ],
@@ -3576,7 +3610,6 @@
   "accreditations": [],
   "services_notes": "Garden design across Dorset & Hampshire; 'Together' border (with Maggie's Southampton) won Platinum & Best Beautiful Border at BBC Gardeners' World Spring Fair 2024",
   "badges": [
-   "top_pick",
    "ltd_company"
   ],
   "score": 25,
@@ -3776,7 +3809,6 @@
   "accreditations": [],
   "services_notes": "Asphalt, tarmac & block paving; 8-yr guarantee",
   "badges": [
-   "top_pick",
    "ltd_company",
    "established"
   ],
@@ -3822,9 +3854,9 @@
   "name_normalised": "powell paving",
   "areas": [
    "driveways",
+   "landscaping",
    "surfacing",
-   "paving_patios",
-   "landscaping"
+   "paving_patios"
   ],
   "types": [
    "driveway_installer",
@@ -3875,7 +3907,6 @@
   "accreditations": [],
   "services_notes": "Block paving driveways, patios, tarmac, shingle & landscaping; New Milton, Southampton, Eastleigh, Winchester, Romsey",
   "badges": [
-   "top_pick",
    "ltd_company",
    "established"
   ],
@@ -3924,10 +3955,10 @@
   "name_normalised": "redcliffe landscape gardeners",
   "areas": [
    "landscaping",
+   "water_drainage",
    "lawns_grounds",
    "fencing_boundaries",
-   "paving_patios",
-   "water_drainage"
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -3978,7 +4009,6 @@
   "accreditations": [],
   "services_notes": "Garden design, landscaping & maintenance: patios, fences, walls, ponds, artificial grass; Bashley, New Milton, 25-mile radius",
   "badges": [
-   "top_pick",
    "ltd_company",
    "established"
   ],
@@ -4027,8 +4057,8 @@
   "name_normalised": "adam sidford gardens",
   "areas": [
    "landscaping",
-   "lawns_grounds",
-   "driveways"
+   "driveways",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
@@ -4137,7 +4167,7 @@
   "lat": 50.9970158333334,
   "lng": -0.9033223495370369,
   "distance_miles": 51.1,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01730 825650",
   "phone_e164": "+441730825650",
   "phone_type": "landline",
@@ -4243,7 +4273,7 @@
   "lat": 51.08454683999997,
   "lng": -1.1469950577777779,
   "distance_miles": 44.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01962 388241",
   "phone_e164": "+441962388241",
   "phone_type": "landline",
@@ -4282,6 +4312,7 @@
   ],
   "services_notes": "Groundworks, civils, drainage, environmental works & plant hire for commercial & residential projects; Itchen Stoke, Alresford",
   "badges": [
+   "top_pick",
    "ltd_company",
    "established"
   ],
@@ -4343,7 +4374,7 @@
   "lat": 51.00908239568338,
   "lng": -0.9690636276978426,
   "distance_miles": 48.8,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01730 893233",
   "phone_e164": "+441730893233",
   "phone_type": "landline",
@@ -4440,7 +4471,7 @@
   "lat": 50.94776630678472,
   "lng": -1.2099190191740428,
   "distance_miles": 37.5,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01489 332092",
   "phone_e164": "+441489332092",
   "phone_type": "landline",
@@ -4534,9 +4565,9 @@
   "name_normalised": "boswell s driveways topspec driveways",
   "areas": [
    "driveways",
+   "landscaping",
    "surfacing",
-   "paving_patios",
-   "landscaping"
+   "paving_patios"
   ],
   "types": [
    "driveway_installer",
@@ -4551,7 +4582,7 @@
   "lat": 51.29408621835679,
   "lng": -0.7637510014803839,
   "distance_miles": 66.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "0800 048 7883",
   "phone_e164": "+448000487883",
   "phone_type": "freephone",
@@ -4658,7 +4689,7 @@
   "lat": 51.19725267784551,
   "lng": -0.7967173333333336,
   "distance_miles": 61.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01252 850637",
   "phone_e164": "+441252850637",
   "phone_type": "landline",
@@ -4753,8 +4784,8 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "paving_patios",
-   "decking_structures"
+   "decking_structures",
+   "paving_patios"
   ],
   "types": [
    "garden_designer",
@@ -4767,7 +4798,7 @@
   "lat": 50.94776630678472,
   "lng": -1.2099190191740428,
   "distance_miles": 37.5,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01489 779998",
   "phone_e164": "+441489779998",
   "phone_type": "landline",
@@ -4872,7 +4903,7 @@
   "lat": 51.40346681390379,
   "lng": -1.3376042695187147,
   "distance_miles": 55.3,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07736 121863",
   "phone_e164": "+447736121863",
   "phone_type": "mobile",
@@ -4965,8 +4996,8 @@
   "name_normalised": "kieron beattie landscaping kbl",
   "areas": [
    "landscaping",
-   "lawns_grounds",
-   "paving_patios"
+   "paving_patios",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_contractor",
@@ -4979,7 +5010,7 @@
   "lat": 51.22798149575935,
   "lng": -1.5131923284502697,
   "distance_miles": 41.0,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01264 352533",
   "phone_e164": "+441264352533",
   "phone_type": "landline",
@@ -5072,10 +5103,10 @@
   "name_normalised": "roni phillips landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "decking_structures",
    "driveways",
-   "paving_patios",
-   "decking_structures"
+   "fencing_boundaries",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -5089,7 +5120,7 @@
   "lat": 50.969068031060594,
   "lng": -1.3405471606060608,
   "distance_miles": 33.2,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "023 8019 7529",
   "phone_e164": "+442380197529",
   "phone_type": "landline",
@@ -5195,7 +5226,7 @@
   "lat": 51.08454683999997,
   "lng": -1.1469950577777779,
   "distance_miles": 44.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07736 159529",
   "phone_e164": "+447736159529",
   "phone_type": "mobile",
@@ -5234,6 +5265,7 @@
   ],
   "services_notes": "Family-run fencing & gate automation: steel palisade, close board, hardwood & automated gates; Ropley",
   "badges": [
+   "top_pick",
    "ltd_company"
   ],
   "score": 23,
@@ -5280,9 +5312,9 @@
   "name_normalised": "swift fencing landscaping",
   "areas": [
    "fencing_boundaries",
-   "paving_patios",
+   "landscaping",
    "decking_structures",
-   "landscaping"
+   "paving_patios"
   ],
   "types": [
    "fencing_contractor",
@@ -5380,10 +5412,10 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "fencing_boundaries",
    "driveways",
-   "trees_vegetation",
-   "paving_patios"
+   "fencing_boundaries",
+   "paving_patios",
+   "trees_vegetation"
   ],
   "types": [
    "landscape_gardener",
@@ -5397,7 +5429,7 @@
   "lat": 51.07566155960266,
   "lng": -0.8044133046357618,
   "distance_miles": 57.3,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01428 652222",
   "phone_e164": "+441428652222",
   "phone_type": "landline",
@@ -5506,7 +5538,7 @@
   "lat": 51.22726043797464,
   "lng": -1.1631869291139239,
   "distance_miles": 50.4,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01256 397687",
   "phone_e164": "+441256397687",
   "phone_type": "landline",
@@ -5645,9 +5677,7 @@
   "years_trading": null,
   "accreditations": [],
   "services_notes": "Family firm based in Ringwood; driveways, patios, groundworks, exterior cleaning; Checkatrade member (score not shown in snippet)",
-  "badges": [
-   "top_pick"
-  ],
+  "badges": [],
   "score": 23,
   "score_breakdown": {
    "rating": 0,
@@ -5740,7 +5770,6 @@
   "accreditations": [],
   "services_notes": "Family-run fencing & gates, domestic and commercial (St Leonards, Ringwood); phone from its Yell listing",
   "badges": [
-   "top_pick",
    "ltd_company",
    "established",
    "no_website"
@@ -5898,7 +5927,7 @@
   "lat": 51.24801788659798,
   "lng": -1.1249309097938138,
   "distance_miles": 52.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01256 592952",
   "phone_e164": "+441256592952",
   "phone_type": "landline",
@@ -5996,7 +6025,7 @@
   "lat": 50.918498526060624,
   "lng": -1.3021756351515137,
   "distance_miles": 33.0,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07581 591254",
   "phone_e164": "+447581591254",
   "phone_type": "mobile",
@@ -6090,7 +6119,7 @@
   "lat": 50.94776630678472,
   "lng": -1.2099190191740428,
   "distance_miles": 37.5,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07786 704211",
   "phone_e164": "+447786704211",
   "phone_type": "mobile",
@@ -6184,7 +6213,7 @@
   "lat": 50.868839628734044,
   "lng": -1.2294448492176384,
   "distance_miles": 34.8,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01329 847114",
   "phone_e164": "+441329847114",
   "phone_type": "landline",
@@ -6268,8 +6297,8 @@
   "name_normalised": "all aspect garden design build",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "decking_structures"
+   "decking_structures",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -6282,7 +6311,7 @@
   "lat": 51.40346681390379,
   "lng": -1.3376042695187147,
   "distance_miles": 55.3,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01635 522702",
   "phone_e164": "+441635522702",
   "phone_type": "landline",
@@ -6378,7 +6407,7 @@
   "lat": 51.13878135159447,
   "lng": -0.9872055903515946,
   "distance_miles": 52.5,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01420 579071",
   "phone_e164": "+441420579071",
   "phone_type": "landline",
@@ -6474,7 +6503,7 @@
   "lat": 50.8508784904714,
   "lng": -1.159120852557673,
   "distance_miles": 37.4,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01329 739557",
   "phone_e164": "+441329739557",
   "phone_type": "landline",
@@ -6557,9 +6586,9 @@
   "name_normalised": "award resin",
   "areas": [
    "driveways",
+   "landscaping",
    "surfacing",
-   "paving_patios",
-   "landscaping"
+   "paving_patios"
   ],
   "types": [
    "resin_driveway",
@@ -6667,7 +6696,7 @@
   "lat": 50.99613051078327,
   "lng": -1.5036176583427916,
   "distance_miles": 28.7,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "02380 811300",
   "phone_e164": "+442380811300",
   "phone_type": "landline",
@@ -6751,10 +6780,10 @@
   "name_normalised": "bay landscape design",
   "areas": [
    "landscaping",
-   "driveways",
-   "paving_patios",
    "water_drainage",
-   "decking_structures"
+   "decking_structures",
+   "driveways",
+   "paving_patios"
   ],
   "types": [
    "garden_designer",
@@ -6767,7 +6796,7 @@
   "lat": 50.868839628734044,
   "lng": -1.2294448492176384,
   "distance_miles": 34.8,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "023 8000 2234",
   "phone_e164": "+442380002234",
   "phone_type": "landline",
@@ -6861,7 +6890,7 @@
   "lat": 50.969068031060594,
   "lng": -1.3405471606060608,
   "distance_miles": 33.2,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07799 335202",
   "phone_e164": "+447799335202",
   "phone_type": "mobile",
@@ -6955,7 +6984,7 @@
   "lat": 50.913493505154676,
   "lng": -1.0116185544100806,
   "distance_miles": 44.7,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "023 9259 1138",
   "phone_e164": "+442392591138",
   "phone_type": "landline",
@@ -7050,7 +7079,7 @@
   "lat": 51.29408621835679,
   "lng": -0.7637510014803839,
   "distance_miles": 66.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07786 656387",
   "phone_e164": "+447786656387",
   "phone_type": "mobile",
@@ -7148,7 +7177,7 @@
   "lat": 51.3398493542945,
   "lng": -1.129262219325154,
   "distance_miles": 57.0,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "0118 327 1450",
   "phone_e164": "+441183271450",
   "phone_type": "landline",
@@ -7251,7 +7280,7 @@
   "lat": 50.969068031060594,
   "lng": -1.3405471606060608,
   "distance_miles": 33.2,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07703 743885",
   "phone_e164": "+447703743885",
   "phone_type": "mobile",
@@ -7347,7 +7376,7 @@
   "lat": 51.30402350412246,
   "lng": -0.9482781024734976,
   "distance_miles": 60.8,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01256 883907",
   "phone_e164": "+441256883907",
   "phone_type": "landline",
@@ -7384,6 +7413,7 @@
   "accreditations": [],
   "services_notes": "Water gardens, ponds, lakes & water features: build, maintenance & pond supplies shop; store at Wildmoor Lane",
   "badges": [
+   "top_pick",
    "ltd_company",
    "established"
   ],
@@ -7450,7 +7480,7 @@
   "lat": 51.06691423962514,
   "lng": -1.3351634578313247,
   "distance_miles": 37.4,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07967 180074",
   "phone_e164": "+447967180074",
   "phone_type": "mobile",
@@ -7534,11 +7564,11 @@
   "name_normalised": "driveway builders",
   "areas": [
    "driveways",
-   "fencing_boundaries",
-   "paving_patios",
    "water_drainage",
+   "landscaping",
    "decking_structures",
-   "landscaping"
+   "fencing_boundaries",
+   "paving_patios"
   ],
   "types": [
    "driveway_installer",
@@ -7552,7 +7582,7 @@
   "lat": 51.3385787638484,
   "lng": -0.8319824198250733,
   "distance_miles": 66.2,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01252 874049",
   "phone_e164": "+441252874049",
   "phone_type": "landline",
@@ -7658,7 +7688,7 @@
   "lat": 50.969068031060594,
   "lng": -1.3405471606060608,
   "distance_miles": 33.2,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07305 219290",
   "phone_e164": "+447305219290",
   "phone_type": "mobile",
@@ -7754,7 +7784,7 @@
   "lat": 50.94776630678472,
   "lng": -1.2099190191740428,
   "distance_miles": 37.5,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01489 891618",
   "phone_e164": "+441489891618",
   "phone_type": "landline",
@@ -7856,7 +7886,7 @@
   "lat": 51.29408621835679,
   "lng": -0.7637510014803839,
   "distance_miles": 66.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "0800 072 5294",
   "phone_e164": "+448000725294",
   "phone_type": "freephone",
@@ -7959,7 +7989,7 @@
   "lat": 50.8828287314376,
   "lng": -1.0408509581358616,
   "distance_miles": 42.9,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07770 873509",
   "phone_e164": "+447770873509",
   "phone_type": "mobile",
@@ -8043,9 +8073,9 @@
   "name_normalised": "freed fencing landscaping",
   "areas": [
    "fencing_boundaries",
-   "paving_patios",
+   "landscaping",
    "decking_structures",
-   "landscaping"
+   "paving_patios"
   ],
   "types": [
    "fencing_contractor",
@@ -8058,7 +8088,7 @@
   "lat": 51.24801788659798,
   "lng": -1.1249309097938138,
   "distance_miles": 52.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07766 020580",
   "phone_e164": "+447766020580",
   "phone_type": "mobile",
@@ -8155,7 +8185,7 @@
   "lat": 50.969068031060594,
   "lng": -1.3405471606060608,
   "distance_miles": 33.2,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07858 290701",
   "phone_e164": "+447858290701",
   "phone_type": "mobile",
@@ -8250,7 +8280,7 @@
   "lat": 50.8828287314376,
   "lng": -1.0408509581358616,
   "distance_miles": 42.9,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01489 796373",
   "phone_e164": "+441489796373",
   "phone_type": "landline",
@@ -8287,6 +8317,7 @@
   "accreditations": [],
   "services_notes": "Road surfacing contractor: resurfacing, repairs, lining & markings; Waterlooville, across Hampshire",
   "badges": [
+   "top_pick",
    "ltd_company",
    "established"
   ],
@@ -8334,10 +8365,10 @@
   "name_normalised": "grb groundworks",
   "areas": [
    "groundworks",
-   "fencing_boundaries",
+   "water_drainage",
    "driveways",
-   "paving_patios",
-   "water_drainage"
+   "fencing_boundaries",
+   "paving_patios"
   ],
   "types": [
    "groundworks_contractor",
@@ -8350,7 +8381,7 @@
   "lat": 50.792086288135614,
   "lng": -0.9759515487288126,
   "distance_miles": 44.5,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07802 636499",
   "phone_e164": "+447802636499",
   "phone_type": "mobile",
@@ -8387,6 +8418,7 @@
   "accreditations": [],
   "services_notes": "Driveways (tarmac, block paving), patios, drainage, fencing, garden clearance; Hayling Island",
   "badges": [
+   "top_pick",
    "ltd_company"
   ],
   "score": 19,
@@ -8448,7 +8480,7 @@
   "lat": 50.9970158333334,
   "lng": -0.9033223495370369,
   "distance_miles": 51.1,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07887 696361",
   "phone_e164": "+447887696361",
   "phone_type": "mobile",
@@ -8544,7 +8576,7 @@
   "lat": 50.8508784904714,
   "lng": -1.159120852557673,
   "distance_miles": 37.4,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07724 316155",
   "phone_e164": "+447724316155",
   "phone_type": "mobile",
@@ -8628,8 +8660,8 @@
   "name_normalised": "gemini landscapes",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "decking_structures"
+   "decking_structures",
+   "paving_patios"
   ],
   "types": [
    "garden_designer",
@@ -8642,7 +8674,7 @@
   "lat": 50.94776630678472,
   "lng": -1.2099190191740428,
   "distance_miles": 37.5,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01962 771479",
   "phone_e164": "+441962771479",
   "phone_type": "landline",
@@ -8738,7 +8770,7 @@
   "lat": 51.00908239568338,
   "lng": -0.9690636276978426,
   "distance_miles": 48.8,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01428 724608",
   "phone_e164": "+441428724608",
   "phone_type": "landline",
@@ -8844,7 +8876,7 @@
   "lat": 51.075209395693086,
   "lng": -1.3165996890982516,
   "distance_miles": 38.4,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01962 777475",
   "phone_e164": "+441962777475",
   "phone_type": "landline",
@@ -8940,7 +8972,7 @@
   "lat": 50.99613051078327,
   "lng": -1.5036176583427916,
   "distance_miles": 28.7,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01794 367132",
   "phone_e164": "+441794367132",
   "phone_type": "landline",
@@ -9024,10 +9056,9 @@
   "name_normalised": "hallin garden projects",
   "areas": [
    "landscaping",
-   "lighting",
+   "decking_structures",
    "fencing_boundaries",
-   "paving_patios",
-   "decking_structures"
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -9040,7 +9071,7 @@
   "lat": 50.86342823013922,
   "lng": -0.9840968230958255,
   "distance_miles": 45.0,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07544 332822",
   "phone_e164": "+447544332822",
   "phone_type": "mobile",
@@ -9134,7 +9165,7 @@
   "lat": 50.913493505154676,
   "lng": -1.0116185544100806,
   "distance_miles": 44.7,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07872 605144",
   "phone_e164": "+447872605144",
   "phone_type": "mobile",
@@ -9171,6 +9202,7 @@
   "accreditations": [],
   "services_notes": "24-hr blocked drains, CCTV surveys, drain repair & relining, excavation; Clanfield, Waterlooville",
   "badges": [
+   "top_pick",
    "ltd_company"
   ],
   "score": 19,
@@ -9229,7 +9261,7 @@
   "lat": 50.792086288135614,
   "lng": -0.9759515487288126,
   "distance_miles": 44.5,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "023 9273 7768",
   "phone_e164": "+442392737768",
   "phone_type": "landline",
@@ -9320,9 +9352,9 @@
   "name_normalised": "hart drives landscapes",
   "areas": [
    "driveways",
+   "landscaping",
    "fencing_boundaries",
-   "paving_patios",
-   "landscaping"
+   "paving_patios"
   ],
   "types": [
    "driveway_installer",
@@ -9336,7 +9368,7 @@
   "lat": 51.22798149575935,
   "lng": -1.5131923284502697,
   "distance_miles": 41.0,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01256 324578",
   "phone_e164": "+441256324578",
   "phone_type": "landline",
@@ -9420,8 +9452,8 @@
   "name_normalised": "helyers of hampshire",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "driveways",
+   "fencing_boundaries",
    "paving_patios"
   ],
   "types": [
@@ -9436,7 +9468,7 @@
   "lat": 50.88990354191618,
   "lng": -1.1736089341317368,
   "distance_miles": 37.5,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01329 221955",
   "phone_e164": "+441329221955",
   "phone_type": "landline",
@@ -9526,9 +9558,9 @@
   "name_normalised": "hillary groundworks",
   "areas": [
    "groundworks",
-   "paving_patios",
    "water_drainage",
-   "landscaping"
+   "landscaping",
+   "paving_patios"
   ],
   "types": [
    "groundworks_contractor"
@@ -9540,7 +9572,7 @@
   "lat": 51.08454683999997,
   "lng": -1.1469950577777779,
   "distance_miles": 44.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01962 809233",
   "phone_e164": "+441962809233",
   "phone_type": "landline",
@@ -9624,10 +9656,10 @@
   "name_normalised": "howard sons landscapes",
   "areas": [
    "driveways",
-   "fencing_boundaries",
-   "paving_patios",
+   "landscaping",
    "decking_structures",
-   "landscaping"
+   "fencing_boundaries",
+   "paving_patios"
   ],
   "types": [
    "driveway_installer",
@@ -9641,7 +9673,7 @@
   "lat": 50.8828287314376,
   "lng": -1.0408509581358616,
   "distance_miles": 42.9,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07387 175161",
   "phone_e164": "+447387175161",
   "phone_type": "mobile",
@@ -9726,10 +9758,10 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "fencing_boundaries",
+   "exterior_cleaning",
    "driveways",
-   "paving_patios",
-   "exterior_cleaning"
+   "fencing_boundaries",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -9743,7 +9775,7 @@
   "lat": 50.98608225930229,
   "lng": -1.3836618406976733,
   "distance_miles": 32.3,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "023 8019 5253",
   "phone_e164": "+442380195253",
   "phone_type": "landline",
@@ -9847,7 +9879,7 @@
   "lat": 50.88990354191618,
   "lng": -1.1736089341317368,
   "distance_miles": 37.5,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "023 9246 4470",
   "phone_e164": "+442392464470",
   "phone_type": "landline",
@@ -9931,11 +9963,11 @@
   "name_normalised": "j gatcum landscaping",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "driveways",
-   "paving_patios",
    "water_drainage",
-   "decking_structures"
+   "decking_structures",
+   "driveways",
+   "fencing_boundaries",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -9949,7 +9981,7 @@
   "lat": 51.11658237582134,
   "lng": -0.8504970197109066,
   "distance_miles": 56.8,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07936 840508",
   "phone_e164": "+447936840508",
   "phone_type": "mobile",
@@ -10032,8 +10064,8 @@
   "name_normalised": "jbs fencing",
   "areas": [
    "fencing_boundaries",
-   "paving_patios",
-   "decking_structures"
+   "decking_structures",
+   "paving_patios"
   ],
   "types": [
    "fencing_contractor"
@@ -10045,7 +10077,7 @@
   "lat": 50.913493505154676,
   "lng": -1.0116185544100806,
   "distance_miles": 44.7,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "023 9226 2075",
   "phone_e164": "+442392262075",
   "phone_type": "landline",
@@ -10129,9 +10161,9 @@
   "name_normalised": "js landscapes groundworks",
   "areas": [
    "groundworks",
-   "driveways",
    "water_drainage",
-   "landscaping"
+   "landscaping",
+   "driveways"
   ],
   "types": [
    "groundworks_contractor",
@@ -10145,7 +10177,7 @@
   "lat": 50.9129986993524,
   "lng": -1.5039378621646613,
   "distance_miles": 25.1,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07802 670522",
   "phone_e164": "+447802670522",
   "phone_type": "mobile",
@@ -10182,6 +10214,7 @@
   "accreditations": [],
   "services_notes": "Excavation, foundations, drainage, site clearance, concrete bases, driveway prep, machine & operator hire; Southampton & New Forest",
   "badges": [
+   "top_pick",
    "ltd_company"
   ],
   "score": 19,
@@ -10240,7 +10273,7 @@
   "lat": 51.08454683999997,
   "lng": -1.1469950577777779,
   "distance_miles": 44.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01962 732786",
   "phone_e164": "+441962732786",
   "phone_type": "landline",
@@ -10337,7 +10370,7 @@
   "lat": 51.11658237582134,
   "lng": -0.8504970197109066,
   "distance_miles": 56.8,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07554 421621",
   "phone_e164": "+447554421621",
   "phone_type": "mobile",
@@ -10441,7 +10474,7 @@
   "lat": 51.29408621835679,
   "lng": -0.7637510014803839,
   "distance_miles": 66.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07779 803654",
   "phone_e164": "+447779803654",
   "phone_type": "mobile",
@@ -10537,7 +10570,7 @@
   "lat": 50.8508784904714,
   "lng": -1.159120852557673,
   "distance_miles": 37.4,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01329 310630",
   "phone_e164": "+441329310630",
   "phone_type": "landline",
@@ -10574,6 +10607,7 @@
   "accreditations": [],
   "services_notes": "Blocked drains & sewer clearance, CCTV surveys, drain repairs, soakaways, gutter cleaning; Fareham & Gosport",
   "badges": [
+   "top_pick",
    "ltd_company"
   ],
   "score": 19,
@@ -10632,7 +10666,7 @@
   "lat": 51.11644932369943,
   "lng": -1.5162979104046235,
   "distance_miles": 34.5,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01264 810564",
   "phone_e164": "+441264810564",
   "phone_type": "landline",
@@ -10729,7 +10763,7 @@
   "lat": 51.22726043797464,
   "lng": -1.1631869291139239,
   "distance_miles": 50.4,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01256 279587",
   "phone_e164": "+441256279587",
   "phone_type": "landline",
@@ -10812,8 +10846,8 @@
   "name_normalised": "location landscapes",
   "areas": [
    "lawns_grounds",
-   "trees_vegetation",
-   "landscaping"
+   "landscaping",
+   "trees_vegetation"
   ],
   "types": [
    "garden_maintenance",
@@ -10826,7 +10860,7 @@
   "lat": 50.9970158333334,
   "lng": -0.9033223495370369,
   "distance_miles": 51.1,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01730 239345",
   "phone_e164": "+441730239345",
   "phone_type": "landline",
@@ -10925,7 +10959,7 @@
   "lat": 51.29408621835679,
   "lng": -0.7637510014803839,
   "distance_miles": 66.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01252 376334",
   "phone_e164": "+441252376334",
   "phone_type": "landline",
@@ -11016,10 +11050,10 @@
   "name_normalised": "mls landscapes",
   "areas": [
    "driveways",
-   "fencing_boundaries",
-   "paving_patios",
    "water_drainage",
-   "landscaping"
+   "landscaping",
+   "fencing_boundaries",
+   "paving_patios"
   ],
   "types": [
    "driveway_installer",
@@ -11033,7 +11067,7 @@
   "lat": 50.8700666153199,
   "lng": -1.3004656439393945,
   "distance_miles": 31.9,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07815 923258",
   "phone_e164": "+447815923258",
   "phone_type": "mobile",
@@ -11129,7 +11163,7 @@
   "lat": 50.8828287314376,
   "lng": -1.0408509581358616,
   "distance_miles": 42.9,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "023 9236 5067",
   "phone_e164": "+442392365067",
   "phone_type": "landline",
@@ -11224,7 +11258,7 @@
   "lat": 51.19725267784551,
   "lng": -0.7967173333333336,
   "distance_miles": 61.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01420 521040",
   "phone_e164": "+441420521040",
   "phone_type": "landline",
@@ -11330,7 +11364,7 @@
   "lat": 51.21142456725753,
   "lng": -1.4846423628779981,
   "distance_miles": 40.7,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07872 567381",
   "phone_e164": "+447872567381",
   "phone_type": "mobile",
@@ -11413,9 +11447,9 @@
   "name_normalised": "new forest driveways",
   "areas": [
    "driveways",
-   "fencing_boundaries",
    "water_drainage",
-   "landscaping"
+   "landscaping",
+   "fencing_boundaries"
   ],
   "types": [
    "driveway_installer",
@@ -11430,7 +11464,7 @@
   "lat": 50.84687819321675,
   "lng": -1.3948305734840696,
   "distance_miles": 27.4,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "02381 022029",
   "phone_e164": "+442381022029",
   "phone_type": "landline",
@@ -11525,7 +11559,7 @@
   "lat": 50.93675223994808,
   "lng": -1.4335212872892342,
   "distance_miles": 28.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "023 8073 3442",
   "phone_e164": "+442380733442",
   "phone_type": "landline",
@@ -11622,7 +11656,7 @@
   "lat": 51.08454683999997,
   "lng": -1.1469950577777779,
   "distance_miles": 44.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07859 820692",
   "phone_e164": "+447859820692",
   "phone_type": "mobile",
@@ -11714,8 +11748,8 @@
   "areas": [
    "paving_patios",
    "lawns_grounds",
-   "fencing_boundaries",
-   "driveways"
+   "driveways",
+   "fencing_boundaries"
   ],
   "types": [
    "patio_installer",
@@ -11729,7 +11763,7 @@
   "lat": 51.328354933333344,
   "lng": -0.7883862300000003,
   "distance_miles": 67.2,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01252 261433",
   "phone_e164": "+441252261433",
   "phone_type": "landline",
@@ -11766,6 +11800,7 @@
   "accreditations": [],
   "services_notes": "Artificial grass, driveways, patios, paths, turf, fencing & groundwork; Camberley/Blackwater; Checkatrade profile (score not read); mobile 07932 039017",
   "badges": [
+   "top_pick",
    "ltd_company"
   ],
   "score": 19,
@@ -11819,10 +11854,10 @@
   "name_normalised": "pl landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "water_drainage",
    "driveways",
-   "paving_patios",
-   "water_drainage"
+   "fencing_boundaries",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -11835,7 +11870,7 @@
   "lat": 50.913493505154676,
   "lng": -1.0116185544100806,
   "distance_miles": 44.7,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07922 642434",
   "phone_e164": "+447922642434",
   "phone_type": "mobile",
@@ -11918,11 +11953,11 @@
   "name_normalised": "paragon landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "decking_structures",
    "driveways",
-   "trees_vegetation",
+   "fencing_boundaries",
    "paving_patios",
-   "decking_structures"
+   "trees_vegetation"
   ],
   "types": [
    "landscape_gardener",
@@ -11935,7 +11970,7 @@
   "lat": 51.281093559151785,
   "lng": -1.0790609029017866,
   "distance_miles": 55.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07767 072713",
   "phone_e164": "+447767072713",
   "phone_type": "mobile",
@@ -12029,7 +12064,7 @@
   "lat": 50.797861292523336,
   "lng": -1.1416340915887828,
   "distance_miles": 37.4,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07791 285235",
   "phone_e164": "+447791285235",
   "phone_type": "mobile",
@@ -12124,7 +12159,7 @@
   "lat": 51.07566155960266,
   "lng": -0.8044133046357618,
   "distance_miles": 57.3,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07730 515902",
   "phone_e164": "+447730515902",
   "phone_type": "mobile",
@@ -12226,7 +12261,7 @@
   "lat": 51.29408621835679,
   "lng": -0.7637510014803839,
   "distance_miles": 66.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01252 598871",
   "phone_e164": "+441252598871",
   "phone_type": "landline",
@@ -12316,8 +12351,8 @@
   "name_normalised": "robin pryer landscape craftsman",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "decking_structures"
+   "decking_structures",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener"
@@ -12329,7 +12364,7 @@
   "lat": 51.07566155960266,
   "lng": -0.8044133046357618,
   "distance_miles": 57.3,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01428 729902",
   "phone_e164": "+441428729902",
   "phone_type": "landline",
@@ -12424,7 +12459,7 @@
   "lat": 51.21142456725753,
   "lng": -1.4846423628779981,
   "distance_miles": 40.7,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "0800 002 5991",
   "phone_e164": "+448000025991",
   "phone_type": "freephone",
@@ -12507,9 +12542,9 @@
   "name_normalised": "rosie landscapes",
   "areas": [
    "landscaping",
+   "decking_structures",
    "driveways",
-   "paving_patios",
-   "decking_structures"
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -12523,7 +12558,7 @@
   "lat": 51.262970847191,
   "lng": -0.8394198516853932,
   "distance_miles": 62.7,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01252 819758",
   "phone_e164": "+441252819758",
   "phone_type": "landline",
@@ -12629,7 +12664,7 @@
   "lat": 50.9129986993524,
   "lng": -1.5039378621646613,
   "distance_miles": 25.1,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07769 706516",
   "phone_e164": "+447769706516",
   "phone_type": "mobile",
@@ -12715,8 +12750,8 @@
    "landscaping",
    "lawns_grounds",
    "fencing_boundaries",
-   "trees_vegetation",
-   "paving_patios"
+   "paving_patios",
+   "trees_vegetation"
   ],
   "types": [
    "landscape_contractor",
@@ -12729,7 +12764,7 @@
   "lat": 50.969068031060594,
   "lng": -1.3405471606060608,
   "distance_miles": 33.2,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "023 8069 2422",
   "phone_e164": "+442380692422",
   "phone_type": "landline",
@@ -12824,7 +12859,7 @@
   "lat": 51.075209395693086,
   "lng": -1.3165996890982516,
   "distance_miles": 38.4,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01962 587426",
   "phone_e164": "+441962587426",
   "phone_type": "landline",
@@ -12918,7 +12953,7 @@
   "lat": 50.812323362484136,
   "lng": -1.1811759885931556,
   "distance_miles": 35.9,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07903 882100",
   "phone_e164": "+447903882100",
   "phone_type": "mobile",
@@ -13019,7 +13054,7 @@
   "lat": 50.838742153327,
   "lng": -1.2193512468659595,
   "distance_miles": 34.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01329 661494",
   "phone_e164": "+441329661494",
   "phone_type": "landline",
@@ -13116,7 +13151,7 @@
   "lat": 51.11658237582134,
   "lng": -0.8504970197109066,
   "distance_miles": 56.8,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07850 247443",
   "phone_e164": "+447850247443",
   "phone_type": "mobile",
@@ -13200,10 +13235,10 @@
   "name_normalised": "tm landscapes garden design",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "decking_structures",
    "driveways",
-   "paving_patios",
-   "decking_structures"
+   "fencing_boundaries",
+   "paving_patios"
   ],
   "types": [
    "garden_designer",
@@ -13217,7 +13252,7 @@
   "lat": 50.918498526060624,
   "lng": -1.3021756351515137,
   "distance_miles": 33.0,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "023 8144 9950",
   "phone_e164": "+442381449950",
   "phone_type": "landline",
@@ -13300,11 +13335,11 @@
   "name_normalised": "terramax groundworks landscaping",
   "areas": [
    "groundworks",
-   "fencing_boundaries",
-   "driveways",
-   "paving_patios",
    "water_drainage",
-   "landscaping"
+   "landscaping",
+   "driveways",
+   "fencing_boundaries",
+   "paving_patios"
   ],
   "types": [
    "groundworks_contractor",
@@ -13317,7 +13352,7 @@
   "lat": 51.281093559151785,
   "lng": -1.0790609029017866,
   "distance_miles": 55.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07872 475977",
   "phone_e164": "+447872475977",
   "phone_type": "mobile",
@@ -13412,7 +13447,7 @@
   "lat": 50.98608225930229,
   "lng": -1.3836618406976733,
   "distance_miles": 32.3,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07890 574681",
   "phone_e164": "+447890574681",
   "phone_type": "mobile",
@@ -13506,7 +13541,7 @@
   "lat": 51.075209395693086,
   "lng": -1.3165996890982516,
   "distance_miles": 38.4,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01256 592953",
   "phone_e164": "+441256592953",
   "phone_type": "landline",
@@ -13600,7 +13635,7 @@
   "lat": 50.868839628734044,
   "lng": -1.2294448492176384,
   "distance_miles": 34.8,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01489 539604",
   "phone_e164": "+441489539604",
   "phone_type": "landline",
@@ -13696,7 +13731,7 @@
   "lat": 51.245952054744556,
   "lng": -0.9462613978102191,
   "distance_miles": 58.3,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07738 658511",
   "phone_e164": "+447738658511",
   "phone_type": "mobile",
@@ -13780,11 +13815,11 @@
   "name_normalised": "wessex gardeners",
   "areas": [
    "lawns_grounds",
-   "fencing_boundaries",
-   "trees_vegetation",
-   "paving_patios",
+   "landscaping",
    "decking_structures",
-   "landscaping"
+   "fencing_boundaries",
+   "paving_patios",
+   "trees_vegetation"
   ],
   "types": [
    "garden_maintenance",
@@ -13798,7 +13833,7 @@
   "lat": 50.8700666153199,
   "lng": -1.3004656439393945,
   "distance_miles": 31.9,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "023 8168 3949",
   "phone_e164": "+442381683949",
   "phone_type": "landline",
@@ -13835,6 +13870,7 @@
   "accreditations": [],
   "services_notes": "Family-run private & commercial garden care, grounds maintenance, tree work, paving, decking, fencing, makeovers; Southampton",
   "badges": [
+   "top_pick",
    "ltd_company",
    "established"
   ],
@@ -13893,7 +13929,7 @@
   "lat": 50.98608225930229,
   "lng": -1.3836618406976733,
   "distance_miles": 32.3,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "01962 392321",
   "phone_e164": "+441962392321",
   "phone_type": "landline",
@@ -14404,7 +14440,6 @@
   "accreditations": [],
   "services_notes": "Driveways, fencing & landscaping across Lymington & New Milton. A Turners Fencing and Landscapes Ltd (SO41) was dissolved June 2026 — check trading status",
   "badges": [
-   "top_pick",
    "needs_check"
   ],
   "score": 15,
@@ -14448,10 +14483,10 @@
   "name_normalised": "baikie landscape construction",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "decking_structures",
    "driveways",
-   "paving_patios",
-   "decking_structures"
+   "fencing_boundaries",
+   "paving_patios"
   ],
   "types": [
    "landscape_contractor",
@@ -14464,7 +14499,7 @@
   "lat": 50.969068031060594,
   "lng": -1.3405471606060608,
   "distance_miles": 33.2,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -14650,7 +14685,7 @@
   "lat": 51.24801788659798,
   "lng": -1.1249309097938138,
   "distance_miles": 52.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -14755,7 +14790,7 @@
   "lat": 50.812323362484136,
   "lng": -1.1811759885931556,
   "distance_miles": 35.9,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -14861,7 +14896,7 @@
   "lat": 50.913493505154676,
   "lng": -1.0116185544100806,
   "distance_miles": 44.7,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": "07776 992158",
   "phone_e164": "+447776992158",
   "phone_type": "mobile",
@@ -14898,6 +14933,7 @@
   "accreditations": [],
   "services_notes": "Tarmac & surfacing contractor on projects across Hampshire & Sussex; Horndean (contact from the company's own LinkedIn posts)",
   "badges": [
+   "top_pick",
    "ltd_company",
    "no_website"
   ],
@@ -14945,10 +14981,10 @@
   "name_normalised": "ejr groundworks landscapes",
   "areas": [
    "groundworks",
-   "fencing_boundaries",
-   "driveways",
    "water_drainage",
-   "landscaping"
+   "landscaping",
+   "driveways",
+   "fencing_boundaries"
   ],
   "types": [
    "groundworks_contractor",
@@ -14998,7 +15034,6 @@
   "accreditations": [],
   "services_notes": "Foundations, drainage, drop kerbs, driveways, turf, fencing, patios & planting; MyBuilder profile",
   "badges": [
-   "top_pick",
    "ltd_company",
    "no_website"
   ],
@@ -15173,7 +15208,6 @@
   "accreditations": [],
   "services_notes": "Ringwood fencing contractor, all types of fencing & repairs; MyBuilder profile",
   "badges": [
-   "top_pick",
    "ltd_company",
    "no_website"
   ],
@@ -15609,7 +15643,7 @@
   "lat": 51.21142456725753,
   "lng": -1.4846423628779981,
   "distance_miles": 40.7,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -15703,7 +15737,7 @@
   "lat": 50.9129986993524,
   "lng": -1.5039378621646613,
   "distance_miles": 25.1,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -16244,8 +16278,8 @@
   "name_normalised": "aztec landscapes",
   "areas": [
    "landscaping",
-   "water_drainage",
-   "groundworks"
+   "groundworks",
+   "water_drainage"
   ],
   "types": [
    "landscape_contractor",
@@ -16258,7 +16292,7 @@
   "lat": 50.913493505154676,
   "lng": -1.0116185544100806,
   "distance_miles": 44.7,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -16341,8 +16375,8 @@
   "name_normalised": "beau gardens",
   "areas": [
    "lawns_grounds",
-   "trees_vegetation",
-   "landscaping"
+   "landscaping",
+   "trees_vegetation"
   ],
   "types": [
    "garden_maintenance",
@@ -16355,7 +16389,7 @@
   "lat": 51.08454683999997,
   "lng": -1.1469950577777779,
   "distance_miles": 44.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -16450,7 +16484,7 @@
   "lat": 50.84687819321675,
   "lng": -1.3948305734840696,
   "distance_miles": 27.4,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -16545,7 +16579,7 @@
   "lat": 50.94776630678472,
   "lng": -1.2099190191740428,
   "distance_miles": 37.5,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -16720,8 +16754,8 @@
   "name_normalised": "buz creative landscapes",
   "areas": [
    "landscaping",
-   "driveways",
-   "decking_structures"
+   "decking_structures",
+   "driveways"
   ],
   "types": [
    "landscape_gardener",
@@ -16734,7 +16768,7 @@
   "lat": 51.3398493542945,
   "lng": -1.129262219325154,
   "distance_miles": 57.0,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -16828,7 +16862,7 @@
   "lat": 51.22798149575935,
   "lng": -1.5131923284502697,
   "distance_miles": 41.0,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -16922,7 +16956,7 @@
   "lat": 51.23431208085109,
   "lng": -1.3372621148936175,
   "distance_miles": 45.7,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -17007,10 +17041,10 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "fencing_boundaries",
-   "trees_vegetation",
    "driveways",
-   "paving_patios"
+   "fencing_boundaries",
+   "paving_patios",
+   "trees_vegetation"
   ],
   "types": [
    "landscape_gardener",
@@ -17023,7 +17057,7 @@
   "lat": 50.8828287314376,
   "lng": -1.0408509581358616,
   "distance_miles": 42.9,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -17208,7 +17242,7 @@
   "lat": 50.84687819321675,
   "lng": -1.3948305734840696,
   "distance_miles": 27.4,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -17304,7 +17338,7 @@
   "lat": 51.11658237582134,
   "lng": -0.8504970197109066,
   "distance_miles": 56.8,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -17673,7 +17707,7 @@
   "lat": 50.98608225930229,
   "lng": -1.3836618406976733,
   "distance_miles": 32.3,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -18137,7 +18171,7 @@
   "lat": 50.8828287314376,
   "lng": -1.0408509581358616,
   "distance_miles": 42.9,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -18322,7 +18356,7 @@
   "lat": 51.29408621835679,
   "lng": -0.7637510014803839,
   "distance_miles": 66.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -18359,6 +18393,7 @@
   "accreditations": [],
   "services_notes": "Designs, builds & maintains bespoke treehouses, timber play structures, garden buildings & playground equipment; workshop on the Hampshire/Surrey border; preferred supplier to Blue Forest",
   "badges": [
+   "top_pick",
    "ltd_company"
   ],
   "score": 10,
@@ -18417,7 +18452,7 @@
   "lat": 50.8828287314376,
   "lng": -1.0408509581358616,
   "distance_miles": 42.9,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -18510,7 +18545,7 @@
   "lat": 50.8700666153199,
   "lng": -1.3004656439393945,
   "distance_miles": 31.9,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -18547,6 +18582,7 @@
   "accreditations": [],
   "services_notes": "Designs and builds bespoke garden rooms, offices, gyms, bars & studios; sister firm to M King Roofing and Cladding",
   "badges": [
+   "top_pick",
    "ltd_company"
   ],
   "score": 10,
@@ -18605,7 +18641,7 @@
   "lat": 50.969068031060594,
   "lng": -1.3405471606060608,
   "distance_miles": 33.2,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -18702,7 +18738,7 @@
   "lat": 51.00908239568338,
   "lng": -0.9690636276978426,
   "distance_miles": 48.8,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -18978,7 +19014,7 @@
   "lat": 50.797861292523336,
   "lng": -1.1416340915887828,
   "distance_miles": 37.4,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -19079,7 +19115,7 @@
   "lat": 51.06691423962514,
   "lng": -1.3351634578313247,
   "distance_miles": 37.4,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -19356,7 +19392,7 @@
   "lat": 50.918498526060624,
   "lng": -1.3021756351515137,
   "distance_miles": 33.0,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -19628,10 +19664,10 @@
   "name_normalised": "kelpie landscape build",
   "areas": [
    "driveways",
+   "landscaping",
    "groundworks",
    "fencing_boundaries",
-   "paving_patios",
-   "landscaping"
+   "paving_patios"
   ],
   "types": [
    "driveway_installer",
@@ -19645,7 +19681,7 @@
   "lat": 50.8700666153199,
   "lng": -1.3004656439393945,
   "distance_miles": 31.9,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -19886,7 +19922,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17502350",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -19897,7 +19933,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -20014,7 +20050,7 @@
   "lat": 50.94776630678472,
   "lng": -1.2099190191740428,
   "distance_miles": 37.5,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -20277,9 +20313,9 @@
   "name_normalised": "marvel paving construction mpac",
   "areas": [
    "driveways",
+   "landscaping",
    "fencing_boundaries",
-   "paving_patios",
-   "landscaping"
+   "paving_patios"
   ],
   "types": [
    "driveway_installer",
@@ -20292,7 +20328,7 @@
   "lat": 50.969068031060594,
   "lng": -1.3405471606060608,
   "distance_miles": 33.2,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -20390,7 +20426,7 @@
   "lat": 50.9129986993524,
   "lng": -1.5039378621646613,
   "distance_miles": 25.1,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -20578,7 +20614,7 @@
   "lat": 50.99613051078327,
   "lng": -1.5036176583427916,
   "distance_miles": 28.7,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -20674,7 +20710,7 @@
   "lat": 50.9129986993524,
   "lng": -1.5039378621646613,
   "distance_miles": 25.1,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -21226,7 +21262,7 @@
   "lat": 50.84687819321675,
   "lng": -1.3948305734840696,
   "distance_miles": 27.4,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -21400,8 +21436,8 @@
   "name_normalised": "robert smith landscaping",
   "areas": [
    "landscaping",
-   "lawns_grounds",
-   "decking_structures"
+   "decking_structures",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
@@ -21415,7 +21451,7 @@
   "lat": 50.9129986993524,
   "lng": -1.5039378621646613,
   "distance_miles": 25.1,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -21512,7 +21548,7 @@
   "lat": 51.281093559151785,
   "lng": -1.0790609029017866,
   "distance_miles": 55.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -21595,10 +21631,10 @@
   "name_normalised": "romsey chandlers ford tree landscape",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "trees_vegetation",
    "driveways",
-   "paving_patios"
+   "fencing_boundaries",
+   "paving_patios",
+   "trees_vegetation"
   ],
   "types": [
    "landscape_gardener",
@@ -21611,7 +21647,7 @@
   "lat": 50.99613051078327,
   "lng": -1.5036176583427916,
   "distance_miles": 28.7,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -21707,7 +21743,7 @@
   "lat": 50.868839628734044,
   "lng": -1.2294448492176384,
   "distance_miles": 34.8,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -21881,9 +21917,9 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
+   "decking_structures",
    "fencing_boundaries",
-   "paving_patios",
-   "decking_structures"
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -21896,7 +21932,7 @@
   "lat": 50.8700666153199,
   "lng": -1.3004656439393945,
   "distance_miles": 31.9,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -22170,9 +22206,9 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
+   "decking_structures",
    "driveways",
-   "paving_patios",
-   "decking_structures"
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -22185,7 +22221,7 @@
   "lat": 50.88990354191618,
   "lng": -1.1736089341317368,
   "distance_miles": 37.5,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -22280,7 +22316,7 @@
   "lat": 50.99613051078327,
   "lng": -1.5036176583427916,
   "distance_miles": 28.7,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -22374,7 +22410,7 @@
   "lat": 50.913493505154676,
   "lng": -1.0116185544100806,
   "distance_miles": 44.7,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -22471,7 +22507,7 @@
   "lat": 50.98608225930229,
   "lng": -1.3836618406976733,
   "distance_miles": 32.3,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -22567,7 +22603,7 @@
   "lat": 50.99613051078327,
   "lng": -1.5036176583427916,
   "distance_miles": 28.7,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -22753,7 +22789,7 @@
   "lat": 51.08454683999997,
   "lng": -1.1469950577777779,
   "distance_miles": 44.6,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -22846,7 +22882,7 @@
   "lat": 51.075209395693086,
   "lng": -1.3165996890982516,
   "distance_miles": 38.4,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -22883,6 +22919,7 @@
   "accreditations": [],
   "services_notes": "Family-run design & build of bespoke garden rooms and annexes (offices, studios, gyms, bars); Winchester",
   "badges": [
+   "top_pick",
    "ltd_company"
   ],
   "score": 10,
@@ -23031,7 +23068,7 @@
   "lat": 50.9129986993524,
   "lng": -1.5039378621646613,
   "distance_miles": 25.1,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -23125,7 +23162,7 @@
   "lat": 50.84687819321675,
   "lng": -1.3948305734840696,
   "distance_miles": 27.4,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -23207,9 +23244,9 @@
   "name_normalised": "urban vista landscape solutions",
   "areas": [
    "lawns_grounds",
+   "landscaping",
    "fencing_boundaries",
-   "trees_vegetation",
-   "landscaping"
+   "trees_vegetation"
   ],
   "types": [
    "landscape_contractor",
@@ -23222,7 +23259,7 @@
   "lat": 51.11658237582134,
   "lng": -0.8504970197109066,
   "distance_miles": 56.8,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -23318,7 +23355,7 @@
   "lat": 50.8700666153199,
   "lng": -1.3004656439393945,
   "distance_miles": 31.9,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -23492,9 +23529,9 @@
   "name_normalised": "winchester landscapes",
   "areas": [
    "landscaping",
-   "trees_vegetation",
+   "decking_structures",
    "paving_patios",
-   "decking_structures"
+   "trees_vegetation"
   ],
   "types": [
    "landscape_contractor"
@@ -23506,7 +23543,7 @@
   "lat": 51.075209395693086,
   "lng": -1.3165996890982516,
   "distance_miles": 38.4,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -32713,7 +32750,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17522043",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -32724,7 +32761,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -36393,9 +36430,9 @@
   "name_normalised": "rrs landscape garden maintenance",
   "areas": [
    "lawns_grounds",
+   "landscaping",
    "fencing_boundaries",
-   "exterior_cleaning",
-   "landscaping"
+   "exterior_cleaning"
   ],
   "types": [
    "garden_maintenance",
@@ -36446,7 +36483,6 @@
   "accreditations": [],
   "services_notes": "Family business, 30+ years; garden maintenance, turfing, fencing, patios, pressure cleaning",
   "badges": [
-   "top_pick",
    "established",
    "no_website",
    "needs_check"
@@ -38043,7 +38079,7 @@
   "lat": 50.8700666153199,
   "lng": -1.3004656439393945,
   "distance_miles": 31.9,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -38872,7 +38908,7 @@
   "lat": 50.88990354191618,
   "lng": -1.1736089341317368,
   "distance_miles": 37.5,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -39689,8 +39725,8 @@
   "name_normalised": "woodslee landscapes",
   "areas": [
    "landscaping",
-   "lawns_grounds",
-   "paving_patios"
+   "paving_patios",
+   "lawns_grounds"
   ],
   "types": [
    "garden_designer",
@@ -39703,7 +39739,7 @@
   "lat": 50.98608225930229,
   "lng": -1.3836618406976733,
   "distance_miles": 32.3,
-  "serves_area_only": true,
+  "serves_area_only": false,
   "phone": null,
   "phone_e164": null,
   "phone_type": null,
@@ -52636,7 +52672,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17497746",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -52647,7 +52683,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -57858,7 +57894,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17519390",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -57869,7 +57905,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -69732,7 +69768,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17507076",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -69743,7 +69779,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -118174,7 +118210,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17499019",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -118185,7 +118221,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -120642,7 +120678,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17520682",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -120653,7 +120689,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -130133,7 +130169,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17498217",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -130144,7 +130180,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -162133,7 +162169,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17507776",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -162144,7 +162180,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -166159,7 +166195,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17520599",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -166170,7 +166206,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -178480,7 +178516,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17502254",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -178491,7 +178527,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -221358,7 +221394,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17511942",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -221369,7 +221405,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -237884,7 +237920,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17511609",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -237895,7 +237931,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -301011,7 +301047,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17509213",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -301022,7 +301058,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -308970,7 +309006,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17500345",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -308981,7 +309017,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -312462,7 +312498,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17521689",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -312473,7 +312509,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -363521,7 +363557,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17508325",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -363532,7 +363568,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -382346,7 +382382,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17522848",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -382357,7 +382393,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -382895,7 +382931,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17514636",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -382906,7 +382942,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -393246,7 +393282,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17516469",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -393257,7 +393293,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -459540,7 +459576,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/06935298",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -459551,7 +459587,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -477493,7 +477529,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/15887168",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -477504,7 +477540,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -478364,7 +478400,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16374326",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -478375,7 +478411,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -481139,7 +481175,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/02144745",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -481150,7 +481186,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -484768,7 +484804,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16376709",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -484779,7 +484815,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -485892,7 +485928,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/15912890",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -485903,7 +485939,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -491433,7 +491469,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/14275174",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -491444,7 +491480,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -509253,7 +509289,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/14533181",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -509264,7 +509300,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -552232,7 +552268,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/05102786",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -552243,7 +552279,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -573060,7 +573096,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/15628881",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -573071,7 +573107,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -597190,7 +597226,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16631941",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -597201,7 +597237,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -617357,7 +617393,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/10717822",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -617368,7 +617404,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -680822,7 +680858,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16539205",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -680833,7 +680869,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -682210,7 +682246,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/14001803",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -682221,7 +682257,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -724386,7 +724422,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16379674",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -724397,7 +724433,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -731925,7 +731961,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16383215",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -731936,7 +731972,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -745783,7 +745819,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16364255",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -745794,7 +745830,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -759474,7 +759510,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16348853",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -759485,7 +759521,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -784419,7 +784455,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16431064",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -784430,7 +784466,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -787629,7 +787665,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16448967",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -787640,7 +787676,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
