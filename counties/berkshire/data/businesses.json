@@ -331,12 +331,12 @@
   "name_normalised": "mjt landscapes",
   "areas": [
    "landscaping",
+   "fencing_boundaries",
    "groundworks",
    "paving_patios",
-   "driveways",
    "decking_structures",
-   "fencing_boundaries",
-   "lawns_grounds"
+   "lawns_grounds",
+   "driveways"
   ],
   "types": [
    "landscape_contractor",
@@ -444,9 +444,9 @@
   "name_normalised": "owen thomas garden landscapes",
   "areas": [
    "landscaping",
+   "fencing_boundaries",
    "paving_patios",
    "decking_structures",
-   "fencing_boundaries",
    "lawns_grounds"
   ],
   "types": [
@@ -557,9 +557,9 @@
   "name_normalised": "simply green landscapes",
   "areas": [
    "landscaping",
+   "fencing_boundaries",
    "paving_patios",
    "decking_structures",
-   "fencing_boundaries",
    "lawns_grounds"
   ],
   "types": [
@@ -669,8 +669,8 @@
   "name_normalised": "garden design company",
   "areas": [
    "landscaping",
-   "decking_structures",
-   "lawns_grounds"
+   "lawns_grounds",
+   "decking_structures"
   ],
   "types": [
    "garden_designer",
@@ -777,10 +777,10 @@
   "name_normalised": "urban landscape design construction",
   "areas": [
    "landscaping",
+   "fencing_boundaries",
    "paving_patios",
-   "driveways",
    "decking_structures",
-   "fencing_boundaries"
+   "driveways"
   ],
   "types": [
    "landscape_contractor",
@@ -983,12 +983,12 @@
   "name_normalised": "brabazons garden maintenance",
   "areas": [
    "lawns_grounds",
-   "landscaping",
+   "fencing_boundaries",
    "trees_vegetation",
    "paving_patios",
-   "driveways",
+   "landscaping",
    "decking_structures",
-   "fencing_boundaries"
+   "driveways"
   ],
   "types": [
    "gardener",
@@ -1491,8 +1491,8 @@
   "name_normalised": "driveline paving",
   "areas": [
    "driveways",
-   "landscaping",
    "paving_patios",
+   "landscaping",
    "exterior_cleaning"
   ],
   "types": [
@@ -1972,10 +1972,10 @@
   "name_normalised": "home view landscapes",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "driveways",
    "fencing_boundaries",
-   "lawns_grounds"
+   "paving_patios",
+   "lawns_grounds",
+   "driveways"
   ],
   "types": [
    "landscape_gardener"
@@ -2063,15 +2063,209 @@
   "county": "berkshire"
  },
  {
+  "id": "tf_522a816c",
+  "name": "Hortlands",
+  "legal_name": "Hortlands Irrigation",
+  "name_normalised": "hortlands",
+  "areas": [
+   "landscaping",
+   "water_drainage",
+   "lawns_grounds"
+  ],
+  "types": [
+   "irrigation_installer",
+   "garden_designer"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Reading (serves Berks/Bucks)",
+  "postcode": "RG6",
+  "lat": 51.43752584266658,
+  "lng": -0.9278937013333333,
+  "distance_miles": 67.9,
+  "serves_area_only": false,
+  "phone": "01895 438811",
+  "phone_e164": "+441895438811",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://hortlands.co.uk/",
+  "domain": "hortlands.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.43752584266658&mlon=-0.9278937013333333#map=13/51.43752584266658/-0.9278937013333333",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13116161",
+   "status": "active",
+   "incorporated": "2021-01-06",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13116161"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [],
+  "services_notes": "Garden irrigation design/installation, garden design, landscaping and maintenance; covers Berkshire incl. Reading",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://hortlands.co.uk/contact/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13116161",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "berkshire"
+ },
+ {
+  "id": "tf_8e4cb012",
+  "name": "JB GroundCare",
+  "legal_name": "JB Groundcare",
+  "name_normalised": "jb groundcare",
+  "areas": [
+   "landscaping",
+   "fencing_boundaries",
+   "trees_vegetation",
+   "lawns_grounds"
+  ],
+  "types": [
+   "landscape_contractor",
+   "tree_surgeon"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Newbury",
+  "postcode": "RG14",
+  "lat": 51.39981251463792,
+  "lng": -1.3230640862865968,
+  "distance_miles": 55.4,
+  "serves_area_only": false,
+  "phone": "01635 945850",
+  "phone_e164": "+441635945850",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.jb-groundcare.co.uk/",
+  "domain": "jb-groundcare.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.39981251463792&mlon=-1.3230640862865968#map=13/51.39981251463792/-1.3230640862865968",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11967644",
+   "status": "active",
+   "incorporated": "2019-04-29",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11967644"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 7,
+  "accreditations": [],
+  "services_notes": "Landscaping, fencing, tree surgery, planting, design, maintenance; Berks, Hants, S Oxon",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.jb-groundcare.co.uk/contact.php",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11967644",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "berkshire"
+ },
+ {
   "id": "tf_914ef958",
   "name": "KS Paving",
   "legal_name": "KS Paving",
   "name_normalised": "ks paving",
   "areas": [
    "paving_patios",
-   "driveways",
+   "fencing_boundaries",
    "landscaping",
-   "fencing_boundaries"
+   "driveways"
   ],
   "types": [
    "paving_contractor",
@@ -2260,6 +2454,114 @@
   "county": "berkshire"
  },
  {
+  "id": "tf_24749349",
+  "name": "LeafLine Arb",
+  "legal_name": "Leafline Arb",
+  "name_normalised": "leafline arb",
+  "areas": [
+   "trees_vegetation"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Thatcham / Newbury",
+  "postcode": "RG18",
+  "lat": 51.43119547145489,
+  "lng": -1.2605440718232033,
+  "distance_miles": 58.7,
+  "serves_area_only": false,
+  "phone": "07455 150911",
+  "phone_e164": "+447455150911",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://leaflinearb.co.uk/",
+  "domain": "leaflinearb.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.43119547145489&mlon=-1.2605440718232033#map=13/51.43119547145489/-1.2605440718232033",
+  "last_review_date": null,
+  "checkatrade": {
+   "score": null,
+   "reviews": null,
+   "member_since": null,
+   "url": "https://www.checkatrade.com/trades/leaflinearbltd",
+   "unvetted": false
+  },
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "15813283",
+   "status": "active",
+   "incorporated": "2024-07-02",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/15813283"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 2,
+  "accreditations": [],
+  "services_notes": "Tree surgery, pruning, removals, hedges, stump grinding, site clearance; West Berkshire; Checkatrade & MyBuilder profiles",
+  "badges": [
+   "top_pick",
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://leaflinearb.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "checkatrade",
+    "url": "https://www.checkatrade.com/trades/leaflinearbltd",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/15813283",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "berkshire"
+ },
+ {
   "id": "tf_c54954a0",
   "name": "Lineage Tree Care",
   "legal_name": "Lineage Tree Care",
@@ -2315,7 +2617,6 @@
   "accreditations": [],
   "services_notes": "Family-run: removal, pruning, stump grinding, hedges, tree-health & risk advice",
   "badges": [
-   "top_pick",
    "ltd_company"
   ],
   "score": 19,
@@ -2362,10 +2663,10 @@
   "name_normalised": "m j landscapes groundworks",
   "areas": [
    "landscaping",
+   "fencing_boundaries",
    "groundworks",
    "paving_patios",
    "decking_structures",
-   "fencing_boundaries",
    "driveways"
   ],
   "types": [
@@ -2470,8 +2771,8 @@
   "areas": [
    "landscaping",
    "paving_patios",
-   "driveways",
-   "lawns_grounds"
+   "lawns_grounds",
+   "driveways"
   ],
   "types": [
    "landscape_contractor"
@@ -2566,10 +2867,10 @@
   "name_normalised": "next level landscapes",
   "areas": [
    "landscaping",
+   "fencing_boundaries",
    "groundworks",
    "paving_patios",
-   "driveways",
-   "fencing_boundaries"
+   "driveways"
   ],
   "types": [
    "landscape_gardener"
@@ -2861,6 +3162,99 @@
   "county": "berkshire"
  },
  {
+  "id": "tf_e044dd1d",
+  "name": "Parklife Install",
+  "legal_name": "Park Life Install",
+  "name_normalised": "parklife install",
+  "areas": [
+   "landscaping"
+  ],
+  "types": [
+   "play_area_installer"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Newbury",
+  "postcode": "RG14",
+  "lat": 51.39981251463792,
+  "lng": -1.3230640862865968,
+  "distance_miles": 55.4,
+  "serves_area_only": false,
+  "phone": "07425 135339",
+  "phone_e164": "+447425135339",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://parklifeinstall.co.uk/",
+  "domain": "parklifeinstall.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.39981251463792&mlon=-1.3230640862865968#map=13/51.39981251463792/-1.3230640862865968",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12735025",
+   "status": "active",
+   "incorporated": "2020-07-10",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12735025"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Installs outdoor play & gym equipment and recreational landscaping",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://parklifeinstall.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12735025",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "berkshire"
+ },
+ {
   "id": "tf_3b1e31c0",
   "name": "Pitch Maintenance Services",
   "legal_name": "Pitch Maintenance & Landscaping",
@@ -2962,9 +3356,9 @@
   "name_normalised": "progro landscapes",
   "areas": [
    "landscaping",
+   "fencing_boundaries",
    "paving_patios",
    "decking_structures",
-   "fencing_boundaries",
    "lawns_grounds"
   ],
   "types": [
@@ -3060,9 +3454,9 @@
   "name_normalised": "roots gardens",
   "areas": [
    "landscaping",
-   "lawns_grounds",
+   "paving_patios",
    "decking_structures",
-   "paving_patios"
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
@@ -3151,6 +3545,101 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/06945871",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "berkshire"
+ },
+ {
+  "id": "tf_2ddb5a79",
+  "name": "Tend and Care",
+  "legal_name": "Tend And Care",
+  "name_normalised": "tend care",
+  "areas": [
+   "lawns_grounds",
+   "landscaping"
+  ],
+  "types": [
+   "gardener"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Ashmore Green, Thatcham",
+  "postcode": "RG18",
+  "lat": 51.43119547145489,
+  "lng": -1.2605440718232033,
+  "distance_miles": 58.7,
+  "serves_area_only": false,
+  "phone": "07340 033860",
+  "phone_e164": "+447340033860",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://tendandcareltd.co.uk/",
+  "domain": "tendandcareltd.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.43119547145489&mlon=-1.2605440718232033#map=13/51.43119547145489/-1.2605440718232033",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "16038009",
+   "status": "active",
+   "incorporated": "2024-10-23",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/16038009"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 2,
+  "accreditations": [],
+  "services_notes": "Garden maintenance, landscaping, planting, seasonal planting, one-off tidy-ups; Houzz profile",
+  "badges": [
+   "top_pick",
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://tendandcareltd.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/16038009",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "number",
@@ -3318,7 +3807,6 @@
   "accreditations": [],
   "services_notes": "Lawn & border care, pruning, seasonal maintenance, planting and border design; Bracknell area",
   "badges": [
-   "top_pick",
    "ltd_company",
    "new_business"
   ],
@@ -3365,10 +3853,10 @@
   "name_normalised": "walsh landscaping",
   "areas": [
    "landscaping",
+   "fencing_boundaries",
    "paving_patios",
-   "driveways",
    "decking_structures",
-   "fencing_boundaries"
+   "driveways"
   ],
   "types": [
    "landscape_gardener",
@@ -3463,10 +3951,10 @@
   "name_normalised": "williams brothers groundworks",
   "areas": [
    "groundworks",
-   "driveways",
+   "fencing_boundaries",
    "paving_patios",
    "decking_structures",
-   "fencing_boundaries"
+   "driveways"
   ],
   "types": [
    "groundworks_contractor",
@@ -3576,12 +4064,12 @@
   "name_normalised": "windsor ascot landscaping",
   "areas": [
    "landscaping",
+   "fencing_boundaries",
    "trees_vegetation",
    "paving_patios",
-   "driveways",
    "decking_structures",
-   "fencing_boundaries",
-   "lawns_grounds"
+   "lawns_grounds",
+   "driveways"
   ],
   "types": [
    "landscape_gardener"
@@ -3675,9 +4163,9 @@
   "name_normalised": "wyvern landscapes",
   "areas": [
    "landscaping",
+   "fencing_boundaries",
    "trees_vegetation",
    "paving_patios",
-   "fencing_boundaries",
    "lawns_grounds"
   ],
   "types": [
@@ -3868,11 +4356,11 @@
   "name_normalised": "wellingtonia landscaping",
   "areas": [
    "landscaping",
+   "fencing_boundaries",
    "paving_patios",
-   "driveways",
    "decking_structures",
    "lawns_grounds",
-   "fencing_boundaries"
+   "driveways"
   ],
   "types": [
    "landscape_contractor",
@@ -3969,8 +4457,8 @@
   "name_normalised": "avalonian gardens",
   "areas": [
    "lawns_grounds",
-   "landscaping",
-   "trees_vegetation"
+   "trees_vegetation",
+   "landscaping"
   ],
   "types": [
    "gardener",
@@ -4234,6 +4722,103 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16352382",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "berkshire"
+ },
+ {
+  "id": "tf_e0fe397d",
+  "name": "Country Care Southern",
+  "legal_name": "Country Care Southern",
+  "name_normalised": "country care southern",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [
+   "landscape_contractor",
+   "grounds_maintenance"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Wokingham",
+  "postcode": "RG41",
+  "lat": 51.41692675844155,
+  "lng": -0.8630053818181816,
+  "distance_miles": 68.8,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://countrycaresouthern.co.uk/",
+  "domain": "countrycaresouthern.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.41692675844155&mlon=-0.8630053818181816#map=13/51.41692675844155/-0.8630053818181816",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "03328480",
+   "status": "active",
+   "incorporated": "1997-03-06",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/03328480"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 29,
+  "accreditations": [],
+  "services_notes": "Commercial & public amenity landscape construction and maintenance: planting, wildflower seeding, paths, play areas",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://countrycaresouthern.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "website",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/03328480",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "number",
@@ -4829,11 +5414,11 @@
   "name_normalised": "prestige fencing landscapes",
   "areas": [
    "fencing_boundaries",
-   "landscaping",
    "paving_patios",
-   "driveways",
+   "landscaping",
    "decking_structures",
-   "lawns_grounds"
+   "lawns_grounds",
+   "driveways"
   ],
   "types": [
    "fencing_contractor",
@@ -5053,10 +5638,10 @@
   "name_normalised": "tslandscapes",
   "areas": [
    "landscaping",
+   "fencing_boundaries",
    "paving_patios",
-   "driveways",
    "decking_structures",
-   "fencing_boundaries"
+   "driveways"
   ],
   "types": [
    "landscape_contractor"
@@ -17261,98 +17846,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_7b1dcdd8",
-  "name": "Country Care Southern",
-  "legal_name": "COUNTRY CARE SOUTHERN LIMITED",
-  "name_normalised": "country care southern",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Wokingham",
-  "postcode": "RG41",
-  "lat": 51.422,
-  "lng": -0.849,
-  "distance_miles": 69.5,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "03328480",
-   "status": "active",
-   "incorporated": "1997-03-06",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/03328480"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 29,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/03328480",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "berkshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_2765803e",
   "name": "Cristian Burtea Construction",
   "legal_name": "CRISTIAN BURTEA CONSTRUCTION LTD",
@@ -28629,97 +29122,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_0c41d07a",
-  "name": "Hortlands Irrigation",
-  "legal_name": "HORTLANDS IRRIGATION LTD",
-  "name_normalised": "hortlands irrigation",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Berkshire",
-  "postcode": "RG6",
-  "lat": 51.443,
-  "lng": -0.932,
-  "distance_miles": 68.0,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13116161",
-   "status": "active",
-   "incorporated": "2021-01-06",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13116161"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 5,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13116161",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "berkshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_4a403a3a",
   "name": "Hyhgi Construction",
   "legal_name": "HYHGI CONSTRUCTION LIMITED",
@@ -30902,97 +31304,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16413648",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "berkshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_ed960577",
-  "name": "JB Groundcare",
-  "legal_name": "JB GROUNDCARE LTD",
-  "name_normalised": "jb groundcare",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Newbury",
-  "postcode": "RG14",
-  "lat": 51.398,
-  "lng": -1.327,
-  "distance_miles": 55.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "11967644",
-   "status": "active",
-   "incorporated": "2019-04-29",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/11967644"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 7,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/11967644",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
@@ -36119,97 +36430,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/14357260",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "berkshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_4a6d7063",
-  "name": "Leafline Arb",
-  "legal_name": "LEAFLINE ARB LIMITED",
-  "name_normalised": "leafline arb",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Berkshire",
-  "postcode": "RG14",
-  "lat": 51.4,
-  "lng": -1.325,
-  "distance_miles": 55.4,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "15813283",
-   "status": "active",
-   "incorporated": "2024-07-02",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/15813283"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 2,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/15813283",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
@@ -43441,97 +43661,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16727595",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "berkshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_aad6b2da",
-  "name": "Park Life Install",
-  "legal_name": "PARK LIFE INSTALL LIMITED",
-  "name_normalised": "park life install",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Berkshire",
-  "postcode": "RG14",
-  "lat": 51.415,
-  "lng": -1.332,
-  "distance_miles": 56.1,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "12735025",
-   "status": "active",
-   "incorporated": "2020-07-10",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/12735025"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 6,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/12735025",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
@@ -52602,97 +52731,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/06061306",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "berkshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_2f51bd28",
-  "name": "Tend And Care",
-  "legal_name": "TEND AND CARE LTD",
-  "name_normalised": "tend care",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Thatcham",
-  "postcode": "RG18",
-  "lat": 51.421,
-  "lng": -1.275,
-  "distance_miles": 57.8,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "16038009",
-   "status": "active",
-   "incorporated": "2024-10-23",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/16038009"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 2,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/16038009",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",

@@ -79,3 +79,5 @@
 - 19:24 BST: Issue 02: +42 enriched Berkshire/Bristol firms
 
 - 19:46 BST: b8: +30 Somerset/Berkshire/Bristol firms; Dorset quality pass (~45 records given phone/website/second source)
+
+- 20:03 BST: b9: +46 firms from non-trade-name CH leads (SIC 81300) across six counties; Dorset CH links + duplicate cleanup

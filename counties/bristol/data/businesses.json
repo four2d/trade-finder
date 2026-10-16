@@ -348,11 +348,11 @@
   "name_normalised": "360 landscapes design",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "driveways",
-   "decking_structures",
    "fencing_boundaries",
-   "lawns_grounds"
+   "paving_patios",
+   "decking_structures",
+   "lawns_grounds",
+   "driveways"
   ],
   "types": [
    "landscape_gardener"
@@ -401,7 +401,6 @@
   "accreditations": [],
   "services_notes": "Garden design, paving, driveways, fencing, decking, maintenance, turf, artificial grass, walling; Yell listing; mobile 07757 123925",
   "badges": [
-   "top_pick",
    "ltd_company",
    "new_business"
   ],
@@ -456,12 +455,12 @@
   "name_normalised": "a c landscapes",
   "areas": [
    "landscaping",
+   "fencing_boundaries",
    "groundworks",
    "paving_patios",
-   "driveways",
    "decking_structures",
-   "fencing_boundaries",
-   "lawns_grounds"
+   "lawns_grounds",
+   "driveways"
   ],
   "types": [
    "landscape_gardener"
@@ -556,9 +555,9 @@
   "name_normalised": "adrian stoute landscaping",
   "areas": [
    "landscaping",
+   "fencing_boundaries",
    "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener"
@@ -846,6 +845,101 @@
   "county": "bristol"
  },
  {
+  "id": "tf_fab18e81",
+  "name": "Aquatak Waterscapes",
+  "legal_name": "Aquatak Waterscapes",
+  "name_normalised": "aquatak waterscapes",
+  "areas": [
+   "landscaping",
+   "water_drainage"
+  ],
+  "types": [
+   "pond_builder"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Kingswood, Bristol",
+  "postcode": "BS15",
+  "lat": 51.459611902753906,
+  "lng": -2.5068994397590334,
+  "distance_miles": 56.2,
+  "serves_area_only": false,
+  "phone": "07349 302235",
+  "phone_e164": "+447349302235",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://aquatak.co.uk/",
+  "domain": "aquatak.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.459611902753906&mlon=-2.5068994397590334#map=13/51.459611902753906/-2.5068994397590334",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "16046883",
+   "status": "active",
+   "incorporated": "2024-10-29",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/16046883"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 2,
+  "accreditations": [],
+  "services_notes": "Design, build & maintenance of garden, nature and koi ponds, fountains, water features; Bristol & Bath",
+  "badges": [
+   "top_pick",
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://aquatak.co.uk/contact-us/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/16046883",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
   "id": "tf_4acbcaac",
   "name": "Boundary Fencing South-West",
   "legal_name": "Boundary Fencing (South-West)",
@@ -927,6 +1021,104 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/06058812",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
+  "id": "tf_13f4372c",
+  "name": "Brick & Bloom",
+  "legal_name": "Brick And Bloom",
+  "name_normalised": "brick bloom",
+  "areas": [
+   "landscaping",
+   "paving_patios",
+   "decking_structures",
+   "fencing_boundaries",
+   "lawns_grounds"
+  ],
+  "types": [
+   "landscape_gardener"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Bristol",
+  "postcode": "BS4",
+  "lat": 51.43533309000901,
+  "lng": -2.563831257425743,
+  "distance_miles": 55.7,
+  "serves_area_only": false,
+  "phone": "07960 085990",
+  "phone_e164": "+447960085990",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.brickandbloom.co.uk/",
+  "domain": "brickandbloom.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.43533309000901&mlon=-2.563831257425743#map=13/51.43533309000901/-2.563831257425743",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13461181",
+   "status": "active",
+   "incorporated": "2021-06-17",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13461181"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [],
+  "services_notes": "Garden clearance, maintenance, patios, decking, fencing, turf, garden rooms, living walls",
+  "badges": [
+   "top_pick",
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.brickandbloom.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13461181",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "number",
@@ -1094,7 +1286,6 @@
   "accreditations": [],
   "services_notes": "Garden makeovers, redesigns, turfing",
   "badges": [
-   "top_pick",
    "ltd_company",
    "established"
   ],
@@ -1233,6 +1424,103 @@
   "county": "bristol"
  },
  {
+  "id": "tf_71e60461",
+  "name": "Complete Weed Control (North Wessex)",
+  "legal_name": "Complete Weed Control (North Wessex)",
+  "name_normalised": "complete weed control north wessex",
+  "areas": [
+   "lawns_grounds",
+   "trees_vegetation"
+  ],
+  "types": [
+   "weed_control"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Bristol (covers Bath, W Wilts, N Somerset)",
+  "postcode": "BS1",
+  "lat": 51.45324558706459,
+  "lng": -2.593828108208961,
+  "distance_miles": 57.4,
+  "serves_area_only": false,
+  "phone": "0800 954 9679",
+  "phone_e164": "+448009549679",
+  "phone_type": "freephone",
+  "email": null,
+  "website": "https://www.completeweedcontrol.co.uk/franchise/north-wessex",
+  "domain": "completeweedcontrol.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.45324558706459&mlon=-2.593828108208961#map=13/51.45324558706459/-2.593828108208961",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "04056365",
+   "status": "active",
+   "incorporated": "2000-08-21",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04056365"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 26,
+  "accreditations": [],
+  "services_notes": "Franchise: commercial weed control, moss/algae, aquatic & invasive weeds incl. Japanese knotweed; Bath, Trowbridge, Westbury, Bristol, Weston",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.completeweedcontrol.co.uk/franchise/north-wessex",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "areas"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/04056365",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
   "id": "tf_3134ef22",
   "name": "Cornish Garden Services",
   "legal_name": "Cornish Garden Services (Bristol)",
@@ -1337,8 +1625,8 @@
   "areas": [
    "landscaping",
    "paving_patios",
-   "driveways",
-   "decking_structures"
+   "decking_structures",
+   "driveways"
   ],
   "types": [
    "landscape_contractor"
@@ -1432,8 +1720,8 @@
   "name_normalised": "craig west turf",
   "areas": [
    "lawns_grounds",
-   "landscaping",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "landscaping"
   ],
   "types": [
    "turf_supplier",
@@ -1722,8 +2010,8 @@
   "name_normalised": "enviro landscape group",
   "areas": [
    "lawns_grounds",
-   "landscaping",
-   "trees_vegetation"
+   "trees_vegetation",
+   "landscaping"
   ],
   "types": [
    "landscape_contractor",
@@ -1914,9 +2202,9 @@
   "name_normalised": "green elephant gardens",
   "areas": [
    "lawns_grounds",
-   "landscaping",
+   "fencing_boundaries",
    "trees_vegetation",
-   "fencing_boundaries"
+   "landscaping"
   ],
   "types": [
    "gardener",
@@ -1966,7 +2254,6 @@
   "accreditations": [],
   "services_notes": "Residential & commercial garden maintenance, landscaping, fencing, redesigns, tree work",
   "badges": [
-   "top_pick",
    "ltd_company",
    "established"
   ],
@@ -2116,10 +2403,10 @@
   "name_normalised": "heritage south west",
   "areas": [
    "fencing_boundaries",
-   "landscaping",
    "paving_patios",
-   "driveways",
-   "decking_structures"
+   "landscaping",
+   "decking_structures",
+   "driveways"
   ],
   "types": [
    "fencing_contractor",
@@ -2607,8 +2894,8 @@
   "name_normalised": "meadow landscapes",
   "areas": [
    "lawns_grounds",
-   "landscaping",
-   "trees_vegetation"
+   "trees_vegetation",
+   "landscaping"
   ],
   "types": [
    "grounds_maintenance"
@@ -2703,12 +2990,12 @@
   "name_normalised": "nick white landscaping",
   "areas": [
    "landscaping",
+   "fencing_boundaries",
    "groundworks",
    "paving_patios",
-   "driveways",
    "decking_structures",
-   "fencing_boundaries",
-   "lawns_grounds"
+   "lawns_grounds",
+   "driveways"
   ],
   "types": [
    "landscape_gardener",
@@ -2805,8 +3092,8 @@
   "name_normalised": "sjh landscaping",
   "areas": [
    "lawns_grounds",
-   "landscaping",
-   "trees_vegetation"
+   "trees_vegetation",
+   "landscaping"
   ],
   "types": [
    "grounds_maintenance",
@@ -3379,14 +3666,130 @@
   "county": "bristol"
  },
  {
+  "id": "tf_f758ed8e",
+  "name": "Walmsley Shaw",
+  "legal_name": "Walmsley Shaw",
+  "name_normalised": "walmsley shaw",
+  "areas": [
+   "landscaping",
+   "decking_structures",
+   "water_drainage"
+  ],
+  "types": [
+   "landscape_contractor"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Bristol",
+  "postcode": "BS4",
+  "lat": 51.43533309000901,
+  "lng": -2.563831257425743,
+  "distance_miles": 55.7,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://www.walmsleyshaw.co.uk/",
+  "domain": "walmsleyshaw.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.43533309000901&mlon=-2.563831257425743#map=13/51.43533309000901/-2.563831257425743",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "05063054",
+   "status": "active",
+   "incorporated": "2004-03-03",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05063054"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 22,
+  "accreditations": [
+   "BALI",
+   "TrustMark"
+  ],
+  "services_notes": "High-end garden build contractor: earthworks, decking, paths, lighting, irrigation, water features, pools; BALI member, TrustMark",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 14,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 8,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.9,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.walmsleyshaw.co.uk/why-us/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "website",
+     "services"
+    ]
+   },
+   {
+    "source": "bali",
+    "url": "https://www.bali.org.uk/members/walmsley-shaw-120688/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "accreditation"
+    ]
+   },
+   {
+    "source": "trustmark",
+    "url": "https://www.trustmark.org.uk/firms/Walmsley%20Shaw-1000919-BS4%202DS?id=9105a760-821d-4083-ba7f-e75748cac39f",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "accreditation"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05063054",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
   "id": "tf_ae5e278f",
   "name": "Greenwing Gardens & Exterior Care",
   "legal_name": "Greenwing Gardens & Exterior Care",
   "name_normalised": "greenwing gardens exterior care",
   "areas": [
    "lawns_grounds",
-   "landscaping",
-   "trees_vegetation"
+   "trees_vegetation",
+   "landscaping"
   ],
   "types": [
    "gardener"
@@ -3586,8 +3989,8 @@
   "areas": [
    "landscaping",
    "paving_patios",
-   "driveways",
-   "decking_structures"
+   "decking_structures",
+   "driveways"
   ],
   "types": [
    "landscape_gardener"
@@ -3682,8 +4085,8 @@
   "name_normalised": "green genie landscapes",
   "areas": [
    "landscaping",
-   "driveways",
-   "paving_patios"
+   "paving_patios",
+   "driveways"
   ],
   "types": [
    "landscape_contractor",
@@ -3786,9 +4189,9 @@
   "name_normalised": "p j dyke paving groundworks",
   "areas": [
    "driveways",
+   "fencing_boundaries",
    "groundworks",
-   "paving_patios",
-   "fencing_boundaries"
+   "paving_patios"
   ],
   "types": [
    "driveway_installer",
@@ -4056,6 +4459,101 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16403533",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
+  "id": "tf_f35685a0",
+  "name": "The Two Georges",
+  "legal_name": "The Two Georges",
+  "name_normalised": "two georges",
+  "areas": [
+   "lawns_grounds"
+  ],
+  "types": [
+   "garden_clearance"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Bristol",
+  "postcode": "BS5",
+  "lat": 51.46205955886858,
+  "lng": -2.5517466972477014,
+  "distance_miles": 57.1,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://thetwogeorges.co.uk/",
+  "domain": "thetwogeorges.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.46205955886858&mlon=-2.5517466972477014#map=13/51.46205955886858/-2.5517466972477014",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "08472381",
+   "status": "active",
+   "incorporated": "2013-04-03",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08472381"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 13,
+  "accreditations": [],
+  "services_notes": "Eco-friendly garden clearance & green-waste removal; Bristol, Bath, N Somerset, S Glos",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.thetwogeorges.co.uk/garden-and-green-waste/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "website",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08472381",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "number",
@@ -6352,98 +6850,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16956007",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_17ed53d2",
-  "name": "Aquatak Waterscapes",
-  "legal_name": "AQUATAK WATERSCAPES LTD",
-  "name_normalised": "aquatak waterscapes",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "water_drainage"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bristol",
-  "postcode": "BS15",
-  "lat": 51.463,
-  "lng": -2.514,
-  "distance_miles": 56.5,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "16046883",
-   "status": "active",
-   "incorporated": "2024-10-29",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/16046883"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 2,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/16046883",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
@@ -10191,97 +10597,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/01092127",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_1cd51540",
-  "name": "Brick And Bloom",
-  "legal_name": "BRICK AND BLOOM LTD",
-  "name_normalised": "brick bloom",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bristol",
-  "postcode": "BS4",
-  "lat": 51.428,
-  "lng": -2.571,
-  "distance_miles": 55.4,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13461181",
-   "status": "active",
-   "incorporated": "2021-06-17",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13461181"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 5,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13461181",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
@@ -14672,98 +14987,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17354483",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_06ad9e9a",
-  "name": "Complete Weed Control (North Wessex)",
-  "legal_name": "COMPLETE WEED CONTROL (NORTH WESSEX) LIMITED",
-  "name_normalised": "complete weed control north wessex",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bristol",
-  "postcode": "BS1",
-  "lat": 51.452,
-  "lng": -2.596,
-  "distance_miles": 57.4,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "04056365",
-   "status": "active",
-   "incorporated": "2000-08-21",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/04056365"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 26,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/04056365",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
@@ -41412,98 +41635,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_fb5b9ea2",
-  "name": "The Two Georges",
-  "legal_name": "THE TWO GEORGES LTD",
-  "name_normalised": "two georges",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "City Of Bristol",
-  "postcode": "BS5",
-  "lat": 51.477,
-  "lng": -2.568,
-  "distance_miles": 58.3,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "08472381",
-   "status": "active",
-   "incorporated": "2013-04-03",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/08472381"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 13,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/08472381",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_a6346510",
   "name": "The345",
   "legal_name": "THE345 LTD",
@@ -44782,98 +44913,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/15845864",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_f3af64f0",
-  "name": "Walmsley Shaw",
-  "legal_name": "WALMSLEY SHAW LIMITED",
-  "name_normalised": "walmsley shaw",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bristol",
-  "postcode": "BS4",
-  "lat": 51.42,
-  "lng": -2.584,
-  "distance_miles": 55.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "05063054",
-   "status": "active",
-   "incorporated": "2004-03-03",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/05063054"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 22,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/05063054",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",

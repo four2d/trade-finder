@@ -6,8 +6,8 @@
   "name_normalised": "becks tree landscape",
   "areas": [
    "trees_vegetation",
-   "landscaping",
    "fencing_boundaries",
+   "landscaping",
    "lawns_grounds"
   ],
   "types": [
@@ -518,9 +518,9 @@
   "name_normalised": "advanced fencing landscaping",
   "areas": [
    "fencing_boundaries",
-   "landscaping",
    "groundworks",
-   "paving_patios"
+   "paving_patios",
+   "landscaping"
   ],
   "types": [
    "fencing_contractor",
@@ -1500,11 +1500,11 @@
   "name_normalised": "chambers",
   "areas": [
    "surfacing",
+   "fencing_boundaries",
    "groundworks",
    "paving_patios",
-   "driveways",
-   "fencing_boundaries",
-   "water_drainage"
+   "water_drainage",
+   "driveways"
   ],
   "types": [
    "surfacing_contractor",
@@ -1792,12 +1792,12 @@
   "name_normalised": "elite landscaping gardening",
   "areas": [
    "landscaping",
+   "fencing_boundaries",
    "groundworks",
    "paving_patios",
-   "driveways",
    "decking_structures",
-   "fencing_boundaries",
-   "lawns_grounds"
+   "lawns_grounds",
+   "driveways"
   ],
   "types": [
    "landscape_gardener",
@@ -1894,9 +1894,9 @@
   "name_normalised": "garden build by design",
   "areas": [
    "landscaping",
+   "fencing_boundaries",
    "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener"
@@ -2371,9 +2371,9 @@
   "areas": [
    "landscaping",
    "paving_patios",
-   "driveways",
    "decking_structures",
-   "lawns_grounds"
+   "lawns_grounds",
+   "driveways"
   ],
   "types": [
    "landscape_gardener"
@@ -2626,7 +2626,6 @@
   "accreditations": [],
   "services_notes": "Trades as Howe Tree Consultants: tree surgery, surveys, stump grinding; Somerset, Dorset, Devon & Cornwall; registered waste carrier (Environment Agency CBDL519539)",
   "badges": [
-   "top_pick",
    "ltd_company"
   ],
   "score": 19,
@@ -2777,8 +2776,8 @@
   "name_normalised": "jm fencing landscaping",
   "areas": [
    "fencing_boundaries",
-   "landscaping",
    "paving_patios",
+   "landscaping",
    "lawns_grounds"
   ],
   "types": [
@@ -2886,8 +2885,8 @@
   "name_normalised": "kingfisher landscapes design",
   "areas": [
    "landscaping",
-   "driveways",
-   "paving_patios"
+   "paving_patios",
+   "driveways"
   ],
   "types": [
    "landscape_gardener",
@@ -3087,6 +3086,105 @@
   "county": "somerset"
  },
  {
+  "id": "tf_8fcff155",
+  "name": "Land & Waterscapes",
+  "legal_name": "Land And Waterscapes",
+  "name_normalised": "land waterscapes",
+  "areas": [
+   "groundworks",
+   "landscaping",
+   "water_drainage"
+  ],
+  "types": [
+   "earthworks_contractor",
+   "pond_builder"
+  ],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Midsomer Norton",
+  "postcode": "BA3",
+  "lat": 51.27160902175602,
+  "lng": -2.4782694522144553,
+  "distance_miles": 44.0,
+  "serves_area_only": false,
+  "phone": "07831 362447",
+  "phone_e164": "+447831362447",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.landandwaterscapes.co.uk/",
+  "domain": "landandwaterscapes.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.27160902175602&mlon=-2.4782694522144553#map=13/51.27160902175602/-2.4782694522144553",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "05302437",
+   "status": "active",
+   "incorporated": "2004-12-02",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05302437"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 22,
+  "accreditations": [],
+  "services_notes": "Design & construction of lakes, lagoons, reservoirs, large ponds, fisheries; lining, restoration, landforming",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.landandwaterscapes.co.uk/contact-us/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05302437",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
   "id": "tf_1272d2e3",
   "name": "Landscape Southwest",
   "legal_name": "Landscape Southwest",
@@ -3188,8 +3286,8 @@
   "name_normalised": "lannings trees fences",
   "areas": [
    "trees_vegetation",
-   "landscaping",
    "fencing_boundaries",
+   "landscaping",
    "lawns_grounds"
   ],
   "types": [
@@ -3273,6 +3371,102 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/15107002",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
+  "id": "tf_a72b4218",
+  "name": "Lighter Leaves",
+  "legal_name": "Lighter Leaves",
+  "name_normalised": "lighter leaves",
+  "areas": [
+   "trees_vegetation",
+   "lawns_grounds"
+  ],
+  "types": [
+   "tree_surgeon"
+  ],
+  "primary_area": "trees_vegetation",
+  "address": null,
+  "town": "Ilchester, Yeovil",
+  "postcode": "BA22",
+  "lat": 50.97004692795032,
+  "lng": -2.639008920496894,
+  "distance_miles": 33.5,
+  "serves_area_only": false,
+  "phone": "07894 294382",
+  "phone_e164": "+447894294382",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://lighterleaves.co.uk/",
+  "domain": "lighterleaves.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.97004692795032&mlon=-2.639008920496894#map=13/50.97004692795032/-2.639008920496894",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12708578",
+   "status": "active",
+   "incorporated": "2020-06-30",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12708578"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Tree surgery, woodland, vegetation & estate management, emergency tree work",
+  "badges": [
+   "top_pick",
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://lighterleaves.co.uk/contact-us",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12708578",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "number",
@@ -3398,8 +3592,8 @@
   "name_normalised": "luxury landscapes",
   "areas": [
    "landscaping",
-   "driveways",
-   "lawns_grounds"
+   "lawns_grounds",
+   "driveways"
   ],
   "types": [
    "landscape_contractor"
@@ -3501,8 +3695,8 @@
   "name_normalised": "maple garden management",
   "areas": [
    "lawns_grounds",
-   "landscaping",
-   "trees_vegetation"
+   "trees_vegetation",
+   "landscaping"
   ],
   "types": [
    "grounds_maintenance",
@@ -3607,11 +3801,11 @@
   "name_normalised": "mark cairns landscapes",
   "areas": [
    "landscaping",
+   "fencing_boundaries",
    "trees_vegetation",
    "paving_patios",
-   "driveways",
-   "fencing_boundaries",
-   "lawns_grounds"
+   "lawns_grounds",
+   "driveways"
   ],
   "types": [
    "landscape_gardener",
@@ -3896,11 +4090,11 @@
   "name_normalised": "oj landscapes",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "driveways",
-   "decking_structures",
    "fencing_boundaries",
-   "lawns_grounds"
+   "paving_patios",
+   "decking_structures",
+   "lawns_grounds",
+   "driveways"
   ],
   "types": [
    "landscape_gardener",
@@ -4185,10 +4379,10 @@
   "name_normalised": "pa sloan landscapes",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "driveways",
    "fencing_boundaries",
-   "lawns_grounds"
+   "paving_patios",
+   "lawns_grounds",
+   "driveways"
   ],
   "types": [
    "landscape_gardener"
@@ -4770,11 +4964,11 @@
   "name_normalised": "robin s garden",
   "areas": [
    "landscaping",
-   "lawns_grounds",
-   "paving_patios",
    "fencing_boundaries",
-   "driveways",
-   "decking_structures"
+   "paving_patios",
+   "decking_structures",
+   "lawns_grounds",
+   "driveways"
   ],
   "types": [
    "landscape_gardener"
@@ -4870,8 +5064,8 @@
   "name_normalised": "sw fencing landscaping",
   "areas": [
    "fencing_boundaries",
-   "landscaping",
    "paving_patios",
+   "landscaping",
    "lawns_grounds"
   ],
   "types": [
@@ -4969,8 +5163,8 @@
   "areas": [
    "landscaping",
    "paving_patios",
-   "decking_structures",
-   "water_drainage"
+   "water_drainage",
+   "decking_structures"
   ],
   "types": [
    "landscape_contractor",
@@ -5066,8 +5260,8 @@
   "name_normalised": "somerset drives patios",
   "areas": [
    "driveways",
-   "landscaping",
    "paving_patios",
+   "landscaping",
    "lawns_grounds"
   ],
   "types": [
@@ -5273,10 +5467,10 @@
   "name_normalised": "south west landscaping",
   "areas": [
    "landscaping",
-   "trees_vegetation",
-   "groundworks",
-   "paving_patios",
    "fencing_boundaries",
+   "groundworks",
+   "trees_vegetation",
+   "paving_patios",
    "lawns_grounds"
   ],
   "types": [
@@ -5372,8 +5566,8 @@
   "name_normalised": "stanbury trees fencing",
   "areas": [
    "trees_vegetation",
-   "groundworks",
    "fencing_boundaries",
+   "groundworks",
    "lawns_grounds"
   ],
   "types": [
@@ -5469,11 +5663,11 @@
   "name_normalised": "summerleaze landscaping",
   "areas": [
    "landscaping",
+   "fencing_boundaries",
    "groundworks",
    "paving_patios",
-   "driveways",
    "decking_structures",
-   "fencing_boundaries"
+   "driveways"
   ],
   "types": [
    "landscape_contractor",
@@ -5568,8 +5762,8 @@
   "name_normalised": "tjs gardening ground maintenance",
   "areas": [
    "lawns_grounds",
-   "landscaping",
-   "groundworks"
+   "groundworks",
+   "landscaping"
   ],
   "types": [
    "gardener",
@@ -5659,15 +5853,217 @@
   "county": "somerset"
  },
  {
+  "id": "tf_5879ecec",
+  "name": "TRAX Land & Water",
+  "legal_name": "Trax Land & Water",
+  "name_normalised": "trax land water",
+  "areas": [
+   "groundworks",
+   "water_drainage",
+   "trees_vegetation"
+  ],
+  "types": [
+   "groundworks_contractor"
+  ],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Timberscombe, Minehead",
+  "postcode": "TA24",
+  "lat": 51.18191016927902,
+  "lng": -3.5103266457680284,
+  "distance_miles": 73.7,
+  "serves_area_only": false,
+  "phone": "01643 841754",
+  "phone_e164": "+441643841754",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://traxgroundworks.co.uk.websitebuilder.prositehosting.co.uk/",
+  "domain": "traxgroundworks.co.uk.websitebuilder.prositehosting.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.18191016927902&mlon=-3.5103266457680284#map=13/51.18191016927902/-3.5103266457680284",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11851286",
+   "status": "active",
+   "incorporated": "2019-02-27",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11851286"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 7,
+  "accreditations": [],
+  "services_notes": "Water-pipe moling & leak repair, borehole/well pump installs, water treatment, steep-ground vegetation clearance; MyBuilder profile",
+  "badges": [
+   "top_pick",
+   "ltd_company"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://traxgroundworks.co.uk.websitebuilder.prositehosting.co.uk/contact",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "mybuilder",
+    "url": "https://www.mybuilder.com/profile/trax_land_water_ltd",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "listing"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11851286",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
+  "id": "tf_a6f7794a",
+  "name": "The Ace of Spades",
+  "legal_name": "Ace Of Spades",
+  "name_normalised": "ace of spades",
+  "areas": [
+   "landscaping",
+   "decking_structures",
+   "fencing_boundaries",
+   "paving_patios",
+   "lawns_grounds"
+  ],
+  "types": [
+   "landscape_gardener"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Peasedown St John, Bath",
+  "postcode": "BA2",
+  "lat": 51.35922485223675,
+  "lng": -2.379277340713961,
+  "distance_miles": 47.7,
+  "serves_area_only": false,
+  "phone": "07900 643464",
+  "phone_e164": "+447900643464",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.theaceofspades.co.uk/",
+  "domain": "theaceofspades.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.35922485223675&mlon=-2.379277340713961#map=13/51.35922485223675/-2.379277340713961",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "04392842",
+   "status": "active",
+   "incorporated": "2002-03-12",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/04392842"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 24,
+  "accreditations": [],
+  "services_notes": "Hard landscaping, decking, fencing, patios, lawn care, planting, commercial maintenance; Bath area",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "http://www.theaceofspades.co.uk/contact.html",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/04392842",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
   "id": "tf_d247df74",
   "name": "The Bath Landscape Gardener",
   "legal_name": "THE BATH LANDSCAPE GARDENER LTD",
   "name_normalised": "bath landscape gardener",
   "areas": [
    "landscaping",
+   "fencing_boundaries",
    "paving_patios",
    "decking_structures",
-   "fencing_boundaries",
    "lawns_grounds"
   ],
   "types": [
@@ -6147,8 +6543,8 @@
   "name_normalised": "valletta surfacing",
   "areas": [
    "surfacing",
-   "driveways",
-   "paving_patios"
+   "paving_patios",
+   "driveways"
   ],
   "types": [
    "surfacing_contractor",
@@ -6650,6 +7046,110 @@
   "county": "somerset"
  },
  {
+  "id": "tf_f516caed",
+  "name": "DU Waterscapes",
+  "legal_name": "Du Waterscapes",
+  "name_normalised": "du waterscapes",
+  "areas": [
+   "landscaping",
+   "water_drainage"
+  ],
+  "types": [
+   "pond_builder"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Horton Cross, Ilminster",
+  "postcode": "TA19",
+  "lat": 50.935381339366494,
+  "lng": -2.9161899117647083,
+  "distance_miles": 43.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://duwaterscapes.co.uk/",
+  "domain": "duwaterscapes.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.935381339366494&mlon=-2.9161899117647083#map=13/50.935381339366494/-2.9161899117647083",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11628703",
+   "status": "active",
+   "incorporated": "2018-10-17",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11628703"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 8,
+  "accreditations": [
+   "TrustMark"
+  ],
+  "services_notes": "Bespoke ponds & water features: design, construction, restoration, maintenance; Somerset & Devon; TrustMark",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 14,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 8,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.8,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://duwaterscapes.co.uk/contact/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "address"
+    ]
+   },
+   {
+    "source": "trustmark",
+    "url": "https://www.trustmark.org.uk/firms/DU%20Waterscapes%20Ltd-3785412-TA19%209PY?id=35c5239b-b69f-4708-948d-28da8307a3ce",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "accreditation"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11628703",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
   "id": "tf_b6e9975a",
   "name": "Boarder Landscapes",
   "legal_name": "BOARDER LANDSCAPES LTD",
@@ -6754,8 +7254,8 @@
   "name_normalised": "fox fencing landscaping",
   "areas": [
    "fencing_boundaries",
-   "landscaping",
    "paving_patios",
+   "landscaping",
    "decking_structures"
   ],
   "types": [
@@ -6861,10 +7361,10 @@
   "name_normalised": "glaysher s landscaping",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "driveways",
    "fencing_boundaries",
-   "lawns_grounds"
+   "paving_patios",
+   "lawns_grounds",
+   "driveways"
   ],
   "types": [
    "landscape_gardener"
@@ -8123,8 +8623,8 @@
   "name_normalised": "hilton construction paving landscaping",
   "areas": [
    "driveways",
-   "landscaping",
-   "paving_patios"
+   "paving_patios",
+   "landscaping"
   ],
   "types": [
    "driveway_installer",
@@ -8516,8 +9016,8 @@
   "name_normalised": "mark pike groundworks",
   "areas": [
    "groundworks",
-   "driveways",
-   "paving_patios"
+   "paving_patios",
+   "driveways"
   ],
   "types": [
    "groundworker",
@@ -8821,8 +9321,8 @@
   "name_normalised": "smc building landscapes",
   "areas": [
    "landscaping",
-   "decking_structures",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "decking_structures"
   ],
   "types": [
    "landscape_contractor",
@@ -9495,10 +9995,10 @@
   "name_normalised": "trojan landscapes",
   "areas": [
    "driveways",
-   "landscaping",
+   "fencing_boundaries",
    "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "landscaping",
+   "decking_structures"
   ],
   "types": [
    "driveway_installer",
@@ -16159,98 +16659,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/12363701",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_84a533da",
-  "name": "Ace Of Spades",
-  "legal_name": "ACE OF SPADES LIMITED",
-  "name_normalised": "ace of spades",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Peasedown St. John",
-  "postcode": "BA2",
-  "lat": 51.318,
-  "lng": -2.42,
-  "distance_miles": 45.7,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "04392842",
-   "status": "active",
-   "incorporated": "2002-03-12",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/04392842"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 24,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/04392842",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -55371,98 +55779,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_ed0293cb",
-  "name": "Du Waterscapes",
-  "legal_name": "DU WATERSCAPES LIMITED",
-  "name_normalised": "du waterscapes",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "water_drainage"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Ilminster",
-  "postcode": "TA19",
-  "lat": 50.934,
-  "lng": -2.945,
-  "distance_miles": 44.5,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "11628703",
-   "status": "active",
-   "incorporated": "2018-10-17",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/11628703"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 8,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/11628703",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_d316f910",
   "name": "Dylan B Decorating",
   "legal_name": "DYLAN B DECORATING LTD",
@@ -94365,99 +94681,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_1aea8bed",
-  "name": "Land And Waterscapes",
-  "legal_name": "LAND AND WATERSCAPES LIMITED",
-  "name_normalised": "land waterscapes",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "water_drainage"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bath",
-  "postcode": "BA2",
-  "lat": 51.368,
-  "lng": -2.385,
-  "distance_miles": 48.3,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "05302437",
-   "status": "active",
-   "incorporated": "2004-12-02",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/05302437"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 22,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/05302437",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_6edeacda",
   "name": "Landbased Services",
   "legal_name": "LANDBASED SERVICES LTD",
@@ -96545,97 +96768,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/03836560",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_f67cbfae",
-  "name": "Lighter Leaves",
-  "legal_name": "LIGHTER LEAVES LTD",
-  "name_normalised": "lighter leaves",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Yeovil",
-  "postcode": "BA22",
-  "lat": 51.004,
-  "lng": -2.682,
-  "distance_miles": 36.3,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "12708578",
-   "status": "active",
-   "incorporated": "2020-06-30",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/12708578"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 6,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/12708578",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -162284,98 +162416,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/12276569",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_970342d2",
-  "name": "Trax Land & Water",
-  "legal_name": "TRAX LAND & WATER LTD",
-  "name_normalised": "trax land water",
-  "areas": [
-   "landscaping",
-   "lawns_grounds",
-   "water_drainage"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Somerset",
-  "postcode": "TA24",
-  "lat": 51.153,
-  "lng": -3.514,
-  "distance_miles": 73.1,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "11851286",
-   "status": "active",
-   "incorporated": "2019-02-27",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/11851286"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 7,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/11851286",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
