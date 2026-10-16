@@ -63,3 +63,5 @@
 - 17:25 BST: Backfill: add already-found firms not yet on site (no new search)
 
 - 17:28 BST: Counties dropdown, live intro text, per-county cover stars
+
+- 17:40 BST: Issue 02: +13 enriched Hampshire firms (Basingstoke/Alton)

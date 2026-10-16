@@ -217,9 +217,9 @@
   "name_normalised": "jm fencing landscaping",
   "areas": [
    "fencing_boundaries",
-   "paving_patios",
    "landscaping",
-   "lawns_grounds"
+   "lawns_grounds",
+   "paving_patios"
   ],
   "types": [
    "fencing_contractor",
@@ -744,8 +744,8 @@
   "name_normalised": "somerset landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "commercial_landscaper",
@@ -1255,9 +1255,9 @@
   "name_normalised": "fox fencing landscaping",
   "areas": [
    "fencing_boundaries",
+   "landscaping",
    "paving_patios",
-   "decking_structures",
-   "landscaping"
+   "decking_structures"
   ],
   "types": [
    "fencing_contractor",

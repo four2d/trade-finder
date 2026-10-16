@@ -352,8 +352,8 @@
   "name_normalised": "enjoy tree care",
   "areas": [
    "trees_vegetation",
-   "fencing_boundaries",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "tree_surgeon"
@@ -469,10 +469,10 @@
   "name_normalised": "hambledon landscapes",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "fencing_boundaries",
+   "lawns_grounds",
    "trees_vegetation",
-   "lawns_grounds"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener"
@@ -704,11 +704,11 @@
   "name_normalised": "revitalise gardens",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "fencing_boundaries",
-   "decking_structures",
    "lawns_grounds",
-   "driveways"
+   "driveways",
+   "paving_patios",
+   "decking_structures",
+   "fencing_boundaries"
   ],
   "types": [
    "garden_designer",
@@ -824,11 +824,11 @@
   "name_normalised": "south hants landscapes",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "fencing_boundaries",
-   "decking_structures",
    "lawns_grounds",
-   "driveways"
+   "driveways",
+   "paving_patios",
+   "decking_structures",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -943,10 +943,10 @@
   "name_normalised": "garden force",
   "areas": [
    "lawns_grounds",
-   "paving_patios",
-   "fencing_boundaries",
+   "landscaping",
    "trees_vegetation",
-   "landscaping"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "garden_maintenance",
@@ -1057,8 +1057,8 @@
   "name_normalised": "h w tree surgeons",
   "areas": [
    "trees_vegetation",
-   "fencing_boundaries",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "tree_surgeon",
@@ -1176,11 +1176,11 @@
   "name_normalised": "kaleidoscape landscaping",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "fencing_boundaries",
-   "decking_structures",
    "lawns_grounds",
-   "driveways"
+   "driveways",
+   "paving_patios",
+   "decking_structures",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -1292,8 +1292,8 @@
   "name_normalised": "resin works south",
   "areas": [
    "driveways",
-   "paving_patios",
    "water_drainage",
+   "paving_patios",
    "surfacing"
   ],
   "types": [
@@ -1409,11 +1409,11 @@
   "name_normalised": "autumn leaf garden works",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "fencing_boundaries",
-   "decking_structures",
+   "lawns_grounds",
    "trees_vegetation",
-   "lawns_grounds"
+   "paving_patios",
+   "decking_structures",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -1528,10 +1528,10 @@
   "name_normalised": "hiltingbury garden",
   "areas": [
    "landscaping",
+   "lawns_grounds",
    "paving_patios",
-   "fencing_boundaries",
    "decking_structures",
-   "lawns_grounds"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -1865,9 +1865,9 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "fencing_boundaries",
+   "paving_patios",
    "decking_structures",
-   "paving_patios"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -2089,10 +2089,10 @@
   "name_normalised": "ferndale landscaping",
   "areas": [
    "driveways",
-   "paving_patios",
    "landscaping",
    "lawns_grounds",
-   "groundworks"
+   "groundworks",
+   "paving_patios"
   ],
   "types": [
    "driveway_installer",
@@ -2201,9 +2201,9 @@
   "name_normalised": "freed fencing landscaping",
   "areas": [
    "fencing_boundaries",
+   "landscaping",
    "paving_patios",
-   "decking_structures",
-   "landscaping"
+   "decking_structures"
   ],
   "types": [
    "fencing_contractor",
@@ -2322,10 +2322,10 @@
   "name_normalised": "mc groundworks",
   "areas": [
    "groundworks",
-   "paving_patios",
-   "fencing_boundaries",
+   "driveways",
    "water_drainage",
-   "driveways"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "groundworks_contractor",
@@ -2442,10 +2442,10 @@
   "name_normalised": "meon valley surfacing",
   "areas": [
    "driveways",
-   "paving_patios",
    "landscaping",
-   "surfacing",
-   "groundworks"
+   "groundworks",
+   "paving_patios",
+   "surfacing"
   ],
   "types": [
    "driveway_installer",
@@ -2554,11 +2554,11 @@
   "name_normalised": "rb landscaping groundworks",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "fencing_boundaries",
-   "decking_structures",
    "lawns_grounds",
-   "groundworks"
+   "groundworks",
+   "paving_patios",
+   "decking_structures",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -2670,11 +2670,11 @@
   "name_normalised": "terramax groundworks landscaping",
   "areas": [
    "groundworks",
-   "paving_patios",
-   "fencing_boundaries",
-   "water_drainage",
    "landscaping",
-   "driveways"
+   "driveways",
+   "water_drainage",
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "groundworker",
@@ -2794,10 +2794,10 @@
   "name_normalised": "redwood landscapes",
   "areas": [
    "driveways",
-   "paving_patios",
-   "decking_structures",
    "landscaping",
-   "lawns_grounds"
+   "lawns_grounds",
+   "paving_patios",
+   "decking_structures"
   ],
   "types": [
    "block_paving",
@@ -2890,7 +2890,7 @@
  {
   "id": "tf_e00b0ba1",
   "name": "Peter Yeates Arboriculture",
-  "legal_name": "PETER YEATES ARBORICULTURE LTD",
+  "legal_name": null,
   "name_normalised": "peter yeates arboriculture",
   "areas": [
    "trees_vegetation"
@@ -2933,29 +2933,20 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": {
-   "number": "14039979",
-   "status": "active",
-   "incorporated": "2022-04-11",
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/14039979"
-  },
+  "companies_house": null,
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "ltd",
+  "business_form": "unknown",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Tree surgeon based in Winchester; covers Hampshire. Matched by name + district to PETER YEATES ARBORICULTURE LTD (check)",
+  "services_notes": "Tree surgeon based in Winchester; covers Hampshire",
   "badges": [
    "highly_rated",
    "vetted",
    "no_website",
-   "needs_check",
-   "ltd_company"
+   "needs_check"
   ],
   "score": 56,
   "score_breakdown": {
@@ -2965,8 +2956,8 @@
    "contact": 9,
    "distance": 0
   },
-  "confidence": 0.5,
-  "merge_review": true,
+  "confidence": 0.3,
+  "merge_review": false,
   "sources": [
    {
     "source": "checkatrade",
@@ -2977,15 +2968,6 @@
      "reviews",
      "phone",
      "base"
-    ]
-   },
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/14039979",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "number",
-     "status"
     ]
    }
   ],
@@ -3095,8 +3077,8 @@
   "name_normalised": "dsl landscape",
   "areas": [
    "driveways",
-   "paving_patios",
-   "landscaping"
+   "landscaping",
+   "paving_patios"
   ],
   "types": [
    "block_paving",
@@ -3295,9 +3277,9 @@
   "name_normalised": "stay sure drives patios",
   "areas": [
    "driveways",
-   "paving_patios",
-   "exterior_cleaning",
    "landscaping",
+   "exterior_cleaning",
+   "paving_patios",
    "surfacing"
   ],
   "types": [
@@ -3514,9 +3496,9 @@
   "name_normalised": "salden groundworks",
   "areas": [
    "groundworks",
-   "paving_patios",
+   "driveways",
    "water_drainage",
-   "driveways"
+   "paving_patios"
   ],
   "types": [
    "groundworks_contractor",
@@ -3614,11 +3596,11 @@
   "name_normalised": "southern landscaping",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "fencing_boundaries",
-   "decking_structures",
    "lawns_grounds",
-   "driveways"
+   "driveways",
+   "paving_patios",
+   "decking_structures",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -3716,11 +3698,11 @@
   "name_normalised": "sunset landscapes",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "fencing_boundaries",
-   "decking_structures",
    "driveways",
-   "groundworks"
+   "groundworks",
+   "paving_patios",
+   "decking_structures",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -4111,8 +4093,8 @@
   "name_normalised": "powell paving",
   "areas": [
    "driveways",
-   "paving_patios",
    "landscaping",
+   "paving_patios",
    "surfacing"
   ],
   "types": [
@@ -4212,10 +4194,10 @@
   "name_normalised": "redcliffe landscape gardeners",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "fencing_boundaries",
+   "lawns_grounds",
    "water_drainage",
-   "lawns_grounds"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -4822,8 +4804,8 @@
   "name_normalised": "boswell s driveways topspec driveways",
   "areas": [
    "driveways",
-   "paving_patios",
    "landscaping",
+   "paving_patios",
    "surfacing"
   ],
   "types": [
@@ -5040,9 +5022,9 @@
   "name_normalised": "hambrooks landscaping",
   "areas": [
    "landscaping",
+   "lawns_grounds",
    "paving_patios",
-   "decking_structures",
-   "lawns_grounds"
+   "decking_structures"
   ],
   "types": [
    "garden_designer",
@@ -5253,8 +5235,8 @@
   "name_normalised": "kieron beattie landscaping kbl",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "lawns_grounds"
+   "lawns_grounds",
+   "paving_patios"
   ],
   "types": [
    "landscape_contractor",
@@ -5360,10 +5342,10 @@
   "name_normalised": "roni phillips landscapes",
   "areas": [
    "landscaping",
+   "driveways",
    "paving_patios",
-   "fencing_boundaries",
    "decking_structures",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -5568,9 +5550,9 @@
   "name_normalised": "swift fencing landscaping",
   "areas": [
    "fencing_boundaries",
+   "landscaping",
    "paving_patios",
-   "decking_structures",
-   "landscaping"
+   "decking_structures"
   ],
   "types": [
    "fencing_contractor",
@@ -5667,11 +5649,11 @@
   "name_normalised": "transform landscapes design construction",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "fencing_boundaries",
-   "trees_vegetation",
    "lawns_grounds",
-   "driveways"
+   "driveways",
+   "trees_vegetation",
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -5779,8 +5761,8 @@
   "name_normalised": "watts hard landscaping",
   "areas": [
    "driveways",
-   "paving_patios",
-   "landscaping"
+   "landscaping",
+   "paving_patios"
   ],
   "types": [
    "driveway_installer",
@@ -5880,9 +5862,9 @@
   "name_normalised": "whites groundworks maintenance",
   "areas": [
    "driveways",
-   "paving_patios",
+   "groundworks",
    "exterior_cleaning",
-   "groundworks"
+   "paving_patios"
   ],
   "types": [
    "block_paving",
@@ -6458,10 +6440,10 @@
   "name_normalised": "adore landscapes",
   "areas": [
    "landscaping",
+   "driveways",
    "paving_patios",
    "decking_structures",
-   "fencing_boundaries",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -6940,8 +6922,8 @@
   "name_normalised": "award resin",
   "areas": [
    "driveways",
-   "paving_patios",
    "landscaping",
+   "paving_patios",
    "surfacing"
   ],
   "types": [
@@ -7134,10 +7116,10 @@
   "name_normalised": "bay landscape design",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "decking_structures",
+   "driveways",
    "water_drainage",
-   "driveways"
+   "paving_patios",
+   "decking_structures"
   ],
   "types": [
    "garden_designer",
@@ -8028,11 +8010,11 @@
   "name_normalised": "driveway builders",
   "areas": [
    "driveways",
-   "paving_patios",
-   "fencing_boundaries",
-   "decking_structures",
+   "landscaping",
    "water_drainage",
-   "landscaping"
+   "paving_patios",
+   "decking_structures",
+   "fencing_boundaries"
   ],
   "types": [
    "driveway_installer",
@@ -8732,10 +8714,10 @@
   "name_normalised": "grb groundworks",
   "areas": [
    "groundworks",
-   "paving_patios",
-   "fencing_boundaries",
+   "driveways",
    "water_drainage",
-   "driveways"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "groundworks_contractor",
@@ -8831,9 +8813,9 @@
   "name_normalised": "gadsden gardens",
   "areas": [
    "landscaping",
-   "paving_patios",
    "lawns_grounds",
-   "groundworks"
+   "groundworks",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -9423,8 +9405,8 @@
   "areas": [
    "landscaping",
    "paving_patios",
-   "fencing_boundaries",
-   "decking_structures"
+   "decking_structures",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -9718,9 +9700,9 @@
   "name_normalised": "hart drives landscapes",
   "areas": [
    "driveways",
+   "landscaping",
    "paving_patios",
-   "fencing_boundaries",
-   "landscaping"
+   "fencing_boundaries"
   ],
   "types": [
    "driveway_installer",
@@ -9818,9 +9800,9 @@
   "name_normalised": "helyers of hampshire",
   "areas": [
    "landscaping",
+   "driveways",
    "paving_patios",
-   "fencing_boundaries",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "garden_designer",
@@ -9924,9 +9906,9 @@
   "name_normalised": "hillary groundworks",
   "areas": [
    "groundworks",
-   "paving_patios",
+   "landscaping",
    "water_drainage",
-   "landscaping"
+   "paving_patios"
   ],
   "types": [
    "groundworks_contractor"
@@ -10022,10 +10004,10 @@
   "name_normalised": "howard sons landscapes",
   "areas": [
    "driveways",
+   "landscaping",
    "paving_patios",
-   "fencing_boundaries",
    "decking_structures",
-   "landscaping"
+   "fencing_boundaries"
   ],
   "types": [
    "driveway_installer",
@@ -10123,11 +10105,11 @@
   "name_normalised": "hythe waterside landscaping",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "fencing_boundaries",
-   "exterior_cleaning",
    "lawns_grounds",
-   "driveways"
+   "driveways",
+   "exterior_cleaning",
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -10329,11 +10311,11 @@
   "name_normalised": "j gatcum landscaping",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "fencing_boundaries",
-   "decking_structures",
+   "driveways",
    "water_drainage",
-   "driveways"
+   "paving_patios",
+   "decking_structures",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -10528,8 +10510,8 @@
   "areas": [
    "fencing_boundaries",
    "landscaping",
-   "decking_structures",
-   "paving_patios"
+   "paving_patios",
+   "decking_structures"
   ],
   "types": [
    "fencing_contractor",
@@ -10638,9 +10620,9 @@
   "name_normalised": "js landscapes groundworks",
   "areas": [
    "groundworks",
-   "water_drainage",
    "landscaping",
-   "driveways"
+   "driveways",
+   "water_drainage"
   ],
   "types": [
    "groundworks_contractor",
@@ -11428,8 +11410,8 @@
   "name_normalised": "mjb landscapes driveways",
   "areas": [
    "driveways",
-   "paving_patios",
-   "landscaping"
+   "landscaping",
+   "paving_patios"
   ],
   "types": [
    "driveway_installer",
@@ -11534,10 +11516,10 @@
   "name_normalised": "mls landscapes",
   "areas": [
    "driveways",
-   "paving_patios",
-   "fencing_boundaries",
+   "landscaping",
    "water_drainage",
-   "landscaping"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "driveway_installer",
@@ -11923,8 +11905,8 @@
   "areas": [
    "lawns_grounds",
    "trees_vegetation",
-   "fencing_boundaries",
-   "paving_patios"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "garden_maintenance"
@@ -12114,9 +12096,9 @@
   "name_normalised": "new forest driveways",
   "areas": [
    "driveways",
-   "fencing_boundaries",
+   "landscaping",
    "water_drainage",
-   "landscaping"
+   "fencing_boundaries"
   ],
   "types": [
    "driveway_installer",
@@ -12414,9 +12396,9 @@
   "name_normalised": "omega paving artificial grass",
   "areas": [
    "paving_patios",
-   "fencing_boundaries",
    "lawns_grounds",
-   "driveways"
+   "driveways",
+   "fencing_boundaries"
   ],
   "types": [
    "patio_installer",
@@ -12521,10 +12503,10 @@
   "name_normalised": "pl landscapes",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "fencing_boundaries",
+   "driveways",
    "water_drainage",
-   "driveways"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -12620,11 +12602,11 @@
   "name_normalised": "paragon landscapes",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "fencing_boundaries",
-   "decking_structures",
+   "driveways",
    "trees_vegetation",
-   "driveways"
+   "paving_patios",
+   "decking_structures",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -13209,9 +13191,9 @@
   "name_normalised": "rosie landscapes",
   "areas": [
    "landscaping",
+   "driveways",
    "paving_patios",
-   "decking_structures",
-   "driveways"
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -13415,10 +13397,10 @@
   "name_normalised": "scandor landscape contractors",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "fencing_boundaries",
+   "lawns_grounds",
    "trees_vegetation",
-   "lawns_grounds"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_contractor",
@@ -13901,8 +13883,8 @@
   "name_normalised": "t king son groundworks",
   "areas": [
    "groundworks",
-   "water_drainage",
-   "driveways"
+   "driveways",
+   "water_drainage"
   ],
   "types": [
    "groundworks_contractor"
@@ -13998,10 +13980,10 @@
   "name_normalised": "tm landscapes garden design",
   "areas": [
    "landscaping",
+   "driveways",
    "paving_patios",
-   "fencing_boundaries",
    "decking_structures",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "garden_designer",
@@ -14478,11 +14460,11 @@
   "name_normalised": "wessex gardeners",
   "areas": [
    "lawns_grounds",
-   "paving_patios",
-   "fencing_boundaries",
-   "decking_structures",
+   "landscaping",
    "trees_vegetation",
-   "landscaping"
+   "paving_patios",
+   "decking_structures",
+   "fencing_boundaries"
   ],
   "types": [
    "garden_maintenance",
@@ -15146,10 +15128,10 @@
   "name_normalised": "baikie landscape construction",
   "areas": [
    "landscaping",
+   "driveways",
    "paving_patios",
-   "fencing_boundaries",
    "decking_structures",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_contractor",
@@ -15644,10 +15626,10 @@
   "name_normalised": "ejr groundworks landscapes",
   "areas": [
    "groundworks",
-   "fencing_boundaries",
-   "water_drainage",
    "landscaping",
-   "driveways"
+   "driveways",
+   "water_drainage",
+   "fencing_boundaries"
   ],
   "types": [
    "groundworks_contractor",
@@ -16941,8 +16923,8 @@
   "name_normalised": "aztec landscapes",
   "areas": [
    "landscaping",
-   "water_drainage",
-   "groundworks"
+   "groundworks",
+   "water_drainage"
   ],
   "types": [
    "landscape_contractor",
@@ -17807,11 +17789,11 @@
   "name_normalised": "cliff phillips landscapes cp landscapes",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "fencing_boundaries",
-   "trees_vegetation",
    "lawns_grounds",
-   "driveways"
+   "driveways",
+   "trees_vegetation",
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -18926,9 +18908,9 @@
   "name_normalised": "garden doctor landscaping",
   "areas": [
    "landscaping",
+   "driveways",
    "paving_patios",
-   "fencing_boundaries",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener"
@@ -19302,8 +19284,8 @@
   "name_normalised": "hampshire fencing",
   "areas": [
    "fencing_boundaries",
-   "paving_patios",
-   "landscaping"
+   "landscaping",
+   "paving_patios"
   ],
   "types": [
    "fencing_contractor"
@@ -20527,10 +20509,10 @@
   "name_normalised": "kelpie landscape build",
   "areas": [
    "driveways",
-   "paving_patios",
-   "fencing_boundaries",
    "landscaping",
-   "groundworks"
+   "groundworks",
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "driveway_installer",
@@ -21176,9 +21158,9 @@
   "name_normalised": "marvel paving construction mpac",
   "areas": [
    "driveways",
+   "landscaping",
    "paving_patios",
-   "fencing_boundaries",
-   "landscaping"
+   "fencing_boundaries"
   ],
   "types": [
    "driveway_installer",
@@ -21273,8 +21255,8 @@
   "name_normalised": "master driveways",
   "areas": [
    "driveways",
-   "paving_patios",
    "exterior_cleaning",
+   "paving_patios",
    "surfacing"
   ],
   "types": [
@@ -22494,10 +22476,10 @@
   "name_normalised": "romsey chandlers ford tree landscape",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "fencing_boundaries",
+   "driveways",
    "trees_vegetation",
-   "driveways"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -22592,8 +22574,8 @@
   "name_normalised": "sf garden grounds maintenance",
   "areas": [
    "lawns_grounds",
-   "fencing_boundaries",
-   "exterior_cleaning"
+   "exterior_cleaning",
+   "fencing_boundaries"
   ],
   "types": [
    "garden_maintenance",
@@ -22779,10 +22761,10 @@
   "name_normalised": "solent garden",
   "areas": [
    "landscaping",
+   "lawns_grounds",
    "paving_patios",
-   "fencing_boundaries",
    "decking_structures",
-   "lawns_grounds"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -23068,10 +23050,10 @@
   "name_normalised": "steven rogers landscapes",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "decking_structures",
    "lawns_grounds",
-   "driveways"
+   "driveways",
+   "paving_patios",
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -23355,9 +23337,9 @@
   "name_normalised": "tab landscapes",
   "areas": [
    "landscaping",
+   "lawns_grounds",
    "paving_patios",
-   "fencing_boundaries",
-   "lawns_grounds"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -24107,9 +24089,9 @@
   "name_normalised": "urban vista landscape solutions",
   "areas": [
    "lawns_grounds",
-   "fencing_boundaries",
+   "landscaping",
    "trees_vegetation",
-   "landscaping"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_contractor",
@@ -24392,9 +24374,9 @@
   "name_normalised": "winchester landscapes",
   "areas": [
    "landscaping",
+   "trees_vegetation",
    "paving_patios",
-   "decking_structures",
-   "trees_vegetation"
+   "decking_structures"
   ],
   "types": [
    "landscape_contractor"
@@ -37293,9 +37275,9 @@
   "name_normalised": "rrs landscape garden maintenance",
   "areas": [
    "lawns_grounds",
-   "fencing_boundaries",
+   "landscaping",
    "exterior_cleaning",
-   "landscaping"
+   "fencing_boundaries"
   ],
   "types": [
    "garden_maintenance",
@@ -40588,8 +40570,8 @@
   "name_normalised": "woodslee landscapes",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "lawns_grounds"
+   "lawns_grounds",
+   "paving_patios"
   ],
   "types": [
    "garden_designer",
