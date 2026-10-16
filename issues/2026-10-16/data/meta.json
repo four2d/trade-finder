@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-16T17:26:03+01:00",
+ "last_updated": "2026-10-16T17:32:27+01:00",
  "issue_date": "2026-10-16",
  "issue_no": 2,
  "radius_miles": 25,
@@ -51,11 +51,11 @@
   "verified_trading": 406,
   "ch_only_leads": 9432,
   "verified_phone_or_web_pct": 87,
-  "verified_conf_ge_05_pct": 89,
+  "verified_conf_ge_05_pct": 87,
   "all_have_source_town_distance": true,
   "contactable": 406,
   "phone_or_web_pct": 4,
-  "conf_ge_05_pct": 100,
+  "conf_ge_05_pct": 99,
   "needs_check": 9489,
   "no_website": 9512
  },
