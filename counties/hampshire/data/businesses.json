@@ -705,10 +705,10 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "driveways",
    "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "driveways",
+   "fencing_boundaries",
+   "decking_structures"
   ],
   "types": [
    "garden_designer",
@@ -825,10 +825,10 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "driveways",
    "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "driveways",
+   "fencing_boundaries",
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -943,10 +943,10 @@
   "name_normalised": "garden force",
   "areas": [
    "lawns_grounds",
-   "landscaping",
    "trees_vegetation",
    "paving_patios",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "landscaping"
   ],
   "types": [
    "garden_maintenance",
@@ -1177,10 +1177,10 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "driveways",
    "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "driveways",
+   "fencing_boundaries",
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -1292,8 +1292,8 @@
   "name_normalised": "resin works south",
   "areas": [
    "driveways",
-   "water_drainage",
    "paving_patios",
+   "water_drainage",
    "surfacing"
   ],
   "types": [
@@ -1412,8 +1412,8 @@
    "lawns_grounds",
    "trees_vegetation",
    "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -1530,8 +1530,8 @@
    "landscaping",
    "lawns_grounds",
    "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -1866,8 +1866,8 @@
    "landscaping",
    "lawns_grounds",
    "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -2089,10 +2089,10 @@
   "name_normalised": "ferndale landscaping",
   "areas": [
    "driveways",
-   "landscaping",
    "lawns_grounds",
+   "paving_patios",
    "groundworks",
-   "paving_patios"
+   "landscaping"
   ],
   "types": [
    "driveway_installer",
@@ -2201,8 +2201,8 @@
   "name_normalised": "freed fencing landscaping",
   "areas": [
    "fencing_boundaries",
-   "landscaping",
    "paving_patios",
+   "landscaping",
    "decking_structures"
   ],
   "types": [
@@ -2322,9 +2322,9 @@
   "name_normalised": "mc groundworks",
   "areas": [
    "groundworks",
+   "paving_patios",
    "driveways",
    "water_drainage",
-   "paving_patios",
    "fencing_boundaries"
   ],
   "types": [
@@ -2442,10 +2442,10 @@
   "name_normalised": "meon valley surfacing",
   "areas": [
    "driveways",
-   "landscaping",
-   "groundworks",
    "paving_patios",
-   "surfacing"
+   "surfacing",
+   "groundworks",
+   "landscaping"
   ],
   "types": [
    "driveway_installer",
@@ -2555,10 +2555,10 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "groundworks",
    "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "groundworks",
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -2670,11 +2670,11 @@
   "name_normalised": "terramax groundworks landscaping",
   "areas": [
    "groundworks",
-   "landscaping",
+   "paving_patios",
    "driveways",
    "water_drainage",
-   "paving_patios",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "landscaping"
   ],
   "types": [
    "groundworker",
@@ -2794,9 +2794,9 @@
   "name_normalised": "redwood landscapes",
   "areas": [
    "driveways",
-   "landscaping",
    "lawns_grounds",
    "paving_patios",
+   "landscaping",
    "decking_structures"
   ],
   "types": [
@@ -2890,7 +2890,7 @@
  {
   "id": "tf_e00b0ba1",
   "name": "Peter Yeates Arboriculture",
-  "legal_name": null,
+  "legal_name": "PETER YEATES ARBORICULTURE LTD",
   "name_normalised": "peter yeates arboriculture",
   "areas": [
    "trees_vegetation"
@@ -2933,20 +2933,29 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": null,
+  "companies_house": {
+   "number": "14039979",
+   "status": "active",
+   "incorporated": "2022-04-11",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14039979"
+  },
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "unknown",
+  "business_form": "ltd",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Tree surgeon based in Winchester; covers Hampshire",
+  "services_notes": "Tree surgeon based in Winchester; covers Hampshire. Matched by name + district to PETER YEATES ARBORICULTURE LTD (check)",
   "badges": [
    "highly_rated",
    "vetted",
    "no_website",
-   "needs_check"
+   "needs_check",
+   "ltd_company"
   ],
   "score": 56,
   "score_breakdown": {
@@ -2956,8 +2965,8 @@
    "contact": 9,
    "distance": 0
   },
-  "confidence": 0.3,
-  "merge_review": false,
+  "confidence": 0.5,
+  "merge_review": true,
   "sources": [
    {
     "source": "checkatrade",
@@ -2968,6 +2977,15 @@
      "reviews",
      "phone",
      "base"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14039979",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status"
     ]
    }
   ],
@@ -3277,10 +3295,10 @@
   "name_normalised": "stay sure drives patios",
   "areas": [
    "driveways",
-   "landscaping",
    "exterior_cleaning",
    "paving_patios",
-   "surfacing"
+   "surfacing",
+   "landscaping"
   ],
   "types": [
    "driveway_installer",
@@ -3496,9 +3514,9 @@
   "name_normalised": "salden groundworks",
   "areas": [
    "groundworks",
+   "paving_patios",
    "driveways",
-   "water_drainage",
-   "paving_patios"
+   "water_drainage"
   ],
   "types": [
    "groundworks_contractor",
@@ -3597,10 +3615,10 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "driveways",
    "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "driveways",
+   "fencing_boundaries",
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -3698,11 +3716,11 @@
   "name_normalised": "sunset landscapes",
   "areas": [
    "landscaping",
-   "driveways",
-   "groundworks",
    "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "driveways",
+   "fencing_boundaries",
+   "groundworks",
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -4093,9 +4111,9 @@
   "name_normalised": "powell paving",
   "areas": [
    "driveways",
-   "landscaping",
    "paving_patios",
-   "surfacing"
+   "surfacing",
+   "landscaping"
   ],
   "types": [
    "driveway_installer",
@@ -4195,8 +4213,8 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "water_drainage",
    "paving_patios",
+   "water_drainage",
    "fencing_boundaries"
   ],
   "types": [
@@ -4804,9 +4822,9 @@
   "name_normalised": "boswell s driveways topspec driveways",
   "areas": [
    "driveways",
-   "landscaping",
    "paving_patios",
-   "surfacing"
+   "surfacing",
+   "landscaping"
   ],
   "types": [
    "driveway_installer",
@@ -5342,10 +5360,10 @@
   "name_normalised": "roni phillips landscapes",
   "areas": [
    "landscaping",
-   "driveways",
    "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "driveways",
+   "fencing_boundaries",
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -5550,8 +5568,8 @@
   "name_normalised": "swift fencing landscaping",
   "areas": [
    "fencing_boundaries",
-   "landscaping",
    "paving_patios",
+   "landscaping",
    "decking_structures"
   ],
   "types": [
@@ -5650,9 +5668,9 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "driveways",
    "trees_vegetation",
    "paving_patios",
+   "driveways",
    "fencing_boundaries"
   ],
   "types": [
@@ -5862,9 +5880,9 @@
   "name_normalised": "whites groundworks maintenance",
   "areas": [
    "driveways",
-   "groundworks",
    "exterior_cleaning",
-   "paving_patios"
+   "paving_patios",
+   "groundworks"
   ],
   "types": [
    "block_paving",
@@ -6440,10 +6458,10 @@
   "name_normalised": "adore landscapes",
   "areas": [
    "landscaping",
-   "driveways",
    "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "driveways",
+   "fencing_boundaries",
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -6922,9 +6940,9 @@
   "name_normalised": "award resin",
   "areas": [
    "driveways",
-   "landscaping",
    "paving_patios",
-   "surfacing"
+   "surfacing",
+   "landscaping"
   ],
   "types": [
    "resin_driveway",
@@ -7116,9 +7134,9 @@
   "name_normalised": "bay landscape design",
   "areas": [
    "landscaping",
+   "paving_patios",
    "driveways",
    "water_drainage",
-   "paving_patios",
    "decking_structures"
   ],
   "types": [
@@ -7403,8 +7421,8 @@
   "name_normalised": "box gardens",
   "areas": [
    "lawns_grounds",
-   "landscaping",
-   "trees_vegetation"
+   "trees_vegetation",
+   "landscaping"
   ],
   "types": [
    "garden_maintenance"
@@ -8010,11 +8028,11 @@
   "name_normalised": "driveway builders",
   "areas": [
    "driveways",
-   "landscaping",
-   "water_drainage",
    "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "water_drainage",
+   "fencing_boundaries",
+   "landscaping",
+   "decking_structures"
   ],
   "types": [
    "driveway_installer",
@@ -8120,8 +8138,8 @@
   "name_normalised": "elevated garden",
   "areas": [
    "lawns_grounds",
-   "landscaping",
-   "exterior_cleaning"
+   "exterior_cleaning",
+   "landscaping"
   ],
   "types": [
    "garden_maintenance",
@@ -8714,9 +8732,9 @@
   "name_normalised": "grb groundworks",
   "areas": [
    "groundworks",
+   "paving_patios",
    "driveways",
    "water_drainage",
-   "paving_patios",
    "fencing_boundaries"
   ],
   "types": [
@@ -8814,8 +8832,8 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "groundworks",
-   "paving_patios"
+   "paving_patios",
+   "groundworks"
   ],
   "types": [
    "landscape_gardener",
@@ -9405,8 +9423,8 @@
   "areas": [
    "landscaping",
    "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -9700,9 +9718,9 @@
   "name_normalised": "hart drives landscapes",
   "areas": [
    "driveways",
-   "landscaping",
    "paving_patios",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "landscaping"
   ],
   "types": [
    "driveway_installer",
@@ -9800,8 +9818,8 @@
   "name_normalised": "helyers of hampshire",
   "areas": [
    "landscaping",
-   "driveways",
    "paving_patios",
+   "driveways",
    "fencing_boundaries"
   ],
   "types": [
@@ -9906,9 +9924,9 @@
   "name_normalised": "hillary groundworks",
   "areas": [
    "groundworks",
-   "landscaping",
+   "paving_patios",
    "water_drainage",
-   "paving_patios"
+   "landscaping"
   ],
   "types": [
    "groundworks_contractor"
@@ -10004,10 +10022,10 @@
   "name_normalised": "howard sons landscapes",
   "areas": [
    "driveways",
-   "landscaping",
    "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "landscaping",
+   "decking_structures"
   ],
   "types": [
    "driveway_installer",
@@ -10106,9 +10124,9 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "driveways",
    "exterior_cleaning",
    "paving_patios",
+   "driveways",
    "fencing_boundaries"
   ],
   "types": [
@@ -10311,11 +10329,11 @@
   "name_normalised": "j gatcum landscaping",
   "areas": [
    "landscaping",
+   "paving_patios",
    "driveways",
    "water_drainage",
-   "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -10509,8 +10527,8 @@
   "name_normalised": "jn fencing landscaping",
   "areas": [
    "fencing_boundaries",
-   "landscaping",
    "paving_patios",
+   "landscaping",
    "decking_structures"
   ],
   "types": [
@@ -10620,9 +10638,9 @@
   "name_normalised": "js landscapes groundworks",
   "areas": [
    "groundworks",
-   "landscaping",
    "driveways",
-   "water_drainage"
+   "water_drainage",
+   "landscaping"
   ],
   "types": [
    "groundworks_contractor",
@@ -11312,8 +11330,8 @@
   "name_normalised": "location landscapes",
   "areas": [
    "lawns_grounds",
-   "landscaping",
-   "trees_vegetation"
+   "trees_vegetation",
+   "landscaping"
   ],
   "types": [
    "garden_maintenance",
@@ -11516,10 +11534,10 @@
   "name_normalised": "mls landscapes",
   "areas": [
    "driveways",
-   "landscaping",
-   "water_drainage",
    "paving_patios",
-   "fencing_boundaries"
+   "water_drainage",
+   "fencing_boundaries",
+   "landscaping"
   ],
   "types": [
    "driveway_installer",
@@ -12096,9 +12114,9 @@
   "name_normalised": "new forest driveways",
   "areas": [
    "driveways",
-   "landscaping",
    "water_drainage",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "landscaping"
   ],
   "types": [
    "driveway_installer",
@@ -12503,9 +12521,9 @@
   "name_normalised": "pl landscapes",
   "areas": [
    "landscaping",
+   "paving_patios",
    "driveways",
    "water_drainage",
-   "paving_patios",
    "fencing_boundaries"
   ],
   "types": [
@@ -12602,11 +12620,11 @@
   "name_normalised": "paragon landscapes",
   "areas": [
    "landscaping",
-   "driveways",
    "trees_vegetation",
    "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "driveways",
+   "fencing_boundaries",
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -13191,8 +13209,8 @@
   "name_normalised": "rosie landscapes",
   "areas": [
    "landscaping",
-   "driveways",
    "paving_patios",
+   "driveways",
    "decking_structures"
   ],
   "types": [
@@ -13883,8 +13901,8 @@
   "name_normalised": "t king son groundworks",
   "areas": [
    "groundworks",
-   "driveways",
-   "water_drainage"
+   "water_drainage",
+   "driveways"
   ],
   "types": [
    "groundworks_contractor"
@@ -13980,10 +13998,10 @@
   "name_normalised": "tm landscapes garden design",
   "areas": [
    "landscaping",
-   "driveways",
    "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "driveways",
+   "fencing_boundaries",
+   "decking_structures"
   ],
   "types": [
    "garden_designer",
@@ -14460,11 +14478,11 @@
   "name_normalised": "wessex gardeners",
   "areas": [
    "lawns_grounds",
-   "landscaping",
    "trees_vegetation",
    "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "landscaping",
+   "decking_structures"
   ],
   "types": [
    "garden_maintenance",
@@ -15128,10 +15146,10 @@
   "name_normalised": "baikie landscape construction",
   "areas": [
    "landscaping",
-   "driveways",
    "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "driveways",
+   "fencing_boundaries",
+   "decking_structures"
   ],
   "types": [
    "landscape_contractor",
@@ -15626,10 +15644,10 @@
   "name_normalised": "ejr groundworks landscapes",
   "areas": [
    "groundworks",
-   "landscaping",
    "driveways",
    "water_drainage",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "landscaping"
   ],
   "types": [
    "groundworks_contractor",
@@ -16275,8 +16293,8 @@
   "name_normalised": "andover resin",
   "areas": [
    "driveways",
-   "paving_patios",
-   "surfacing"
+   "surfacing",
+   "paving_patios"
   ],
   "types": [
    "resin_driveway"
@@ -16923,8 +16941,8 @@
   "name_normalised": "aztec landscapes",
   "areas": [
    "landscaping",
-   "groundworks",
-   "water_drainage"
+   "water_drainage",
+   "groundworks"
   ],
   "types": [
    "landscape_contractor",
@@ -17020,8 +17038,8 @@
   "name_normalised": "beau gardens",
   "areas": [
    "lawns_grounds",
-   "landscaping",
-   "trees_vegetation"
+   "trees_vegetation",
+   "landscaping"
   ],
   "types": [
    "garden_maintenance",
@@ -17211,8 +17229,8 @@
   "name_normalised": "bird s gardening general repairs",
   "areas": [
    "lawns_grounds",
-   "landscaping",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "landscaping"
   ],
   "types": [
    "garden_maintenance",
@@ -17503,8 +17521,8 @@
   "name_normalised": "buz creative landscapes",
   "areas": [
    "landscaping",
-   "driveways",
-   "decking_structures"
+   "decking_structures",
+   "driveways"
   ],
   "types": [
    "landscape_gardener",
@@ -17790,9 +17808,9 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "driveways",
    "trees_vegetation",
    "paving_patios",
+   "driveways",
    "fencing_boundaries"
   ],
   "types": [
@@ -18908,8 +18926,8 @@
   "name_normalised": "garden doctor landscaping",
   "areas": [
    "landscaping",
-   "driveways",
    "paving_patios",
+   "driveways",
    "fencing_boundaries"
   ],
   "types": [
@@ -19473,8 +19491,8 @@
   "name_normalised": "hampshire resin driveways",
   "areas": [
    "driveways",
-   "paving_patios",
-   "surfacing"
+   "surfacing",
+   "paving_patios"
   ],
   "types": [
    "resin_driveway"
@@ -20509,10 +20527,10 @@
   "name_normalised": "kelpie landscape build",
   "areas": [
    "driveways",
-   "landscaping",
-   "groundworks",
    "paving_patios",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "groundworks",
+   "landscaping"
   ],
   "types": [
    "driveway_installer",
@@ -21158,9 +21176,9 @@
   "name_normalised": "marvel paving construction mpac",
   "areas": [
    "driveways",
-   "landscaping",
    "paving_patios",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "landscaping"
   ],
   "types": [
    "driveway_installer",
@@ -22476,9 +22494,9 @@
   "name_normalised": "romsey chandlers ford tree landscape",
   "areas": [
    "landscaping",
-   "driveways",
    "trees_vegetation",
    "paving_patios",
+   "driveways",
    "fencing_boundaries"
   ],
   "types": [
@@ -22574,8 +22592,8 @@
   "name_normalised": "sf garden grounds maintenance",
   "areas": [
    "lawns_grounds",
-   "exterior_cleaning",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "exterior_cleaning"
   ],
   "types": [
    "garden_maintenance",
@@ -22763,8 +22781,8 @@
    "landscaping",
    "lawns_grounds",
    "paving_patios",
-   "decking_structures",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "decking_structures"
   ],
   "types": [
    "landscape_gardener",
@@ -23051,8 +23069,8 @@
   "areas": [
    "landscaping",
    "lawns_grounds",
-   "driveways",
    "paving_patios",
+   "driveways",
    "decking_structures"
   ],
   "types": [
@@ -24089,9 +24107,9 @@
   "name_normalised": "urban vista landscape solutions",
   "areas": [
    "lawns_grounds",
-   "landscaping",
    "trees_vegetation",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "landscaping"
   ],
   "types": [
    "landscape_contractor",
@@ -37275,9 +37293,9 @@
   "name_normalised": "rrs landscape garden maintenance",
   "areas": [
    "lawns_grounds",
-   "landscaping",
    "exterior_cleaning",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "landscaping"
   ],
   "types": [
    "garden_maintenance",
@@ -47580,7 +47598,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/02663588",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -47591,7 +47609,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -60483,7 +60501,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17051269",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -60494,7 +60512,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -75374,7 +75392,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16616748",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -75385,7 +75403,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -78859,6 +78877,98 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_4e8498a7",
+  "name": "BPS Leisure",
+  "legal_name": "BPS LEISURE LIMITED",
+  "name_normalised": "bps leisure",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Thatcham",
+  "postcode": "RG19",
+  "lat": 51.361,
+  "lng": -1.252,
+  "distance_miles": 54.9,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "03255843",
+   "status": "active",
+   "incorporated": "1996-09-27",
+   "dissolved": null,
+   "sic": [
+    "33190",
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/03255843"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 30,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 33190, 43999",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/03255843",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -146800,7 +146910,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/08231990",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -146811,7 +146921,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -154673,7 +154783,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/06477881",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -154684,7 +154794,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -165483,7 +165593,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/07361198",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -165494,7 +165604,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -178444,7 +178554,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/06018990",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -178455,7 +178565,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -197186,7 +197296,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/15662266",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -197197,7 +197307,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -236391,7 +236501,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17446637",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -236402,7 +236512,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -263694,7 +263804,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/09572010",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -263705,7 +263815,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -312883,7 +312993,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16433884",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -312894,7 +313004,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -319105,6 +319215,100 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_39601186",
+  "name": "RC Saunders",
+  "legal_name": "RC SAUNDERS LIMITED",
+  "name_normalised": "rc saunders",
+  "areas": [
+   "groundworks",
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Reading",
+  "postcode": "RG7",
+  "lat": 51.345,
+  "lng": -1.071,
+  "distance_miles": 59.0,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "08001063",
+   "status": "active",
+   "incorporated": "2012-03-22",
+   "dissolved": null,
+   "sic": [
+    "42990",
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08001063"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 14,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 42990, 81300",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08001063",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -353049,7 +353253,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17043263",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -353060,7 +353264,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -357634,7 +357838,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/07430729",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -357645,7 +357849,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -417624,7 +417828,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/12209728",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -417635,7 +417839,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire",
@@ -441327,7 +441531,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/14588614",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -441338,7 +441542,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -454924,7 +455128,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16375049",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -454935,7 +455139,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -476773,7 +476977,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/15208283",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -476784,7 +476988,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -527576,7 +527780,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/12472072",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -527587,7 +527791,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -547181,6 +547385,93 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_93627f2a",
+  "name": "Fairoak G&L",
+  "legal_name": "FAIROAK G&L LIMITED",
+  "name_normalised": "fairoak g l",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Ashford Hill",
+  "postcode": "RG19",
+  "lat": 51.349,
+  "lng": -1.206,
+  "distance_miles": 55.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12076192",
+   "status": "dissolved",
+   "incorporated": "2019-07-01",
+   "dissolved": "2022-03-08",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12076192"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 7,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 81300",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12076192",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_3153f57e",
   "name": "Fairpark",
   "legal_name": "FAIRPARK LIMITED",
@@ -552725,7 +553016,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/13010206",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -552736,7 +553027,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -573483,6 +573774,94 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_5230c16c",
+  "name": "HCS Construction And Development",
+  "legal_name": "HCS CONSTRUCTION AND DEVELOPMENT LTD",
+  "name_normalised": "hcs construction development",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Thatcham",
+  "postcode": "RG19",
+  "lat": 51.357,
+  "lng": -1.257,
+  "distance_miles": 54.5,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "16162624",
+   "status": "dissolved",
+   "incorporated": "2025-01-03",
+   "dissolved": "2026-07-07",
+   "sic": [
+    "41201",
+    "41202",
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/16162624"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 1,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 41201, 41202, 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/16162624",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_0945ed9a",
   "name": "HD Design And Construction",
   "legal_name": "HD DESIGN AND CONSTRUCTION LTD",
@@ -580762,7 +581141,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16158422",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -580773,7 +581152,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -614218,7 +614597,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/09831783",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -614229,7 +614608,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -642449,8 +642828,8 @@
   "name_normalised": "lopperwood tree landscapes",
   "areas": [
    "trees_vegetation",
-   "landscaping",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "landscaping"
   ],
   "types": [
    "tree_surgeon",
@@ -652567,6 +652946,93 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_795b6a7c",
+  "name": "MPS (Gb)",
+  "legal_name": "MPS (GB) LTD.",
+  "name_normalised": "mps gb",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Thatcham",
+  "postcode": "RG19",
+  "lat": 51.353,
+  "lng": -1.253,
+  "distance_miles": 54.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "05797512",
+   "status": "dissolved",
+   "incorporated": "2006-04-26",
+   "dissolved": "2018-05-15",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/05797512"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 20,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 81300",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05797512",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "hampshire",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_0aeaf968",
   "name": "MQP Maintenance",
   "legal_name": "MQP MAINTENANCE LTD",
@@ -659627,7 +660093,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/15393306",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -659638,7 +660104,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -670033,7 +670499,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/12198592",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -670044,7 +670510,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -670209,7 +670675,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/11045258",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -670220,7 +670686,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -718983,7 +719449,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/11199589",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -718994,7 +719460,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -725486,7 +725952,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/08350848",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -725497,7 +725963,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -782390,7 +782856,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/14053107",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -782401,7 +782867,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",
@@ -788637,7 +789103,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/14203335",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -788648,7 +789114,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "hampshire",

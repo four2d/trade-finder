@@ -65,3 +65,5 @@
 - 17:28 BST: Counties dropdown, live intro text, per-county cover stars
 
 - 17:40 BST: Issue 02: +13 enriched Hampshire firms (Basingstoke/Alton)
+
+- 18:02 BST: Issue 02: add Berkshire and Bristol (Companies House discovery)

@@ -217,9 +217,9 @@
   "name_normalised": "jm fencing landscaping",
   "areas": [
    "fencing_boundaries",
-   "landscaping",
    "lawns_grounds",
-   "paving_patios"
+   "paving_patios",
+   "landscaping"
   ],
   "types": [
    "fencing_contractor",
@@ -530,8 +530,8 @@
   "name_normalised": "maple garden management",
   "areas": [
    "lawns_grounds",
-   "landscaping",
-   "trees_vegetation"
+   "trees_vegetation",
+   "landscaping"
   ],
   "types": [
    "grounds_maintenance",
@@ -1255,8 +1255,8 @@
   "name_normalised": "fox fencing landscaping",
   "areas": [
    "fencing_boundaries",
-   "landscaping",
    "paving_patios",
+   "landscaping",
    "decking_structures"
   ],
   "types": [
@@ -3755,7 +3755,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/05822814",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -3766,7 +3766,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -5673,7 +5673,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/11874726",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -5684,7 +5684,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -6768,7 +6768,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/09259781",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -6779,7 +6779,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -9602,7 +9602,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/12187540",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -9613,7 +9613,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -18560,7 +18560,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/13561241",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -18571,7 +18571,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -24308,7 +24308,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/11262907",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -24319,7 +24319,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -51548,7 +51548,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/05551399",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -51559,7 +51559,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -51642,7 +51642,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/06962323",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -51653,7 +51653,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -61420,7 +61420,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/10791779",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -61431,7 +61431,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -66154,7 +66154,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/11465057",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -66165,7 +66165,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -67802,7 +67802,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/06821329",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -67813,7 +67813,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -68625,7 +68625,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/12416605",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -68636,7 +68636,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -68719,7 +68719,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/02591706",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -68730,7 +68730,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -80951,7 +80951,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/14484189",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -80962,7 +80962,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -87078,7 +87078,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/04628078",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -87089,7 +87089,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -92568,7 +92568,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/08234116",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -92579,7 +92579,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -92933,7 +92933,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/10219719",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -92944,7 +92944,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -98161,6 +98161,97 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_32aaeb27",
+  "name": "Makepeace Site Services",
+  "legal_name": "MAKEPEACE SITE SERVICES LIMITED",
+  "name_normalised": "makepeace site",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Bristol",
+  "postcode": "BS8",
+  "lat": 51.438,
+  "lng": -2.691,
+  "distance_miles": 58.5,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "16412116",
+   "status": "active",
+   "incorporated": "2025-04-28",
+   "dissolved": null,
+   "sic": [
+    "43120"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/16412116"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 1,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43120",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "new_business"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/16412116",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_e0d80d17",
   "name": "Makesafe Solutions",
   "legal_name": "MAKESAFE SOLUTIONS LTD",
@@ -101608,7 +101699,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/12282421",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -101619,7 +101710,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -102428,7 +102519,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/10793932",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -102439,7 +102530,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -102610,7 +102701,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/08696337",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -102621,7 +102712,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -102896,6 +102987,97 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_d7b8eda1",
+  "name": "Minerva Landscaping",
+  "legal_name": "MINERVA LANDSCAPING LTD",
+  "name_normalised": "minerva landscaping",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Bristol",
+  "postcode": "BS20",
+  "lat": 51.485,
+  "lng": -2.76,
+  "distance_miles": 62.9,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13247965",
+   "status": "active",
+   "incorporated": "2021-03-05",
+   "dissolved": null,
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13247965"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13247965",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -109093,7 +109275,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/07892974",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -109104,7 +109286,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -114755,7 +114937,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/05562809",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -114766,7 +114948,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -114845,7 +115027,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/15943982",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -114856,7 +115038,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -116035,7 +116217,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/08069321",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -116046,7 +116228,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -116311,7 +116493,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16907768",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -116322,7 +116504,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -118861,6 +119043,97 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17510720",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_03417dce",
+  "name": "Portishead Groundworx",
+  "legal_name": "PORTISHEAD GROUNDWORX LTD",
+  "name_normalised": "portishead groundworx",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Bristol",
+  "postcode": "BS20",
+  "lat": 51.478,
+  "lng": -2.758,
+  "distance_miles": 62.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "10403738",
+   "status": "active",
+   "incorporated": "2016-09-30",
+   "dissolved": null,
+   "sic": [
+    "43120"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10403738"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 10,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43120",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10403738",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
@@ -122977,7 +123250,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/07152549",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -122988,7 +123261,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -124436,7 +124709,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/13258005",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -124447,7 +124720,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -127179,7 +127452,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/09945230",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -127190,7 +127463,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -132114,7 +132387,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/08618429",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -132125,7 +132398,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -136328,6 +136601,96 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_f1591214",
+  "name": "Sa Clearance & Removals",
+  "legal_name": "SA CLEARANCE & REMOVALS LTD",
+  "name_normalised": "sa clearance removals",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Bristol",
+  "postcode": "BS8",
+  "lat": 51.469,
+  "lng": -2.66,
+  "distance_miles": 59.7,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14550223",
+   "status": "active",
+   "incorporated": "2022-12-20",
+   "dissolved": null,
+   "sic": [
+    "43120"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14550223"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 43120",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14550223",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_8d3c36cd",
   "name": "Safedigging",
   "legal_name": "SAFEDIGGING LIMITED",
@@ -140514,7 +140877,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/12964418",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -140525,7 +140888,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -144248,7 +144611,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/11792099",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -144259,7 +144622,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -144705,7 +145068,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/13558374",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -144716,7 +145079,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -147901,7 +148264,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/05197707",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -147912,7 +148275,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -148086,7 +148449,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16258795",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -148097,7 +148460,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -153939,7 +154302,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/09569706",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -153950,7 +154313,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -156502,7 +156865,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/07935113",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -156513,7 +156876,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -164132,6 +164495,98 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_67441285",
+  "name": "WJR Environmental Services",
+  "legal_name": "WJR ENVIRONMENTAL SERVICES LTD",
+  "name_normalised": "wjr environmental",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Bristol",
+  "postcode": "BS20",
+  "lat": 51.473,
+  "lng": -2.798,
+  "distance_miles": 63.1,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "08701394",
+   "status": "active",
+   "incorporated": "2013-09-23",
+   "dissolved": null,
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08701394"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 13,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check",
+   "established"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08701394",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_49c5916f",
   "name": "WK Engineering Services",
   "legal_name": "WK ENGINEERING SERVICES LTD",
@@ -164384,7 +164839,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/11379880",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -164395,7 +164850,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -165391,7 +165846,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/00943477",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -165402,7 +165857,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -165585,6 +166040,97 @@
    }
   ],
   "first_seen": "2026-10-15",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_62f4a5eb",
+  "name": "Webbers Groundworks Contracting",
+  "legal_name": "WEBBERS GROUNDWORKS CONTRACTING LTD",
+  "name_normalised": "webbers groundworks contracting",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "North Somerset",
+  "postcode": "BS20",
+  "lat": 51.483,
+  "lng": -2.796,
+  "distance_miles": 63.6,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12915349",
+   "status": "active",
+   "incorporated": "2020-09-30",
+   "dissolved": null,
+   "sic": [
+    "41100",
+    "43120"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12915349"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 41100, 43120",
+  "badges": [
+   "ltd_company",
+   "no_website",
+   "needs_check"
+  ],
+  "score": 3,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12915349",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
   "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
@@ -169769,7 +170315,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/14317445",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -169780,7 +170326,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -170042,7 +170588,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/07499374",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -170053,7 +170599,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "somerset",
@@ -178886,7 +179432,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/13326336",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -178897,7 +179443,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -179667,7 +180213,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/12637454",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -179678,7 +180224,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -181415,6 +181961,93 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "somerset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_ea3f6dc8",
+  "name": "Alphamale Original",
+  "legal_name": "ALPHAMALE ORIGINAL LIMITED",
+  "name_normalised": "alphamale original",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Ham Green",
+  "postcode": "BS20",
+  "lat": 51.476,
+  "lng": -2.676,
+  "distance_miles": 60.5,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09080619",
+   "status": "dissolved",
+   "incorporated": "2014-06-11",
+   "dissolved": "2016-06-07",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09080619"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 12,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 81300",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09080619",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -183921,7 +184554,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/07080743",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -183932,7 +184565,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -184278,6 +184911,92 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "somerset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_88b7d9d0",
+  "name": "Ashland Building Services",
+  "legal_name": "ASHLAND BUILDING SERVICES LIMITED",
+  "name_normalised": "ashland building",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Avon",
+  "postcode": "BS20",
+  "lat": 51.482,
+  "lng": -2.788,
+  "distance_miles": 63.4,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09597797",
+   "status": "dissolved",
+   "incorporated": "2015-05-19",
+   "dissolved": "2017-07-04",
+   "sic": [
+    "43120"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09597797"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 11,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43120",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09597797",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -184713,6 +185432,94 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "somerset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_7f7cccba",
+  "name": "Atlas Civils",
+  "legal_name": "ATLAS CIVILS LTD",
+  "name_normalised": "atlas civils",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Bristol",
+  "postcode": "BS20",
+  "lat": 51.485,
+  "lng": -2.765,
+  "distance_miles": 63.0,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "11956470",
+   "status": "dissolved",
+   "incorporated": "2019-04-20",
+   "dissolved": "2022-05-24",
+   "sic": [
+    "42990",
+    "43120",
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11956470"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 7,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 42990, 43120, 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11956470",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -187389,7 +188196,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/10810356",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -187400,7 +188207,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -188543,6 +189350,93 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_70000b9b",
+  "name": "Bauer Landscaping",
+  "legal_name": "BAUER LANDSCAPING LTD",
+  "name_normalised": "bauer landscaping",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Bristol",
+  "postcode": "BS8",
+  "lat": 51.469,
+  "lng": -2.66,
+  "distance_miles": 59.7,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12884538",
+   "status": "dissolved",
+   "incorporated": "2020-09-16",
+   "dissolved": "2022-09-06",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12884538"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 81300",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12884538",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "somerset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_205832a5",
   "name": "Bear Copper",
   "legal_name": "BEAR COPPER LIMITED",
@@ -188609,7 +189503,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/10134744",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -188620,7 +189514,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -188697,7 +189591,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/12268809",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -188708,7 +189602,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -192691,7 +193585,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/14166372",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -192702,7 +193596,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -193553,7 +194447,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/05918758",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -193564,7 +194458,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -204373,7 +205267,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/11611982",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -204384,7 +205278,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -212710,7 +213604,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/10768606",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -212721,7 +213615,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -215572,7 +216466,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/15374225",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -215583,7 +216477,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -217916,7 +218810,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/10272018",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -217927,7 +218821,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -220691,7 +221585,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/13574401",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -220702,7 +221596,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -222158,7 +223052,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/12966979",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -222169,7 +223063,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -223905,6 +224799,92 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "somerset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_52469f86",
+  "name": "H&H Building Solutions",
+  "legal_name": "H&H BUILDING SOLUTIONS LTD",
+  "name_normalised": "h h building solutions",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Bristol",
+  "postcode": "BS20",
+  "lat": 51.471,
+  "lng": -2.722,
+  "distance_miles": 61.2,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13501511",
+   "status": "dissolved",
+   "incorporated": "2021-07-08",
+   "dissolved": "2023-01-03",
+   "sic": [
+    "43110"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13501511"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43110",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13501511",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -231516,7 +232496,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/07742676",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -231527,7 +232507,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -232655,6 +233635,92 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "somerset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_3c7ecf68",
+  "name": "J.T. Groundworks & Civils",
+  "legal_name": "J.T. GROUNDWORKS & CIVILS LTD",
+  "name_normalised": "j t groundworks civils",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Portishead",
+  "postcode": "BS20",
+  "lat": 51.473,
+  "lng": -2.798,
+  "distance_miles": 63.1,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12544806",
+   "status": "dissolved",
+   "incorporated": "2020-04-02",
+   "dissolved": "2024-06-18",
+   "sic": [
+    "43120"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12544806"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43120",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12544806",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -236020,7 +237086,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/11348212",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -236031,7 +237097,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -241489,6 +242555,92 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "somerset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_bc994578",
+  "name": "LCS (Bristol)",
+  "legal_name": "LCS (BRISTOL) LIMITED",
+  "name_normalised": "lcs bristol",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Bristol",
+  "postcode": "BS20",
+  "lat": 51.486,
+  "lng": -2.767,
+  "distance_miles": 63.1,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "09697900",
+   "status": "dissolved",
+   "incorporated": "2015-07-22",
+   "dissolved": "2018-09-18",
+   "sic": [
+    "43120"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/09697900"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 11,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43120",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09697900",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -247884,7 +249036,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/08177496",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -247895,7 +249047,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -250165,6 +251317,92 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_31013179",
+  "name": "Maritz Engineering",
+  "legal_name": "MARITZ ENGINEERING LIMITED",
+  "name_normalised": "maritz engineering",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Somerset",
+  "postcode": "BS20",
+  "lat": 51.483,
+  "lng": -2.769,
+  "distance_miles": 63.0,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "07749343",
+   "status": "dissolved",
+   "incorporated": "2011-08-23",
+   "dissolved": "2015-08-25",
+   "sic": [
+    "43110"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07749343"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 15,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43110",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07749343",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "somerset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_519c8d47",
   "name": "Marius Decoration Services",
   "legal_name": "MARIUS DECORATION SERVICES LTD",
@@ -251114,6 +252352,92 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "somerset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_1c0db7c1",
+  "name": "Marz Associates",
+  "legal_name": "MARZ ASSOCIATES LIMITED",
+  "name_normalised": "marz associates",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Bristol",
+  "postcode": "BS20",
+  "lat": 51.483,
+  "lng": -2.769,
+  "distance_miles": 63.0,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "07656654",
+   "status": "dissolved",
+   "incorporated": "2011-06-03",
+   "dissolved": "2014-10-14",
+   "sic": [
+    "43110"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07656654"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 15,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43110",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07656654",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -263316,7 +264640,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/15677695",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -263327,7 +264651,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -264614,7 +265938,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/11580462",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -264625,7 +265949,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -269479,6 +270803,92 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_50e8a7d7",
+  "name": "R B D Consulting",
+  "legal_name": "R B D CONSULTING LIMITED",
+  "name_normalised": "r b d consulting",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Bristol",
+  "postcode": "BS8",
+  "lat": 51.438,
+  "lng": -2.691,
+  "distance_miles": 58.5,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "12553235",
+   "status": "dissolved",
+   "incorporated": "2020-04-09",
+   "dissolved": "2023-07-11",
+   "sic": [
+    "43999"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12553235"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 6,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 43999",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12553235",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "somerset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_f2682337",
   "name": "R B-G Stone",
   "legal_name": "R B-G STONE LTD",
@@ -269807,7 +271217,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/04803956",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -269818,7 +271228,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -285247,6 +286657,93 @@
   "out_of_scope_reason": null
  },
  {
+  "id": "tf_f63b81e5",
+  "name": "Simple Lawns",
+  "legal_name": "SIMPLE LAWNS LIMITED",
+  "name_normalised": "simple lawns",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Portishead",
+  "postcode": "BS20",
+  "lat": 51.492,
+  "lng": -2.76,
+  "distance_miles": 63.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "08499326",
+   "status": "dissolved",
+   "incorporated": "2013-04-22",
+   "dissolved": "2015-08-18",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08499326"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 13,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 81300",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08499326",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "somerset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
   "id": "tf_f3012523",
   "name": "Sja 360 Contractors",
   "legal_name": "SJA 360 CONTRACTORS LTD",
@@ -288532,6 +290029,93 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "somerset",
+  "ch_only": true,
+  "out_of_scope": false,
+  "out_of_scope_reason": null
+ },
+ {
+  "id": "tf_0c8fb80c",
+  "name": "South West Equestrian Services",
+  "legal_name": "SOUTH WEST EQUESTRIAN SERVICES LTD",
+  "name_normalised": "south west equestrian",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Bristol",
+  "postcode": "BS20",
+  "lat": 51.478,
+  "lng": -2.768,
+  "distance_miles": 62.7,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": null,
+  "domain": null,
+  "website_quality": "none",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": null,
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "10139462",
+   "status": "dissolved",
+   "incorporated": "2016-04-21",
+   "dissolved": "2019-01-08",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10139462"
+  },
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 10,
+  "accreditations": [],
+  "services_notes": "Dissolved on Companies House · SIC 81300",
+  "badges": [],
+  "score": 0,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 0,
+   "contact": 0,
+   "distance": 0
+  },
+  "confidence": 0.5,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10139462",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "name",
+     "status",
+     "incorporated",
+     "sic",
+     "district"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -293803,7 +295387,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/11850603",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -293814,7 +295398,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",
@@ -306185,7 +307769,7 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/12675607",
-    "retrieved": "2026-10-15T12:00:00+01:00",
+    "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
      "status",
@@ -306196,7 +307780,7 @@
    }
   ],
   "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
+  "last_verified": "2026-10-16",
   "status": "closed",
   "pete_notes": "",
   "county": "somerset",

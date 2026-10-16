@@ -26,8 +26,8 @@
    "order": 2,
    "status": "in_progress",
    "planned_day": 2,
-   "firms": 4563,
-   "not_in_business": 4593,
+   "firms": 4565,
+   "not_in_business": 4596,
    "added": "2026-10-15",
    "last_refreshed": "2026-10-16",
    "ring": 1
@@ -56,8 +56,8 @@
    "order": 4,
    "status": "in_progress",
    "planned_day": 4,
-   "firms": 1901,
-   "not_in_business": 1588,
+   "firms": 1907,
+   "not_in_business": 1600,
    "ring": 1,
    "added": "2026-10-15",
    "last_refreshed": "2026-10-16"
@@ -95,11 +95,13 @@
    "lng": -2.59,
    "miles": 57,
    "order": 7,
-   "status": "paused",
+   "status": "in_progress",
    "planned_day": 7,
-   "firms": 0,
-   "not_in_business": 0,
-   "ring": 2
+   "firms": 82,
+   "not_in_business": 102,
+   "ring": 2,
+   "added": "2026-10-16",
+   "last_refreshed": "2026-10-16"
   },
   {
    "slug": "berkshire",
@@ -108,11 +110,13 @@
    "lng": -1.08,
    "miles": 64,
    "order": 8,
-   "status": "paused",
+   "status": "in_progress",
    "planned_day": 8,
-   "firms": 0,
-   "not_in_business": 0,
-   "ring": 2
+   "firms": 623,
+   "not_in_business": 697,
+   "ring": 2,
+   "added": "2026-10-16",
+   "last_refreshed": "2026-10-16"
   },
   {
    "slug": "west-sussex",
