@@ -25,6 +25,22 @@ a{color:inherit}
 .nav ul{display:flex;list-style:none;height:100%}
 .nav li a{display:flex;align-items:center;height:43px;padding:0 14px;color:var(--w);text-decoration:none;font:700 11px/1 var(--body);letter-spacing:.16em;text-transform:uppercase;transition:background .15s,color .15s}
 .nav li a:hover,.nav li a:focus-visible{background:var(--y);color:var(--k);outline:none}
+.nav li.dd{position:relative;height:43px}
+.nav .ddb{display:flex;align-items:center;gap:7px;height:43px;padding:0 14px;background:none;border:0;cursor:pointer;color:var(--w,#fff);font:700 11px/1 var(--body);letter-spacing:.16em;text-transform:uppercase;transition:background .15s,color .15s;-webkit-tap-highlight-color:transparent}
+.nav .ddb:after{content:"";width:0;height:0;border-left:4px solid transparent;border-right:4px solid transparent;border-top:5px solid currentColor;transition:transform .15s}
+.nav .ddb[aria-expanded="true"]:after{transform:rotate(180deg)}
+.nav .ddb:hover,.nav .ddb:focus-visible,.nav .ddb[aria-expanded="true"]{background:var(--y);color:var(--k);outline:none}
+.nav .ddm{position:absolute;top:46px;right:0;z-index:1100;min-width:248px;max-height:calc(100vh - 60px);overflow:auto;background:var(--k);border:3px solid var(--y);border-top:0;box-shadow:0 14px 30px rgba(0,0,0,.45);list-style:none;display:block;height:auto;padding:6px 0;margin:0}
+.nav .ddm[hidden]{display:none}
+.nav .ddm li{display:block!important}
+.nav .ddm a{display:flex!important;justify-content:space-between;align-items:center;gap:18px;height:40px;padding:0 16px;color:var(--w,#fff);text-decoration:none;font:700 11px/1 var(--body);letter-spacing:.16em;text-transform:uppercase}
+.nav .ddm a .n{font:400 16px/1 var(--disp);letter-spacing:.02em;color:var(--y)}
+.nav .ddm a:hover,.nav .ddm a:focus-visible{background:var(--y);color:var(--k);outline:none}.nav .ddm a:hover .n,.nav .ddm a:focus-visible .n{color:var(--k)}
+.nav .ddm a[aria-current="page"]{box-shadow:inset 4px 0 0 var(--y);color:var(--y)}
+.nav .ddm a[aria-current="page"]:hover{color:var(--k)}
+.nav .ddm .sep{height:1px;background:#2a2a2a;margin:6px 16px}
+@media (max-width:1024px){.nav li.dd{display:block!important}}
+@media (max-width:680px){.nav ul.mn{display:flex}.nav ul.mn>li:not(.dd){display:none}.nav .ddm{position:fixed;top:46px;left:0;right:0;min-width:0;border-left:0;border-right:0}.nav .ddm a{height:46px;padding:0 18px}}
 /* SAMPLE banner */
 .sample-banner{position:fixed;top:46px;left:0;right:0;z-index:999;background:repeating-linear-gradient(-45deg,var(--k) 0 14px,#1d1d1d 14px 28px);color:var(--y);text-align:center;font:700 11px/1 var(--body);letter-spacing:.2em;text-transform:uppercase;padding:9px 16px}
 .sample-banner b{background:var(--y);color:var(--k);padding:3px 7px;margin-right:10px;letter-spacing:.2em}
@@ -271,7 +287,7 @@ main{padding:0}.wrap{max-width:none;padding:0}
 <body>
 <nav class="nav" aria-label="Main"><div class="wrap">
 <a class="brand" id="navhome" href="#top">TRADE<b>FINDER</b></a>
-<ul><li><a href="#trades">Trades</a></li><li><a id="navarchive" href="archive.html">Archive</a></li><li><a href="#mapsec">Map</a></li><li><a href="#cidx">Counties</a></li><li><a href="#bars">By area</a></li><li><a href="#foot">About</a></li></ul>
+<ul class="mn"><li><a href="#trades">Trades</a></li><li><a id="navarchive" href="archive.html">Archive</a></li><li><a href="#mapsec">Map</a></li><li class="dd" id="ddli"><button type="button" class="ddb" aria-expanded="false" aria-haspopup="true" aria-controls="ddm">Counties</button><ul class="ddm" id="ddm" hidden></ul></li><li><a href="#bars">By area</a></li><li><a href="#foot">About</a></li></ul>
 </div></nav>
 <div class="sample-banner" id="sbanner" hidden><b>Sample data</b>Every business here is made up<span class="sb-more"> · real search starts when Pete says go</span></div>
 
@@ -323,7 +339,16 @@ main{padding:0}.wrap{max-width:none;padding:0}
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
 <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js" crossorigin=""></script>
-<script>let MX=25;function CS2(){return (M.counties||[]).filter(c=>c.status==="in_progress").map(c=>c.name).join(" & ")||"Dorset"}
+<script>function tfNav(C,R,cur,home){const li=document.getElementById("ddli");if(!li)return;const m=li.querySelector(".ddm"),b=li.querySelector(".ddb");const live=(C||[]).filter(c=>c.firms>0);const e=s=>String(s).replace(/[&<>"]/g,x=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[x]));
+m.innerHTML=live.map(c=>`<li><a href="${R}counties/${c.slug}/index.html"${c.slug===cur?' aria-current="page"':""}><span>${e(c.name)}</span><span class="n">${Number(c.firms).toLocaleString("en-GB")}</span></a></li>`).join("")+`<li class="sep" role="presentation"></li><li><a href="${home?"#cidx":R+"index.html#cidx"}" data-all="1"><span>All counties</span><span class="n">${live.length}</span></a></li>`;
+const set=o=>{b.setAttribute("aria-expanded",o);m.hidden=!o};
+b.addEventListener("click",ev=>{ev.stopPropagation();const o=b.getAttribute("aria-expanded")!=="true";set(o);if(o){const f=m.querySelector('a[aria-current]')||m.querySelector("a");f&&f.focus({preventScroll:true})}});
+document.addEventListener("click",ev=>{if(!li.contains(ev.target))set(false)});
+li.addEventListener("keydown",ev=>{const a=[...m.querySelectorAll("a")],i=a.indexOf(document.activeElement);if(ev.key==="Escape"){set(false);b.focus()}else if(ev.key==="ArrowDown"){ev.preventDefault();if(m.hidden)set(true);a[(i+1)%a.length].focus()}else if(ev.key==="ArrowUp"){ev.preventDefault();if(!m.hidden)a[(i-1+a.length)%a.length].focus()}});
+li.addEventListener("focusout",ev=>{if(ev.relatedTarget&&!li.contains(ev.relatedTarget))set(false)});
+m.addEventListener("click",ev=>{const a=ev.target.closest("a[data-all]");set(false);if(a&&home){ev.preventDefault();tfOpenCidx()}})}
+function tfOpenCidx(){const s=document.getElementById("cidx");if(!s)return;const t=s.querySelector('.tg[data-k="cidx"]');if(t&&t.getAttribute("aria-expanded")==="false")t.click();s.scrollIntoView({behavior:"smooth"});history.replaceState(null,"","#cidx")}
+let MX=25;function CS2(){return (M.counties||[]).filter(c=>c.status==="in_progress").map(c=>c.name).join(" & ")||"Dorset"}
 
 const AREAS=[["landscaping","Landscaping","Gardens, design & build"],["driveways","Driveways","Resin, block & tarmac"],["paving_patios","Paving and patios","Porcelain, stone & setts"],["surfacing","Surfacing","Roads, courts & car parks"],["groundworks","Groundworks","Dig, drain & level"],["lawns_grounds","Lawns and grounds care","Turf, mowing & grounds"],["fencing_boundaries","Fencing and boundaries","Fences, gates & rails"],["decking_structures","Decking and garden structures","Decks, rooms & pergolas"],["outdoor_masonry","Outdoor masonry","Walls, steps & stone"],["trees_vegetation","Trees and vegetation","Surgeons, stumps & hedges"],["water_drainage","Water and drainage","Ponds, soakaways & drains"],["exterior_cleaning","Exterior cleaning and restoration","Clean, seal & restore"]];
 const AN=Object.fromEntries(AREAS.map(a=>[a[0],a[1]]));
@@ -418,7 +443,7 @@ function nibR(){const nib=NIB,si=$("#si-nib");const n=Math.min(nibN,nib.length);
 si.innerHTML=`<p class="intro">${nib.length} ${nib.length===1?"firm is":"firms are"} known to have stopped trading (dissolved on Companies House, or marked permanently closed). They stay on record and are never deleted.</p>${nib.length?`<ul class="nibl" id="nibl">${nib.slice(0,n).map(nibL).join("")}</ul><div class="nibf"><p class="nibc" id="nibc" aria-live="polite">Showing <b>${n}</b> of <b>${nib.length}</b></p>${n<nib.length?`<button type="button" class="more" id="nibmore" aria-controls="nibl">Load more</button>`:""}</div>`:""}`;
 const m=$("#nibmore");if(m)m.onclick=()=>{const from=nibN;nibN+=24;const k=Math.min(nibN,NIB.length);$("#nibl").insertAdjacentHTML("beforeend",NIB.slice(from,k).map(nibL).join(""));$("#nibc").innerHTML=`Showing <b>${k}</b> of <b>${NIB.length}</b>`;if(k>=NIB.length){const it=$("#nibl").children[from];m.remove();if(it){it.tabIndex=-1;it.focus()}}}}
 function counties(){const C=M.counties||[];if(!C.length||M.county)return;const R=M.root||"";$("#cidx").hidden=false;
-$("#cidx").innerHTML=`${shH("cidx","UK","County index","County by county",false)}<div class="sbody" id="sb-cidx"><div class="sin"><p class="intro">${C.filter(c=>c.firms).length} ${C.filter(c=>c.firms).length===1?"county":"counties"} live so far. For now we are covering Dorset and Hampshire as thoroughly as we can. Other counties are paused and will follow.</p><div class="cgrid">${C.map(c=>c.firms?`<a class="cty live" href="${R}counties/${c.slug}/index.html"><span>${esc(c.name)}</span><span class="n">${c.firms}</span></a>`:`<div class="cty q"><span>${esc(c.name)}</span><span class="n">${c.status==="paused"?"Paused":"Day "+(c.order||"")}</span></div>`).join("")}</div></div></div>`;initSb()}
+$("#cidx").innerHTML=`${shH("cidx","UK","County index","County by county",false)}<div class="sbody" id="sb-cidx"><div class="sin"><p class="intro">${C.filter(c=>c.firms).length} ${C.filter(c=>c.firms).length===1?"county":"counties"} live so far. ${(()=>{const L=C.filter(c=>c.firms).map(c=>c.name);const j=L.length>1?L.slice(0,-1).join(", ")+" and "+L[L.length-1]:L.join("");return `We are covering ${j} as thoroughly as we can, working outwards from Poole. More counties will follow.`})()}</p><div class="cgrid">${C.map(c=>c.firms?`<a class="cty live" href="${R}counties/${c.slug}/index.html"><span>${esc(c.name)}</span><span class="n">${c.firms}</span></a>`:`<div class="cty q"><span>${esc(c.name)}</span><span class="n">${c.status==="paused"?"Paused":"Day "+(c.order||"")}</span></div>`).join("")}</div></div></div>`;initSb()}
 function reveal(){const els=document.querySelectorAll(".rv:not(.in)");if(!("IntersectionObserver"in window)||matchMedia("(prefers-reduced-motion:reduce)").matches){els.forEach(e=>e.classList.add("in"));return}
 const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add("in");io.unobserve(e.target)}}),{rootMargin:"0px 0px -40px 0px"});els.forEach(e=>io.observe(e))}
 function pinIcon(b,hl){return L.divIcon({className:"",html:`<div class="pin${hl?" hl":""}" style="background:${COL[b.primary_area]}"></div>`,iconSize:hl?[26,26]:[18,18],iconAnchor:hl?[13,13]:[9,9]})}
@@ -454,7 +479,7 @@ $("#issue").textContent=`Issue ${String(M.issue_no||1).padStart(2,"0")} · ${CS2
 const hc=SAMPLE&&M.hero_credit;if(hc){const c=`Hero photo: <a href="${esc(hc.url)}" target="_blank" rel="noopener">${esc(hc.title)}</a> by ${esc(hc.author)}, ${esc(hc.licence)}`;$("#credit").innerHTML=c;$("#fcredit").innerHTML=c}
 const fd=$("#fd");fd.max=MX;if(st.d>MX)st.d=MX;
 if(SAMPLE){$("#sbanner").hidden=false;$("#herosample").hidden=false;$("#heroimg").src=(M.root||"")+$("#heroimg").dataset.sample}
-const H=M.hero||{};if(!SAMPLE){if(H.image){$("#heroimg").src=H.image;$("#heroimg").alt=H.alt||""}else{$("#heroimg").remove();$("#typo").hidden=false;$("#typon").textContent=H.firm||"";$("#typok").textContent=`Cover star · score ${H.score}`;document.querySelector(".hero").classList.add("typoh");$("#credit").innerHTML=H.firm?`Cover star: ${esc(H.firm)}, top score this issue (${H.score}). Typographic cover: no clearly reusable photo.`:"";$("#fcredit").textContent="Typographic cover, no third-party photo"}}
+const H=M.hero||{};if(!SAMPLE){if(H.image){$("#heroimg").src=H.image;$("#heroimg").alt=H.alt||""}else{$("#heroimg").remove();$("#typo").hidden=false;$("#typon").textContent=H.firm||"";$("#typok").textContent=`Cover star · score ${H.score}`;document.querySelector(".hero").classList.add("typoh");$("#credit").innerHTML=H.firm?`Cover star: ${esc(H.firm)}, top score ${M.county?"in "+esc(M.county):"this issue"} (${H.score}). Typographic cover: no clearly reusable photo.`:"";$("#fcredit").textContent="Typographic cover, no third-party photo"}}
 if(M.archive_href){$("#navarchive").href=M.archive_href;$("#farchive").href=M.archive_href}
 if(M.issue_no)$("#issue").dataset.no=M.issue_no;}
 function bind(){$("#chips").onclick=e=>{const c=e.target.closest(".chip");if(c){st.area=c.dataset.a;st.type="";st.c=null;render()}};
@@ -471,7 +496,7 @@ document.addEventListener("click",e=>{const g=e.target.closest("[data-goto]");if
 $("#maptog").onclick=e=>{const o=$("#map").classList.toggle("open");e.target.setAttribute("aria-expanded",o);e.target.textContent=o?"Hide map":"Show map";if(map)setTimeout(()=>map.invalidateSize(),50)};
 $("#q").value=st.q;$("#sort").value=st.sort;$("#fv").checked=!!st.v;$("#fl").checked=!!st.l;$("#fw").checked=!!st.w;$("#fd").value=st.d;$("#fdo").textContent=st.d+" mi"}
 async function load(){if(window.EMBED){B=EMBED.businesses;M=EMBED.meta;FULL=true}else{M=await jget("data/meta.json");if(M.sample_mode&&M.sample_file&&!M.S){B=await jget(M.sample_file);FULL=true}}if(FULL){B.forEach(fix);S=computeS(B)}else S=M.S;
-SAMPLE=FULL&&B.some(b=>b.sample);MX=S.mx;st.d=MX;readHash();head();bind();initMap();render();counties();if(M.county){document.title=`${M.county} · TRADE FINDER`;document.querySelector("h1.disp").innerHTML=`${esc(M.county)}<span class="big">Trades</span>`}}
+SAMPLE=FULL&&B.some(b=>b.sample);MX=S.mx;st.d=MX;readHash();head();bind();initMap();render();counties();tfNav(M.counties,M.root||"",M.county_slug||"",!M.county&&!/\/issues\//.test(location.pathname));if(location.hash==="#cidx"&&!M.county)setTimeout(tfOpenCidx,50);if(M.county){document.title=`${M.county} · TRADE FINDER`;document.querySelector("h1.disp").innerHTML=`${esc(M.county)}<span class="big">Trades</span>`}}
 load().catch(e=>{$("#results").innerHTML=`<p class="empty">Couldn't load the data (${esc(e.message)}). If you opened this file straight from disk, use index_offline.html instead.</p>`});
 </script>
 </body>

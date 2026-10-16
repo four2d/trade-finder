@@ -61,3 +61,5 @@
 - **Blocked / not used:** Checkatrade, Yell, MyBuilder (search snippets only); sites with robots disallow (Fencesmart, West Country Lawns, Genesis Gardens, Baber, Allsorts, Pave-Rite) not fetched; Thomson Local returned 403.
 
 - 17:25 BST: Backfill: add already-found firms not yet on site (no new search)
+
+- 17:28 BST: Counties dropdown, live intro text, per-county cover stars
