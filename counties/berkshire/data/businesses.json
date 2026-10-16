@@ -331,12 +331,12 @@
   "name_normalised": "mjt landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "groundworks",
-   "paving_patios",
+   "driveways",
    "decking_structures",
+   "paving_patios",
    "lawns_grounds",
-   "driveways"
+   "fencing_boundaries",
+   "groundworks"
   ],
   "types": [
    "landscape_contractor",
@@ -444,10 +444,10 @@
   "name_normalised": "owen thomas garden landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
    "decking_structures",
-   "lawns_grounds"
+   "paving_patios",
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_contractor",
@@ -557,10 +557,10 @@
   "name_normalised": "simply green landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
    "decking_structures",
-   "lawns_grounds"
+   "paving_patios",
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_contractor",
@@ -669,8 +669,8 @@
   "name_normalised": "garden design company",
   "areas": [
    "landscaping",
-   "lawns_grounds",
-   "decking_structures"
+   "decking_structures",
+   "lawns_grounds"
   ],
   "types": [
    "garden_designer",
@@ -777,10 +777,10 @@
   "name_normalised": "urban landscape design construction",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
+   "driveways",
    "decking_structures",
-   "driveways"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_contractor",
@@ -983,12 +983,12 @@
   "name_normalised": "brabazons garden maintenance",
   "areas": [
    "lawns_grounds",
-   "fencing_boundaries",
    "trees_vegetation",
-   "paving_patios",
    "landscaping",
+   "driveways",
    "decking_structures",
-   "driveways"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "gardener",
@@ -1084,8 +1084,8 @@
   "name_normalised": "bud design landscaping",
   "areas": [
    "landscaping",
-   "paving_patios",
    "decking_structures",
+   "paving_patios",
    "lawns_grounds"
   ],
   "types": [
@@ -1875,8 +1875,8 @@
   "name_normalised": "holdford landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -1972,10 +1972,10 @@
   "name_normalised": "home view landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "driveways",
    "paving_patios",
    "lawns_grounds",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener"
@@ -2069,8 +2069,8 @@
   "name_normalised": "hortlands",
   "areas": [
    "landscaping",
-   "water_drainage",
-   "lawns_grounds"
+   "lawns_grounds",
+   "water_drainage"
   ],
   "types": [
    "irrigation_installer",
@@ -2165,9 +2165,9 @@
   "name_normalised": "jb groundcare",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "trees_vegetation",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_contractor",
@@ -2264,8 +2264,8 @@
   "areas": [
    "paving_patios",
    "fencing_boundaries",
-   "landscaping",
-   "driveways"
+   "driveways",
+   "landscaping"
   ],
   "types": [
    "paving_contractor",
@@ -2362,8 +2362,8 @@
   "name_normalised": "kennet landscape solutions",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_contractor",
@@ -2663,11 +2663,11 @@
   "name_normalised": "m j landscapes groundworks",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "groundworks",
-   "paving_patios",
+   "driveways",
    "decking_structures",
-   "driveways"
+   "paving_patios",
+   "fencing_boundaries",
+   "groundworks"
   ],
   "types": [
    "landscape_contractor",
@@ -2770,9 +2770,9 @@
   "name_normalised": "major landscapes",
   "areas": [
    "landscaping",
+   "driveways",
    "paving_patios",
-   "lawns_grounds",
-   "driveways"
+   "lawns_grounds"
   ],
   "types": [
    "landscape_contractor"
@@ -2867,10 +2867,10 @@
   "name_normalised": "next level landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "groundworks",
+   "driveways",
    "paving_patios",
-   "driveways"
+   "fencing_boundaries",
+   "groundworks"
   ],
   "types": [
    "landscape_gardener"
@@ -3356,10 +3356,10 @@
   "name_normalised": "progro landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
    "decking_structures",
-   "lawns_grounds"
+   "paving_patios",
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -3454,8 +3454,8 @@
   "name_normalised": "roots gardens",
   "areas": [
    "landscaping",
-   "paving_patios",
    "decking_structures",
+   "paving_patios",
    "lawns_grounds"
   ],
   "types": [
@@ -3853,10 +3853,10 @@
   "name_normalised": "walsh landscaping",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
+   "driveways",
    "decking_structures",
-   "driveways"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -3951,10 +3951,10 @@
   "name_normalised": "williams brothers groundworks",
   "areas": [
    "groundworks",
-   "fencing_boundaries",
-   "paving_patios",
+   "driveways",
    "decking_structures",
-   "driveways"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "groundworks_contractor",
@@ -4064,12 +4064,12 @@
   "name_normalised": "windsor ascot landscaping",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "trees_vegetation",
-   "paving_patios",
+   "driveways",
    "decking_structures",
+   "paving_patios",
    "lawns_grounds",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener"
@@ -4163,10 +4163,10 @@
   "name_normalised": "wyvern landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "trees_vegetation",
    "paving_patios",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_contractor"
@@ -4356,11 +4356,11 @@
   "name_normalised": "wellingtonia landscaping",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
+   "driveways",
    "decking_structures",
+   "paving_patios",
    "lawns_grounds",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_contractor",
@@ -4449,6 +4449,103 @@
   "status": "active",
   "pete_notes": "",
   "county": "berkshire"
+ },
+ {
+  "id": "tf_9e589f3f",
+  "name": "Artscape Garden Associates",
+  "legal_name": "Artscape Garden Associates",
+  "name_normalised": "artscape garden associates",
+  "areas": [
+   "landscaping"
+  ],
+  "types": [
+   "garden_designer",
+   "landscaper"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Hurst",
+  "postcode": "RG10",
+  "lat": 51.482363632200865,
+  "lng": -0.8533593382570168,
+  "distance_miles": 72.3,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://www.art-scape.co.uk/",
+  "domain": "art-scape.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.482363632200865&mlon=-0.8533593382570168#map=13/51.482363632200865/-0.8533593382570168",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "14367145",
+   "status": "active",
+   "incorporated": "2022-09-21",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14367145"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 4,
+  "accreditations": [],
+  "services_notes": "Not in business: website says 'Closed for future business' (approved by Pete 16 Oct 2026) · Garden design & build (est. 1979); website now says closed for future business",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.art-scape.co.uk/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "website",
+     "status"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14367145",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "closed",
+  "pete_notes": "",
+  "county": "berkshire",
+  "closed_reason": "Not in business: website says 'Closed for future business' (approved by Pete 16 Oct 2026)",
+  "closed_source": "https://www.art-scape.co.uk/"
  },
  {
   "id": "tf_c45fd2ea",
@@ -4647,8 +4744,8 @@
   "name_normalised": "breen tree surgery",
   "areas": [
    "trees_vegetation",
-   "landscaping",
-   "lawns_grounds"
+   "lawns_grounds",
+   "landscaping"
   ],
   "types": [
    "tree_surgeon"
@@ -5414,11 +5511,11 @@
   "name_normalised": "prestige fencing landscapes",
   "areas": [
    "fencing_boundaries",
-   "paving_patios",
-   "landscaping",
+   "driveways",
    "decking_structures",
+   "paving_patios",
    "lawns_grounds",
-   "driveways"
+   "landscaping"
   ],
   "types": [
    "fencing_contractor",
@@ -5638,10 +5735,10 @@
   "name_normalised": "tslandscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
+   "driveways",
    "decking_structures",
-   "driveways"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_contractor"
@@ -9942,97 +10039,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/04586862",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "berkshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_aaeef061",
-  "name": "Artscape Garden Associates",
-  "legal_name": "ARTSCAPE GARDEN ASSOCIATES LIMITED",
-  "name_normalised": "artscape garden associates",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Berkshire",
-  "postcode": "RG10",
-  "lat": 51.451,
-  "lng": -0.848,
-  "distance_miles": 70.9,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "14367145",
-   "status": "active",
-   "incorporated": "2022-09-21",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/14367145"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 4,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/14367145",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",

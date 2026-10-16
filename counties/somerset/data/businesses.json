@@ -6,9 +6,9 @@
   "name_normalised": "becks tree landscape",
   "areas": [
    "trees_vegetation",
-   "fencing_boundaries",
    "landscaping",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "tree_surgeon",
@@ -518,9 +518,9 @@
   "name_normalised": "advanced fencing landscaping",
   "areas": [
    "fencing_boundaries",
-   "groundworks",
    "paving_patios",
-   "landscaping"
+   "landscaping",
+   "groundworks"
   ],
   "types": [
    "fencing_contractor",
@@ -711,8 +711,8 @@
   "name_normalised": "arbour landscaping",
   "areas": [
    "landscaping",
-   "paving_patios",
    "decking_structures",
+   "paving_patios",
    "lawns_grounds"
   ],
   "types": [
@@ -1500,11 +1500,11 @@
   "name_normalised": "chambers",
   "areas": [
    "surfacing",
-   "fencing_boundaries",
-   "groundworks",
+   "driveways",
    "paving_patios",
+   "fencing_boundaries",
    "water_drainage",
-   "driveways"
+   "groundworks"
   ],
   "types": [
    "surfacing_contractor",
@@ -1692,6 +1692,102 @@
   "county": "somerset"
  },
  {
+  "id": "tf_b5f6635d",
+  "name": "Cut No Corners",
+  "legal_name": "Cut No Corners",
+  "name_normalised": "cut no corners",
+  "areas": [
+   "lawns_grounds",
+   "fencing_boundaries"
+  ],
+  "types": [
+   "gardener"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Taunton",
+  "postcode": "TA1",
+  "lat": 51.01318609168086,
+  "lng": -3.10292137860781,
+  "distance_miles": 52.8,
+  "serves_area_only": false,
+  "phone": "07972 017097",
+  "phone_e164": "+447972017097",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://cutnocorners.com/",
+  "domain": "cutnocorners.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.01318609168086&mlon=-3.10292137860781#map=13/51.01318609168086/-3.10292137860781",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "07723925",
+   "status": "active",
+   "incorporated": "2011-08-01",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07723925"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 15,
+  "accreditations": [],
+  "services_notes": "Garden maintenance, mowing, hedges, pruning, fencing/pergolas, decking, pressure washing",
+  "badges": [
+   "top_pick",
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://cutnocorners.com/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07723925",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
   "id": "tf_a7c5c090",
   "name": "Drinkwater Tree Services",
   "legal_name": "Drinkwater Tree Services",
@@ -1792,12 +1888,12 @@
   "name_normalised": "elite landscaping gardening",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "groundworks",
-   "paving_patios",
+   "driveways",
    "decking_structures",
+   "paving_patios",
    "lawns_grounds",
-   "driveways"
+   "fencing_boundaries",
+   "groundworks"
   ],
   "types": [
    "landscape_gardener",
@@ -1894,9 +1990,9 @@
   "name_normalised": "garden build by design",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "decking_structures",
    "paving_patios",
-   "decking_structures"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener"
@@ -1991,8 +2087,8 @@
   "name_normalised": "gardens of bath",
   "areas": [
    "landscaping",
-   "trees_vegetation",
-   "lawns_grounds"
+   "lawns_grounds",
+   "trees_vegetation"
   ],
   "types": [
    "garden_designer",
@@ -2370,10 +2466,10 @@
   "name_normalised": "greenwave landscaping",
   "areas": [
    "landscaping",
-   "paving_patios",
+   "driveways",
    "decking_structures",
-   "lawns_grounds",
-   "driveways"
+   "paving_patios",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener"
@@ -2777,8 +2873,8 @@
   "areas": [
    "fencing_boundaries",
    "paving_patios",
-   "landscaping",
-   "lawns_grounds"
+   "lawns_grounds",
+   "landscaping"
   ],
   "types": [
    "fencing_contractor",
@@ -3286,9 +3382,9 @@
   "name_normalised": "lannings trees fences",
   "areas": [
    "trees_vegetation",
-   "fencing_boundaries",
    "landscaping",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "tree_surgeon",
@@ -3801,11 +3897,11 @@
   "name_normalised": "mark cairns landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "trees_vegetation",
+   "driveways",
    "paving_patios",
    "lawns_grounds",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -4090,11 +4186,11 @@
   "name_normalised": "oj landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
+   "driveways",
    "decking_structures",
+   "paving_patios",
    "lawns_grounds",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -4379,10 +4475,10 @@
   "name_normalised": "pa sloan landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "driveways",
    "paving_patios",
    "lawns_grounds",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener"
@@ -4665,8 +4761,8 @@
   "name_normalised": "premier fencing",
   "areas": [
    "fencing_boundaries",
-   "landscaping",
-   "decking_structures"
+   "decking_structures",
+   "landscaping"
   ],
   "types": [
    "fencing_contractor",
@@ -4964,11 +5060,11 @@
   "name_normalised": "robin s garden",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
+   "driveways",
    "decking_structures",
+   "paving_patios",
    "lawns_grounds",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener"
@@ -5065,8 +5161,8 @@
   "areas": [
    "fencing_boundaries",
    "paving_patios",
-   "landscaping",
-   "lawns_grounds"
+   "lawns_grounds",
+   "landscaping"
   ],
   "types": [
    "fencing_contractor",
@@ -5162,9 +5258,9 @@
   "name_normalised": "selby landscapes",
   "areas": [
    "landscaping",
+   "decking_structures",
    "paving_patios",
-   "water_drainage",
-   "decking_structures"
+   "water_drainage"
   ],
   "types": [
    "landscape_contractor",
@@ -5261,8 +5357,8 @@
   "areas": [
    "driveways",
    "paving_patios",
-   "landscaping",
-   "lawns_grounds"
+   "lawns_grounds",
+   "landscaping"
   ],
   "types": [
    "driveway_installer",
@@ -5359,8 +5455,8 @@
   "name_normalised": "somerset landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "commercial_landscaper",
@@ -5467,11 +5563,11 @@
   "name_normalised": "south west landscaping",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "groundworks",
    "trees_vegetation",
    "paving_patios",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries",
+   "groundworks"
   ],
   "types": [
    "landscape_contractor",
@@ -5566,9 +5662,9 @@
   "name_normalised": "stanbury trees fencing",
   "areas": [
    "trees_vegetation",
+   "lawns_grounds",
    "fencing_boundaries",
-   "groundworks",
-   "lawns_grounds"
+   "groundworks"
   ],
   "types": [
    "tree_surgeon",
@@ -5663,11 +5759,11 @@
   "name_normalised": "summerleaze landscaping",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "groundworks",
-   "paving_patios",
+   "driveways",
    "decking_structures",
-   "driveways"
+   "paving_patios",
+   "fencing_boundaries",
+   "groundworks"
   ],
   "types": [
    "landscape_contractor",
@@ -5762,8 +5858,8 @@
   "name_normalised": "tjs gardening ground maintenance",
   "areas": [
    "lawns_grounds",
-   "groundworks",
-   "landscaping"
+   "landscaping",
+   "groundworks"
   ],
   "types": [
    "gardener",
@@ -5859,8 +5955,8 @@
   "name_normalised": "trax land water",
   "areas": [
    "groundworks",
-   "water_drainage",
-   "trees_vegetation"
+   "trees_vegetation",
+   "water_drainage"
   ],
   "types": [
    "groundworks_contractor"
@@ -5964,9 +6060,9 @@
   "areas": [
    "landscaping",
    "decking_structures",
-   "fencing_boundaries",
    "paving_patios",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener"
@@ -6061,10 +6157,10 @@
   "name_normalised": "bath landscape gardener",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
    "decking_structures",
-   "lawns_grounds"
+   "paving_patios",
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener"
@@ -6252,8 +6348,8 @@
   "name_normalised": "three counties landscaping",
   "areas": [
    "landscaping",
-   "paving_patios",
    "decking_structures",
+   "paving_patios",
    "lawns_grounds"
   ],
   "types": [
@@ -6642,8 +6738,8 @@
   "name_normalised": "wadham fencing",
   "areas": [
    "fencing_boundaries",
-   "landscaping",
-   "decking_structures"
+   "decking_structures",
+   "landscaping"
   ],
   "types": [
    "fencing_contractor",
@@ -6943,6 +7039,104 @@
   "county": "somerset"
  },
  {
+  "id": "tf_d6442fd9",
+  "name": "We Dig It SW",
+  "legal_name": "We Dig It (Sw)",
+  "name_normalised": "we dig it sw",
+  "areas": [
+   "lawns_grounds",
+   "landscaping",
+   "fencing_boundaries",
+   "trees_vegetation"
+  ],
+  "types": [
+   "gardener",
+   "grounds_maintenance"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Weston-super-Mare",
+  "postcode": "BS23",
+  "lat": 51.34309720914391,
+  "lng": -2.9721025972762614,
+  "distance_miles": 61.0,
+  "serves_area_only": false,
+  "phone": "07710 184528",
+  "phone_e164": "+447710184528",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://wedigitsw.com/",
+  "domain": "wedigitsw.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.34309720914391&mlon=-2.9721025972762614#map=13/51.34309720914391/-2.9721025972762614",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "10480808",
+   "status": "active",
+   "incorporated": "2016-11-16",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/10480808"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 10,
+  "accreditations": [],
+  "services_notes": "Gardening & landscaping for homes, schools, councils, sports clubs; hedges, fencing, decking, tree work",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://wedigitsw.com/contact-us/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10480808",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
   "id": "tf_0c0a2d4a",
   "name": "Arlington Landscapes",
   "legal_name": "Arlington Landscapes",
@@ -7156,8 +7350,8 @@
   "name_normalised": "boarder landscapes",
   "areas": [
    "landscaping",
-   "groundworks",
-   "lawns_grounds"
+   "lawns_grounds",
+   "groundworks"
   ],
   "types": [
    "landscape_gardener",
@@ -7254,9 +7448,9 @@
   "name_normalised": "fox fencing landscaping",
   "areas": [
    "fencing_boundaries",
+   "decking_structures",
    "paving_patios",
-   "landscaping",
-   "decking_structures"
+   "landscaping"
   ],
   "types": [
    "fencing_contractor",
@@ -7361,10 +7555,10 @@
   "name_normalised": "glaysher s landscaping",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "driveways",
    "paving_patios",
    "lawns_grounds",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener"
@@ -7563,8 +7757,8 @@
   "name_normalised": "richard branfield tree surgery garden maintenance",
   "areas": [
    "trees_vegetation",
-   "landscaping",
-   "lawns_grounds"
+   "lawns_grounds",
+   "landscaping"
   ],
   "types": [
    "tree_surgeon",
@@ -7709,7 +7903,6 @@
   "accreditations": [],
   "services_notes": "Family-run lawn maintenance & landscaping (scarifying, aerating, seasonal treatments) across Somerset, Dorset & Wiltshire; phone from directory listings; own site blocks robots so not checked",
   "badges": [
-   "top_pick",
    "ltd_company",
    "established",
    "no_website"
@@ -8526,8 +8719,8 @@
   "name_normalised": "greenvale landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_contractor",
@@ -9130,8 +9323,8 @@
   "name_normalised": "parsons landscapes",
   "areas": [
    "landscaping",
-   "groundworks",
-   "lawns_grounds"
+   "lawns_grounds",
+   "groundworks"
   ],
   "types": [
    "landscape_contractor",
@@ -9321,8 +9514,8 @@
   "name_normalised": "smc building landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "decking_structures"
+   "decking_structures",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_contractor",
@@ -9797,8 +9990,8 @@
   "name_normalised": "town tree landscaping",
   "areas": [
    "landscaping",
-   "trees_vegetation",
-   "lawns_grounds"
+   "lawns_grounds",
+   "trees_vegetation"
   ],
   "types": [
    "landscape_gardener",
@@ -9996,9 +10189,9 @@
   "areas": [
    "driveways",
    "fencing_boundaries",
+   "decking_structures",
    "paving_patios",
-   "landscaping",
-   "decking_structures"
+   "landscaping"
   ],
   "types": [
    "driveway_installer",
@@ -10089,14 +10282,109 @@
   "county": "somerset"
  },
  {
+  "id": "tf_5666d224",
+  "name": "Urquhart & Hunt",
+  "legal_name": "Urquhart & Hunt",
+  "name_normalised": "urquhart hunt",
+  "areas": [
+   "landscaping"
+  ],
+  "types": [
+   "garden_designer",
+   "landscape_architect"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Bruton",
+  "postcode": "BA10",
+  "lat": 51.113113072625694,
+  "lng": -2.447956860335194,
+  "distance_miles": 34.1,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://urquharthunt.com/",
+  "domain": "urquharthunt.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.113113072625694&mlon=-2.447956860335194#map=13/51.113113072625694/-2.447956860335194",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "08020169",
+   "status": "active",
+   "incorporated": "2012-04-04",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08020169"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 14,
+  "accreditations": [],
+  "services_notes": "Landscape design & ecological restoration studio; naturalistic gardens, habitat creation (e.g. Hauser & Wirth Somerset)",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://urquharthunt.com/contact/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "website"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08020169",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "somerset"
+ },
+ {
   "id": "tf_0201aa53",
   "name": "Your English Garden",
   "legal_name": "Your English Garden",
   "name_normalised": "your english garden",
   "areas": [
    "landscaping",
-   "paving_patios",
    "decking_structures",
+   "paving_patios",
    "lawns_grounds"
   ],
   "types": [
@@ -48916,98 +49204,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/14032731",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_7ea1d5a9",
-  "name": "Cut No Corners",
-  "legal_name": "CUT NO CORNERS LIMITED",
-  "name_normalised": "cut no corners",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Taunton",
-  "postcode": "TA1",
-  "lat": 51.012,
-  "lng": -3.128,
-  "distance_miles": 53.8,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "07723925",
-   "status": "active",
-   "incorporated": "2011-08-01",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/07723925"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 15,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/07723925",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -164270,98 +164466,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_4ce7832a",
-  "name": "Urquhart & Hunt",
-  "legal_name": "URQUHART & HUNT LTD",
-  "name_normalised": "urquhart hunt",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bruton",
-  "postcode": "BA10",
-  "lat": 51.11,
-  "lng": -2.459,
-  "distance_miles": 34.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "08020169",
-   "status": "active",
-   "incorporated": "2012-04-04",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/08020169"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 14,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/08020169",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_a11cd30f",
   "name": "V Art Engineering",
   "legal_name": "V ART ENGINEERING LTD",
@@ -168373,98 +168477,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/06434634",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "somerset",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_6223c545",
-  "name": "We Dig It (Sw)",
-  "legal_name": "WE DIG IT (SW) LIMITED",
-  "name_normalised": "we dig it sw",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Weston-Super-Mare",
-  "postcode": "BS23",
-  "lat": 51.34,
-  "lng": -2.976,
-  "distance_miles": 60.9,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "10480808",
-   "status": "active",
-   "incorporated": "2016-11-16",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/10480808"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 10,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/10480808",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",

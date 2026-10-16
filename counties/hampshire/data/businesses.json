@@ -352,8 +352,8 @@
   "name_normalised": "enjoy tree care",
   "areas": [
    "trees_vegetation",
-   "fencing_boundaries",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "tree_surgeon"
@@ -469,10 +469,10 @@
   "name_normalised": "hambledon landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "trees_vegetation",
    "paving_patios",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener"
@@ -704,11 +704,11 @@
   "name_normalised": "revitalise gardens",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
+   "driveways",
    "decking_structures",
+   "paving_patios",
    "lawns_grounds",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "garden_designer",
@@ -824,11 +824,11 @@
   "name_normalised": "south hants landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
+   "driveways",
    "decking_structures",
+   "paving_patios",
    "lawns_grounds",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -943,10 +943,10 @@
   "name_normalised": "garden force",
   "areas": [
    "lawns_grounds",
-   "fencing_boundaries",
    "trees_vegetation",
+   "landscaping",
    "paving_patios",
-   "landscaping"
+   "fencing_boundaries"
   ],
   "types": [
    "garden_maintenance",
@@ -1057,8 +1057,8 @@
   "name_normalised": "h w tree surgeons",
   "areas": [
    "trees_vegetation",
-   "fencing_boundaries",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "tree_surgeon",
@@ -1176,11 +1176,11 @@
   "name_normalised": "kaleidoscape landscaping",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
+   "driveways",
    "decking_structures",
+   "paving_patios",
    "lawns_grounds",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -1409,11 +1409,11 @@
   "name_normalised": "autumn leaf garden works",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "trees_vegetation",
-   "paving_patios",
    "decking_structures",
-   "lawns_grounds"
+   "paving_patios",
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -1528,10 +1528,10 @@
   "name_normalised": "hiltingbury garden",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
    "decking_structures",
-   "lawns_grounds"
+   "paving_patios",
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -1644,8 +1644,8 @@
   "name_normalised": "post to post fencing landscaping",
   "areas": [
    "fencing_boundaries",
-   "lawns_grounds",
-   "decking_structures"
+   "decking_structures",
+   "lawns_grounds"
   ],
   "types": [
    "fencing_contractor"
@@ -1864,10 +1864,10 @@
   "name_normalised": "hw landscaping garden maintenance",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
    "decking_structures",
-   "lawns_grounds"
+   "paving_patios",
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -2089,10 +2089,10 @@
   "name_normalised": "ferndale landscaping",
   "areas": [
    "driveways",
-   "groundworks",
    "paving_patios",
+   "lawns_grounds",
    "landscaping",
-   "lawns_grounds"
+   "groundworks"
   ],
   "types": [
    "driveway_installer",
@@ -2201,9 +2201,9 @@
   "name_normalised": "freed fencing landscaping",
   "areas": [
    "fencing_boundaries",
+   "decking_structures",
    "paving_patios",
-   "landscaping",
-   "decking_structures"
+   "landscaping"
   ],
   "types": [
    "fencing_contractor",
@@ -2322,10 +2322,10 @@
   "name_normalised": "mc groundworks",
   "areas": [
    "groundworks",
-   "fencing_boundaries",
+   "driveways",
    "paving_patios",
-   "water_drainage",
-   "driveways"
+   "fencing_boundaries",
+   "water_drainage"
   ],
   "types": [
    "groundworks_contractor",
@@ -2442,10 +2442,10 @@
   "name_normalised": "meon valley surfacing",
   "areas": [
    "driveways",
-   "groundworks",
    "paving_patios",
    "landscaping",
-   "surfacing"
+   "surfacing",
+   "groundworks"
   ],
   "types": [
    "driveway_installer",
@@ -2554,11 +2554,11 @@
   "name_normalised": "rb landscaping groundworks",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "groundworks",
-   "paving_patios",
    "decking_structures",
-   "lawns_grounds"
+   "paving_patios",
+   "lawns_grounds",
+   "fencing_boundaries",
+   "groundworks"
   ],
   "types": [
    "landscape_gardener",
@@ -2671,10 +2671,10 @@
   "areas": [
    "groundworks",
    "fencing_boundaries",
+   "driveways",
    "paving_patios",
    "landscaping",
-   "water_drainage",
-   "driveways"
+   "water_drainage"
   ],
   "types": [
    "groundworker",
@@ -2794,10 +2794,10 @@
   "name_normalised": "redwood landscapes",
   "areas": [
    "driveways",
-   "paving_patios",
-   "landscaping",
    "decking_structures",
-   "lawns_grounds"
+   "paving_patios",
+   "lawns_grounds",
+   "landscaping"
   ],
   "types": [
    "block_paving",
@@ -2890,7 +2890,7 @@
  {
   "id": "tf_e00b0ba1",
   "name": "Peter Yeates Arboriculture",
-  "legal_name": null,
+  "legal_name": "PETER YEATES ARBORICULTURE LTD",
   "name_normalised": "peter yeates arboriculture",
   "areas": [
    "trees_vegetation"
@@ -2933,20 +2933,29 @@
   "mybuilder": null,
   "ratedpeople": null,
   "other_rating": null,
-  "companies_house": null,
+  "companies_house": {
+   "number": "14039979",
+   "status": "active",
+   "incorporated": "2022-04-11",
+   "sic": [
+    "81300"
+   ],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/14039979"
+  },
   "opening_hours": null,
   "enriched_from_ch": false,
   "base_unknown": false,
-  "business_form": "unknown",
+  "business_form": "ltd",
   "size_band": "unknown",
   "years_trading": null,
   "accreditations": [],
-  "services_notes": "Tree surgeon based in Winchester; covers Hampshire",
+  "services_notes": "Tree surgeon based in Winchester; covers Hampshire. Matched by name + district to PETER YEATES ARBORICULTURE LTD (check)",
   "badges": [
    "highly_rated",
    "vetted",
    "no_website",
-   "needs_check"
+   "needs_check",
+   "ltd_company"
   ],
   "score": 56,
   "score_breakdown": {
@@ -2956,8 +2965,8 @@
    "contact": 9,
    "distance": 0
   },
-  "confidence": 0.3,
-  "merge_review": false,
+  "confidence": 0.5,
+  "merge_review": true,
   "sources": [
    {
     "source": "checkatrade",
@@ -2968,6 +2977,15 @@
      "reviews",
      "phone",
      "base"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/14039979",
+    "retrieved": "2026-10-15T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status"
     ]
    }
   ],
@@ -3279,8 +3297,8 @@
    "driveways",
    "paving_patios",
    "landscaping",
-   "exterior_cleaning",
-   "surfacing"
+   "surfacing",
+   "exterior_cleaning"
   ],
   "types": [
    "driveway_installer",
@@ -3388,10 +3406,10 @@
   "name_normalised": "john hughes fencing landscapes",
   "areas": [
    "fencing_boundaries",
-   "paving_patios",
    "landscaping",
+   "driveways",
    "decking_structures",
-   "driveways"
+   "paving_patios"
   ],
   "types": [
    "fencing_contractor",
@@ -3615,9 +3633,9 @@
   "name_normalised": "salden groundworks",
   "areas": [
    "groundworks",
+   "driveways",
    "paving_patios",
-   "water_drainage",
-   "driveways"
+   "water_drainage"
   ],
   "types": [
    "groundworks_contractor",
@@ -3715,11 +3733,11 @@
   "name_normalised": "southern landscaping",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
+   "driveways",
    "decking_structures",
+   "paving_patios",
    "lawns_grounds",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -3817,11 +3835,11 @@
   "name_normalised": "sunset landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "groundworks",
-   "paving_patios",
+   "driveways",
    "decking_structures",
-   "driveways"
+   "paving_patios",
+   "fencing_boundaries",
+   "groundworks"
   ],
   "types": [
    "landscape_gardener",
@@ -4313,10 +4331,10 @@
   "name_normalised": "redcliffe landscape gardeners",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "paving_patios",
-   "water_drainage",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries",
+   "water_drainage"
   ],
   "types": [
    "landscape_gardener",
@@ -4923,9 +4941,9 @@
   "name_normalised": "boswell s driveways top spec driveways",
   "areas": [
    "driveways",
-   "surfacing",
    "paving_patios",
-   "landscaping"
+   "landscaping",
+   "surfacing"
   ],
   "types": [
    "driveway_installer",
@@ -5032,8 +5050,8 @@
   "name_normalised": "hambrooks landscaping",
   "areas": [
    "landscaping",
-   "paving_patios",
    "decking_structures",
+   "paving_patios",
    "lawns_grounds"
   ],
   "types": [
@@ -5352,10 +5370,10 @@
   "name_normalised": "roni phillips landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
+   "driveways",
    "decking_structures",
-   "driveways"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -5560,9 +5578,9 @@
   "name_normalised": "swift fencing landscaping",
   "areas": [
    "fencing_boundaries",
+   "decking_structures",
    "paving_patios",
-   "landscaping",
-   "decking_structures"
+   "landscaping"
   ],
   "types": [
    "fencing_contractor",
@@ -5660,9 +5678,9 @@
    "landscaping",
    "fencing_boundaries",
    "trees_vegetation",
+   "driveways",
    "paving_patios",
-   "lawns_grounds",
-   "driveways"
+   "lawns_grounds"
   ],
   "types": [
    "landscape_contractor",
@@ -6161,9 +6179,9 @@
   "name_normalised": "a w land tree care",
   "areas": [
    "trees_vegetation",
-   "fencing_boundaries",
    "landscaping",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "tree_surgeon",
@@ -6259,10 +6277,10 @@
   "name_normalised": "a1 landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "driveways",
    "paving_patios",
    "lawns_grounds",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -6551,9 +6569,9 @@
   "name_normalised": "akc landscaping",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "driveways",
    "paving_patios",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_contractor",
@@ -6838,10 +6856,10 @@
   "name_normalised": "adore landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
+   "driveways",
    "decking_structures",
-   "driveways"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -7031,8 +7049,8 @@
   "name_normalised": "all aspect garden design build",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "decking_structures"
+   "decking_structures",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener",
@@ -7514,10 +7532,10 @@
   "name_normalised": "bay landscape design",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "water_drainage",
+   "driveways",
    "decking_structures",
-   "driveways"
+   "paving_patios",
+   "water_drainage"
   ],
   "types": [
    "garden_designer",
@@ -7795,6 +7813,102 @@
   "county": "hampshire"
  },
  {
+  "id": "tf_6f6d805d",
+  "name": "Bongardia",
+  "legal_name": "Bongardia",
+  "name_normalised": "bongardia",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [
+   "garden_designer",
+   "gardener"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Virginia Water (reg. Alton)",
+  "postcode": "GU25",
+  "lat": 51.40101086486489,
+  "lng": -0.5721214954954952,
+  "distance_miles": 77.6,
+  "serves_area_only": false,
+  "phone": "01932 873232",
+  "phone_e164": "+441932873232",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.bongardia.co.uk/",
+  "domain": "bongardia.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.40101086486489&mlon=-0.5721214954954952#map=13/51.40101086486489/-0.5721214954954952",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "07846422",
+   "status": "active",
+   "incorporated": "2011-11-14",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/07846422"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 15,
+  "accreditations": [],
+  "services_notes": "Bespoke garden design, landscaping, garden management & care for residences and estates; Surrey, Berkshire, London",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.bongardia.co.uk/contact/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07846422",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
   "id": "tf_9146d72a",
   "name": "Box Gardens",
   "legal_name": "BOX GARDENS LTD",
@@ -8007,8 +8121,8 @@
   "name_normalised": "buz creative landscapes",
   "areas": [
    "landscaping",
-   "driveways",
-   "decking_structures"
+   "decking_structures",
+   "driveways"
   ],
   "types": [
    "landscape_contractor",
@@ -8298,9 +8412,9 @@
   "name_normalised": "church lane groundworks landscaping",
   "areas": [
    "groundworks",
+   "driveways",
    "paving_patios",
-   "landscaping",
-   "driveways"
+   "landscaping"
   ],
   "types": [
    "groundworker",
@@ -8396,8 +8510,8 @@
   "name_normalised": "cotty tree surgery",
   "areas": [
    "trees_vegetation",
-   "fencing_boundaries",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "tree_surgeon"
@@ -8691,9 +8805,9 @@
   "name_normalised": "designscapes southwest",
   "areas": [
    "landscaping",
+   "trees_vegetation",
    "lawns_grounds",
-   "fencing_boundaries",
-   "trees_vegetation"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_contractor"
@@ -8884,10 +8998,10 @@
   "areas": [
    "driveways",
    "fencing_boundaries",
+   "decking_structures",
    "paving_patios",
    "landscaping",
-   "water_drainage",
-   "decking_structures"
+   "water_drainage"
   ],
   "types": [
    "driveway_installer",
@@ -8993,8 +9107,8 @@
   "name_normalised": "elevated garden",
   "areas": [
    "lawns_grounds",
-   "exterior_cleaning",
-   "landscaping"
+   "landscaping",
+   "exterior_cleaning"
   ],
   "types": [
    "garden_maintenance",
@@ -9384,12 +9498,12 @@
   "name_normalised": "forever green gardening",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "trees_vegetation",
-   "paving_patios",
+   "driveways",
    "decking_structures",
+   "paving_patios",
    "lawns_grounds",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -9968,9 +10082,9 @@
   "areas": [
    "driveways",
    "fencing_boundaries",
+   "decking_structures",
    "paving_patios",
-   "landscaping",
-   "decking_structures"
+   "landscaping"
   ],
   "types": [
    "driveway_installer",
@@ -10066,9 +10180,9 @@
   "name_normalised": "gk landscapes groundworks",
   "areas": [
    "groundworks",
+   "driveways",
    "paving_patios",
-   "landscaping",
-   "driveways"
+   "landscaping"
   ],
   "types": [
    "groundworker",
@@ -10163,10 +10277,10 @@
   "name_normalised": "grb groundworks",
   "areas": [
    "groundworks",
-   "fencing_boundaries",
+   "driveways",
    "paving_patios",
-   "water_drainage",
-   "driveways"
+   "fencing_boundaries",
+   "water_drainage"
   ],
   "types": [
    "groundworks_contractor",
@@ -10262,9 +10376,9 @@
   "name_normalised": "gadsden gardens",
   "areas": [
    "landscaping",
-   "groundworks",
    "paving_patios",
-   "lawns_grounds"
+   "lawns_grounds",
+   "groundworks"
   ],
   "types": [
    "landscape_gardener",
@@ -10360,10 +10474,10 @@
   "name_normalised": "garden vista group",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "water_drainage",
    "decking_structures",
-   "lawns_grounds"
+   "paving_patios",
+   "lawns_grounds",
+   "water_drainage"
   ],
   "types": [
    "landscape_contractor",
@@ -10556,8 +10670,8 @@
   "name_normalised": "gemini landscapes",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "decking_structures"
+   "decking_structures",
+   "paving_patios"
   ],
   "types": [
    "garden_designer",
@@ -10654,9 +10768,9 @@
   "name_normalised": "goodyear garden landscaping",
   "areas": [
    "lawns_grounds",
-   "fencing_boundaries",
    "trees_vegetation",
-   "landscaping"
+   "landscaping",
+   "fencing_boundaries"
   ],
   "types": [
    "garden_maintenance",
@@ -10730,6 +10844,104 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/12698879",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_1136458a",
+  "name": "Grangelands Garden Services",
+  "legal_name": "Grangelands Services",
+  "name_normalised": "grangelands garden",
+  "areas": [
+   "lawns_grounds",
+   "landscaping",
+   "fencing_boundaries"
+  ],
+  "types": [
+   "gardener",
+   "landscape_gardener"
+  ],
+  "primary_area": "lawns_grounds",
+  "address": null,
+  "town": "Fair Oak, Eastleigh",
+  "postcode": "SO50",
+  "lat": 50.969068031060594,
+  "lng": -1.3405471606060608,
+  "distance_miles": 33.2,
+  "serves_area_only": false,
+  "phone": "07710 456301",
+  "phone_e164": "+447710456301",
+  "phone_type": "mobile",
+  "email": null,
+  "website": "https://www.grangelands.co.uk/",
+  "domain": "grangelands.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.969068031060594&mlon=-1.3405471606060608#map=13/50.969068031060594/-1.3405471606060608",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "06610588",
+   "status": "active",
+   "incorporated": "2008-06-04",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/06610588"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 18,
+  "accreditations": [],
+  "services_notes": "Family-run; residential & commercial maintenance, hard & soft landscaping, fencing, lawn care, clearances",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.grangelands.co.uk/contact",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone",
+     "address"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/06610588",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "number",
@@ -11143,9 +11355,9 @@
   "name_normalised": "hallin garden projects",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "decking_structures",
    "paving_patios",
-   "decking_structures"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -11636,9 +11848,9 @@
   "name_normalised": "helyers of hampshire",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "driveways",
    "paving_patios",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "garden_designer",
@@ -11841,9 +12053,9 @@
   "areas": [
    "driveways",
    "fencing_boundaries",
+   "decking_structures",
    "paving_patios",
-   "landscaping",
-   "decking_structures"
+   "landscaping"
   ],
   "types": [
    "driveway_installer",
@@ -11941,11 +12153,11 @@
   "name_normalised": "hythe waterside landscaping",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "driveways",
    "paving_patios",
-   "exterior_cleaning",
    "lawns_grounds",
-   "driveways"
+   "fencing_boundaries",
+   "exterior_cleaning"
   ],
   "types": [
    "landscape_gardener",
@@ -12147,9 +12359,9 @@
   "name_normalised": "inspirascapes",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "decking_structures",
    "driveways",
+   "decking_structures",
+   "paving_patios",
    "fencing_boundaries"
   ],
   "types": [
@@ -12245,11 +12457,11 @@
   "areas": [
    "landscaping",
    "fencing_boundaries",
-   "paving_patios",
-   "water_drainage",
+   "driveways",
    "decking_structures",
+   "paving_patios",
    "lawns_grounds",
-   "driveways"
+   "water_drainage"
   ],
   "types": [
    "landscape_gardener",
@@ -12345,8 +12557,8 @@
   "name_normalised": "jbs fencing",
   "areas": [
    "fencing_boundaries",
-   "paving_patios",
-   "decking_structures"
+   "decking_structures",
+   "paving_patios"
   ],
   "types": [
    "fencing_contractor"
@@ -12442,9 +12654,9 @@
   "name_normalised": "jn fencing landscaping",
   "areas": [
    "fencing_boundaries",
+   "decking_structures",
    "paving_patios",
-   "landscaping",
-   "decking_structures"
+   "landscaping"
   ],
   "types": [
    "fencing_contractor",
@@ -12553,10 +12765,10 @@
   "name_normalised": "jrg landscapes",
   "areas": [
    "landscaping",
-   "paving_patios",
+   "driveways",
    "decking_structures",
-   "lawns_grounds",
-   "driveways"
+   "paving_patios",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
@@ -12652,9 +12864,9 @@
   "name_normalised": "js landscapes groundworks",
   "areas": [
    "groundworks",
+   "driveways",
    "landscaping",
-   "water_drainage",
-   "driveways"
+   "water_drainage"
   ],
   "types": [
    "groundworks_contractor",
@@ -12741,6 +12953,100 @@
   ],
   "first_seen": "2026-10-15",
   "last_verified": "2026-10-15",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
+  "id": "tf_430f8e40",
+  "name": "Jackson Arenas",
+  "legal_name": "Jackson Arenas",
+  "name_normalised": "jackson arenas",
+  "areas": [
+   "groundworks"
+  ],
+  "types": [
+   "groundworks_contractor"
+  ],
+  "primary_area": "groundworks",
+  "address": null,
+  "town": "Marchwood, Southampton",
+  "postcode": "SO40",
+  "lat": 50.9129986993524,
+  "lng": -1.5039378621646613,
+  "distance_miles": 25.1,
+  "serves_area_only": false,
+  "phone": "023 8087 9490",
+  "phone_e164": "+442380879490",
+  "phone_type": "landline",
+  "email": null,
+  "website": "https://www.jacksonarenas.com/",
+  "domain": "jacksonarenas.com",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=50.9129986993524&mlon=-1.5039378621646613#map=13/50.9129986993524/-1.5039378621646613",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "08460341",
+   "status": "active",
+   "incorporated": "2013-03-25",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08460341"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 13,
+  "accreditations": [],
+  "services_notes": "All-weather riding arena & equestrian construction",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 19,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 15,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.jacksonarenas.com/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "phone"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08460341",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
   "status": "active",
   "pete_notes": "",
   "county": "hampshire"
@@ -13529,8 +13835,8 @@
   "areas": [
    "driveways",
    "paving_patios",
-   "landscaping",
-   "lawns_grounds"
+   "lawns_grounds",
+   "landscaping"
   ],
   "types": [
    "driveway_installer",
@@ -13917,8 +14223,8 @@
   "name_normalised": "mettagarden",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "decking_structures"
+   "decking_structures",
+   "paving_patios"
   ],
   "types": [
    "garden_designer",
@@ -14013,9 +14319,9 @@
   "name_normalised": "mikes garden",
   "areas": [
    "lawns_grounds",
-   "fencing_boundaries",
+   "trees_vegetation",
    "paving_patios",
-   "trees_vegetation"
+   "fencing_boundaries"
   ],
   "types": [
    "garden_maintenance"
@@ -14598,11 +14904,11 @@
   "name_normalised": "omega paving artificial grass",
   "areas": [
    "paving_patios",
-   "fencing_boundaries",
+   "driveways",
    "decking_structures",
-   "exterior_cleaning",
    "lawns_grounds",
-   "driveways"
+   "fencing_boundaries",
+   "exterior_cleaning"
   ],
   "types": [
    "patio_installer",
@@ -14699,10 +15005,10 @@
   "name_normalised": "pl landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "driveways",
    "paving_patios",
-   "water_drainage",
-   "driveways"
+   "fencing_boundaries",
+   "water_drainage"
   ],
   "types": [
    "landscape_gardener",
@@ -14798,8 +15104,8 @@
   "name_normalised": "pr landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -14902,11 +15208,11 @@
   "name_normalised": "paragon landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "trees_vegetation",
-   "paving_patios",
+   "driveways",
    "decking_structures",
-   "driveways"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -15204,12 +15510,12 @@
   "name_normalised": "regent landscaping",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "groundworks",
-   "paving_patios",
-   "water_drainage",
+   "driveways",
    "decking_structures",
-   "driveways"
+   "paving_patios",
+   "fencing_boundaries",
+   "water_drainage",
+   "groundworks"
   ],
   "types": [
    "landscape_contractor",
@@ -15403,8 +15709,8 @@
   "name_normalised": "robin pryer landscape craftsman",
   "areas": [
    "landscaping",
-   "paving_patios",
-   "decking_structures"
+   "decking_structures",
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener"
@@ -15594,9 +15900,9 @@
   "name_normalised": "rosie landscapes",
   "areas": [
    "landscaping",
-   "paving_patios",
+   "driveways",
    "decking_structures",
-   "driveways"
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener"
@@ -16109,10 +16415,10 @@
   "name_normalised": "scandor landscape contractors",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "trees_vegetation",
    "paving_patios",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_contractor",
@@ -16998,10 +17304,10 @@
   "name_normalised": "tm landscapes garden design",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
+   "driveways",
    "decking_structures",
-   "driveways"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "garden_designer",
@@ -17572,10 +17878,10 @@
   "name_normalised": "verdant landscape gardens",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
+   "driveways",
    "decking_structures",
-   "driveways"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -17671,8 +17977,8 @@
   "name_normalised": "viking garden",
   "areas": [
    "lawns_grounds",
-   "fencing_boundaries",
    "landscaping",
+   "fencing_boundaries",
    "exterior_cleaning"
   ],
   "types": [
@@ -17769,9 +18075,9 @@
   "name_normalised": "wentworth landscaping",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "driveways",
    "paving_patios",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -17867,11 +18173,11 @@
   "name_normalised": "wessex gardeners",
   "areas": [
    "lawns_grounds",
-   "fencing_boundaries",
    "trees_vegetation",
-   "paving_patios",
    "landscaping",
-   "decking_structures"
+   "decking_structures",
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "garden_maintenance",
@@ -18535,10 +18841,10 @@
   "name_normalised": "baikie landscape construction",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
+   "driveways",
    "decking_structures",
-   "driveways"
+   "paving_patios",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_contractor",
@@ -18725,9 +19031,9 @@
   "name_normalised": "goddards landscape contractors",
   "areas": [
    "landscaping",
-   "groundworks",
    "trees_vegetation",
-   "lawns_grounds"
+   "lawns_grounds",
+   "groundworks"
   ],
   "types": [
    "landscape_contractor",
@@ -19043,11 +19349,11 @@
   "name_normalised": "buckland garden",
   "areas": [
    "lawns_grounds",
-   "fencing_boundaries",
-   "paving_patios",
    "landscaping",
-   "water_drainage",
-   "decking_structures"
+   "decking_structures",
+   "paving_patios",
+   "fencing_boundaries",
+   "water_drainage"
   ],
   "types": [
    "garden_maintenance",
@@ -19251,10 +19557,10 @@
   "name_normalised": "ejr groundworks landscapes",
   "areas": [
    "groundworks",
-   "fencing_boundaries",
    "landscaping",
-   "water_drainage",
-   "driveways"
+   "driveways",
+   "fencing_boundaries",
+   "water_drainage"
   ],
   "types": [
    "groundworks_contractor",
@@ -19900,8 +20206,8 @@
   "name_normalised": "andover resin",
   "areas": [
    "driveways",
-   "surfacing",
-   "paving_patios"
+   "paving_patios",
+   "surfacing"
   ],
   "types": [
    "resin_driveway"
@@ -20548,8 +20854,8 @@
   "name_normalised": "aztec landscapes",
   "areas": [
    "landscaping",
-   "groundworks",
-   "water_drainage"
+   "water_drainage",
+   "groundworks"
   ],
   "types": [
    "landscape_contractor",
@@ -21510,11 +21816,11 @@
   "name_normalised": "cliff phillips landscapes cp landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "trees_vegetation",
+   "driveways",
    "paving_patios",
    "lawns_grounds",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -21795,10 +22101,10 @@
   "name_normalised": "dcs landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "trees_vegetation",
    "paving_patios",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -22632,9 +22938,9 @@
   "name_normalised": "garden doctor landscaping",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "driveways",
    "paving_patios",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener"
@@ -22822,9 +23128,9 @@
   "name_normalised": "green bee gardening",
   "areas": [
    "lawns_grounds",
-   "fencing_boundaries",
    "landscaping",
-   "decking_structures"
+   "decking_structures",
+   "fencing_boundaries"
   ],
   "types": [
    "garden_maintenance",
@@ -23294,9 +23600,9 @@
   "name_normalised": "hampshire millscapes",
   "areas": [
    "landscaping",
-   "paving_patios",
    "driveways",
    "decking_structures",
+   "paving_patios",
    "fencing_boundaries",
    "groundworks"
   ],
@@ -23400,8 +23706,8 @@
   "name_normalised": "hampshire resin driveways",
   "areas": [
    "driveways",
-   "surfacing",
-   "paving_patios"
+   "paving_patios",
+   "surfacing"
   ],
   "types": [
    "resin_driveway"
@@ -24736,9 +25042,9 @@
   "areas": [
    "driveways",
    "fencing_boundaries",
-   "groundworks",
    "paving_patios",
-   "landscaping"
+   "landscaping",
+   "groundworks"
   ],
   "types": [
    "driveway_installer",
@@ -25482,8 +25788,8 @@
   "areas": [
    "driveways",
    "paving_patios",
-   "exterior_cleaning",
-   "surfacing"
+   "surfacing",
+   "exterior_cleaning"
   ],
   "types": [
    "driveway_installer",
@@ -25864,9 +26170,9 @@
   "name_normalised": "oakwood gardens",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "decking_structures",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -26060,8 +26366,8 @@
   "name_normalised": "orchards ground care",
   "areas": [
    "lawns_grounds",
-   "landscaping",
-   "trees_vegetation"
+   "trees_vegetation",
+   "landscaping"
   ],
   "types": [
    "grounds_maintenance",
@@ -26151,14 +26457,111 @@
   "county": "hampshire"
  },
  {
+  "id": "tf_30228420",
+  "name": "PJL Group",
+  "legal_name": "PJL Group",
+  "name_normalised": "pjl group",
+  "areas": [
+   "landscaping",
+   "lawns_grounds"
+  ],
+  "types": [
+   "landscaper",
+   "grounds_maintenance"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Bramley, Tadley",
+  "postcode": "RG26",
+  "lat": 51.3398493542945,
+  "lng": -1.129262219325154,
+  "distance_miles": 57.0,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://www.pjlandscaping.co.uk/",
+  "domain": "pjlandscaping.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.3398493542945&mlon=-1.129262219325154#map=13/51.3398493542945/-1.129262219325154",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "08385508",
+   "status": "active",
+   "incorporated": "2013-02-01",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08385508"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 13,
+  "accreditations": [],
+  "services_notes": "Commercial landscape design, construction & maintenance contracts",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.pjlandscaping.co.uk/contact-redesign",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "website",
+     "address"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08385508",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "hampshire"
+ },
+ {
   "id": "tf_94361006",
   "name": "Palmscapes",
   "legal_name": "Palmscapes",
   "name_normalised": "palmscapes",
   "areas": [
    "paving_patios",
-   "driveways",
    "fencing_boundaries",
+   "driveways",
    "landscaping"
   ],
   "types": [
@@ -26809,8 +27212,8 @@
   "name_normalised": "richard cozens landscaping",
   "areas": [
    "landscaping",
-   "trees_vegetation",
-   "lawns_grounds"
+   "lawns_grounds",
+   "trees_vegetation"
   ],
   "types": [
    "landscape_gardener",
@@ -26997,8 +27400,8 @@
   "name_normalised": "robert smith landscaping",
   "areas": [
    "landscaping",
-   "lawns_grounds",
-   "decking_structures"
+   "decking_structures",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
@@ -27096,9 +27499,9 @@
   "name_normalised": "roman drives landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "driveways",
    "paving_patios",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_contractor"
@@ -27208,10 +27611,10 @@
   "name_normalised": "romsey chandlers ford tree landscape",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "trees_vegetation",
+   "driveways",
    "paving_patios",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -27306,9 +27709,9 @@
   "name_normalised": "s b landscapes",
   "areas": [
    "paving_patios",
+   "driveways",
    "fencing_boundaries",
-   "groundworks",
-   "driveways"
+   "groundworks"
   ],
   "types": [
    "landscape_contractor",
@@ -27404,8 +27807,8 @@
   "name_normalised": "sf garden grounds maintenance",
   "areas": [
    "lawns_grounds",
-   "exterior_cleaning",
-   "fencing_boundaries"
+   "fencing_boundaries",
+   "exterior_cleaning"
   ],
   "types": [
    "garden_maintenance",
@@ -27591,10 +27994,10 @@
   "name_normalised": "solent garden",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
    "decking_structures",
-   "lawns_grounds"
+   "paving_patios",
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -27880,10 +28283,10 @@
   "name_normalised": "steven rogers landscapes",
   "areas": [
    "landscaping",
-   "paving_patios",
+   "driveways",
    "decking_structures",
-   "lawns_grounds",
-   "driveways"
+   "paving_patios",
+   "lawns_grounds"
   ],
   "types": [
    "landscape_gardener",
@@ -28167,9 +28570,9 @@
   "name_normalised": "tab landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
    "paving_patios",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener",
@@ -28919,9 +29322,9 @@
   "name_normalised": "urban vista landscape solutions",
   "areas": [
    "lawns_grounds",
-   "fencing_boundaries",
    "trees_vegetation",
-   "landscaping"
+   "landscaping",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_contractor",
@@ -29205,8 +29608,8 @@
   "areas": [
    "landscaping",
    "trees_vegetation",
-   "paving_patios",
-   "decking_structures"
+   "decking_structures",
+   "paving_patios"
   ],
   "types": [
    "landscape_contractor"
@@ -42105,8 +42508,8 @@
   "name_normalised": "rrs landscape garden maintenance",
   "areas": [
    "lawns_grounds",
-   "fencing_boundaries",
    "landscaping",
+   "fencing_boundaries",
    "exterior_cleaning"
   ],
   "types": [
@@ -44688,10 +45091,10 @@
   "name_normalised": "harding groundwork landscapes",
   "areas": [
    "groundworks",
-   "fencing_boundaries",
+   "driveways",
    "paving_patios",
-   "water_drainage",
-   "driveways"
+   "fencing_boundaries",
+   "water_drainage"
   ],
   "types": [
    "groundworker",
@@ -95831,98 +96234,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/06183663",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_934f9cf7",
-  "name": "Bongardia",
-  "legal_name": "BONGARDIA LIMITED",
-  "name_normalised": "bongardia",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Alton",
-  "postcode": "GU34",
-  "lat": 51.149,
-  "lng": -0.979,
-  "distance_miles": 53.2,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "07846422",
-   "status": "active",
-   "incorporated": "2011-11-14",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/07846422"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 15,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/07846422",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -183333,98 +183644,6 @@
   "out_of_scope_reason": null
  },
  {
-  "id": "tf_5f9a22ed",
-  "name": "Grangelands Services",
-  "legal_name": "GRANGELANDS SERVICES LIMITED",
-  "name_normalised": "grangelands",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Eastleigh",
-  "postcode": "SO50",
-  "lat": 50.966,
-  "lng": -1.287,
-  "distance_miles": 35.1,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "06610588",
-   "status": "active",
-   "incorporated": "2008-06-04",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/06610588"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 18,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/06610588",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
   "id": "tf_0d4ecafb",
   "name": "Grant Bird Woodworks",
   "legal_name": "GRANT BIRD WOODWORKS LTD",
@@ -227734,98 +227953,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/17152243",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_e61117ff",
-  "name": "Jackson Arenas",
-  "legal_name": "JACKSON ARENAS LIMITED",
-  "name_normalised": "jackson arenas",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Southampton",
-  "postcode": "SO40",
-  "lat": 50.881,
-  "lng": -1.445,
-  "distance_miles": 26.3,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "08460341",
-   "status": "active",
-   "incorporated": "2013-03-25",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/08460341"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 13,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/08460341",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",
@@ -295875,101 +296002,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/16986095",
-    "retrieved": "2026-10-15T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-15",
-  "last_verified": "2026-10-15",
-  "status": "active",
-  "pete_notes": "",
-  "county": "hampshire",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_218e1a3d",
-  "name": "PJL Group",
-  "legal_name": "PJL GROUP LIMITED",
-  "name_normalised": "pjl group",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Tadley",
-  "postcode": "RG26",
-  "lat": 51.33,
-  "lng": -1.059,
-  "distance_miles": 58.6,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "08385508",
-   "status": "active",
-   "incorporated": "2013-02-01",
-   "dissolved": null,
-   "sic": [
-    "02400",
-    "43390",
-    "68100",
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/08385508"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 13,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 02400, 43390, 68100, 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/08385508",
     "retrieved": "2026-10-15T12:00:00+01:00",
     "fields": [
      "name",

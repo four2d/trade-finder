@@ -226,8 +226,8 @@
   "name_normalised": "green planet tree",
   "areas": [
    "trees_vegetation",
-   "landscaping",
-   "lawns_grounds"
+   "lawns_grounds",
+   "landscaping"
   ],
   "types": [
    "tree_surgeon"
@@ -348,11 +348,11 @@
   "name_normalised": "360 landscapes design",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "paving_patios",
+   "driveways",
    "decking_structures",
+   "paving_patios",
    "lawns_grounds",
-   "driveways"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener"
@@ -455,12 +455,12 @@
   "name_normalised": "a c landscapes",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "groundworks",
-   "paving_patios",
+   "driveways",
    "decking_structures",
+   "paving_patios",
    "lawns_grounds",
-   "driveways"
+   "fencing_boundaries",
+   "groundworks"
   ],
   "types": [
    "landscape_gardener"
@@ -555,9 +555,9 @@
   "name_normalised": "adrian stoute landscaping",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
+   "decking_structures",
    "paving_patios",
-   "decking_structures"
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener"
@@ -1042,10 +1042,10 @@
   "name_normalised": "brick bloom",
   "areas": [
    "landscaping",
-   "paving_patios",
    "decking_structures",
-   "fencing_boundaries",
-   "lawns_grounds"
+   "paving_patios",
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "landscape_gardener"
@@ -1624,9 +1624,9 @@
   "name_normalised": "craft landscaping",
   "areas": [
    "landscaping",
-   "paving_patios",
+   "driveways",
    "decking_structures",
-   "driveways"
+   "paving_patios"
   ],
   "types": [
    "landscape_contractor"
@@ -2202,9 +2202,9 @@
   "name_normalised": "green elephant gardens",
   "areas": [
    "lawns_grounds",
-   "fencing_boundaries",
    "trees_vegetation",
-   "landscaping"
+   "landscaping",
+   "fencing_boundaries"
   ],
   "types": [
    "gardener",
@@ -2403,10 +2403,10 @@
   "name_normalised": "heritage south west",
   "areas": [
    "fencing_boundaries",
-   "paving_patios",
-   "landscaping",
+   "driveways",
    "decking_structures",
-   "driveways"
+   "paving_patios",
+   "landscaping"
   ],
   "types": [
    "fencing_contractor",
@@ -2990,12 +2990,12 @@
   "name_normalised": "nick white landscaping",
   "areas": [
    "landscaping",
-   "fencing_boundaries",
-   "groundworks",
-   "paving_patios",
+   "driveways",
    "decking_structures",
+   "paving_patios",
    "lawns_grounds",
-   "driveways"
+   "fencing_boundaries",
+   "groundworks"
   ],
   "types": [
    "landscape_gardener",
@@ -3988,9 +3988,9 @@
   "name_normalised": "bristol landscapes",
   "areas": [
    "landscaping",
-   "paving_patios",
+   "driveways",
    "decking_structures",
-   "driveways"
+   "paving_patios"
   ],
   "types": [
    "landscape_gardener"
@@ -4064,6 +4064,99 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/07346680",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
+  "id": "tf_44ac42b3",
+  "name": "Charlie Hawkes Landscape Design",
+  "legal_name": "Charlie Hawkes",
+  "name_normalised": "charlie hawkes landscape design",
+  "areas": [
+   "landscaping"
+  ],
+  "types": [
+   "garden_designer"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Bristol",
+  "postcode": "BS5",
+  "lat": 51.46205955886858,
+  "lng": -2.5517466972477014,
+  "distance_miles": 57.1,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://www.charliehawkes.co.uk/",
+  "domain": "charliehawkes.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.46205955886858&mlon=-2.5517466972477014#map=13/51.46205955886858/-2.5517466972477014",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "13438536",
+   "status": "active",
+   "incorporated": "2021-06-04",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/13438536"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 5,
+  "accreditations": [],
+  "services_notes": "Landscape & garden design; RHS Chelsea exhibitor; House & Garden \"Rising Star\"",
+  "badges": [
+   "ltd_company"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.charliehawkes.co.uk/contact",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "address"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13438536",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "number",
@@ -4183,15 +4276,113 @@
   "county": "bristol"
  },
  {
+  "id": "tf_efe51313",
+  "name": "Monkey Business Design",
+  "legal_name": "Monkey Business Design",
+  "name_normalised": "monkey business design",
+  "areas": [
+   "landscaping",
+   "decking_structures",
+   "surfacing"
+  ],
+  "types": [
+   "landscape_contractor",
+   "play_area_installer"
+  ],
+  "primary_area": "landscaping",
+  "address": null,
+  "town": "Bristol",
+  "postcode": "BS4",
+  "lat": 51.43533309000901,
+  "lng": -2.563831257425743,
+  "distance_miles": 55.7,
+  "serves_area_only": false,
+  "phone": null,
+  "phone_e164": null,
+  "phone_type": null,
+  "email": null,
+  "website": "https://www.monkeybusinessdesign.co.uk/",
+  "domain": "monkeybusinessdesign.co.uk",
+  "website_quality": "unknown",
+  "socials": {
+   "facebook": null,
+   "instagram": null
+  },
+  "google_rating": null,
+  "google_reviews": null,
+  "google_maps_url": "https://www.openstreetmap.org/?mlat=51.43533309000901&mlon=-2.563831257425743#map=13/51.43533309000901/-2.563831257425743",
+  "last_review_date": null,
+  "checkatrade": null,
+  "trustatrader": null,
+  "mybuilder": null,
+  "ratedpeople": null,
+  "other_rating": null,
+  "companies_house": {
+   "number": "08940055",
+   "status": "active",
+   "incorporated": "2014-03-14",
+   "sic": [],
+   "url": "https://find-and-update.company-information.service.gov.uk/company/08940055"
+  },
+  "opening_hours": null,
+  "enriched_from_ch": true,
+  "base_unknown": false,
+  "business_form": "ltd",
+  "size_band": "unknown",
+  "years_trading": 12,
+  "accreditations": [],
+  "services_notes": "Sustainable landscape design & build, timber play structures, habitat restoration; schools, councils, private clients",
+  "badges": [
+   "ltd_company",
+   "established"
+  ],
+  "score": 10,
+  "score_breakdown": {
+   "rating": 0,
+   "reviews": 0,
+   "vetted": 4,
+   "contact": 6,
+   "distance": 0
+  },
+  "confidence": 0.7,
+  "merge_review": false,
+  "sources": [
+   {
+    "source": "web_search",
+    "url": "https://www.monkeybusinessdesign.co.uk/landscaping/",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "website",
+     "services"
+    ]
+   },
+   {
+    "source": "companies_house",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08940055",
+    "retrieved": "2026-10-16T12:00:00+01:00",
+    "fields": [
+     "number",
+     "status",
+     "incorporated"
+    ]
+   }
+  ],
+  "first_seen": "2026-10-16",
+  "last_verified": "2026-10-16",
+  "status": "active",
+  "pete_notes": "",
+  "county": "bristol"
+ },
+ {
   "id": "tf_01527a0d",
   "name": "P J Dyke Paving & Groundworks",
   "legal_name": "P J Dyke Paving & Groundwork",
   "name_normalised": "p j dyke paving groundworks",
   "areas": [
    "driveways",
+   "paving_patios",
    "fencing_boundaries",
-   "groundworks",
-   "paving_patios"
+   "groundworks"
   ],
   "types": [
    "driveway_installer",
@@ -4575,8 +4766,8 @@
   "name_normalised": "tree boundary",
   "areas": [
    "trees_vegetation",
-   "fencing_boundaries",
-   "lawns_grounds"
+   "lawns_grounds",
+   "fencing_boundaries"
   ],
   "types": [
    "tree_surgeon",
@@ -13701,97 +13892,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/07358859",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_cb19c773",
-  "name": "Charlie Hawkes",
-  "legal_name": "CHARLIE HAWKES LIMITED",
-  "name_normalised": "charlie hawkes",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "Bristol",
-  "postcode": "BS5",
-  "lat": 51.461,
-  "lng": -2.551,
-  "distance_miles": 57.1,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "13438536",
-   "status": "active",
-   "incorporated": "2021-06-04",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/13438536"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 5,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/13438536",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
@@ -30456,98 +30556,6 @@
    {
     "source": "companies_house",
     "url": "https://find-and-update.company-information.service.gov.uk/company/06378350",
-    "retrieved": "2026-10-16T12:00:00+01:00",
-    "fields": [
-     "name",
-     "status",
-     "incorporated",
-     "sic",
-     "district"
-    ]
-   }
-  ],
-  "first_seen": "2026-10-16",
-  "last_verified": "2026-10-16",
-  "status": "active",
-  "pete_notes": "",
-  "county": "bristol",
-  "ch_only": true,
-  "out_of_scope": false,
-  "out_of_scope_reason": null
- },
- {
-  "id": "tf_470da17f",
-  "name": "Monkey Business Design",
-  "legal_name": "MONKEY BUSINESS DESIGN LIMITED",
-  "name_normalised": "monkey business design",
-  "areas": [
-   "landscaping",
-   "lawns_grounds"
-  ],
-  "types": [],
-  "primary_area": "landscaping",
-  "address": null,
-  "town": "BS4",
-  "postcode": "BS4",
-  "lat": 51.437,
-  "lng": -2.564,
-  "distance_miles": 55.8,
-  "serves_area_only": false,
-  "phone": null,
-  "phone_e164": null,
-  "phone_type": null,
-  "email": null,
-  "website": null,
-  "domain": null,
-  "website_quality": "none",
-  "socials": {
-   "facebook": null,
-   "instagram": null
-  },
-  "google_rating": null,
-  "google_reviews": null,
-  "google_maps_url": null,
-  "last_review_date": null,
-  "checkatrade": null,
-  "trustatrader": null,
-  "mybuilder": null,
-  "ratedpeople": null,
-  "other_rating": null,
-  "companies_house": {
-   "number": "08940055",
-   "status": "active",
-   "incorporated": "2014-03-14",
-   "dissolved": null,
-   "sic": [
-    "81300"
-   ],
-   "url": "https://find-and-update.company-information.service.gov.uk/company/08940055"
-  },
-  "business_form": "ltd",
-  "size_band": "unknown",
-  "years_trading": 12,
-  "accreditations": [],
-  "services_notes": "Found via Companies House name search only; no trading website or reviews found yet · SIC 81300",
-  "badges": [
-   "ltd_company",
-   "no_website",
-   "needs_check",
-   "established"
-  ],
-  "score": 3,
-  "score_breakdown": {
-   "rating": 0,
-   "reviews": 0,
-   "vetted": 4,
-   "contact": 0,
-   "distance": 0
-  },
-  "confidence": 0.5,
-  "merge_review": false,
-  "sources": [
-   {
-    "source": "companies_house",
-    "url": "https://find-and-update.company-information.service.gov.uk/company/08940055",
     "retrieved": "2026-10-16T12:00:00+01:00",
     "fields": [
      "name",
