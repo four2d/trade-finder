@@ -91,3 +91,5 @@
 - 14:27 GMT: Issue 03 rebuilt thin: dated issues now reuse shared /data (no per-issue 40 MB snapshot); old issue businesses.json dumps no longer published
 
 - 15:05 GMT: Issue 03 b2: +45 enriched Devon / Isle of Wight firms from CH leads (own sites)
+
+- 15:27 GMT: Issue 03 b3: +62 enriched Devon firms from CH leads (own sites)
