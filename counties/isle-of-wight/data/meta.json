@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-28T14:17:25+00:00",
+ "last_updated": "2026-10-28T14:54:58+00:00",
  "issue_date": "2026-10-28",
  "issue_no": 3,
  "radius_miles": 25,
@@ -13,17 +13,17 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 2743,
-  "driveways": 434,
-  "paving_patios": 357,
-  "surfacing": 183,
+  "landscaping": 2730,
+  "driveways": 437,
+  "paving_patios": 360,
+  "surfacing": 182,
   "groundworks": 8146,
-  "lawns_grounds": 2507,
-  "fencing_boundaries": 434,
-  "decking_structures": 778,
+  "lawns_grounds": 2483,
+  "fencing_boundaries": 436,
+  "decking_structures": 779,
   "outdoor_masonry": 1,
-  "trees_vegetation": 477,
-  "water_drainage": 226,
+  "trees_vegetation": 480,
+  "water_drainage": 228,
   "exterior_cleaning": 532
  },
  "total": 12587,
@@ -45,19 +45,19 @@
   ],
   "dup_ch": [],
   "closed_not_in_business": 11957,
-  "enriched_from_ch": 732,
+  "enriched_from_ch": 777,
   "in_radius": 12587,
   "serves_only": 5,
-  "verified_trading": 804,
-  "ch_only_leads": 11783,
+  "verified_trading": 849,
+  "ch_only_leads": 11738,
   "verified_phone_or_web_pct": 97,
   "verified_conf_ge_05_pct": 97,
   "all_have_source_town_distance": true,
-  "contactable": 804,
-  "phone_or_web_pct": 6,
+  "contactable": 849,
+  "phone_or_web_pct": 7,
   "conf_ge_05_pct": 100,
-  "needs_check": 11814,
-  "no_website": 11864
+  "needs_check": 11769,
+  "no_website": 11819
  },
  "counties": [
   {
@@ -534,17 +534,17 @@
  "S": {
   "tot": 146,
   "counts": {
-   "landscaping": 49,
-   "driveways": 7,
-   "paving_patios": 6,
+   "landscaping": 45,
+   "driveways": 9,
+   "paving_patios": 8,
    "surfacing": 0,
    "groundworks": 88,
-   "lawns_grounds": 46,
-   "fencing_boundaries": 7,
+   "lawns_grounds": 40,
+   "fencing_boundaries": 8,
    "decking_structures": 8,
    "outdoor_masonry": 0,
-   "trees_vegetation": 6,
-   "water_drainage": 2,
+   "trees_vegetation": 9,
+   "water_drainage": 3,
    "exterior_cleaning": 0
   },
   "avg": "\u2013",
@@ -552,44 +552,49 @@
   "ar": 9,
   "nw": 146,
   "top": null,
-  "dv": 5,
+  "dv": 8,
   "prim": {
-   "landscaping": 47,
+   "landscaping": 43,
    "driveways": 1,
    "paving_patios": 1,
    "surfacing": 0,
    "groundworks": 88,
-   "lawns_grounds": 0,
+   "lawns_grounds": 2,
    "fencing_boundaries": 3,
    "decking_structures": 3,
    "outdoor_masonry": 0,
-   "trees_vegetation": 3,
+   "trees_vegetation": 5,
    "water_drainage": 0,
    "exterior_cleaning": 0
   },
   "sec": {
-   "landscaping": 49,
-   "driveways": 7,
-   "paving_patios": 6,
+   "landscaping": 45,
+   "driveways": 9,
+   "paving_patios": 8,
    "surfacing": 0,
    "groundworks": 88,
-   "lawns_grounds": 46,
-   "fencing_boundaries": 7,
+   "lawns_grounds": 40,
+   "fencing_boundaries": 8,
    "decking_structures": 8,
    "outdoor_masonry": 0,
-   "trees_vegetation": 6,
-   "water_drainage": 2,
+   "trees_vegetation": 9,
+   "water_drainage": 3,
    "exterior_cleaning": 0
   },
   "types": {
    "landscaping": [
+    "block_paving",
+    "garden_maintenance",
     "gardener",
     "grounds_maintenance",
     "landscape_contractor",
+    "landscape_gardener",
     "landscaper",
     "tree_surgeon"
    ],
    "driveways": [
+    "block_paving",
+    "driveway_installer",
     "gardener",
     "grounds_maintenance",
     "groundworks_contractor",
@@ -597,6 +602,8 @@
     "landscaper"
    ],
    "paving_patios": [
+    "block_paving",
+    "driveway_installer",
     "gardener",
     "grounds_maintenance",
     "landscape_contractor",
@@ -604,19 +611,25 @@
    ],
    "surfacing": [],
    "groundworks": [
+    "driveway_installer",
     "groundworks_contractor"
    ],
    "lawns_grounds": [
+    "garden_maintenance",
     "gardener",
     "grounds_maintenance",
     "landscape_contractor",
+    "landscape_gardener",
     "landscaper",
-    "tree_surgeon"
+    "tree_surgeon",
+    "turf_supplier"
    ],
    "fencing_boundaries": [
+    "driveway_installer",
     "fencing_contractor",
     "gardener",
     "grounds_maintenance",
+    "groundworks_contractor",
     "landscape_contractor",
     "landscaper",
     "tree_surgeon"
@@ -631,12 +644,15 @@
    "trees_vegetation": [
     "fencing_contractor",
     "gardener",
+    "hedge_maintenance",
     "landscape_contractor",
     "landscaper",
     "tree_surgeon"
    ],
    "water_drainage": [
+    "driveway_installer",
     "grounds_maintenance",
+    "groundworks_contractor",
     "landscape_contractor"
    ],
    "exterior_cleaning": []

@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28T14:17:25+00:00",
- "total": 27751,
+ "updated": "2026-10-28T14:54:58+00:00",
+ "total": 27796,
  "note": "Full Trade Finder master, one file per county. Concatenate every file to get the whole directory.",
  "files": [
   {
@@ -18,8 +18,8 @@
   {
    "slug": "devon",
    "file": "data/counties/devon.json",
-   "records": 2690,
-   "bytes": 4351752
+   "records": 2722,
+   "bytes": 4416414
   },
   {
    "slug": "dorset",
@@ -36,8 +36,8 @@
   {
    "slug": "isle-of-wight",
    "file": "data/counties/isle-of-wight.json",
-   "records": 257,
-   "bytes": 422420
+   "records": 270,
+   "bytes": 448374
   },
   {
    "slug": "somerset",
