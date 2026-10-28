@@ -83,3 +83,5 @@
 - 20:03 BST: b9: +46 firms from non-trade-name CH leads (SIC 81300) across six counties; Dorset CH links + duplicate cleanup
 
 - 20:54 BST: b10: +15 firms (non-trade-name CH leads); manual closed override, Artscape Garden Associates to Not in business
+
+- 12:56 GMT: Issue 03: add Devon and Isle of Wight (Companies House discovery + 17 enriched firms)

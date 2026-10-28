@@ -1,0 +1,669 @@
+{
+ "last_updated": "2026-10-28T12:47:16+00:00",
+ "issue_date": "2026-10-28",
+ "issue_no": 3,
+ "radius_miles": 25,
+ "origin": {
+  "name": "Poole",
+  "lat": 50.715,
+  "lng": -1.9872
+ },
+ "purpose": "comprehensive_directory",
+ "purpose_label": "Comprehensive directory",
+ "updates": "on_demand",
+ "include_large_contractors": true,
+ "counts": {
+  "landscaping": 2743,
+  "driveways": 434,
+  "paving_patios": 357,
+  "surfacing": 183,
+  "groundworks": 8146,
+  "lawns_grounds": 2507,
+  "fencing_boundaries": 434,
+  "decking_structures": 778,
+  "outdoor_masonry": 1,
+  "trees_vegetation": 477,
+  "water_drainage": 226,
+  "exterior_cleaning": 532
+ },
+ "total": 12587,
+ "total_ever": 24549,
+ "new_this_issue": 2943,
+ "version": "1.1",
+ "phase": 1,
+ "sample_mode": false,
+ "hero": {
+  "firm": "Dixcey Landscapes",
+  "score": 23,
+  "image": null
+ },
+ "archive_href": "../../archive.html",
+ "qc": {
+  "dup_domains": [],
+  "dup_phones": [
+   "+447561109141"
+  ],
+  "dup_ch": [],
+  "closed_not_in_business": 11957,
+  "enriched_from_ch": 732,
+  "in_radius": 12587,
+  "serves_only": 5,
+  "verified_trading": 804,
+  "ch_only_leads": 11783,
+  "verified_phone_or_web_pct": 97,
+  "verified_conf_ge_05_pct": 97,
+  "all_have_source_town_distance": true,
+  "contactable": 804,
+  "phone_or_web_pct": 6,
+  "conf_ge_05_pct": 100,
+  "needs_check": 11814,
+  "no_website": 11864
+ },
+ "counties": [
+  {
+   "slug": "dorset",
+   "name": "Dorset",
+   "status": "in_progress",
+   "firms": 1824,
+   "not_in_business": 1831,
+   "added": "2026-10-15",
+   "miles": 16,
+   "order": 1
+  },
+  {
+   "slug": "hampshire",
+   "name": "Hampshire",
+   "status": "in_progress",
+   "firms": 4570,
+   "not_in_business": 4596,
+   "added": "2026-10-15",
+   "miles": 38,
+   "order": 2
+  },
+  {
+   "slug": "wiltshire",
+   "name": "Wiltshire",
+   "status": "in_progress",
+   "firms": 1549,
+   "not_in_business": 1320,
+   "added": "2026-10-15",
+   "miles": 43,
+   "order": 3
+  },
+  {
+   "slug": "somerset",
+   "name": "Somerset",
+   "status": "in_progress",
+   "firms": 1930,
+   "not_in_business": 1605,
+   "added": "2026-10-15",
+   "miles": 50,
+   "order": 4
+  },
+  {
+   "slug": "devon",
+   "name": "Devon",
+   "status": "in_progress",
+   "firms": 1440,
+   "not_in_business": 1250,
+   "added": "2026-10-28",
+   "miles": 79,
+   "order": 5
+  },
+  {
+   "slug": "isle-of-wight",
+   "name": "Isle of Wight",
+   "status": "in_progress",
+   "firms": 146,
+   "not_in_business": 110,
+   "added": "2026-10-28",
+   "miles": 30,
+   "order": 6
+  },
+  {
+   "slug": "bristol",
+   "name": "Bristol",
+   "status": "in_progress",
+   "firms": 509,
+   "not_in_business": 547,
+   "added": "2026-10-16",
+   "miles": 57,
+   "order": 7
+  },
+  {
+   "slug": "berkshire",
+   "name": "Berkshire",
+   "status": "in_progress",
+   "firms": 619,
+   "not_in_business": 698,
+   "added": "2026-10-16",
+   "miles": 64,
+   "order": 8
+  },
+  {
+   "slug": "west-sussex",
+   "name": "West Sussex",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 70,
+   "order": 9
+  },
+  {
+   "slug": "gloucestershire",
+   "name": "Gloucestershire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 78,
+   "order": 10
+  },
+  {
+   "slug": "surrey",
+   "name": "Surrey",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 78,
+   "order": 11
+  },
+  {
+   "slug": "oxfordshire",
+   "name": "Oxfordshire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 79,
+   "order": 12
+  },
+  {
+   "slug": "cornwall",
+   "name": "Cornwall",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 130,
+   "order": 13
+  },
+  {
+   "slug": "buckinghamshire",
+   "name": "Buckinghamshire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 90,
+   "order": 14
+  },
+  {
+   "slug": "greater-london",
+   "name": "Greater London",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 97,
+   "order": 15
+  },
+  {
+   "slug": "east-sussex",
+   "name": "East Sussex",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 99,
+   "order": 16
+  },
+  {
+   "slug": "herefordshire",
+   "name": "Herefordshire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 100,
+   "order": 17
+  },
+  {
+   "slug": "worcestershire",
+   "name": "Worcestershire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 103,
+   "order": 18
+  },
+  {
+   "slug": "warwickshire",
+   "name": "Warwickshire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 111,
+   "order": 19
+  },
+  {
+   "slug": "northamptonshire",
+   "name": "Northamptonshire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 119,
+   "order": 20
+  },
+  {
+   "slug": "kent",
+   "name": "Kent",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 124,
+   "order": 21
+  },
+  {
+   "slug": "hertfordshire",
+   "name": "Hertfordshire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 106,
+   "order": 22
+  },
+  {
+   "slug": "bedfordshire",
+   "name": "Bedfordshire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 114,
+   "order": 23
+  },
+  {
+   "slug": "west-midlands",
+   "name": "West Midlands",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 122,
+   "order": 24
+  },
+  {
+   "slug": "essex",
+   "name": "Essex",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 131,
+   "order": 25
+  },
+  {
+   "slug": "shropshire",
+   "name": "Shropshire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 136,
+   "order": 26
+  },
+  {
+   "slug": "leicestershire",
+   "name": "Leicestershire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 140,
+   "order": 27
+  },
+  {
+   "slug": "cambridgeshire",
+   "name": "Cambridgeshire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 144,
+   "order": 28
+  },
+  {
+   "slug": "staffordshire",
+   "name": "Staffordshire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 145,
+   "order": 29
+  },
+  {
+   "slug": "rutland",
+   "name": "Rutland",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 146,
+   "order": 30
+  },
+  {
+   "slug": "lincolnshire",
+   "name": "Lincolnshire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 180,
+   "order": 31
+  },
+  {
+   "slug": "derbyshire",
+   "name": "Derbyshire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 162,
+   "order": 32
+  },
+  {
+   "slug": "suffolk",
+   "name": "Suffolk",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 164,
+   "order": 33
+  },
+  {
+   "slug": "nottinghamshire",
+   "name": "Nottinghamshire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 170,
+   "order": 34
+  },
+  {
+   "slug": "cheshire",
+   "name": "Cheshire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 173,
+   "order": 35
+  },
+  {
+   "slug": "norfolk",
+   "name": "Norfolk",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 185,
+   "order": 36
+  },
+  {
+   "slug": "south-yorkshire",
+   "name": "South Yorkshire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 195,
+   "order": 37
+  },
+  {
+   "slug": "east-riding-of-yorkshire",
+   "name": "East Riding of Yorkshire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 224,
+   "order": 38
+  },
+  {
+   "slug": "greater-manchester",
+   "name": "Greater Manchester",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 191,
+   "order": 39
+  },
+  {
+   "slug": "merseyside",
+   "name": "Merseyside",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 192,
+   "order": 40
+  },
+  {
+   "slug": "west-yorkshire",
+   "name": "West Yorkshire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 210,
+   "order": 41
+  },
+  {
+   "slug": "north-yorkshire",
+   "name": "North Yorkshire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 239,
+   "order": 42
+  },
+  {
+   "slug": "lancashire",
+   "name": "Lancashire",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 218,
+   "order": 43
+  },
+  {
+   "slug": "cumbria",
+   "name": "Cumbria",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 268,
+   "order": 44
+  },
+  {
+   "slug": "county-durham",
+   "name": "County Durham",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 275,
+   "order": 45
+  },
+  {
+   "slug": "tyne-and-wear",
+   "name": "Tyne and Wear",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 293,
+   "order": 46
+  },
+  {
+   "slug": "northumberland",
+   "name": "Northumberland",
+   "status": "paused",
+   "firms": 0,
+   "not_in_business": 0,
+   "added": null,
+   "miles": 313,
+   "order": 47
+  }
+ ],
+ "S": {
+  "tot": 146,
+  "counts": {
+   "landscaping": 49,
+   "driveways": 7,
+   "paving_patios": 6,
+   "surfacing": 0,
+   "groundworks": 88,
+   "lawns_grounds": 46,
+   "fencing_boundaries": 7,
+   "decking_structures": 8,
+   "outdoor_masonry": 0,
+   "trees_vegetation": 6,
+   "water_drainage": 2,
+   "exterior_cleaning": 0
+  },
+  "avg": "\u2013",
+  "ltd": 100,
+  "ar": 9,
+  "nw": 146,
+  "top": null,
+  "dv": 5,
+  "prim": {
+   "landscaping": 47,
+   "driveways": 1,
+   "paving_patios": 1,
+   "surfacing": 0,
+   "groundworks": 88,
+   "lawns_grounds": 0,
+   "fencing_boundaries": 3,
+   "decking_structures": 3,
+   "outdoor_masonry": 0,
+   "trees_vegetation": 3,
+   "water_drainage": 0,
+   "exterior_cleaning": 0
+  },
+  "sec": {
+   "landscaping": 49,
+   "driveways": 7,
+   "paving_patios": 6,
+   "surfacing": 0,
+   "groundworks": 88,
+   "lawns_grounds": 46,
+   "fencing_boundaries": 7,
+   "decking_structures": 8,
+   "outdoor_masonry": 0,
+   "trees_vegetation": 6,
+   "water_drainage": 2,
+   "exterior_cleaning": 0
+  },
+  "types": {
+   "landscaping": [
+    "gardener",
+    "grounds_maintenance",
+    "landscape_contractor",
+    "landscaper",
+    "tree_surgeon"
+   ],
+   "driveways": [
+    "gardener",
+    "grounds_maintenance",
+    "groundworks_contractor",
+    "landscape_contractor",
+    "landscaper"
+   ],
+   "paving_patios": [
+    "gardener",
+    "grounds_maintenance",
+    "landscape_contractor",
+    "landscaper"
+   ],
+   "surfacing": [],
+   "groundworks": [
+    "groundworks_contractor"
+   ],
+   "lawns_grounds": [
+    "gardener",
+    "grounds_maintenance",
+    "landscape_contractor",
+    "landscaper",
+    "tree_surgeon"
+   ],
+   "fencing_boundaries": [
+    "fencing_contractor",
+    "gardener",
+    "grounds_maintenance",
+    "landscape_contractor",
+    "landscaper",
+    "tree_surgeon"
+   ],
+   "decking_structures": [
+    "fencing_contractor",
+    "gardener",
+    "landscape_contractor",
+    "landscaper"
+   ],
+   "outdoor_masonry": [],
+   "trees_vegetation": [
+    "fencing_contractor",
+    "gardener",
+    "landscape_contractor",
+    "landscaper",
+    "tree_surgeon"
+   ],
+   "water_drainage": [
+    "grounds_maintenance",
+    "landscape_contractor"
+   ],
+   "exterior_cleaning": []
+  },
+  "nib": 110,
+  "nibA": {
+   "landscaping": 26,
+   "driveways": 0,
+   "paving_patios": 0,
+   "surfacing": 0,
+   "groundworks": 82,
+   "lawns_grounds": 25,
+   "fencing_boundaries": 0,
+   "decking_structures": 2,
+   "outdoor_masonry": 0,
+   "trees_vegetation": 1,
+   "water_drainage": 0,
+   "exterior_cleaning": 0
+  },
+  "mx": 40
+ },
+ "area_base": "data/areas/",
+ "index_file": "data/index.json",
+ "pins_file": "data/pins.json",
+ "closed_file": "data/closed.json",
+ "det_base": "../../data/details/",
+ "county": "Isle of Wight",
+ "county_slug": "isle-of-wight",
+ "root": "../../"
+}
