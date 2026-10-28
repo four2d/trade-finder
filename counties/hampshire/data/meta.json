@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-28T12:47:16+00:00",
+ "last_updated": "2026-10-28T13:10:59+00:00",
  "issue_date": "2026-10-28",
  "issue_no": 3,
  "radius_miles": 25,
@@ -863,5 +863,6 @@
  "det_base": "../../data/details/",
  "county": "Hampshire",
  "county_slug": "hampshire",
- "root": "../../"
+ "root": "../../",
+ "data_file": "../../data/counties/hampshire.json"
 }
