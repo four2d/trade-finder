@@ -87,3 +87,5 @@
 - 12:56 GMT: Issue 03: add Devon and Isle of Wight (Companies House discovery + 17 enriched firms)
 
 - 13:23 GMT: Split master by county: data/counties/<slug>.json + master_index.json; retire 53 MB businesses.json; slimmer offline page
+
+- 14:27 GMT: Issue 03 rebuilt thin: dated issues now reuse shared /data (no per-issue 40 MB snapshot); old issue businesses.json dumps no longer published

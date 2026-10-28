@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-28T13:10:59+00:00",
+ "last_updated": "2026-10-28T14:17:25+00:00",
  "issue_date": "2026-10-28",
  "issue_no": 3,
  "radius_miles": 25,
@@ -1060,10 +1060,16 @@
   },
   "mx": 112
  },
- "area_base": "data/areas/",
- "index_file": "data/index.json",
- "pins_file": "data/pins.json",
- "closed_file": "data/closed.json",
- "det_base": "data/details/",
- "root": "../../"
+ "area_base": "../../data/areas/",
+ "index_file": "../../data/index.json",
+ "pins_file": "../../data/pins.json",
+ "closed_file": "../../data/closed.json",
+ "det_base": "../../data/details/",
+ "root": "../../",
+ "shared_data": true,
+ "changelog": [
+  "Devon and Isle of Wight added",
+  "Issues now share live data (no more 40 MB snapshots)"
+ ],
+ "data_note": "Thin issue: firm data is read from the shared live files in /data (master: /data/master_index.json)."
 }

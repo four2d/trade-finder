@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T13:10:59+00:00",
+ "updated": "2026-10-28T14:17:25+00:00",
  "total": 27751,
  "note": "Full Trade Finder master, one file per county. Concatenate every file to get the whole directory.",
  "files": [
@@ -25,13 +25,13 @@
    "slug": "dorset",
    "file": "data/counties/dorset.json",
    "records": 4143,
-   "bytes": 6761198
+   "bytes": 6762075
   },
   {
    "slug": "hampshire",
    "file": "data/counties/hampshire.json",
    "records": 10661,
-   "bytes": 17388189
+   "bytes": 17388630
   },
   {
    "slug": "isle-of-wight",
