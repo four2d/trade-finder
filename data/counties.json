@@ -11,10 +11,10 @@
    "order": 1,
    "status": "in_progress",
    "planned_day": 1,
-   "firms": 1824,
-   "not_in_business": 1831,
+   "firms": 1836,
+   "not_in_business": 1836,
    "added": "2026-10-15",
-   "last_refreshed": "2026-10-28",
+   "last_refreshed": "2026-10-30",
    "ring": 0
   },
   {
@@ -26,10 +26,10 @@
    "order": 2,
    "status": "in_progress",
    "planned_day": 2,
-   "firms": 4570,
-   "not_in_business": 4596,
+   "firms": 4594,
+   "not_in_business": 4599,
    "added": "2026-10-15",
-   "last_refreshed": "2026-10-28",
+   "last_refreshed": "2026-10-30",
    "ring": 1
   },
   {
@@ -41,11 +41,11 @@
    "order": 3,
    "status": "in_progress",
    "planned_day": 3,
-   "firms": 1549,
-   "not_in_business": 1320,
+   "firms": 1548,
+   "not_in_business": 1322,
    "added": "2026-10-15",
    "ring": 1,
-   "last_refreshed": "2026-10-28"
+   "last_refreshed": "2026-10-30"
   },
   {
    "slug": "somerset",
@@ -56,11 +56,11 @@
    "order": 4,
    "status": "in_progress",
    "planned_day": 4,
-   "firms": 1930,
-   "not_in_business": 1605,
+   "firms": 1938,
+   "not_in_business": 1606,
    "ring": 1,
    "added": "2026-10-15",
-   "last_refreshed": "2026-10-28"
+   "last_refreshed": "2026-10-30"
   },
   {
    "slug": "devon",
@@ -71,11 +71,11 @@
    "order": 5,
    "status": "in_progress",
    "planned_day": 5,
-   "firms": 1442,
-   "not_in_business": 1250,
+   "firms": 1445,
+   "not_in_business": 1251,
    "ring": 1,
    "added": "2026-10-28",
-   "last_refreshed": "2026-10-28"
+   "last_refreshed": "2026-10-30"
   },
   {
    "slug": "isle-of-wight",
@@ -90,7 +90,7 @@
    "not_in_business": 110,
    "ring": 2,
    "added": "2026-10-28",
-   "last_refreshed": "2026-10-28"
+   "last_refreshed": "2026-10-30"
   },
   {
    "slug": "bristol",
@@ -102,10 +102,10 @@
    "status": "in_progress",
    "planned_day": 7,
    "firms": 509,
-   "not_in_business": 547,
+   "not_in_business": 550,
    "ring": 2,
    "added": "2026-10-16",
-   "last_refreshed": "2026-10-28"
+   "last_refreshed": "2026-10-30"
   },
   {
    "slug": "berkshire",
@@ -116,11 +116,11 @@
    "order": 8,
    "status": "in_progress",
    "planned_day": 8,
-   "firms": 619,
-   "not_in_business": 698,
+   "firms": 622,
+   "not_in_business": 700,
    "ring": 2,
    "added": "2026-10-16",
-   "last_refreshed": "2026-10-28"
+   "last_refreshed": "2026-10-30"
   },
   {
    "slug": "west-sussex",

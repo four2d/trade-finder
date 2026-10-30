@@ -97,3 +97,5 @@
 - 15:49 GMT: Issue 03 b4: +48 enriched Devon firms from CH leads (own sites)
 
 - 16:01 GMT: Issue 03 b4: +48 enriched Devon firms from CH leads (own sites)
+
+- 07:46 GMT: Issue 04: +139 enriched firms across all live counties; latest Companies House changes
