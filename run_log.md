@@ -99,3 +99,7 @@
 - 16:01 GMT: Issue 03 b4: +48 enriched Devon firms from CH leads (own sites)
 
 - 07:46 GMT: Issue 04: +139 enriched firms across all live counties; latest Companies House changes
+- **Issue 04 (30 Oct 2026, 07:21–07:50 GMT):** +139 web-verified firms from Companies House leads (own website carrying the company number or local postcode; 75 leads rejected as off-scope, mainly domestic/office cleaners). CH recent incorporations/dissolutions 28–30 Oct added. Yesterday's run never published: its raw file had a header bug (split on "R=[" matched "TR=["), fixed in work/d29/gen_raw30.py; tf-site/.git had lost its refs/ folder, recreated (repo was in sync with origin).
+- **QC:** dup domains 0, dup company numbers 0, dup phones 1 (same pre-existing pair); checked firms with phone or website 97%; confidence ≥0.5 98%; spot check 10/10; desktop + mobile screenshots checked. 1,098 checked firms, 12,638 in radius, 11,974 in Not in business.
+
+- 08:02 GMT: Issue 05: +33 web-checked firms across all live counties; latest Companies House changes
