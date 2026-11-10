@@ -1,5 +1,5 @@
 {
- "note": "England ceremonial counties only (v1.1). Centroids approximate. Day 1 = Dorset + 25-mile ring; then one county per day by centroid distance from Poole; once all are in, refresh all daily. Wales/Scotland/NI to be added if Pete wants. Scope change 15 Oct 2026 (Pete): week 1 = Dorset and Hampshire only, as thorough as possible; all other counties paused. Order change 15 Oct 2026 (Pete): queue works outwards from Dorset by adjacency rings (ring 1 = Dorset's neighbours Hampshire, Wiltshire, Somerset, Devon; then their neighbours, and so on; within a ring by distance from Poole). Wiltshire added, in progress. Somerset added 15 Oct 2026 (Pete), in progress; after Somerset no more counties are added (Devon and the rest stay paused). Devon and Isle of Wight added 28 Oct 2026 (Pete), in progress; no further counties until Pete says.",
+ "note": "England ceremonial counties only (v1.1). Centroids approximate. Day 1 = Dorset + 25-mile ring; then one county per day by centroid distance from Poole; once all are in, refresh all daily. Wales/Scotland/NI to be added if Pete wants. Scope change 15 Oct 2026 (Pete): week 1 = Dorset and Hampshire only, as thorough as possible; all other counties paused. Order change 15 Oct 2026 (Pete): queue works outwards from Dorset by adjacency rings (ring 1 = Dorset's neighbours Hampshire, Wiltshire, Somerset, Devon; then their neighbours, and so on; within a ring by distance from Poole). Wiltshire added, in progress. Somerset added 15 Oct 2026 (Pete), in progress; after Somerset no more counties are added (Devon and the rest stay paused). Devon and Isle of Wight added 28 Oct 2026 (Pete), in progress; no further counties until Pete says. West Sussex and Surrey added 10 Nov 2026 (Pete), in progress; no further counties until Pete says. From 10 Nov 2026 (Pete): only active firms are added; no new dissolved/closed Companies House records (existing Not in business records kept).",
  "origin": "Poole",
  "queue": [
   {
@@ -14,7 +14,7 @@
    "firms": 1834,
    "not_in_business": 1841,
    "added": "2026-10-15",
-   "last_refreshed": "2026-11-04",
+   "last_refreshed": "2026-11-10",
    "ring": 0
   },
   {
@@ -26,10 +26,10 @@
    "order": 2,
    "status": "in_progress",
    "planned_day": 2,
-   "firms": 4598,
+   "firms": 4618,
    "not_in_business": 4611,
    "added": "2026-10-15",
-   "last_refreshed": "2026-11-04",
+   "last_refreshed": "2026-11-10",
    "ring": 1
   },
   {
@@ -45,7 +45,7 @@
    "not_in_business": 1326,
    "added": "2026-10-15",
    "ring": 1,
-   "last_refreshed": "2026-11-04"
+   "last_refreshed": "2026-11-10"
   },
   {
    "slug": "somerset",
@@ -60,7 +60,7 @@
    "not_in_business": 1607,
    "ring": 1,
    "added": "2026-10-15",
-   "last_refreshed": "2026-11-04"
+   "last_refreshed": "2026-11-10"
   },
   {
    "slug": "devon",
@@ -75,7 +75,7 @@
    "not_in_business": 1254,
    "ring": 1,
    "added": "2026-10-28",
-   "last_refreshed": "2026-11-04"
+   "last_refreshed": "2026-11-10"
   },
   {
    "slug": "isle-of-wight",
@@ -90,7 +90,7 @@
    "not_in_business": 110,
    "ring": 2,
    "added": "2026-10-28",
-   "last_refreshed": "2026-11-04"
+   "last_refreshed": "2026-11-10"
   },
   {
    "slug": "bristol",
@@ -105,7 +105,7 @@
    "not_in_business": 553,
    "ring": 2,
    "added": "2026-10-16",
-   "last_refreshed": "2026-11-04"
+   "last_refreshed": "2026-11-10"
   },
   {
    "slug": "berkshire",
@@ -116,11 +116,11 @@
    "order": 8,
    "status": "in_progress",
    "planned_day": 8,
-   "firms": 621,
+   "firms": 632,
    "not_in_business": 706,
    "ring": 2,
    "added": "2026-10-16",
-   "last_refreshed": "2026-11-04"
+   "last_refreshed": "2026-11-10"
   },
   {
    "slug": "west-sussex",
@@ -129,11 +129,13 @@
    "lng": -0.45,
    "miles": 70,
    "order": 9,
-   "status": "paused",
+   "status": "in_progress",
    "planned_day": 9,
-   "firms": 0,
+   "firms": 1506,
    "not_in_business": 0,
-   "ring": 2
+   "ring": 2,
+   "added": "2026-11-10",
+   "last_refreshed": "2026-11-10"
   },
   {
    "slug": "gloucestershire",
@@ -155,11 +157,13 @@
    "lng": -0.4,
    "miles": 78,
    "order": 11,
-   "status": "paused",
+   "status": "in_progress",
    "planned_day": 11,
-   "firms": 0,
+   "firms": 2355,
    "not_in_business": 0,
-   "ring": 2
+   "ring": 2,
+   "added": "2026-11-10",
+   "last_refreshed": "2026-11-10"
   },
   {
    "slug": "oxfordshire",

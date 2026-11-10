@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-04T07:51:28+00:00",
- "total": 28192,
+ "updated": "2026-11-10T14:02:41+00:00",
+ "total": 32097,
  "note": "Full Trade Finder master, one file per county. Concatenate every file to get the whole directory.",
  "files": [
   {
    "slug": "berkshire",
    "file": "data/counties/berkshire.json",
-   "records": 1424,
-   "bytes": 2340517
+   "records": 1435,
+   "bytes": 2358862
   },
   {
    "slug": "bristol",
@@ -25,13 +25,13 @@
    "slug": "dorset",
    "file": "data/counties/dorset.json",
    "records": 4197,
-   "bytes": 6862867
+   "bytes": 6861988
   },
   {
    "slug": "hampshire",
    "file": "data/counties/hampshire.json",
-   "records": 10772,
-   "bytes": 17594954
+   "records": 10792,
+   "bytes": 17627603
   },
   {
    "slug": "isle-of-wight",
@@ -46,10 +46,22 @@
    "bytes": 6668698
   },
   {
+   "slug": "surrey",
+   "file": "data/counties/surrey.json",
+   "records": 2362,
+   "bytes": 3931700
+  },
+  {
+   "slug": "west-sussex",
+   "file": "data/counties/west-sussex.json",
+   "records": 1512,
+   "bytes": 2538873
+  },
+  {
    "slug": "wiltshire",
    "file": "data/counties/wiltshire.json",
    "records": 3474,
-   "bytes": 5701620
+   "bytes": 5701614
   }
  ]
 }

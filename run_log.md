@@ -103,3 +103,7 @@
 - **QC:** dup domains 0, dup company numbers 0, dup phones 1 (same pre-existing pair); checked firms with phone or website 97%; confidence ≥0.5 98%; spot check 10/10; desktop + mobile screenshots checked. 1,098 checked firms, 12,638 in radius, 11,974 in Not in business.
 
 - 08:02 GMT: Issue 05: +33 web-checked firms across all live counties; latest Companies House changes
+- **Issue 05 (4 Nov 2026, 07:20–08:10 GMT):** +33 web-checked firms from Companies House leads (17 prepared on 3 Nov, whose run never finished, plus 16 today), Hampshire, Dorset, Somerset, Berkshire, Bristol, Devon. Own websites found by name-domain lookup and checked on home/contact pages (company number or local postcode on site). 17 off-scope dropped (mostly domestic/office cleaners, plus a treehouse builder). Companies House changes 3–4 Nov added (68 rows kept). Lead crawl now ~2,600 of ~3,400 domains; rest carries over.
+- **QC:** dup domains 0, dup company numbers 0, dup phones 1 (same known pair); checked firms with phone or website 97%; confidence ≥0.5 98%; spot check 10/10; desktop + mobile screenshots checked (only a missing favicon 404). 1,131 checked firms, 12,637 in radius, 12,008 in Not in business.
+
+- 14:22 GMT: Issue 06: add West Sussex and Surrey (Companies House active-only discovery + 54 web-checked firms)
