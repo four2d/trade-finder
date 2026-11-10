@@ -107,3 +107,5 @@
 - **QC:** dup domains 0, dup company numbers 0, dup phones 1 (same known pair); checked firms with phone or website 97%; confidence ≥0.5 98%; spot check 10/10; desktop + mobile screenshots checked (only a missing favicon 404). 1,131 checked firms, 12,637 in radius, 12,008 in Not in business.
 
 - 14:22 GMT: Issue 06: add West Sussex and Surrey (Companies House active-only discovery + 54 web-checked firms)
+
+- 14:46 GMT: Issue 06 b2: +62 web-checked Surrey firms from Companies House active leads (own sites)

@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-10T14:02:41+00:00",
+ "last_updated": "2026-11-10T14:25:45+00:00",
  "issue_date": "2026-11-10",
  "issue_no": 6,
  "radius_miles": 25,
@@ -13,12 +13,12 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 4202,
-  "driveways": 513,
+  "landscaping": 4188,
+  "driveways": 507,
   "paving_patios": 433,
   "surfacing": 234,
   "groundworks": 10339,
-  "lawns_grounds": 3798,
+  "lawns_grounds": 3758,
   "fencing_boundaries": 530,
   "decking_structures": 857,
   "outdoor_masonry": 3,
@@ -33,7 +33,7 @@
  "phase": 1,
  "sample_mode": false,
  "hero": {
-  "firm": "Aks Groundwork",
+  "firm": "1ST Advanced Landscapes",
   "score": 19,
   "image": null
  },
@@ -45,19 +45,19 @@
   ],
   "dup_ch": [],
   "closed_not_in_business": 12008,
-  "enriched_from_ch": 1113,
+  "enriched_from_ch": 1175,
   "in_radius": 16529,
   "serves_only": 5,
-  "verified_trading": 1185,
-  "ch_only_leads": 15344,
-  "verified_phone_or_web_pct": 97,
+  "verified_trading": 1247,
+  "ch_only_leads": 15282,
+  "verified_phone_or_web_pct": 98,
   "verified_conf_ge_05_pct": 98,
   "all_have_source_town_distance": true,
-  "contactable": 1185,
+  "contactable": 1247,
   "phone_or_web_pct": 7,
   "conf_ge_05_pct": 100,
-  "needs_check": 15375,
-  "no_website": 15429
+  "needs_check": 15313,
+  "no_website": 15367
  },
  "counties": [
   {
@@ -534,12 +534,12 @@
  "S": {
   "tot": 2355,
   "counts": {
-   "landscaping": 923,
-   "driveways": 51,
+   "landscaping": 909,
+   "driveways": 45,
    "paving_patios": 36,
    "surfacing": 32,
    "groundworks": 1306,
-   "lawns_grounds": 895,
+   "lawns_grounds": 855,
    "fencing_boundaries": 44,
    "decking_structures": 38,
    "outdoor_masonry": 0,
@@ -552,28 +552,28 @@
   "ar": 11,
   "nw": 2305,
   "top": null,
-  "dv": 0,
+  "dv": 1,
   "prim": {
-   "landscaping": 896,
-   "driveways": 24,
-   "paving_patios": 7,
-   "surfacing": 8,
+   "landscaping": 881,
+   "driveways": 20,
+   "paving_patios": 9,
+   "surfacing": 14,
    "groundworks": 1304,
-   "lawns_grounds": 1,
-   "fencing_boundaries": 18,
-   "decking_structures": 29,
+   "lawns_grounds": 4,
+   "fencing_boundaries": 21,
+   "decking_structures": 30,
    "outdoor_masonry": 0,
-   "trees_vegetation": 33,
+   "trees_vegetation": 37,
    "water_drainage": 13,
    "exterior_cleaning": 22
   },
   "sec": {
-   "landscaping": 923,
-   "driveways": 51,
+   "landscaping": 909,
+   "driveways": 45,
    "paving_patios": 36,
    "surfacing": 32,
    "groundworks": 1306,
-   "lawns_grounds": 895,
+   "lawns_grounds": 855,
    "fencing_boundaries": 44,
    "decking_structures": 38,
    "outdoor_masonry": 0,
@@ -585,13 +585,19 @@
    "landscaping": [
     "garden_designer",
     "gardener",
-    "landscaper"
+    "grounds_maintenance",
+    "landscaper",
+    "tree_surgeon"
    ],
-   "driveways": [],
+   "driveways": [
+    "driveway_installer"
+   ],
    "paving_patios": [
     "paving_contractor"
    ],
-   "surfacing": [],
+   "surfacing": [
+    "surfacing_contractor"
+   ],
    "groundworks": [
     "groundworks_contractor"
    ],
@@ -600,8 +606,12 @@
     "gardener",
     "grounds_maintenance"
    ],
-   "fencing_boundaries": [],
-   "decking_structures": [],
+   "fencing_boundaries": [
+    "fencing_contractor"
+   ],
+   "decking_structures": [
+    "decking_installer"
+   ],
    "outdoor_masonry": [],
    "trees_vegetation": [
     "tree_surgeon"
