@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-10T14:25:45+00:00",
+ "last_updated": "2026-11-10T15:15:31+00:00",
  "issue_date": "2026-11-10",
  "issue_no": 6,
  "radius_miles": 25,
@@ -557,6 +557,11 @@
    "name": "Evolution Tree Surgery"
   },
   "dv": 16,
+  "best": {
+   "score": 80,
+   "town": "Thatcham / Newbury",
+   "name": "Evolution Tree Surgery"
+  },
   "prim": {
    "landscaping": 215,
    "driveways": 6,

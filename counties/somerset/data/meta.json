@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-10T14:25:45+00:00",
+ "last_updated": "2026-11-10T15:15:31+00:00",
  "issue_date": "2026-11-10",
  "issue_no": 6,
  "radius_miles": 25,
@@ -553,6 +553,11 @@
   "nw": 0,
   "top": null,
   "dv": 24,
+  "best": {
+   "score": 23,
+   "town": "Bath",
+   "name": "Becks Tree and Landscape"
+  },
   "prim": {
    "landscaping": 300,
    "driveways": 17,

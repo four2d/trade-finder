@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-10T14:25:45+00:00",
+ "last_updated": "2026-11-10T15:15:31+00:00",
  "issue_date": "2026-11-10",
  "issue_no": 6,
  "radius_miles": 25,
@@ -33,7 +33,7 @@
  "phase": 1,
  "sample_mode": false,
  "hero": {
-  "firm": "Arb Tree Works",
+  "firm": "Green Planet Tree Services",
   "score": 23,
   "image": null
  },
@@ -553,6 +553,11 @@
   "nw": 0,
   "top": null,
   "dv": 12,
+  "best": {
+   "score": 23,
+   "town": "Headley Park, Bristol",
+   "name": "Green Planet Tree Services"
+  },
   "prim": {
    "landscaping": 83,
    "driveways": 5,

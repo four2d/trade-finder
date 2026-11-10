@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-10T14:25:45+00:00",
+ "last_updated": "2026-11-10T15:15:31+00:00",
  "issue_date": "2026-11-10",
  "issue_no": 6,
  "radius_miles": 25,
@@ -557,6 +557,11 @@
    "name": "J.M. Tree and Garden Services"
   },
   "dv": 280,
+  "best": {
+   "score": 94,
+   "town": "Poole",
+   "name": "D.S. Waker Driveways & Patios"
+  },
   "prim": {
    "landscaping": 3817,
    "driveways": 203,

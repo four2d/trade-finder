@@ -109,3 +109,14 @@
 - 14:22 GMT: Issue 06: add West Sussex and Surrey (Companies House active-only discovery + 54 web-checked firms)
 
 - 14:46 GMT: Issue 06 b2: +62 web-checked Surrey firms from Companies House active leads (own sites)
+
+- **Issue 06 (10 Nov 2026, 13:10–14:45 GMT): West Sussex + Surrey added (Pete).** Companies House SIC discovery (43120 43999 81300 42110 43110 02200, 3 pages) over 38 West Sussex and 53 Surrey postcode districts (checked against postcodes.io outcodes), **active companies only** (`ch_discover.py --status active`); county by the registered office's actual council area (postcodes.io admin_county), not postcode area. **Pete rule 10 Nov 2026: no new dissolved/closed CH records are added anywhere** (build_issue.py skips any dissolved CH row not already in the master); existing Not in business records untouched (12,008, unchanged). New raw postcode rules in `county_of` for Surrey/West Sussex districts; an explicit `county` on a raw record wins for these two. County pages with no checked firm now fall back to that county's own best lead for the cover, never another county's.
+  - West Sussex: 1,506 listed (43 web-checked), 0 not in business. Cover star Above All Landscaping (Chichester, PO20).
+  - Surrey: 2,355 listed (74 web-checked), 0 not in business. Cover star on page: AKS Groundwork (Godalming, GU8) (meta: 1ST Advanced Landscapes, Hindhead; same score 19, both Surrey).
+  - Enrichment: 116 firms (raw_2026-11-10a.py 54, raw_2026-11-10b.py 62) via name→domain DNS lookup + own home/contact pages (robots.txt respected, ~4 s/page); accepted only if the site shows the CH company number (46) or a postcode in the registered-office district (70). 110 with phone. Rejected: redirects to other domains, parked sites, placeholder phone numbers, demolition/out-of-scope names. Spot check 10/10.
+  - Spill-over active CH leads (geo Hampshire/Berkshire) also added: Hampshire 4,597→4,618, Berkshire 621→632.
+  - QC: dup domains 0, dup company numbers 0, dup phones 1 (known Gaia/Henley shared office). Checked firms 1,247: phone/website 98%, confidence ≥0.5 98%. In range 16,529. Largest file 17.6 MB (hampshire.json). Live 200: home, archive, issue 2026-11-10, all county pages incl. west-sussex + surrey. Counties dropdown lists both. No JS errors (one transient 404 on first load, not reproducible).
+  - Commits: e88f4f6 (Issue 06), ebee30a (b2).
+  - Note: new counties have no Checkatrade/TrustATrader ratings yet, so the "Top rated" cover line shows "–" and covers score 19; they strengthen as review checks are added.
+
+- 15:32 GMT: Issue 06 fixes: singular/plural count labels, honest Top scored fallback where nothing is rated, deterministic cover-star tie-break

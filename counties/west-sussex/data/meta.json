@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-10T14:25:45+00:00",
+ "last_updated": "2026-11-10T15:15:31+00:00",
  "issue_date": "2026-11-10",
  "issue_no": 6,
  "radius_miles": 25,
@@ -553,6 +553,11 @@
   "nw": 1482,
   "top": null,
   "dv": 1,
+  "best": {
+   "score": 19,
+   "town": "Chichester",
+   "name": "Above All Landscaping"
+  },
   "prim": {
    "landscaping": 527,
    "driveways": 13,
