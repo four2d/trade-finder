@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-12T14:14:08+00:00",
+ "last_updated": "2026-11-12T14:42:59+00:00",
  "issue_date": "2026-11-12",
  "issue_no": 7,
  "radius_miles": 25,
@@ -13,22 +13,22 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 8877,
-  "driveways": 733,
-  "paving_patios": 619,
-  "surfacing": 429,
-  "groundworks": 24626,
-  "lawns_grounds": 8261,
-  "fencing_boundaries": 711,
-  "decking_structures": 1102,
+  "landscaping": 9108,
+  "driveways": 749,
+  "paving_patios": 628,
+  "surfacing": 439,
+  "groundworks": 25195,
+  "lawns_grounds": 8488,
+  "fencing_boundaries": 728,
+  "decking_structures": 1124,
   "outdoor_masonry": 4,
-  "trees_vegetation": 1089,
-  "water_drainage": 375,
-  "exterior_cleaning": 720
+  "trees_vegetation": 1120,
+  "water_drainage": 382,
+  "exterior_cleaning": 725
  },
- "total": 36266,
- "total_ever": 48279,
- "new_this_issue": 17414,
+ "total": 37119,
+ "total_ever": 49132,
+ "new_this_issue": 18267,
  "version": "1.1",
  "phase": 1,
  "sample_mode": false,
@@ -46,18 +46,18 @@
   "dup_ch": [],
   "closed_not_in_business": 12008,
   "enriched_from_ch": 1383,
-  "in_radius": 36266,
+  "in_radius": 37119,
   "serves_only": 5,
   "verified_trading": 1455,
-  "ch_only_leads": 34811,
+  "ch_only_leads": 35664,
   "verified_phone_or_web_pct": 98,
   "verified_conf_ge_05_pct": 98,
   "all_have_source_town_distance": true,
   "contactable": 1455,
   "phone_or_web_pct": 4,
   "conf_ge_05_pct": 100,
-  "needs_check": 34842,
-  "no_website": 34896
+  "needs_check": 35695,
+  "no_website": 35749
  },
  "counties": [
   {
@@ -154,7 +154,7 @@
    "slug": "gloucestershire",
    "name": "Gloucestershire",
    "status": "in_progress",
-   "firms": 1232,
+   "firms": 1245,
    "not_in_business": 0,
    "added": "2026-11-10",
    "miles": 78,
@@ -221,6 +221,46 @@
    "order": 16
   },
   {
+   "slug": "monmouthshire",
+   "name": "Monmouthshire",
+   "status": "in_progress",
+   "firms": 179,
+   "not_in_business": 0,
+   "added": "2026-11-12",
+   "miles": 83,
+   "order": 17
+  },
+  {
+   "slug": "newport",
+   "name": "Newport",
+   "status": "in_progress",
+   "firms": 192,
+   "not_in_business": 0,
+   "added": "2026-11-12",
+   "miles": 75,
+   "order": 18
+  },
+  {
+   "slug": "cardiff",
+   "name": "Cardiff",
+   "status": "in_progress",
+   "firms": 322,
+   "not_in_business": 0,
+   "added": "2026-11-12",
+   "miles": 74,
+   "order": 19
+  },
+  {
+   "slug": "vale-of-glamorgan",
+   "name": "Vale of Glamorgan",
+   "status": "in_progress",
+   "firms": 147,
+   "not_in_business": 0,
+   "added": "2026-11-12",
+   "miles": 78,
+   "order": 20
+  },
+  {
    "slug": "herefordshire",
    "name": "Herefordshire",
    "status": "paused",
@@ -228,7 +268,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 100,
-   "order": 17
+   "order": 21
   },
   {
    "slug": "worcestershire",
@@ -238,7 +278,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 103,
-   "order": 18
+   "order": 22
   },
   {
    "slug": "warwickshire",
@@ -248,7 +288,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 111,
-   "order": 19
+   "order": 23
   },
   {
    "slug": "northamptonshire",
@@ -258,7 +298,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 119,
-   "order": 20
+   "order": 24
   },
   {
    "slug": "kent",
@@ -268,7 +308,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 124,
-   "order": 21
+   "order": 25
   },
   {
    "slug": "hertfordshire",
@@ -278,7 +318,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 106,
-   "order": 22
+   "order": 26
   },
   {
    "slug": "bedfordshire",
@@ -288,7 +328,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 114,
-   "order": 23
+   "order": 27
   },
   {
    "slug": "west-midlands",
@@ -298,7 +338,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 122,
-   "order": 24
+   "order": 28
   },
   {
    "slug": "essex",
@@ -308,7 +348,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 131,
-   "order": 25
+   "order": 29
   },
   {
    "slug": "shropshire",
@@ -318,7 +358,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 136,
-   "order": 26
+   "order": 30
   },
   {
    "slug": "leicestershire",
@@ -328,7 +368,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 140,
-   "order": 27
+   "order": 31
   },
   {
    "slug": "cambridgeshire",
@@ -338,7 +378,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 144,
-   "order": 28
+   "order": 32
   },
   {
    "slug": "staffordshire",
@@ -348,7 +388,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 145,
-   "order": 29
+   "order": 33
   },
   {
    "slug": "rutland",
@@ -358,7 +398,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 146,
-   "order": 30
+   "order": 34
   },
   {
    "slug": "lincolnshire",
@@ -368,7 +408,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 180,
-   "order": 31
+   "order": 35
   },
   {
    "slug": "derbyshire",
@@ -378,7 +418,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 162,
-   "order": 32
+   "order": 36
   },
   {
    "slug": "suffolk",
@@ -388,7 +428,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 164,
-   "order": 33
+   "order": 37
   },
   {
    "slug": "nottinghamshire",
@@ -398,7 +438,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 170,
-   "order": 34
+   "order": 38
   },
   {
    "slug": "cheshire",
@@ -408,7 +448,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 173,
-   "order": 35
+   "order": 39
   },
   {
    "slug": "norfolk",
@@ -418,7 +458,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 185,
-   "order": 36
+   "order": 40
   },
   {
    "slug": "south-yorkshire",
@@ -428,7 +468,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 195,
-   "order": 37
+   "order": 41
   },
   {
    "slug": "east-riding-of-yorkshire",
@@ -438,7 +478,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 224,
-   "order": 38
+   "order": 42
   },
   {
    "slug": "greater-manchester",
@@ -448,7 +488,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 191,
-   "order": 39
+   "order": 43
   },
   {
    "slug": "merseyside",
@@ -458,7 +498,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 192,
-   "order": 40
+   "order": 44
   },
   {
    "slug": "west-yorkshire",
@@ -468,7 +508,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 210,
-   "order": 41
+   "order": 45
   },
   {
    "slug": "north-yorkshire",
@@ -478,7 +518,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 239,
-   "order": 42
+   "order": 46
   },
   {
    "slug": "lancashire",
@@ -488,7 +528,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 218,
-   "order": 43
+   "order": 47
   },
   {
    "slug": "cumbria",
@@ -498,7 +538,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 268,
-   "order": 44
+   "order": 48
   },
   {
    "slug": "county-durham",
@@ -508,7 +548,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 275,
-   "order": 45
+   "order": 49
   },
   {
    "slug": "tyne-and-wear",
@@ -518,7 +558,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 293,
-   "order": 46
+   "order": 50
   },
   {
    "slug": "northumberland",
@@ -528,29 +568,29 @@
    "not_in_business": 0,
    "added": null,
    "miles": 313,
-   "order": 47
+   "order": 51
   }
  ],
  "S": {
-  "tot": 36266,
+  "tot": 37119,
   "counts": {
-   "landscaping": 8877,
-   "driveways": 733,
-   "paving_patios": 619,
-   "surfacing": 429,
-   "groundworks": 24626,
-   "lawns_grounds": 8261,
-   "fencing_boundaries": 711,
-   "decking_structures": 1102,
+   "landscaping": 9108,
+   "driveways": 749,
+   "paving_patios": 628,
+   "surfacing": 439,
+   "groundworks": 25195,
+   "lawns_grounds": 8488,
+   "fencing_boundaries": 728,
+   "decking_structures": 1124,
    "outdoor_masonry": 4,
-   "trees_vegetation": 1089,
-   "water_drainage": 375,
-   "exterior_cleaning": 720
+   "trees_vegetation": 1120,
+   "water_drainage": 382,
+   "exterior_cleaning": 725
   },
   "avg": "4.9",
   "ltd": 100,
   "ar": 12,
-  "nw": 17414,
+  "nw": 18267,
   "top": {
    "score": 10.0,
    "town": "Wimborne Minster",
@@ -563,32 +603,32 @@
    "name": "D.S. Waker Driveways & Patios"
   },
   "prim": {
-   "landscaping": 8312,
-   "driveways": 299,
-   "paving_patios": 137,
-   "surfacing": 235,
-   "groundworks": 24503,
+   "landscaping": 8538,
+   "driveways": 307,
+   "paving_patios": 142,
+   "surfacing": 239,
+   "groundworks": 25067,
    "lawns_grounds": 131,
-   "fencing_boundaries": 268,
-   "decking_structures": 850,
+   "fencing_boundaries": 273,
+   "decking_structures": 869,
    "outdoor_masonry": 3,
-   "trees_vegetation": 597,
-   "water_drainage": 256,
-   "exterior_cleaning": 674
+   "trees_vegetation": 608,
+   "water_drainage": 263,
+   "exterior_cleaning": 678
   },
   "sec": {
-   "landscaping": 8877,
-   "driveways": 733,
-   "paving_patios": 619,
-   "surfacing": 429,
-   "groundworks": 24626,
-   "lawns_grounds": 8261,
-   "fencing_boundaries": 711,
-   "decking_structures": 1102,
+   "landscaping": 9108,
+   "driveways": 749,
+   "paving_patios": 628,
+   "surfacing": 439,
+   "groundworks": 25195,
+   "lawns_grounds": 8488,
+   "fencing_boundaries": 728,
+   "decking_structures": 1124,
    "outdoor_masonry": 4,
-   "trees_vegetation": 1089,
-   "water_drainage": 375,
-   "exterior_cleaning": 720
+   "trees_vegetation": 1120,
+   "water_drainage": 382,
+   "exterior_cleaning": 725
   },
   "types": {
    "landscaping": [
@@ -1102,7 +1142,8 @@
   "Greater London added; +35 London, +8 Cornwall (batch 2), +34 East Sussex and +33 Buckinghamshire web-checked firms",
   "Greater London added; +35 London, +8 Cornwall, +38 Buckinghamshire and +34 East Sussex web-checked firms",
   "Greater London added incl. central EC/WC/W1/SW1 districts; +35 London, +8 Cornwall, +38 Buckinghamshire and +34 East Sussex web-checked firms",
-  "Greater London added incl. central EC/WC/W1/SW1 districts; +35 London, +8 Cornwall, +38 Buckinghamshire and +34 East Sussex web-checked firms; maps open on every live county"
+  "Greater London added incl. central EC/WC/W1/SW1 districts; +35 London, +8 Cornwall, +38 Buckinghamshire and +34 East Sussex web-checked firms; maps open on every live county",
+  "Greater London added; four Welsh areas added (Monmouthshire, Newport, Cardiff, Vale of Glamorgan; active Companies House firms only); maps open on every live county"
  ],
  "data_note": "Thin issue: firm data is read from the shared live files in /data (master: /data/master_index.json)."
 }

@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12T14:14:08+00:00",
- "total": 52012,
+ "updated": "2026-11-12T14:42:59+00:00",
+ "total": 52865,
  "note": "Full Trade Finder master, one file per county. Concatenate every file to get the whole directory.",
  "files": [
   {
@@ -25,6 +25,13 @@
    "bytes": 2461816
   },
   {
+   "slug": "cardiff",
+   "part": null,
+   "file": "data/counties/cardiff.json",
+   "records": 322,
+   "bytes": 535275
+  },
+  {
    "slug": "cornwall",
    "part": null,
    "file": "data/counties/cornwall.json",
@@ -43,7 +50,7 @@
    "part": null,
    "file": "data/counties/dorset.json",
    "records": 4195,
-   "bytes": 6858055
+   "bytes": 6858900
   },
   {
    "slug": "east-sussex",
@@ -56,8 +63,8 @@
    "slug": "gloucestershire",
    "part": null,
    "file": "data/counties/gloucestershire.json",
-   "records": 1233,
-   "bytes": 2078855
+   "records": 1246,
+   "bytes": 2100764
   },
   {
    "slug": "greater-london",
@@ -99,7 +106,7 @@
    "part": null,
    "file": "data/counties/hampshire.json",
    "records": 10790,
-   "bytes": 17624190
+   "bytes": 17623746
   },
   {
    "slug": "isle-of-wight",
@@ -107,6 +114,20 @@
    "file": "data/counties/isle-of-wight.json",
    "records": 270,
    "bytes": 448400
+  },
+  {
+   "slug": "monmouthshire",
+   "part": null,
+   "file": "data/counties/monmouthshire.json",
+   "records": 179,
+   "bytes": 299194
+  },
+  {
+   "slug": "newport",
+   "part": null,
+   "file": "data/counties/newport.json",
+   "records": 192,
+   "bytes": 319245
   },
   {
    "slug": "oxfordshire",
@@ -128,6 +149,13 @@
    "file": "data/counties/surrey.json",
    "records": 2449,
    "bytes": 4097722
+  },
+  {
+   "slug": "vale-of-glamorgan",
+   "part": null,
+   "file": "data/counties/vale-of-glamorgan.json",
+   "records": 147,
+   "bytes": 246069
   },
   {
    "slug": "west-sussex",
