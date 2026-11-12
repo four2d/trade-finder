@@ -152,3 +152,5 @@
 - 15:01 GMT: Issue 07 b8: +7 web-checked Cardiff firms (2 hand-rejected)
 
 - 15:11 GMT: Issue 07 b9: +5 web-checked Newport and +2 Monmouthshire firms (2 hand-rejected)
+
+- 15:16 GMT: Issue 07 b10: +5 web-checked Vale of Glamorgan firms; final QC

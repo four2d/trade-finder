@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12T15:08:44+00:00",
- "total": 52879,
+ "updated": "2026-11-12T15:12:51+00:00",
+ "total": 52884,
  "note": "Full Trade Finder master, one file per county. Concatenate every file to get the whole directory.",
  "files": [
   {
@@ -50,7 +50,7 @@
    "part": null,
    "file": "data/counties/dorset.json",
    "records": 4195,
-   "bytes": 6858900
+   "bytes": 6858017
   },
   {
    "slug": "east-sussex",
@@ -106,7 +106,7 @@
    "part": null,
    "file": "data/counties/hampshire.json",
    "records": 10790,
-   "bytes": 17623746
+   "bytes": 17624190
   },
   {
    "slug": "isle-of-wight",
@@ -154,8 +154,8 @@
    "slug": "vale-of-glamorgan",
    "part": null,
    "file": "data/counties/vale-of-glamorgan.json",
-   "records": 147,
-   "bytes": 246069
+   "records": 152,
+   "bytes": 256217
   },
   {
    "slug": "west-sussex",

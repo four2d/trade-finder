@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-12T15:08:44+00:00",
+ "last_updated": "2026-11-12T15:12:51+00:00",
  "issue_date": "2026-11-12",
  "issue_no": 7,
  "radius_miles": 25,
@@ -17,11 +17,11 @@
   "driveways": 749,
   "paving_patios": 628,
   "surfacing": 438,
-  "groundworks": 25196,
-  "lawns_grounds": 8479,
+  "groundworks": 25195,
+  "lawns_grounds": 8476,
   "fencing_boundaries": 728,
   "decking_structures": 1124,
-  "outdoor_masonry": 4,
+  "outdoor_masonry": 5,
   "trees_vegetation": 1120,
   "water_drainage": 382,
   "exterior_cleaning": 725
@@ -34,7 +34,7 @@
  "sample_mode": false,
  "hero": {
   "firm": "Ceejay Landscapes",
-  "score": 3,
+  "score": 19,
   "image": null
  },
  "archive_href": "../../archive.html",
@@ -45,19 +45,19 @@
   ],
   "dup_ch": [],
   "closed_not_in_business": 12008,
-  "enriched_from_ch": 1397,
+  "enriched_from_ch": 1402,
   "in_radius": 37119,
   "serves_only": 5,
-  "verified_trading": 1469,
-  "ch_only_leads": 35650,
+  "verified_trading": 1474,
+  "ch_only_leads": 35645,
   "verified_phone_or_web_pct": 98,
   "verified_conf_ge_05_pct": 98,
   "all_have_source_town_distance": true,
-  "contactable": 1469,
+  "contactable": 1474,
   "phone_or_web_pct": 4,
   "conf_ge_05_pct": 100,
-  "needs_check": 35681,
-  "no_website": 35735
+  "needs_check": 35676,
+  "no_website": 35730
  },
  "counties": [
   {
@@ -578,32 +578,36 @@
    "driveways": 0,
    "paving_patios": 2,
    "surfacing": 0,
-   "groundworks": 85,
-   "lawns_grounds": 51,
+   "groundworks": 84,
+   "lawns_grounds": 48,
    "fencing_boundaries": 3,
    "decking_structures": 5,
-   "outdoor_masonry": 0,
+   "outdoor_masonry": 1,
    "trees_vegetation": 7,
    "water_drainage": 1,
    "exterior_cleaning": 0
   },
   "avg": "\u2013",
   "ltd": 100,
-  "ar": 8,
+  "ar": 9,
   "nw": 147,
   "top": null,
   "dv": 0,
-  "best": null,
+  "best": {
+   "score": 19,
+   "town": "Bridgend",
+   "name": "Ceejay Landscapes"
+  },
   "prim": {
-   "landscaping": 51,
+   "landscaping": 50,
    "driveways": 0,
    "paving_patios": 2,
    "surfacing": 0,
-   "groundworks": 85,
-   "lawns_grounds": 0,
+   "groundworks": 84,
+   "lawns_grounds": 1,
    "fencing_boundaries": 2,
    "decking_structures": 5,
-   "outdoor_masonry": 0,
+   "outdoor_masonry": 1,
    "trees_vegetation": 1,
    "water_drainage": 1,
    "exterior_cleaning": 0
@@ -613,25 +617,33 @@
    "driveways": 0,
    "paving_patios": 2,
    "surfacing": 0,
-   "groundworks": 85,
-   "lawns_grounds": 51,
+   "groundworks": 84,
+   "lawns_grounds": 48,
    "fencing_boundaries": 3,
    "decking_structures": 5,
-   "outdoor_masonry": 0,
+   "outdoor_masonry": 1,
    "trees_vegetation": 7,
    "water_drainage": 1,
    "exterior_cleaning": 0
   },
   "types": {
-   "landscaping": [],
+   "landscaping": [
+    "gardener",
+    "grounds_maintenance",
+    "landscaper"
+   ],
    "driveways": [],
    "paving_patios": [],
    "surfacing": [],
    "groundworks": [],
-   "lawns_grounds": [],
+   "lawns_grounds": [
+    "grounds_maintenance"
+   ],
    "fencing_boundaries": [],
    "decking_structures": [],
-   "outdoor_masonry": [],
+   "outdoor_masonry": [
+    "stonemason"
+   ],
    "trees_vegetation": [],
    "water_drainage": [],
    "exterior_cleaning": []
@@ -655,11 +667,11 @@
  },
  "bounds": [
   [
-   51.386,
+   51.387,
    -3.576
   ],
   [
-   51.508,
+   51.5226,
    -3.169
   ]
  ],
