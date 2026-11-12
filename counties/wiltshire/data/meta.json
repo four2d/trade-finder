@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-12T14:09:02+00:00",
+ "last_updated": "2026-11-12T14:14:08+00:00",
  "issue_date": "2026-11-12",
  "issue_no": 7,
  "radius_miles": 25,
@@ -823,6 +823,16 @@
   },
   "mx": 69
  },
+ "bounds": [
+  [
+   50.954,
+   -2.315
+  ],
+  [
+   51.698,
+   -1.552
+  ]
+ ],
  "area_base": "data/areas/",
  "index_file": "data/index.json",
  "pins_file": "data/pins.json",

@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-12T14:09:02+00:00",
+ "last_updated": "2026-11-12T14:14:08+00:00",
  "issue_date": "2026-11-12",
  "issue_no": 7,
  "radius_miles": 25,
@@ -1078,6 +1078,16 @@
   },
   "mx": 199
  },
+ "bounds": [
+  [
+   49.993,
+   -5.687
+  ],
+  [
+   52.147,
+   0.762
+  ]
+ ],
  "area_base": "../../data/areas/",
  "index_file": "../../data/index.json",
  "pins_file": "../../data/pins.json",
@@ -1091,7 +1101,8 @@
   "Greater London added; +35 web-checked London firms; +34 East Sussex and +33 Buckinghamshire web-checked firms",
   "Greater London added; +35 London, +8 Cornwall (batch 2), +34 East Sussex and +33 Buckinghamshire web-checked firms",
   "Greater London added; +35 London, +8 Cornwall, +38 Buckinghamshire and +34 East Sussex web-checked firms",
-  "Greater London added incl. central EC/WC/W1/SW1 districts; +35 London, +8 Cornwall, +38 Buckinghamshire and +34 East Sussex web-checked firms"
+  "Greater London added incl. central EC/WC/W1/SW1 districts; +35 London, +8 Cornwall, +38 Buckinghamshire and +34 East Sussex web-checked firms",
+  "Greater London added incl. central EC/WC/W1/SW1 districts; +35 London, +8 Cornwall, +38 Buckinghamshire and +34 East Sussex web-checked firms; maps open on every live county"
  ],
  "data_note": "Thin issue: firm data is read from the shared live files in /data (master: /data/master_index.json)."
 }
