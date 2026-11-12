@@ -142,3 +142,5 @@
 - 13:55 GMT: Issue 07 b3: +8 web-checked Cornwall firms (wider trade-name net, hand-checked; 5 rejected)
 
 - 14:07 GMT: Issue 07 b4: +5 web-checked Buckinghamshire firms (wider trade-name net, hand-checked; 9 rejected)
+
+- 14:12 GMT: Issue 07 b5: Greater London central districts (EC/WC/W1/SW1 sub-districts, N1C, NW1W, E1W) discovered; London now 14,288 active firms

@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12T14:05:16+00:00",
- "total": 51951,
+ "updated": "2026-11-12T14:09:02+00:00",
+ "total": 52012,
  "note": "Full Trade Finder master, one file per county. Concatenate every file to get the whole directory.",
  "files": [
   {
@@ -43,7 +43,7 @@
    "part": null,
    "file": "data/counties/dorset.json",
    "records": 4195,
-   "bytes": 6858055
+   "bytes": 6858938
   },
   {
    "slug": "east-sussex",
@@ -63,8 +63,8 @@
    "slug": "greater-london",
    "part": "central",
    "file": "data/counties/greater-london--central.json",
-   "records": 1742,
-   "bytes": 2923001
+   "records": 1803,
+   "bytes": 3025667
   },
   {
    "slug": "greater-london",
@@ -99,7 +99,7 @@
    "part": null,
    "file": "data/counties/hampshire.json",
    "records": 10790,
-   "bytes": 17624190
+   "bytes": 17623746
   },
   {
    "slug": "isle-of-wight",
