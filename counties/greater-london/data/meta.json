@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-12T13:05:20+00:00",
+ "last_updated": "2026-11-12T13:36:32+00:00",
  "issue_date": "2026-11-12",
  "issue_no": 7,
  "radius_miles": 25,
@@ -13,12 +13,12 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 8516,
-  "driveways": 719,
+  "landscaping": 8509,
+  "driveways": 718,
   "paving_patios": 607,
   "surfacing": 407,
   "groundworks": 23225,
-  "lawns_grounds": 7926,
+  "lawns_grounds": 7897,
   "fencing_boundaries": 700,
   "decking_structures": 1091,
   "outdoor_masonry": 3,
@@ -33,8 +33,8 @@
  "phase": 1,
  "sample_mode": false,
  "hero": {
-  "firm": "Mce Civils And Groundworks",
-  "score": 3,
+  "firm": "365 Gardening",
+  "score": 19,
   "image": null
  },
  "archive_href": "../../archive.html",
@@ -45,19 +45,19 @@
   ],
   "dup_ch": [],
   "closed_not_in_business": 12008,
-  "enriched_from_ch": 1335,
+  "enriched_from_ch": 1370,
   "in_radius": 34449,
   "serves_only": 5,
-  "verified_trading": 1407,
-  "ch_only_leads": 33042,
+  "verified_trading": 1442,
+  "ch_only_leads": 33007,
   "verified_phone_or_web_pct": 98,
   "verified_conf_ge_05_pct": 98,
   "all_have_source_town_distance": true,
-  "contactable": 1407,
+  "contactable": 1442,
   "phone_or_web_pct": 4,
   "conf_ge_05_pct": 100,
-  "needs_check": 33073,
-  "no_website": 33127
+  "needs_check": 33038,
+  "no_website": 33092
  },
  "counties": [
   {
@@ -534,12 +534,12 @@
  "S": {
   "tot": 12471,
   "counts": {
-   "landscaping": 2568,
-   "driveways": 114,
+   "landscaping": 2561,
+   "driveways": 113,
    "paving_patios": 116,
    "surfacing": 93,
    "groundworks": 9553,
-   "lawns_grounds": 2529,
+   "lawns_grounds": 2500,
    "fencing_boundaries": 74,
    "decking_structures": 127,
    "outdoor_masonry": 0,
@@ -552,29 +552,33 @@
   "ar": 11,
   "nw": 12460,
   "top": null,
-  "dv": 0,
-  "best": null,
+  "dv": 1,
+  "best": {
+   "score": 19,
+   "town": "Waltham Forest",
+   "name": "365 Gardening"
+  },
   "prim": {
-   "landscaping": 2480,
-   "driveways": 39,
-   "paving_patios": 41,
+   "landscaping": 2472,
+   "driveways": 40,
+   "paving_patios": 43,
    "surfacing": 56,
    "groundworks": 9539,
    "lawns_grounds": 0,
-   "fencing_boundaries": 26,
+   "fencing_boundaries": 27,
    "decking_structures": 113,
    "outdoor_masonry": 0,
-   "trees_vegetation": 66,
+   "trees_vegetation": 70,
    "water_drainage": 48,
    "exterior_cleaning": 63
   },
   "sec": {
-   "landscaping": 2568,
-   "driveways": 114,
+   "landscaping": 2561,
+   "driveways": 113,
    "paving_patios": 116,
    "surfacing": 93,
    "groundworks": 9553,
-   "lawns_grounds": 2529,
+   "lawns_grounds": 2500,
    "fencing_boundaries": 74,
    "decking_structures": 127,
    "outdoor_masonry": 0,
@@ -583,17 +587,36 @@
    "exterior_cleaning": 67
   },
   "types": {
-   "landscaping": [],
-   "driveways": [],
-   "paving_patios": [],
-   "surfacing": [],
-   "groundworks": [],
+   "landscaping": [
+    "fencing_contractor",
+    "gardener",
+    "landscaper"
+   ],
+   "driveways": [
+    "driveway_installer"
+   ],
+   "paving_patios": [
+    "driveway_installer",
+    "paving_contractor"
+   ],
+   "surfacing": [
+    "surfacing_contractor"
+   ],
+   "groundworks": [
+    "groundworks_contractor"
+   ],
    "lawns_grounds": [],
-   "fencing_boundaries": [],
+   "fencing_boundaries": [
+    "fencing_contractor"
+   ],
    "decking_structures": [],
    "outdoor_masonry": [],
-   "trees_vegetation": [],
-   "water_drainage": [],
+   "trees_vegetation": [
+    "tree_surgeon"
+   ],
+   "water_drainage": [
+    "drainage_contractor"
+   ],
    "exterior_cleaning": []
   },
   "nib": 0,
