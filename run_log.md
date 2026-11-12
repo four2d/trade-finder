@@ -134,3 +134,5 @@
   - QC: dup domains 0 / CH 0 / phones 1 (known). Checked 1,321: phone/website 98%, confidence ≥0.5 98%. In range 18,693; master 34,324 records. Live 200 on home, archive, issue, all 12 county pages; dropdown lists both; desktop+mobile screenshots (Gloucestershire, Oxfordshire, Isle of Wight, West Sussex) checked; no JS errors except the missing favicon.ico.
 
 - 12:37 GMT: Issue 07: add Cornwall, Buckinghamshire and East Sussex (active Companies House firms only) + 19 web-checked Cornwall firms; cover and bubble fit long names
+
+- 13:07 GMT: Issue 07 update: add Greater London (12,471 active Companies House firms, split by postcode area) + 34 East Sussex and 33 Buckinghamshire web-checked firms; faster XLSX; cleaner London towns
