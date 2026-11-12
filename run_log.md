@@ -140,3 +140,5 @@
 - 13:38 GMT: Issue 07 b2: +35 web-checked Greater London firms (own site shows company number or registered-office postcode district; 5 hand-rejected)
 
 - 13:55 GMT: Issue 07 b3: +8 web-checked Cornwall firms (wider trade-name net, hand-checked; 5 rejected)
+
+- 14:07 GMT: Issue 07 b4: +5 web-checked Buckinghamshire firms (wider trade-name net, hand-checked; 9 rejected)
