@@ -1,79 +1,112 @@
 {
- "updated": "2026-11-10T15:52:36+00:00",
- "total": 34324,
+ "updated": "2026-11-12T12:01:45+00:00",
+ "total": 37587,
  "note": "Full Trade Finder master, one file per county. Concatenate every file to get the whole directory.",
  "files": [
   {
    "slug": "berkshire",
+   "part": null,
    "file": "data/counties/berkshire.json",
-   "records": 1445,
-   "bytes": 2375569
+   "records": 1492,
+   "bytes": 2453906
   },
   {
    "slug": "bristol",
+   "part": null,
    "file": "data/counties/bristol.json",
    "records": 1122,
-   "bytes": 1836163
+   "bytes": 1837316
+  },
+  {
+   "slug": "buckinghamshire",
+   "part": null,
+   "file": "data/counties/buckinghamshire.json",
+   "records": 1427,
+   "bytes": 2387283
+  },
+  {
+   "slug": "cornwall",
+   "part": null,
+   "file": "data/counties/cornwall.json",
+   "records": 611,
+   "bytes": 1023338
   },
   {
    "slug": "devon",
+   "part": null,
    "file": "data/counties/devon.json",
-   "records": 2855,
-   "bytes": 4675725
+   "records": 2857,
+   "bytes": 4679380
   },
   {
    "slug": "dorset",
+   "part": null,
    "file": "data/counties/dorset.json",
-   "records": 4196,
-   "bytes": 6860896
+   "records": 4195,
+   "bytes": 6859088
+  },
+  {
+   "slug": "east-sussex",
+   "part": null,
+   "file": "data/counties/east-sussex.json",
+   "records": 1176,
+   "bytes": 1963262
   },
   {
    "slug": "gloucestershire",
+   "part": null,
    "file": "data/counties/gloucestershire.json",
    "records": 1233,
-   "bytes": 2078666
+   "bytes": 2078851
   },
   {
    "slug": "hampshire",
+   "part": null,
    "file": "data/counties/hampshire.json",
-   "records": 10792,
-   "bytes": 17628055
+   "records": 10791,
+   "bytes": 17625507
   },
   {
    "slug": "isle-of-wight",
+   "part": null,
    "file": "data/counties/isle-of-wight.json",
    "records": 270,
-   "bytes": 448374
+   "bytes": 448400
   },
   {
    "slug": "oxfordshire",
+   "part": null,
    "file": "data/counties/oxfordshire.json",
-   "records": 919,
-   "bytes": 1542993
+   "records": 920,
+   "bytes": 1544865
   },
   {
    "slug": "somerset",
+   "part": null,
    "file": "data/counties/somerset.json",
    "records": 4076,
-   "bytes": 6668698
+   "bytes": 6668868
   },
   {
    "slug": "surrey",
+   "part": null,
    "file": "data/counties/surrey.json",
    "records": 2424,
-   "bytes": 4055608
+   "bytes": 4055775
   },
   {
    "slug": "west-sussex",
+   "part": null,
    "file": "data/counties/west-sussex.json",
-   "records": 1512,
-   "bytes": 2538873
+   "records": 1513,
+   "bytes": 2540638
   },
   {
    "slug": "wiltshire",
+   "part": null,
    "file": "data/counties/wiltshire.json",
    "records": 3480,
-   "bytes": 5711556
+   "bytes": 5711776
   }
  ]
 }
