@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-12T14:58:50+00:00",
+ "last_updated": "2026-11-12T15:08:44+00:00",
  "issue_date": "2026-11-12",
  "issue_no": 7,
  "radius_miles": 25,
@@ -13,12 +13,12 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 9104,
+  "landscaping": 9102,
   "driveways": 749,
   "paving_patios": 628,
   "surfacing": 438,
   "groundworks": 25196,
-  "lawns_grounds": 8482,
+  "lawns_grounds": 8479,
   "fencing_boundaries": 728,
   "decking_structures": 1124,
   "outdoor_masonry": 4,
@@ -33,8 +33,8 @@
  "phase": 1,
  "sample_mode": false,
  "hero": {
-  "firm": "Asmac & Company (Surfacing)",
-  "score": 3,
+  "firm": "Gardenology Group UK",
+  "score": 19,
   "image": null
  },
  "archive_href": "../../archive.html",
@@ -45,19 +45,19 @@
   ],
   "dup_ch": [],
   "closed_not_in_business": 12008,
-  "enriched_from_ch": 1390,
+  "enriched_from_ch": 1397,
   "in_radius": 37119,
   "serves_only": 5,
-  "verified_trading": 1462,
-  "ch_only_leads": 35657,
+  "verified_trading": 1469,
+  "ch_only_leads": 35650,
   "verified_phone_or_web_pct": 98,
   "verified_conf_ge_05_pct": 98,
   "all_have_source_town_distance": true,
-  "contactable": 1462,
+  "contactable": 1469,
   "phone_or_web_pct": 4,
   "conf_ge_05_pct": 100,
-  "needs_check": 35688,
-  "no_website": 35742
+  "needs_check": 35681,
+  "no_website": 35735
  },
  "counties": [
   {
@@ -574,12 +574,12 @@
  "S": {
   "tot": 179,
   "counts": {
-   "landscaping": 47,
+   "landscaping": 46,
    "driveways": 4,
    "paving_patios": 1,
    "surfacing": 5,
    "groundworks": 109,
-   "lawns_grounds": 47,
+   "lawns_grounds": 45,
    "fencing_boundaries": 3,
    "decking_structures": 13,
    "outdoor_masonry": 0,
@@ -593,7 +593,11 @@
   "nw": 179,
   "top": null,
   "dv": 0,
-  "best": null,
+  "best": {
+   "score": 19,
+   "town": "Abergavenny",
+   "name": "Gardenology Group UK"
+  },
   "prim": {
    "landscaping": 46,
    "driveways": 0,
@@ -609,12 +613,12 @@
    "exterior_cleaning": 0
   },
   "sec": {
-   "landscaping": 47,
+   "landscaping": 46,
    "driveways": 4,
    "paving_patios": 1,
    "surfacing": 5,
    "groundworks": 109,
-   "lawns_grounds": 47,
+   "lawns_grounds": 45,
    "fencing_boundaries": 3,
    "decking_structures": 13,
    "outdoor_masonry": 0,
@@ -623,7 +627,10 @@
    "exterior_cleaning": 0
   },
   "types": {
-   "landscaping": [],
+   "landscaping": [
+    "gardener",
+    "landscaper"
+   ],
    "driveways": [],
    "paving_patios": [],
    "surfacing": [],
@@ -632,7 +639,9 @@
    "fencing_boundaries": [],
    "decking_structures": [],
    "outdoor_masonry": [],
-   "trees_vegetation": [],
+   "trees_vegetation": [
+    "tree_surgeon"
+   ],
    "water_drainage": [],
    "exterior_cleaning": []
   },

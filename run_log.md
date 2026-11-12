@@ -150,3 +150,5 @@
 - 14:46 GMT: Issue 07 b7: add Monmouthshire, Newport, Cardiff and Vale of Glamorgan (active Companies House firms only; 840 listed); maps include them
 
 - 15:01 GMT: Issue 07 b8: +7 web-checked Cardiff firms (2 hand-rejected)
+
+- 15:11 GMT: Issue 07 b9: +5 web-checked Newport and +2 Monmouthshire firms (2 hand-rejected)
