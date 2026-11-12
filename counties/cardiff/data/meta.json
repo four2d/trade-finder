@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-12T14:42:59+00:00",
+ "last_updated": "2026-11-12T14:58:50+00:00",
  "issue_date": "2026-11-12",
  "issue_no": 7,
  "radius_miles": 25,
@@ -13,12 +13,12 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 9108,
+  "landscaping": 9104,
   "driveways": 749,
   "paving_patios": 628,
-  "surfacing": 439,
-  "groundworks": 25195,
-  "lawns_grounds": 8488,
+  "surfacing": 438,
+  "groundworks": 25196,
+  "lawns_grounds": 8482,
   "fencing_boundaries": 728,
   "decking_structures": 1124,
   "outdoor_masonry": 4,
@@ -33,8 +33,8 @@
  "phase": 1,
  "sample_mode": false,
  "hero": {
-  "firm": "Horan Surfacing",
-  "score": 3,
+  "firm": "Caerdydd Groundworks",
+  "score": 19,
   "image": null
  },
  "archive_href": "../../archive.html",
@@ -45,19 +45,19 @@
   ],
   "dup_ch": [],
   "closed_not_in_business": 12008,
-  "enriched_from_ch": 1383,
+  "enriched_from_ch": 1390,
   "in_radius": 37119,
   "serves_only": 5,
-  "verified_trading": 1455,
-  "ch_only_leads": 35664,
+  "verified_trading": 1462,
+  "ch_only_leads": 35657,
   "verified_phone_or_web_pct": 98,
   "verified_conf_ge_05_pct": 98,
   "all_have_source_town_distance": true,
-  "contactable": 1455,
+  "contactable": 1462,
   "phone_or_web_pct": 4,
   "conf_ge_05_pct": 100,
-  "needs_check": 35695,
-  "no_website": 35749
+  "needs_check": 35688,
+  "no_website": 35742
  },
  "counties": [
   {
@@ -574,12 +574,12 @@
  "S": {
   "tot": 322,
   "counts": {
-   "landscaping": 96,
+   "landscaping": 92,
    "driveways": 10,
    "paving_patios": 5,
-   "surfacing": 5,
-   "groundworks": 214,
-   "lawns_grounds": 93,
+   "surfacing": 4,
+   "groundworks": 215,
+   "lawns_grounds": 87,
    "fencing_boundaries": 5,
    "decking_structures": 4,
    "outdoor_masonry": 0,
@@ -592,29 +592,33 @@
   "ar": 10,
   "nw": 322,
   "top": null,
-  "dv": 0,
-  "best": null,
+  "dv": 1,
+  "best": {
+   "score": 19,
+   "town": "Cardiff",
+   "name": "Caerdydd Groundworks"
+  },
   "prim": {
-   "landscaping": 94,
-   "driveways": 6,
+   "landscaping": 90,
+   "driveways": 7,
    "paving_patios": 1,
    "surfacing": 1,
-   "groundworks": 213,
-   "lawns_grounds": 0,
+   "groundworks": 214,
+   "lawns_grounds": 1,
    "fencing_boundaries": 2,
    "decking_structures": 2,
    "outdoor_masonry": 0,
-   "trees_vegetation": 0,
+   "trees_vegetation": 1,
    "water_drainage": 0,
    "exterior_cleaning": 3
   },
   "sec": {
-   "landscaping": 96,
+   "landscaping": 92,
    "driveways": 10,
    "paving_patios": 5,
-   "surfacing": 5,
-   "groundworks": 214,
-   "lawns_grounds": 93,
+   "surfacing": 4,
+   "groundworks": 215,
+   "lawns_grounds": 87,
    "fencing_boundaries": 5,
    "decking_structures": 4,
    "outdoor_masonry": 0,
@@ -623,16 +627,27 @@
    "exterior_cleaning": 4
   },
   "types": {
-   "landscaping": [],
-   "driveways": [],
+   "landscaping": [
+    "gardener",
+    "landscaper"
+   ],
+   "driveways": [
+    "driveway_installer"
+   ],
    "paving_patios": [],
    "surfacing": [],
-   "groundworks": [],
-   "lawns_grounds": [],
+   "groundworks": [
+    "groundworks_contractor"
+   ],
+   "lawns_grounds": [
+    "grounds_maintenance"
+   ],
    "fencing_boundaries": [],
    "decking_structures": [],
    "outdoor_masonry": [],
-   "trees_vegetation": [],
+   "trees_vegetation": [
+    "tree_surgeon"
+   ],
    "water_drainage": [],
    "exterior_cleaning": []
   },

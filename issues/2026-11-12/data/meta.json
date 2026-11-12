@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-12T14:42:59+00:00",
+ "last_updated": "2026-11-12T14:58:50+00:00",
  "issue_date": "2026-11-12",
  "issue_no": 7,
  "radius_miles": 25,
@@ -13,12 +13,12 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 9108,
+  "landscaping": 9104,
   "driveways": 749,
   "paving_patios": 628,
-  "surfacing": 439,
-  "groundworks": 25195,
-  "lawns_grounds": 8488,
+  "surfacing": 438,
+  "groundworks": 25196,
+  "lawns_grounds": 8482,
   "fencing_boundaries": 728,
   "decking_structures": 1124,
   "outdoor_masonry": 4,
@@ -45,19 +45,19 @@
   ],
   "dup_ch": [],
   "closed_not_in_business": 12008,
-  "enriched_from_ch": 1383,
+  "enriched_from_ch": 1390,
   "in_radius": 37119,
   "serves_only": 5,
-  "verified_trading": 1455,
-  "ch_only_leads": 35664,
+  "verified_trading": 1462,
+  "ch_only_leads": 35657,
   "verified_phone_or_web_pct": 98,
   "verified_conf_ge_05_pct": 98,
   "all_have_source_town_distance": true,
-  "contactable": 1455,
+  "contactable": 1462,
   "phone_or_web_pct": 4,
   "conf_ge_05_pct": 100,
-  "needs_check": 35695,
-  "no_website": 35749
+  "needs_check": 35688,
+  "no_website": 35742
  },
  "counties": [
   {
@@ -574,12 +574,12 @@
  "S": {
   "tot": 37119,
   "counts": {
-   "landscaping": 9108,
+   "landscaping": 9104,
    "driveways": 749,
    "paving_patios": 628,
-   "surfacing": 439,
-   "groundworks": 25195,
-   "lawns_grounds": 8488,
+   "surfacing": 438,
+   "groundworks": 25196,
+   "lawns_grounds": 8482,
    "fencing_boundaries": 728,
    "decking_structures": 1124,
    "outdoor_masonry": 4,
@@ -596,33 +596,33 @@
    "town": "Wimborne Minster",
    "name": "J.M. Tree and Garden Services"
   },
-  "dv": 288,
+  "dv": 289,
   "best": {
    "score": 94,
    "town": "Poole",
    "name": "D.S. Waker Driveways & Patios"
   },
   "prim": {
-   "landscaping": 8538,
-   "driveways": 307,
+   "landscaping": 8534,
+   "driveways": 308,
    "paving_patios": 142,
    "surfacing": 239,
-   "groundworks": 25067,
-   "lawns_grounds": 131,
+   "groundworks": 25068,
+   "lawns_grounds": 132,
    "fencing_boundaries": 273,
    "decking_structures": 869,
    "outdoor_masonry": 3,
-   "trees_vegetation": 608,
+   "trees_vegetation": 609,
    "water_drainage": 263,
    "exterior_cleaning": 678
   },
   "sec": {
-   "landscaping": 9108,
+   "landscaping": 9104,
    "driveways": 749,
    "paving_patios": 628,
-   "surfacing": 439,
-   "groundworks": 25195,
-   "lawns_grounds": 8488,
+   "surfacing": 438,
+   "groundworks": 25196,
+   "lawns_grounds": 8482,
    "fencing_boundaries": 728,
    "decking_structures": 1124,
    "outdoor_masonry": 4,
@@ -1143,7 +1143,8 @@
   "Greater London added; +35 London, +8 Cornwall, +38 Buckinghamshire and +34 East Sussex web-checked firms",
   "Greater London added incl. central EC/WC/W1/SW1 districts; +35 London, +8 Cornwall, +38 Buckinghamshire and +34 East Sussex web-checked firms",
   "Greater London added incl. central EC/WC/W1/SW1 districts; +35 London, +8 Cornwall, +38 Buckinghamshire and +34 East Sussex web-checked firms; maps open on every live county",
-  "Greater London added; four Welsh areas added (Monmouthshire, Newport, Cardiff, Vale of Glamorgan; active Companies House firms only); maps open on every live county"
+  "Greater London added; four Welsh areas added (Monmouthshire, Newport, Cardiff, Vale of Glamorgan; active Companies House firms only); maps open on every live county",
+  "Greater London added; four Welsh areas added (Monmouthshire, Newport, Cardiff, Vale of Glamorgan; active Companies House firms only); first web-checked Welsh firms; maps open on every live county"
  ],
  "data_note": "Thin issue: firm data is read from the shared live files in /data (master: /data/master_index.json)."
 }

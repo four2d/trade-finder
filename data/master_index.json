@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12T14:42:59+00:00",
- "total": 52865,
+ "updated": "2026-11-12T14:58:50+00:00",
+ "total": 52872,
  "note": "Full Trade Finder master, one file per county. Concatenate every file to get the whole directory.",
  "files": [
   {
@@ -28,8 +28,8 @@
    "slug": "cardiff",
    "part": null,
    "file": "data/counties/cardiff.json",
-   "records": 322,
-   "bytes": 535275
+   "records": 329,
+   "bytes": 549343
   },
   {
    "slug": "cornwall",
@@ -50,7 +50,7 @@
    "part": null,
    "file": "data/counties/dorset.json",
    "records": 4195,
-   "bytes": 6858900
+   "bytes": 6858017
   },
   {
    "slug": "east-sussex",
@@ -106,7 +106,7 @@
    "part": null,
    "file": "data/counties/hampshire.json",
    "records": 10790,
-   "bytes": 17623746
+   "bytes": 17624190
   },
   {
    "slug": "isle-of-wight",
