@@ -138,3 +138,5 @@
 - 13:07 GMT: Issue 07 update: add Greater London (12,471 active Companies House firms, split by postcode area) + 34 East Sussex and 33 Buckinghamshire web-checked firms; faster XLSX; cleaner London towns
 
 - 13:38 GMT: Issue 07 b2: +35 web-checked Greater London firms (own site shows company number or registered-office postcode district; 5 hand-rejected)
+
+- 13:55 GMT: Issue 07 b3: +8 web-checked Cornwall firms (wider trade-name net, hand-checked; 5 rejected)

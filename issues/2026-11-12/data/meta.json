@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-12T13:36:32+00:00",
+ "last_updated": "2026-11-12T13:53:52+00:00",
  "issue_date": "2026-11-12",
  "issue_no": 7,
  "radius_miles": 25,
@@ -13,15 +13,15 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 8509,
+  "landscaping": 8508,
   "driveways": 718,
   "paving_patios": 607,
-  "surfacing": 407,
-  "groundworks": 23225,
-  "lawns_grounds": 7897,
+  "surfacing": 409,
+  "groundworks": 23223,
+  "lawns_grounds": 7896,
   "fencing_boundaries": 700,
-  "decking_structures": 1091,
-  "outdoor_masonry": 3,
+  "decking_structures": 1092,
+  "outdoor_masonry": 4,
   "trees_vegetation": 1043,
   "water_drainage": 358,
   "exterior_cleaning": 703
@@ -45,19 +45,19 @@
   ],
   "dup_ch": [],
   "closed_not_in_business": 12008,
-  "enriched_from_ch": 1370,
+  "enriched_from_ch": 1378,
   "in_radius": 34449,
   "serves_only": 5,
-  "verified_trading": 1442,
-  "ch_only_leads": 33007,
+  "verified_trading": 1450,
+  "ch_only_leads": 32999,
   "verified_phone_or_web_pct": 98,
   "verified_conf_ge_05_pct": 98,
   "all_have_source_town_distance": true,
-  "contactable": 1442,
+  "contactable": 1450,
   "phone_or_web_pct": 4,
   "conf_ge_05_pct": 100,
-  "needs_check": 33038,
-  "no_website": 33092
+  "needs_check": 33030,
+  "no_website": 33084
  },
  "counties": [
   {
@@ -534,15 +534,15 @@
  "S": {
   "tot": 34449,
   "counts": {
-   "landscaping": 8509,
+   "landscaping": 8508,
    "driveways": 718,
    "paving_patios": 607,
-   "surfacing": 407,
-   "groundworks": 23225,
-   "lawns_grounds": 7897,
+   "surfacing": 409,
+   "groundworks": 23223,
+   "lawns_grounds": 7896,
    "fencing_boundaries": 700,
-   "decking_structures": 1091,
-   "outdoor_masonry": 3,
+   "decking_structures": 1092,
+   "outdoor_masonry": 4,
    "trees_vegetation": 1043,
    "water_drainage": 358,
    "exterior_cleaning": 703
@@ -566,26 +566,26 @@
    "landscaping": 7982,
    "driveways": 296,
    "paving_patios": 133,
-   "surfacing": 216,
-   "groundworks": 23113,
+   "surfacing": 217,
+   "groundworks": 23110,
    "lawns_grounds": 131,
    "fencing_boundaries": 265,
-   "decking_structures": 843,
-   "outdoor_masonry": 2,
+   "decking_structures": 844,
+   "outdoor_masonry": 3,
    "trees_vegetation": 566,
    "water_drainage": 243,
    "exterior_cleaning": 658
   },
   "sec": {
-   "landscaping": 8509,
+   "landscaping": 8508,
    "driveways": 718,
    "paving_patios": 607,
-   "surfacing": 407,
-   "groundworks": 23225,
-   "lawns_grounds": 7897,
+   "surfacing": 409,
+   "groundworks": 23223,
+   "lawns_grounds": 7896,
    "fencing_boundaries": 700,
-   "decking_structures": 1091,
-   "outdoor_masonry": 3,
+   "decking_structures": 1092,
+   "outdoor_masonry": 4,
    "trees_vegetation": 1043,
    "water_drainage": 358,
    "exterior_cleaning": 703
@@ -1087,7 +1087,8 @@
  "changelog": [
   "Cornwall, Buckinghamshire and East Sussex added (active Companies House firms only) + 19 web-checked Cornwall firms",
   "Greater London added (32 boroughs + City; active Companies House firms only); +34 East Sussex and +33 Buckinghamshire web-checked firms",
-  "Greater London added; +35 web-checked London firms; +34 East Sussex and +33 Buckinghamshire web-checked firms"
+  "Greater London added; +35 web-checked London firms; +34 East Sussex and +33 Buckinghamshire web-checked firms",
+  "Greater London added; +35 London, +8 Cornwall (batch 2), +34 East Sussex and +33 Buckinghamshire web-checked firms"
  ],
  "data_note": "Thin issue: firm data is read from the shared live files in /data (master: /data/master_index.json)."
 }
