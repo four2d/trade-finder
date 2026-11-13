@@ -183,3 +183,5 @@ Next after those: Bridgend 91.6, Merthyr Tydfil 93.0, Neath Port Talbot 99.6, He
 - 12:09 GMT: Issue 08: Torfaen, Caerphilly, Rhondda Cynon Taf, Blaenau Gwent added (active only); Bristol completeness pass (+37); Cardiff/Newport web-check
 
 - 12:15 GMT: Issue 08: Northamptonshire first 15 web-checked firms; Torfaen first 4; retried timed-out Welsh/BS16 searches
+
+- 12:29 GMT: Issue 08: first web-checked Caerphilly (1), Rhondda Cynon Taf (8), Blaenau Gwent (3) firms

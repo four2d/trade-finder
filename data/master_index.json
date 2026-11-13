@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T12:12:59+00:00",
- "total": 57273,
+ "updated": "2026-11-13T12:27:16+00:00",
+ "total": 57285,
  "note": "Full Trade Finder master, one file per county. Concatenate every file to get the whole directory.",
  "files": [
   {
@@ -14,8 +14,8 @@
    "slug": "blaenau-gwent",
    "part": null,
    "file": "data/counties/blaenau-gwent.json",
-   "records": 59,
-   "bytes": 98269
+   "records": 62,
+   "bytes": 104269
   },
   {
    "slug": "bristol",
@@ -35,8 +35,8 @@
    "slug": "caerphilly",
    "part": null,
    "file": "data/counties/caerphilly.json",
-   "records": 219,
-   "bytes": 364666
+   "records": 220,
+   "bytes": 366717
   },
   {
    "slug": "cardiff",
@@ -64,7 +64,7 @@
    "part": null,
    "file": "data/counties/dorset.json",
    "records": 4195,
-   "bytes": 6858017
+   "bytes": 6858900
   },
   {
    "slug": "east-sussex",
@@ -120,7 +120,7 @@
    "part": null,
    "file": "data/counties/hampshire.json",
    "records": 10790,
-   "bytes": 17624190
+   "bytes": 17623746
   },
   {
    "slug": "herefordshire",
@@ -168,8 +168,8 @@
    "slug": "rhondda-cynon-taf",
    "part": null,
    "file": "data/counties/rhondda-cynon-taf.json",
-   "records": 297,
-   "bytes": 498197
+   "records": 305,
+   "bytes": 514400
   },
   {
    "slug": "somerset",

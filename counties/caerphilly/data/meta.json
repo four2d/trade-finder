@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-13T12:12:59+00:00",
+ "last_updated": "2026-11-13T12:27:16+00:00",
  "issue_date": "2026-11-13",
  "issue_no": 8,
  "radius_miles": 25,
@@ -13,28 +13,28 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 10314,
-  "driveways": 852,
+  "landscaping": 10312,
+  "driveways": 851,
   "paving_patios": 678,
   "surfacing": 511,
   "groundworks": 28009,
-  "lawns_grounds": 9636,
+  "lawns_grounds": 9632,
   "fencing_boundaries": 814,
   "decking_structures": 1182,
   "outdoor_masonry": 5,
   "trees_vegetation": 1337,
-  "water_drainage": 425,
+  "water_drainage": 424,
   "exterior_cleaning": 751
  },
  "total": 41442,
  "total_ever": 53455,
- "new_this_issue": 4027,
+ "new_this_issue": 4022,
  "version": "1.1",
  "phase": 1,
  "sample_mode": false,
  "hero": {
-  "firm": "C.C.P.Fencing Specialists",
-  "score": 3,
+  "firm": "Big & Small Groundcare",
+  "score": 19,
   "image": null
  },
  "archive_href": "../../archive.html",
@@ -45,19 +45,19 @@
   ],
   "dup_ch": [],
   "closed_not_in_business": 12008,
-  "enriched_from_ch": 1469,
+  "enriched_from_ch": 1481,
   "in_radius": 41442,
   "serves_only": 5,
-  "verified_trading": 1541,
-  "ch_only_leads": 39901,
+  "verified_trading": 1553,
+  "ch_only_leads": 39889,
   "verified_phone_or_web_pct": 98,
   "verified_conf_ge_05_pct": 99,
   "all_have_source_town_distance": true,
-  "contactable": 1541,
+  "contactable": 1553,
   "phone_or_web_pct": 4,
   "conf_ge_05_pct": 100,
-  "needs_check": 39932,
-  "no_website": 39986
+  "needs_check": 39920,
+  "no_website": 39974
  },
  "counties": [
   {
@@ -633,7 +633,11 @@
   "nw": 156,
   "top": null,
   "dv": 0,
-  "best": null,
+  "best": {
+   "score": 19,
+   "town": "Caerphilly",
+   "name": "Big & Small Groundcare"
+  },
   "prim": {
    "landscaping": 53,
    "driveways": 2,
@@ -663,12 +667,16 @@
    "exterior_cleaning": 2
   },
   "types": {
-   "landscaping": [],
+   "landscaping": [
+    "landscaper"
+   ],
    "driveways": [],
    "paving_patios": [],
    "surfacing": [],
    "groundworks": [],
-   "lawns_grounds": [],
+   "lawns_grounds": [
+    "landscaper"
+   ],
    "fencing_boundaries": [],
    "decking_structures": [],
    "outdoor_masonry": [],
@@ -712,8 +720,8 @@
  "county_slug": "caerphilly",
  "root": "../../",
  "qc_area": {
-  "verified_trading": 0,
-  "ch_only_leads": 219
+  "verified_trading": 1,
+  "ch_only_leads": 218
  },
  "data_file": "../../data/counties/caerphilly.json"
 }

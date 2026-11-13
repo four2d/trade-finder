@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-13T12:12:59+00:00",
+ "last_updated": "2026-11-13T12:27:16+00:00",
  "issue_date": "2026-11-13",
  "issue_no": 8,
  "radius_miles": 25,
@@ -13,28 +13,28 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 10314,
-  "driveways": 852,
+  "landscaping": 10312,
+  "driveways": 851,
   "paving_patios": 678,
   "surfacing": 511,
   "groundworks": 28009,
-  "lawns_grounds": 9636,
+  "lawns_grounds": 9632,
   "fencing_boundaries": 814,
   "decking_structures": 1182,
   "outdoor_masonry": 5,
   "trees_vegetation": 1337,
-  "water_drainage": 425,
+  "water_drainage": 424,
   "exterior_cleaning": 751
  },
  "total": 41442,
  "total_ever": 53455,
- "new_this_issue": 4027,
+ "new_this_issue": 4022,
  "version": "1.1",
  "phase": 1,
  "sample_mode": false,
  "hero": {
-  "firm": "Ace Landscaping",
-  "score": 3,
+  "firm": "C2 Groundworks",
+  "score": 19,
   "image": null
  },
  "archive_href": "../../archive.html",
@@ -45,19 +45,19 @@
   ],
   "dup_ch": [],
   "closed_not_in_business": 12008,
-  "enriched_from_ch": 1469,
+  "enriched_from_ch": 1481,
   "in_radius": 41442,
   "serves_only": 5,
-  "verified_trading": 1541,
-  "ch_only_leads": 39901,
+  "verified_trading": 1553,
+  "ch_only_leads": 39889,
   "verified_phone_or_web_pct": 98,
   "verified_conf_ge_05_pct": 99,
   "all_have_source_town_distance": true,
-  "contactable": 1541,
+  "contactable": 1553,
   "phone_or_web_pct": 4,
   "conf_ge_05_pct": 100,
-  "needs_check": 39932,
-  "no_website": 39986
+  "needs_check": 39920,
+  "no_website": 39974
  },
  "counties": [
   {
@@ -615,11 +615,11 @@
   "tot": 297,
   "counts": {
    "landscaping": 54,
-   "driveways": 10,
+   "driveways": 9,
    "paving_patios": 2,
    "surfacing": 11,
-   "groundworks": 230,
-   "lawns_grounds": 51,
+   "groundworks": 229,
+   "lawns_grounds": 49,
    "fencing_boundaries": 4,
    "decking_structures": 4,
    "outdoor_masonry": 0,
@@ -630,16 +630,20 @@
   "avg": "\u2013",
   "ltd": 100,
   "ar": 11,
-  "nw": 248,
+  "nw": 244,
   "top": null,
   "dv": 0,
-  "best": null,
+  "best": {
+   "score": 19,
+   "town": "Rhondda",
+   "name": "C2 Groundworks"
+  },
   "prim": {
-   "landscaping": 43,
+   "landscaping": 44,
    "driveways": 4,
    "paving_patios": 1,
    "surfacing": 7,
-   "groundworks": 230,
+   "groundworks": 229,
    "lawns_grounds": 0,
    "fencing_boundaries": 0,
    "decking_structures": 4,
@@ -650,11 +654,11 @@
   },
   "sec": {
    "landscaping": 54,
-   "driveways": 10,
+   "driveways": 9,
    "paving_patios": 2,
    "surfacing": 11,
-   "groundworks": 230,
-   "lawns_grounds": 51,
+   "groundworks": 229,
+   "lawns_grounds": 49,
    "fencing_boundaries": 4,
    "decking_structures": 4,
    "outdoor_masonry": 0,
@@ -663,11 +667,18 @@
    "exterior_cleaning": 4
   },
   "types": {
-   "landscaping": [],
+   "landscaping": [
+    "gardener",
+    "landscaper"
+   ],
    "driveways": [],
    "paving_patios": [],
-   "surfacing": [],
-   "groundworks": [],
+   "surfacing": [
+    "surfacing_contractor"
+   ],
+   "groundworks": [
+    "groundworks_contractor"
+   ],
    "lawns_grounds": [],
    "fencing_boundaries": [],
    "decking_structures": [],
@@ -712,8 +723,8 @@
  "county_slug": "rhondda-cynon-taf",
  "root": "../../",
  "qc_area": {
-  "verified_trading": 0,
-  "ch_only_leads": 297
+  "verified_trading": 8,
+  "ch_only_leads": 289
  },
  "data_file": "../../data/counties/rhondda-cynon-taf.json"
 }
