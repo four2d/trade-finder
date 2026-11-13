@@ -169,3 +169,13 @@
 - 10:54 GMT: Issue 08 b3: +6 web-checked Herefordshire firms (5 hand-rejected; 1 moved to Worcestershire)
 
 - 11:19 GMT: Issue 08 b4: +14 web-checked Worcestershire firms (3 hand-rejected); Garden Inspiration kept in Herefordshire (site postcode WR13 6QW is Colwall)
+
+### 13 Nov 2026: next four closest areas (Pete approved)
+Distance from Poole (50.715, -1.9872) to each area's centroid. Source: ONS Counties and Unitary Authorities (Dec 2024) boundary LAT/LONG; ceremonial counties use the area-weighted mean of their parts. Candidates were areas not on the site yet (paused English counties plus Welsh principal areas).
+1. Torfaen (Wales): 82.1 mi
+2. Caerphilly (Wales): 83.2 mi
+3. Rhondda Cynon Taf (Wales): 88.0 mi
+4. Blaenau Gwent (Wales): 88.5 mi
+Next after those: Bridgend 91.6, Merthyr Tydfil 93.0, Neath Port Talbot 99.6, Hertfordshire 105.7, Swansea 107.7, Bedfordshire 114.4, Kent 122.3, West Midlands 122.9 (full list in work/next_areas_distances.json).
+
+- 11:43 GMT: Issue 08: Warwickshire first 24 web-checked firms; Cardiff/Newport/Vale/Monmouthshire completeness pass (+CF14 uncapped, forestry/plant/drainage SICs)
