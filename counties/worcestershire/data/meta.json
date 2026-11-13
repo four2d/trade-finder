@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-13T10:51:53+00:00",
+ "last_updated": "2026-11-13T11:16:39+00:00",
  "issue_date": "2026-11-13",
  "issue_no": 8,
  "radius_miles": 25,
@@ -13,14 +13,14 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 10167,
+  "landscaping": 10162,
   "driveways": 839,
   "paving_patios": 675,
   "surfacing": 495,
-  "groundworks": 27380,
-  "lawns_grounds": 9509,
+  "groundworks": 27379,
+  "lawns_grounds": 9501,
   "fencing_boundaries": 804,
-  "decking_structures": 1168,
+  "decking_structures": 1169,
   "outdoor_masonry": 5,
   "trees_vegetation": 1270,
   "water_drainage": 405,
@@ -28,13 +28,13 @@
  },
  "total": 40567,
  "total_ever": 52580,
- "new_this_issue": 3410,
+ "new_this_issue": 3396,
  "version": "1.1",
  "phase": 1,
  "sample_mode": false,
  "hero": {
-  "firm": "Hurley Fencing",
-  "score": 3,
+  "firm": "Arc Ground Care",
+  "score": 19,
   "image": null
  },
  "archive_href": "../../archive.html",
@@ -45,19 +45,19 @@
   ],
   "dup_ch": [],
   "closed_not_in_business": 12008,
-  "enriched_from_ch": 1408,
+  "enriched_from_ch": 1422,
   "in_radius": 40567,
   "serves_only": 5,
-  "verified_trading": 1480,
-  "ch_only_leads": 39087,
+  "verified_trading": 1494,
+  "ch_only_leads": 39073,
   "verified_phone_or_web_pct": 98,
   "verified_conf_ge_05_pct": 98,
-  "all_have_source_town_distance": true,
-  "contactable": 1480,
+  "all_have_source_town_distance": false,
+  "contactable": 1494,
   "phone_or_web_pct": 4,
   "conf_ge_05_pct": 100,
-  "needs_check": 39118,
-  "no_website": 39172
+  "needs_check": 39104,
+  "no_website": 39158
  },
  "counties": [
   {
@@ -264,7 +264,7 @@
    "slug": "herefordshire",
    "name": "Herefordshire",
    "status": "in_progress",
-   "firms": 284,
+   "firms": 285,
    "not_in_business": 0,
    "added": "2026-11-13",
    "miles": 100,
@@ -274,7 +274,7 @@
    "slug": "worcestershire",
    "name": "Worcestershire",
    "status": "in_progress",
-   "firms": 967,
+   "firms": 966,
    "not_in_business": 0,
    "added": "2026-11-13",
    "miles": 103,
@@ -572,16 +572,16 @@
   }
  ],
  "S": {
-  "tot": 967,
+  "tot": 966,
   "counts": {
-   "landscaping": 343,
+   "landscaping": 337,
    "driveways": 41,
    "paving_patios": 12,
    "surfacing": 20,
-   "groundworks": 559,
-   "lawns_grounds": 331,
+   "groundworks": 558,
+   "lawns_grounds": 323,
    "fencing_boundaries": 21,
-   "decking_structures": 10,
+   "decking_structures": 11,
    "outdoor_masonry": 0,
    "trees_vegetation": 56,
    "water_drainage": 9,
@@ -590,33 +590,37 @@
   "avg": "\u2013",
   "ltd": 100,
   "ar": 11,
-  "nw": 959,
+  "nw": 945,
   "top": null,
-  "dv": 0,
-  "best": null,
+  "dv": 1,
+  "best": {
+   "score": 19,
+   "town": "Hartlebury",
+   "name": "Arc Ground Care"
+  },
   "prim": {
-   "landscaping": 334,
+   "landscaping": 326,
    "driveways": 19,
    "paving_patios": 4,
    "surfacing": 13,
-   "groundworks": 557,
-   "lawns_grounds": 0,
+   "groundworks": 556,
+   "lawns_grounds": 2,
    "fencing_boundaries": 5,
-   "decking_structures": 9,
+   "decking_structures": 10,
    "outdoor_masonry": 0,
-   "trees_vegetation": 16,
+   "trees_vegetation": 21,
    "water_drainage": 6,
    "exterior_cleaning": 4
   },
   "sec": {
-   "landscaping": 343,
+   "landscaping": 337,
    "driveways": 41,
    "paving_patios": 12,
    "surfacing": 20,
-   "groundworks": 559,
-   "lawns_grounds": 331,
+   "groundworks": 558,
+   "lawns_grounds": 323,
    "fencing_boundaries": 21,
-   "decking_structures": 10,
+   "decking_structures": 11,
    "outdoor_masonry": 0,
    "trees_vegetation": 56,
    "water_drainage": 9,
@@ -625,18 +629,31 @@
   "types": {
    "landscaping": [
     "gardener",
-    "landscaper"
+    "landscaper",
+    "tree_surgeon"
    ],
-   "driveways": [],
-   "paving_patios": [],
+   "driveways": [
+    "driveway_installer"
+   ],
+   "paving_patios": [
+    "paving_contractor"
+   ],
    "surfacing": [],
    "groundworks": [],
-   "lawns_grounds": [],
+   "lawns_grounds": [
+    "grounds_maintenance"
+   ],
    "fencing_boundaries": [],
-   "decking_structures": [],
+   "decking_structures": [
+    "garden_room"
+   ],
    "outdoor_masonry": [],
-   "trees_vegetation": [],
-   "water_drainage": [],
+   "trees_vegetation": [
+    "tree_surgeon"
+   ],
+   "water_drainage": [
+    "drainage_contractor"
+   ],
    "exterior_cleaning": []
   },
   "nib": 0,
@@ -675,8 +692,8 @@
  "county_slug": "worcestershire",
  "root": "../../",
  "qc_area": {
-  "verified_trading": 1,
-  "ch_only_leads": 966
+  "verified_trading": 14,
+  "ch_only_leads": 952
  },
  "data_file": "../../data/counties/worcestershire.json"
 }

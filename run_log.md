@@ -167,3 +167,5 @@
 - 10:39 GMT: Issue 08 b2: add Herefordshire, Worcestershire, Warwickshire and Northamptonshire (3,435 active Companies House firms); maps and Counties menu include them
 
 - 10:54 GMT: Issue 08 b3: +6 web-checked Herefordshire firms (5 hand-rejected; 1 moved to Worcestershire)
+
+- 11:19 GMT: Issue 08 b4: +14 web-checked Worcestershire firms (3 hand-rejected); Garden Inspiration kept in Herefordshire (site postcode WR13 6QW is Colwall)
