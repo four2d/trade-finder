@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T11:39:16+00:00",
- "total": 56498,
+ "updated": "2026-11-13T12:05:36+00:00",
+ "total": 57246,
  "note": "Full Trade Finder master, one file per county. Concatenate every file to get the whole directory.",
  "files": [
   {
@@ -11,11 +11,18 @@
    "bytes": 2452210
   },
   {
+   "slug": "blaenau-gwent",
+   "part": null,
+   "file": "data/counties/blaenau-gwent.json",
+   "records": 59,
+   "bytes": 98269
+  },
+  {
    "slug": "bristol",
    "part": null,
    "file": "data/counties/bristol.json",
-   "records": 1122,
-   "bytes": 1837357
+   "records": 1160,
+   "bytes": 1900965
   },
   {
    "slug": "buckinghamshire",
@@ -25,11 +32,18 @@
    "bytes": 2466872
   },
   {
+   "slug": "caerphilly",
+   "part": null,
+   "file": "data/counties/caerphilly.json",
+   "records": 215,
+   "bytes": 358003
+  },
+  {
    "slug": "cardiff",
    "part": null,
    "file": "data/counties/cardiff.json",
-   "records": 393,
-   "bytes": 655810
+   "records": 394,
+   "bytes": 657840
   },
   {
    "slug": "cornwall",
@@ -50,7 +64,7 @@
    "part": null,
    "file": "data/counties/dorset.json",
    "records": 4195,
-   "bytes": 6858017
+   "bytes": 6858900
   },
   {
    "slug": "east-sussex",
@@ -63,8 +77,8 @@
    "slug": "gloucestershire",
    "part": null,
    "file": "data/counties/gloucestershire.json",
-   "records": 1258,
-   "bytes": 2120902
+   "records": 1274,
+   "bytes": 2147489
   },
   {
    "slug": "greater-london",
@@ -106,7 +120,7 @@
    "part": null,
    "file": "data/counties/hampshire.json",
    "records": 10790,
-   "bytes": 17624190
+   "bytes": 17623746
   },
   {
    "slug": "herefordshire",
@@ -133,8 +147,8 @@
    "slug": "newport",
    "part": null,
    "file": "data/counties/newport.json",
-   "records": 215,
-   "bytes": 359345
+   "records": 216,
+   "bytes": 361415
   },
   {
    "slug": "northamptonshire",
@@ -151,11 +165,18 @@
    "bytes": 1544865
   },
   {
+   "slug": "rhondda-cynon-taf",
+   "part": null,
+   "file": "data/counties/rhondda-cynon-taf.json",
+   "records": 294,
+   "bytes": 493163
+  },
+  {
    "slug": "somerset",
    "part": null,
    "file": "data/counties/somerset.json",
    "records": 4074,
-   "bytes": 6665398
+   "bytes": 6665403
   },
   {
    "slug": "surrey",
@@ -163,6 +184,13 @@
    "file": "data/counties/surrey.json",
    "records": 2449,
    "bytes": 4097722
+  },
+  {
+   "slug": "torfaen",
+   "part": null,
+   "file": "data/counties/torfaen.json",
+   "records": 124,
+   "bytes": 206056
   },
   {
    "slug": "vale-of-glamorgan",
@@ -176,7 +204,7 @@
    "part": null,
    "file": "data/counties/warwickshire.json",
    "records": 884,
-   "bytes": 1486461
+   "bytes": 1486614
   },
   {
    "slug": "west-sussex",

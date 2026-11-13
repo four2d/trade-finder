@@ -179,3 +179,5 @@ Distance from Poole (50.715, -1.9872) to each area's centroid. Source: ONS Count
 Next after those: Bridgend 91.6, Merthyr Tydfil 93.0, Neath Port Talbot 99.6, Hertfordshire 105.7, Swansea 107.7, Bedfordshire 114.4, Kent 122.3, West Midlands 122.9 (full list in work/next_areas_distances.json).
 
 - 11:43 GMT: Issue 08: Warwickshire first 24 web-checked firms; Cardiff/Newport/Vale/Monmouthshire completeness pass (+CF14 uncapped, forestry/plant/drainage SICs)
+
+- 12:09 GMT: Issue 08: Torfaen, Caerphilly, Rhondda Cynon Taf, Blaenau Gwent added (active only); Bristol completeness pass (+37); Cardiff/Newport web-check

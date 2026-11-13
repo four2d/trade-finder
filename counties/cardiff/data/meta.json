@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-13T11:39:16+00:00",
+ "last_updated": "2026-11-13T12:05:36+00:00",
  "issue_date": "2026-11-13",
  "issue_no": 8,
  "radius_miles": 25,
@@ -13,22 +13,22 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 10163,
-  "driveways": 840,
-  "paving_patios": 675,
-  "surfacing": 497,
-  "groundworks": 27466,
-  "lawns_grounds": 9495,
-  "fencing_boundaries": 804,
-  "decking_structures": 1169,
+  "landscaping": 10318,
+  "driveways": 853,
+  "paving_patios": 678,
+  "surfacing": 511,
+  "groundworks": 28000,
+  "lawns_grounds": 9645,
+  "fencing_boundaries": 814,
+  "decking_structures": 1182,
   "outdoor_masonry": 5,
-  "trees_vegetation": 1292,
-  "water_drainage": 409,
-  "exterior_cleaning": 745
+  "trees_vegetation": 1337,
+  "water_drainage": 426,
+  "exterior_cleaning": 751
  },
- "total": 40689,
- "total_ever": 52702,
- "new_this_issue": 3494,
+ "total": 41434,
+ "total_ever": 53447,
+ "new_this_issue": 4034,
  "version": "1.1",
  "phase": 1,
  "sample_mode": false,
@@ -45,19 +45,19 @@
   ],
   "dup_ch": [],
   "closed_not_in_business": 12008,
-  "enriched_from_ch": 1446,
-  "in_radius": 40689,
+  "enriched_from_ch": 1450,
+  "in_radius": 41434,
   "serves_only": 5,
-  "verified_trading": 1518,
-  "ch_only_leads": 39171,
+  "verified_trading": 1522,
+  "ch_only_leads": 39912,
   "verified_phone_or_web_pct": 98,
   "verified_conf_ge_05_pct": 98,
-  "all_have_source_town_distance": false,
-  "contactable": 1518,
+  "all_have_source_town_distance": true,
+  "contactable": 1522,
   "phone_or_web_pct": 4,
   "conf_ge_05_pct": 100,
-  "needs_check": 39202,
-  "no_website": 39256
+  "needs_check": 39943,
+  "no_website": 39997
  },
  "counties": [
   {
@@ -124,7 +124,7 @@
    "slug": "bristol",
    "name": "Bristol",
    "status": "in_progress",
-   "firms": 505,
+   "firms": 542,
    "not_in_business": 553,
    "added": "2026-10-16",
    "miles": 57,
@@ -154,7 +154,7 @@
    "slug": "gloucestershire",
    "name": "Gloucestershire",
    "status": "in_progress",
-   "firms": 1257,
+   "firms": 1273,
    "not_in_business": 0,
    "added": "2026-11-10",
    "miles": 78,
@@ -301,6 +301,46 @@
    "order": 24
   },
   {
+   "slug": "torfaen",
+   "name": "Torfaen",
+   "status": "in_progress",
+   "firms": 124,
+   "not_in_business": 0,
+   "added": "2026-11-13",
+   "miles": 82,
+   "order": 25
+  },
+  {
+   "slug": "caerphilly",
+   "name": "Caerphilly",
+   "status": "in_progress",
+   "firms": 215,
+   "not_in_business": 0,
+   "added": "2026-11-13",
+   "miles": 83,
+   "order": 26
+  },
+  {
+   "slug": "rhondda-cynon-taf",
+   "name": "Rhondda Cynon Taf",
+   "status": "in_progress",
+   "firms": 294,
+   "not_in_business": 0,
+   "added": "2026-11-13",
+   "miles": 88,
+   "order": 27
+  },
+  {
+   "slug": "blaenau-gwent",
+   "name": "Blaenau Gwent",
+   "status": "in_progress",
+   "firms": 59,
+   "not_in_business": 0,
+   "added": "2026-11-13",
+   "miles": 88,
+   "order": 28
+  },
+  {
    "slug": "kent",
    "name": "Kent",
    "status": "paused",
@@ -308,7 +348,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 124,
-   "order": 25
+   "order": 29
   },
   {
    "slug": "hertfordshire",
@@ -318,7 +358,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 106,
-   "order": 26
+   "order": 30
   },
   {
    "slug": "bedfordshire",
@@ -328,7 +368,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 114,
-   "order": 27
+   "order": 31
   },
   {
    "slug": "west-midlands",
@@ -338,7 +378,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 122,
-   "order": 28
+   "order": 32
   },
   {
    "slug": "essex",
@@ -348,7 +388,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 131,
-   "order": 29
+   "order": 33
   },
   {
    "slug": "shropshire",
@@ -358,7 +398,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 136,
-   "order": 30
+   "order": 34
   },
   {
    "slug": "leicestershire",
@@ -368,7 +408,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 140,
-   "order": 31
+   "order": 35
   },
   {
    "slug": "cambridgeshire",
@@ -378,7 +418,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 144,
-   "order": 32
+   "order": 36
   },
   {
    "slug": "staffordshire",
@@ -388,7 +428,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 145,
-   "order": 33
+   "order": 37
   },
   {
    "slug": "rutland",
@@ -398,7 +438,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 146,
-   "order": 34
+   "order": 38
   },
   {
    "slug": "lincolnshire",
@@ -408,7 +448,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 180,
-   "order": 35
+   "order": 39
   },
   {
    "slug": "derbyshire",
@@ -418,7 +458,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 162,
-   "order": 36
+   "order": 40
   },
   {
    "slug": "suffolk",
@@ -428,7 +468,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 164,
-   "order": 37
+   "order": 41
   },
   {
    "slug": "nottinghamshire",
@@ -438,7 +478,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 170,
-   "order": 38
+   "order": 42
   },
   {
    "slug": "cheshire",
@@ -448,7 +488,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 173,
-   "order": 39
+   "order": 43
   },
   {
    "slug": "norfolk",
@@ -458,7 +498,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 185,
-   "order": 40
+   "order": 44
   },
   {
    "slug": "south-yorkshire",
@@ -468,7 +508,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 195,
-   "order": 41
+   "order": 45
   },
   {
    "slug": "east-riding-of-yorkshire",
@@ -478,7 +518,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 224,
-   "order": 42
+   "order": 46
   },
   {
    "slug": "greater-manchester",
@@ -488,7 +528,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 191,
-   "order": 43
+   "order": 47
   },
   {
    "slug": "merseyside",
@@ -498,7 +538,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 192,
-   "order": 44
+   "order": 48
   },
   {
    "slug": "west-yorkshire",
@@ -508,7 +548,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 210,
-   "order": 45
+   "order": 49
   },
   {
    "slug": "north-yorkshire",
@@ -518,7 +558,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 239,
-   "order": 46
+   "order": 50
   },
   {
    "slug": "lancashire",
@@ -528,7 +568,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 218,
-   "order": 47
+   "order": 51
   },
   {
    "slug": "cumbria",
@@ -538,7 +578,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 268,
-   "order": 48
+   "order": 52
   },
   {
    "slug": "county-durham",
@@ -548,7 +588,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 275,
-   "order": 49
+   "order": 53
   },
   {
    "slug": "tyne-and-wear",
@@ -558,7 +598,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 293,
-   "order": 50
+   "order": 54
   },
   {
    "slug": "northumberland",
@@ -568,7 +608,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 313,
-   "order": 51
+   "order": 55
   }
  ],
  "S": {
@@ -590,7 +630,7 @@
   "avg": "\u2013",
   "ltd": 100,
   "ar": 11,
-  "nw": 64,
+  "nw": 63,
   "top": null,
   "dv": 1,
   "best": {
@@ -687,8 +727,8 @@
  "county_slug": "cardiff",
  "root": "../../",
  "qc_area": {
-  "verified_trading": 7,
-  "ch_only_leads": 379
+  "verified_trading": 8,
+  "ch_only_leads": 378
  },
  "data_file": "../../data/counties/cardiff.json"
 }
