@@ -247,3 +247,5 @@ Issue 09 is a same-date edition (issues/2026-11-13-b/), built with the new --edi
 - 15:56 GMT: Issue 09: Bridgend, Merthyr Tydfil, Neath Port Talbot and Hertfordshire added (active only, full SIC set); same-date edition support; publish URL check covers all areas
 
 - 16:09 GMT: Issue 09 b2: Hertfordshire full discovery (3,013 active); first web-checked Bridgend, Merthyr Tydfil, Neath Port Talbot firms
+
+- 16:20 GMT: Issue 09 b3: first 9 web-checked Hertfordshire firms (3 hand-rejected)
