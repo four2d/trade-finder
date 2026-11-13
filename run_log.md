@@ -165,3 +165,5 @@
 - 10:24 GMT: Issue 08: county cover lines use county figures; cover stars must be verified inside their own area (all 20 pass; precise site/registered postcode check)
 
 - 10:39 GMT: Issue 08 b2: add Herefordshire, Worcestershire, Warwickshire and Northamptonshire (3,435 active Companies House firms); maps and Counties menu include them
+
+- 10:54 GMT: Issue 08 b3: +6 web-checked Herefordshire firms (5 hand-rejected; 1 moved to Worcestershire)
