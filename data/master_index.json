@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T12:05:36+00:00",
- "total": 57246,
+ "updated": "2026-11-13T12:12:59+00:00",
+ "total": 57273,
  "note": "Full Trade Finder master, one file per county. Concatenate every file to get the whole directory.",
  "files": [
   {
@@ -35,8 +35,8 @@
    "slug": "caerphilly",
    "part": null,
    "file": "data/counties/caerphilly.json",
-   "records": 215,
-   "bytes": 358003
+   "records": 219,
+   "bytes": 364666
   },
   {
    "slug": "cardiff",
@@ -64,7 +64,7 @@
    "part": null,
    "file": "data/counties/dorset.json",
    "records": 4195,
-   "bytes": 6858900
+   "bytes": 6858017
   },
   {
    "slug": "east-sussex",
@@ -77,8 +77,8 @@
    "slug": "gloucestershire",
    "part": null,
    "file": "data/counties/gloucestershire.json",
-   "records": 1274,
-   "bytes": 2147489
+   "records": 1275,
+   "bytes": 2149142
   },
   {
    "slug": "greater-london",
@@ -120,7 +120,7 @@
    "part": null,
    "file": "data/counties/hampshire.json",
    "records": 10790,
-   "bytes": 17623746
+   "bytes": 17624190
   },
   {
    "slug": "herefordshire",
@@ -154,8 +154,8 @@
    "slug": "northamptonshire",
    "part": null,
    "file": "data/counties/northamptonshire.json",
-   "records": 1324,
-   "bytes": 2214450
+   "records": 1339,
+   "bytes": 2245288
   },
   {
    "slug": "oxfordshire",
@@ -168,8 +168,8 @@
    "slug": "rhondda-cynon-taf",
    "part": null,
    "file": "data/counties/rhondda-cynon-taf.json",
-   "records": 294,
-   "bytes": 493163
+   "records": 297,
+   "bytes": 498197
   },
   {
    "slug": "somerset",
@@ -189,8 +189,8 @@
    "slug": "torfaen",
    "part": null,
    "file": "data/counties/torfaen.json",
-   "records": 124,
-   "bytes": 206056
+   "records": 128,
+   "bytes": 214304
   },
   {
    "slug": "vale-of-glamorgan",

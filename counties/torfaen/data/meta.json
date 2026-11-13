@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-13T12:05:36+00:00",
+ "last_updated": "2026-11-13T12:12:59+00:00",
  "issue_date": "2026-11-13",
  "issue_no": 8,
  "radius_miles": 25,
@@ -13,28 +13,28 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 10318,
-  "driveways": 853,
+  "landscaping": 10314,
+  "driveways": 852,
   "paving_patios": 678,
   "surfacing": 511,
-  "groundworks": 28000,
-  "lawns_grounds": 9645,
+  "groundworks": 28009,
+  "lawns_grounds": 9636,
   "fencing_boundaries": 814,
   "decking_structures": 1182,
   "outdoor_masonry": 5,
   "trees_vegetation": 1337,
-  "water_drainage": 426,
+  "water_drainage": 425,
   "exterior_cleaning": 751
  },
- "total": 41434,
- "total_ever": 53447,
- "new_this_issue": 4034,
+ "total": 41442,
+ "total_ever": 53455,
+ "new_this_issue": 4027,
  "version": "1.1",
  "phase": 1,
  "sample_mode": false,
  "hero": {
-  "firm": "I.G. Landscapes",
-  "score": 3,
+  "firm": "DT Landscapes & Tree Services",
+  "score": 19,
   "image": null
  },
  "archive_href": "../../archive.html",
@@ -45,19 +45,19 @@
   ],
   "dup_ch": [],
   "closed_not_in_business": 12008,
-  "enriched_from_ch": 1450,
-  "in_radius": 41434,
+  "enriched_from_ch": 1469,
+  "in_radius": 41442,
   "serves_only": 5,
-  "verified_trading": 1522,
-  "ch_only_leads": 39912,
+  "verified_trading": 1541,
+  "ch_only_leads": 39901,
   "verified_phone_or_web_pct": 98,
-  "verified_conf_ge_05_pct": 98,
+  "verified_conf_ge_05_pct": 99,
   "all_have_source_town_distance": true,
-  "contactable": 1522,
+  "contactable": 1541,
   "phone_or_web_pct": 4,
   "conf_ge_05_pct": 100,
-  "needs_check": 39943,
-  "no_website": 39997
+  "needs_check": 39932,
+  "no_website": 39986
  },
  "counties": [
   {
@@ -154,7 +154,7 @@
    "slug": "gloucestershire",
    "name": "Gloucestershire",
    "status": "in_progress",
-   "firms": 1273,
+   "firms": 1274,
    "not_in_business": 0,
    "added": "2026-11-10",
    "miles": 78,
@@ -314,7 +314,7 @@
    "slug": "caerphilly",
    "name": "Caerphilly",
    "status": "in_progress",
-   "firms": 215,
+   "firms": 219,
    "not_in_business": 0,
    "added": "2026-11-13",
    "miles": 83,
@@ -324,7 +324,7 @@
    "slug": "rhondda-cynon-taf",
    "name": "Rhondda Cynon Taf",
    "status": "in_progress",
-   "firms": 294,
+   "firms": 297,
    "not_in_business": 0,
    "added": "2026-11-13",
    "miles": 88,
@@ -614,12 +614,12 @@
  "S": {
   "tot": 124,
   "counts": {
-   "landscaping": 31,
+   "landscaping": 29,
    "driveways": 0,
    "paving_patios": 0,
    "surfacing": 1,
    "groundworks": 86,
-   "lawns_grounds": 31,
+   "lawns_grounds": 27,
    "fencing_boundaries": 2,
    "decking_structures": 0,
    "outdoor_masonry": 0,
@@ -633,9 +633,13 @@
   "nw": 58,
   "top": null,
   "dv": 0,
-  "best": null,
+  "best": {
+   "score": 19,
+   "town": "Pontypool",
+   "name": "DT Landscapes & Tree Services"
+  },
   "prim": {
-   "landscaping": 31,
+   "landscaping": 27,
    "driveways": 0,
    "paving_patios": 0,
    "surfacing": 0,
@@ -644,17 +648,17 @@
    "fencing_boundaries": 0,
    "decking_structures": 0,
    "outdoor_masonry": 0,
-   "trees_vegetation": 3,
+   "trees_vegetation": 7,
    "water_drainage": 4,
    "exterior_cleaning": 0
   },
   "sec": {
-   "landscaping": 31,
+   "landscaping": 29,
    "driveways": 0,
    "paving_patios": 0,
    "surfacing": 1,
    "groundworks": 86,
-   "lawns_grounds": 31,
+   "lawns_grounds": 27,
    "fencing_boundaries": 2,
    "decking_structures": 0,
    "outdoor_masonry": 0,
@@ -663,7 +667,9 @@
    "exterior_cleaning": 0
   },
   "types": {
-   "landscaping": [],
+   "landscaping": [
+    "tree_surgeon"
+   ],
    "driveways": [],
    "paving_patios": [],
    "surfacing": [],
@@ -672,7 +678,9 @@
    "fencing_boundaries": [],
    "decking_structures": [],
    "outdoor_masonry": [],
-   "trees_vegetation": [],
+   "trees_vegetation": [
+    "tree_surgeon"
+   ],
    "water_drainage": [],
    "exterior_cleaning": []
   },
@@ -695,7 +703,7 @@
  },
  "bounds": [
   [
-   51.623,
+   51.624,
    -3.095
   ],
   [
@@ -712,8 +720,8 @@
  "county_slug": "torfaen",
  "root": "../../",
  "qc_area": {
-  "verified_trading": 0,
-  "ch_only_leads": 124
+  "verified_trading": 4,
+  "ch_only_leads": 120
  },
  "data_file": "../../data/counties/torfaen.json"
 }

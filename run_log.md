@@ -181,3 +181,5 @@ Next after those: Bridgend 91.6, Merthyr Tydfil 93.0, Neath Port Talbot 99.6, He
 - 11:43 GMT: Issue 08: Warwickshire first 24 web-checked firms; Cardiff/Newport/Vale/Monmouthshire completeness pass (+CF14 uncapped, forestry/plant/drainage SICs)
 
 - 12:09 GMT: Issue 08: Torfaen, Caerphilly, Rhondda Cynon Taf, Blaenau Gwent added (active only); Bristol completeness pass (+37); Cardiff/Newport web-check
+
+- 12:15 GMT: Issue 08: Northamptonshire first 15 web-checked firms; Torfaen first 4; retried timed-out Welsh/BS16 searches
