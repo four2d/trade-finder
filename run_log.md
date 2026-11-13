@@ -251,3 +251,51 @@ Issue 09 is a same-date edition (issues/2026-11-13-b/), built with the new --edi
 - 16:20 GMT: Issue 09 b3: first 9 web-checked Hertfordshire firms (3 hand-rejected)
 
 - 17:08 GMT: Issue 09 b4: +5 web-checked Hertfordshire firms (3 hand-rejected)
+
+## 13 Nov 2026, 17:15 GMT: Issue 09 finished (issues/2026-11-13-b/)
+Areas added, measured from Poole to each area's official centre point: Bridgend 91.6 mi, Merthyr Tydfil 93.0 mi, Neath Port Talbot 99.6 mi, Hertfordshire 105.7 mi.
+Discovery: active only, 9 SICs (incl. 77320 plant hire, 02100/02200 forestry, 42210 utility works), 15-page limit. The deepest search reached page 8, so nothing was capped. 9 searches that timed out were rerun (the LU6 43999 page-3 retry also succeeded). No CF14 8LH default-address companies are in any county file.
+Web-checks (each was a hand-check of what the site checker accepted): Bridgend 2 (all 24 trade-named leads probed), Merthyr Tydfil 3 (30), Neath Port Talbot 2 (49), Hertfordshire 14 from 2 batches of leads (450 of the trade-named leads probed; 6 hand-rejected: out-of-area sites, a skip hire firm, builders and a consultancy).
+Commits: e7bf339, 547d2d4, c6cc569, 089810a, plus this run-log commit.
+Code: build_issue.py --edition b (second issue on the same date; archive links by issue_key); publish.sh TF_ISSUE=<key> and a URL check of all 32 areas; go_enrich.py OFFSET for batched passes.
+All 32 cover stars verified in-area (work/hero_audit.json). Desktop and mobile QC screenshots are clean (no overflow).
+| Area | Listed (trading) | Web-checked | Not in business | Cover star |
+|---|---:|---:|---:|---|
+| Dorset | 1,832 | 192 | 1,841 | D.S. Waker Driveways & Patios (BH17, registered office) |
+| Hampshire | 4,616 | 344 | 4,611 | Arbor Venture Tree Care (SO41, registered office) |
+| Wiltshire | 1,551 | 135 | 1,326 | Acer Tree Surgeons (BA13, registered office) |
+| Somerset | 1,937 | 142 | 1,607 | Becks Tree and Landscape (BA2, registered office) |
+| Devon | 1,449 | 157 | 1,254 | A2B Fencing Solutions (PL6, registered office) |
+| Isle of Wight | 146 | 22 | 110 | Dixcey Landscapes (PO38, registered office) |
+| Bristol | 542 | 60 | 553 | Green Planet Tree Services (BS13, registered office) |
+| Berkshire | 688 | 79 | 706 | Evolution Tree Surgery (RG19, registered office) |
+| West Sussex | 1,508 | 44 | 0 | Above All Landscaping (PO20, site postcode PO20 8JQ) |
+| Gloucestershire | 1,274 | 47 | 0 | Anderson Norman Landscapes (GL10, registered office) |
+| Surrey | 2,379 | 74 | 0 | 1ST Advanced Landscapes (GU26, site postcode GU26 6SL) |
+| Oxfordshire | 920 | 28 | 0 | 007 Groundworks Solutions (OX25, site postcode OX25 1AG) |
+| Cornwall | 611 | 27 | 0 | Alpine Decking (TR5, site postcode TR5 0XQ) |
+| Buckinghamshire | 1,447 | 37 | 0 | Alderbourne Landscapes (HP15, site postcode HP15 7JJ) |
+| Greater London | 14,341 | 35 | 0 | 365 Gardening (E4, site postcode E4 9QR) |
+| East Sussex | 1,176 | 34 | 0 | A.L.M Tree Care (TN39, registered office) |
+| Monmouthshire | 203 | 2 | 0 | Gardenology Group UK (NP7, site postcode NP7 6PE) |
+| Newport | 210 | 6 | 0 | Acw Draincare (NP20, site postcode NP20 3BX) |
+| Cardiff | 386 | 8 | 0 | Caerdydd Groundworks (CF24, site postcode CF24 5PJ) |
+| Vale of Glamorgan | 161 | 5 | 0 | Ceejay Landscapes (CF35, site postcode CF35 5DR) |
+| Herefordshire | 286 | 6 | 0 | Fix My Garden (HR8, registered office) |
+| Worcestershire | 966 | 14 | 0 | Arc Ground Care (DY10, site postcode DY10 4HD) |
+| Warwickshire | 860 | 24 | 0 | Advance Tree Care (CV10, site postcode CV10 0TB) |
+| Northamptonshire | 1,324 | 15 | 0 | AD Landscapes & Maintenance (NN12, site postcode NN12 8EU) |
+| Torfaen | 124 | 4 | 0 | DT Landscapes & Tree Services (NP4, registered office) |
+| Caerphilly | 221 | 1 | 0 | Big & Small Groundcare (CF83, site postcode CF83 8HL) |
+| Rhondda Cynon Taf | 298 | 8 | 0 | C2 Groundworks (CF39, site postcode CF39 8ER) |
+| Blaenau Gwent | 59 | 3 | 0 | Arbor Care South Wales (NP23, registered office) |
+| Bridgend | 179 | 2 | 0 | Archstone Masonry (CF36, site postcode CF36 3LN) |
+| Merthyr Tydfil | 81 | 3 | 0 | Construction Force (CF48, site postcode CF48 4DR) |
+| Neath Port Talbot | 190 | 2 | 0 | A Pro Tree & Landscaping (SA11, registered office) |
+| Hertfordshire | 3,013 | 14 | 0 | Elliotts Drainage (SG2, registered office) |
+| **Total (32 areas)** | 44,978 | 1,574 | 12,008 | |
+
+
+Site: 44,978 listed trading (1,574 web-checked, 43,404 CH-only leads); 12,008 not in business (unchanged).
+
+- 17:10 GMT: Issue 09 wrap-up: run log (distances, web-check results, final figures)
