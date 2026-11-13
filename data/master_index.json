@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T12:27:16+00:00",
- "total": 57285,
+ "updated": "2026-11-13T15:50:27+00:00",
+ "total": 59361,
  "note": "Full Trade Finder master, one file per county. Concatenate every file to get the whole directory.",
  "files": [
   {
@@ -16,6 +16,13 @@
    "file": "data/counties/blaenau-gwent.json",
    "records": 62,
    "bytes": 104269
+  },
+  {
+   "slug": "bridgend",
+   "part": null,
+   "file": "data/counties/bridgend.json",
+   "records": 179,
+   "bytes": 298420
   },
   {
    "slug": "bristol",
@@ -35,8 +42,8 @@
    "slug": "caerphilly",
    "part": null,
    "file": "data/counties/caerphilly.json",
-   "records": 220,
-   "bytes": 366717
+   "records": 222,
+   "bytes": 370002
   },
   {
    "slug": "cardiff",
@@ -64,7 +71,7 @@
    "part": null,
    "file": "data/counties/dorset.json",
    "records": 4195,
-   "bytes": 6858900
+   "bytes": 6858017
   },
   {
    "slug": "east-sussex",
@@ -120,7 +127,7 @@
    "part": null,
    "file": "data/counties/hampshire.json",
    "records": 10790,
-   "bytes": 17623746
+   "bytes": 17624190
   },
   {
    "slug": "herefordshire",
@@ -130,6 +137,13 @@
    "bytes": 490651
   },
   {
+   "slug": "hertfordshire",
+   "part": null,
+   "file": "data/counties/hertfordshire.json",
+   "records": 1624,
+   "bytes": 2711662
+  },
+  {
    "slug": "isle-of-wight",
    "part": null,
    "file": "data/counties/isle-of-wight.json",
@@ -137,11 +151,25 @@
    "bytes": 448400
   },
   {
+   "slug": "merthyr-tydfil",
+   "part": null,
+   "file": "data/counties/merthyr-tydfil.json",
+   "records": 81,
+   "bytes": 135357
+  },
+  {
    "slug": "monmouthshire",
    "part": null,
    "file": "data/counties/monmouthshire.json",
    "records": 205,
    "bytes": 343202
+  },
+  {
+   "slug": "neath-port-talbot",
+   "part": null,
+   "file": "data/counties/neath-port-talbot.json",
+   "records": 190,
+   "bytes": 318767
   },
   {
    "slug": "newport",
@@ -168,8 +196,8 @@
    "slug": "rhondda-cynon-taf",
    "part": null,
    "file": "data/counties/rhondda-cynon-taf.json",
-   "records": 305,
-   "bytes": 514400
+   "records": 306,
+   "bytes": 516047
   },
   {
    "slug": "somerset",
@@ -182,8 +210,8 @@
    "slug": "surrey",
    "part": null,
    "file": "data/counties/surrey.json",
-   "records": 2449,
-   "bytes": 4097722
+   "records": 2448,
+   "bytes": 4096083
   },
   {
    "slug": "torfaen",

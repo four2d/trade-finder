@@ -1,7 +1,8 @@
 {
- "last_updated": "2026-11-13T12:27:16+00:00",
+ "last_updated": "2026-11-13T15:50:27+00:00",
  "issue_date": "2026-11-13",
- "issue_no": 8,
+ "issue_key": "2026-11-13-b",
+ "issue_no": 9,
  "radius_miles": 25,
  "origin": {
   "name": "Poole",
@@ -13,22 +14,22 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 10312,
-  "driveways": 851,
-  "paving_patios": 678,
-  "surfacing": 511,
-  "groundworks": 28009,
-  "lawns_grounds": 9632,
-  "fencing_boundaries": 814,
-  "decking_structures": 1182,
+  "landscaping": 10829,
+  "driveways": 883,
+  "paving_patios": 692,
+  "surfacing": 540,
+  "groundworks": 29418,
+  "lawns_grounds": 10132,
+  "fencing_boundaries": 833,
+  "decking_structures": 1218,
   "outdoor_masonry": 5,
-  "trees_vegetation": 1337,
-  "water_drainage": 424,
-  "exterior_cleaning": 751
+  "trees_vegetation": 1434,
+  "water_drainage": 464,
+  "exterior_cleaning": 764
  },
- "total": 41442,
- "total_ever": 53455,
- "new_this_issue": 4022,
+ "total": 43518,
+ "total_ever": 55531,
+ "new_this_issue": 2070,
  "version": "1.1",
  "phase": 1,
  "sample_mode": false,
@@ -46,18 +47,18 @@
   "dup_ch": [],
   "closed_not_in_business": 12008,
   "enriched_from_ch": 1481,
-  "in_radius": 41442,
+  "in_radius": 43518,
   "serves_only": 5,
   "verified_trading": 1553,
-  "ch_only_leads": 39889,
+  "ch_only_leads": 41965,
   "verified_phone_or_web_pct": 98,
   "verified_conf_ge_05_pct": 99,
   "all_have_source_town_distance": true,
   "contactable": 1553,
-  "phone_or_web_pct": 4,
+  "phone_or_web_pct": 3,
   "conf_ge_05_pct": 100,
-  "needs_check": 39920,
-  "no_website": 39974
+  "needs_check": 41996,
+  "no_website": 42050
  },
  "counties": [
   {
@@ -164,7 +165,7 @@
    "slug": "surrey",
    "name": "Surrey",
    "status": "in_progress",
-   "firms": 2380,
+   "firms": 2379,
    "not_in_business": 0,
    "added": "2026-11-10",
    "miles": 78,
@@ -314,7 +315,7 @@
    "slug": "caerphilly",
    "name": "Caerphilly",
    "status": "in_progress",
-   "firms": 219,
+   "firms": 221,
    "not_in_business": 0,
    "added": "2026-11-13",
    "miles": 83,
@@ -324,7 +325,7 @@
    "slug": "rhondda-cynon-taf",
    "name": "Rhondda Cynon Taf",
    "status": "in_progress",
-   "firms": 297,
+   "firms": 298,
    "not_in_business": 0,
    "added": "2026-11-13",
    "miles": 88,
@@ -341,6 +342,46 @@
    "order": 28
   },
   {
+   "slug": "bridgend",
+   "name": "Bridgend",
+   "status": "in_progress",
+   "firms": 179,
+   "not_in_business": 0,
+   "added": "2026-11-13",
+   "miles": 92,
+   "order": 29
+  },
+  {
+   "slug": "merthyr-tydfil",
+   "name": "Merthyr Tydfil",
+   "status": "in_progress",
+   "firms": 81,
+   "not_in_business": 0,
+   "added": "2026-11-13",
+   "miles": 93,
+   "order": 30
+  },
+  {
+   "slug": "neath-port-talbot",
+   "name": "Neath Port Talbot",
+   "status": "in_progress",
+   "firms": 190,
+   "not_in_business": 0,
+   "added": "2026-11-13",
+   "miles": 100,
+   "order": 31
+  },
+  {
+   "slug": "hertfordshire",
+   "name": "Hertfordshire",
+   "status": "in_progress",
+   "firms": 1624,
+   "not_in_business": 0,
+   "added": "2026-11-13",
+   "miles": 106,
+   "order": 32
+  },
+  {
    "slug": "kent",
    "name": "Kent",
    "status": "paused",
@@ -348,17 +389,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 124,
-   "order": 29
-  },
-  {
-   "slug": "hertfordshire",
-   "name": "Hertfordshire",
-   "status": "paused",
-   "firms": 0,
-   "not_in_business": 0,
-   "added": null,
-   "miles": 106,
-   "order": 30
+   "order": 33
   },
   {
    "slug": "bedfordshire",
@@ -368,7 +399,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 114,
-   "order": 31
+   "order": 34
   },
   {
    "slug": "west-midlands",
@@ -378,7 +409,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 122,
-   "order": 32
+   "order": 35
   },
   {
    "slug": "essex",
@@ -388,7 +419,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 131,
-   "order": 33
+   "order": 36
   },
   {
    "slug": "shropshire",
@@ -398,7 +429,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 136,
-   "order": 34
+   "order": 37
   },
   {
    "slug": "leicestershire",
@@ -408,7 +439,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 140,
-   "order": 35
+   "order": 38
   },
   {
    "slug": "cambridgeshire",
@@ -418,7 +449,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 144,
-   "order": 36
+   "order": 39
   },
   {
    "slug": "staffordshire",
@@ -428,7 +459,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 145,
-   "order": 37
+   "order": 40
   },
   {
    "slug": "rutland",
@@ -438,7 +469,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 146,
-   "order": 38
+   "order": 41
   },
   {
    "slug": "lincolnshire",
@@ -448,7 +479,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 180,
-   "order": 39
+   "order": 42
   },
   {
    "slug": "derbyshire",
@@ -458,7 +489,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 162,
-   "order": 40
+   "order": 43
   },
   {
    "slug": "suffolk",
@@ -468,7 +499,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 164,
-   "order": 41
+   "order": 44
   },
   {
    "slug": "nottinghamshire",
@@ -478,7 +509,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 170,
-   "order": 42
+   "order": 45
   },
   {
    "slug": "cheshire",
@@ -488,7 +519,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 173,
-   "order": 43
+   "order": 46
   },
   {
    "slug": "norfolk",
@@ -498,7 +529,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 185,
-   "order": 44
+   "order": 47
   },
   {
    "slug": "south-yorkshire",
@@ -508,7 +539,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 195,
-   "order": 45
+   "order": 48
   },
   {
    "slug": "east-riding-of-yorkshire",
@@ -518,7 +549,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 224,
-   "order": 46
+   "order": 49
   },
   {
    "slug": "greater-manchester",
@@ -528,7 +559,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 191,
-   "order": 47
+   "order": 50
   },
   {
    "slug": "merseyside",
@@ -538,7 +569,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 192,
-   "order": 48
+   "order": 51
   },
   {
    "slug": "west-yorkshire",
@@ -548,7 +579,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 210,
-   "order": 49
+   "order": 52
   },
   {
    "slug": "north-yorkshire",
@@ -558,7 +589,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 239,
-   "order": 50
+   "order": 53
   },
   {
    "slug": "lancashire",
@@ -568,7 +599,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 218,
-   "order": 51
+   "order": 54
   },
   {
    "slug": "cumbria",
@@ -578,7 +609,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 268,
-   "order": 52
+   "order": 55
   },
   {
    "slug": "county-durham",
@@ -588,7 +619,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 275,
-   "order": 53
+   "order": 56
   },
   {
    "slug": "tyne-and-wear",
@@ -598,7 +629,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 293,
-   "order": 54
+   "order": 57
   },
   {
    "slug": "northumberland",
@@ -608,17 +639,17 @@
    "not_in_business": 0,
    "added": null,
    "miles": 313,
-   "order": 55
+   "order": 58
   }
  ],
  "S": {
-  "tot": 297,
+  "tot": 298,
   "counts": {
    "landscaping": 54,
    "driveways": 9,
    "paving_patios": 2,
    "surfacing": 11,
-   "groundworks": 229,
+   "groundworks": 230,
    "lawns_grounds": 49,
    "fencing_boundaries": 4,
    "decking_structures": 4,
@@ -630,7 +661,7 @@
   "avg": "\u2013",
   "ltd": 100,
   "ar": 11,
-  "nw": 244,
+  "nw": 245,
   "top": null,
   "dv": 0,
   "best": {
@@ -643,7 +674,7 @@
    "driveways": 4,
    "paving_patios": 1,
    "surfacing": 7,
-   "groundworks": 229,
+   "groundworks": 230,
    "lawns_grounds": 0,
    "fencing_boundaries": 0,
    "decking_structures": 4,
@@ -657,7 +688,7 @@
    "driveways": 9,
    "paving_patios": 2,
    "surfacing": 11,
-   "groundworks": 229,
+   "groundworks": 230,
    "lawns_grounds": 49,
    "fencing_boundaries": 4,
    "decking_structures": 4,
@@ -707,7 +738,7 @@
  "bounds": [
   [
    51.508,
-   -3.573
+   -3.586
   ],
   [
    51.769,
@@ -724,7 +755,7 @@
  "root": "../../",
  "qc_area": {
   "verified_trading": 8,
-  "ch_only_leads": 289
+  "ch_only_leads": 290
  },
  "data_file": "../../data/counties/rhondda-cynon-taf.json"
 }

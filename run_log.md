@@ -233,3 +233,15 @@ All 28 cover stars verified inside their own area (work/hero_audit.json). Site: 
 
 
 - 12:38 GMT: Issue 08 wrap-up: run log (completeness audit causes, next four distances, final figures)
+
+## 13 Nov 2026, 15:50 GMT: Issue 09 started: next four closest areas (Pete approved)
+Measured as before: straight-line distance from Poole to each area's official centre point (ONS county/unitary-authority centroids for Welsh principal areas, ceremonial-county centroids for England), skipping the 28 live areas (work/next_areas_distances.json):
+- Bridgend: 91.6 mi
+- Merthyr Tydfil: 93.0 mi
+- Neath Port Talbot: 99.6 mi
+- Hertfordshire: 105.7 mi
+(Next after these: Swansea 107.7, Bedfordshire 114.4.)
+Discovery: active only; SIC 43120 43999 81300 42110 43110 02100 02200 77320 42210; up to 15 pages (300 results) per search; any search that fills its last page or times out is rerun. CF14 8LH default-address companies are excluded because they have no real office to geocode.
+Issue 09 is a same-date edition (issues/2026-11-13-b/), built with the new --edition flag.
+
+- 15:56 GMT: Issue 09: Bridgend, Merthyr Tydfil, Neath Port Talbot and Hertfordshire added (active only, full SIC set); same-date edition support; publish URL check covers all areas
