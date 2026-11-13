@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-13T15:50:27+00:00",
+ "last_updated": "2026-11-13T16:06:51+00:00",
  "issue_date": "2026-11-13",
  "issue_key": "2026-11-13-b",
  "issue_no": 9,
@@ -14,27 +14,27 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 10829,
-  "driveways": 883,
-  "paving_patios": 692,
-  "surfacing": 540,
-  "groundworks": 29418,
-  "lawns_grounds": 10132,
-  "fencing_boundaries": 833,
-  "decking_structures": 1218,
-  "outdoor_masonry": 5,
-  "trees_vegetation": 1434,
-  "water_drainage": 464,
-  "exterior_cleaning": 764
+  "landscaping": 11118,
+  "driveways": 898,
+  "paving_patios": 706,
+  "surfacing": 550,
+  "groundworks": 30514,
+  "lawns_grounds": 10415,
+  "fencing_boundaries": 845,
+  "decking_structures": 1234,
+  "outdoor_masonry": 6,
+  "trees_vegetation": 1472,
+  "water_drainage": 490,
+  "exterior_cleaning": 773
  },
- "total": 43518,
- "total_ever": 55531,
- "new_this_issue": 2070,
+ "total": 44978,
+ "total_ever": 56991,
+ "new_this_issue": 3523,
  "version": "1.1",
  "phase": 1,
  "sample_mode": false,
  "hero": {
-  "firm": "Treacy Surfacing",
+  "firm": "Binns Fencing",
   "score": 3,
   "image": null
  },
@@ -46,19 +46,19 @@
   ],
   "dup_ch": [],
   "closed_not_in_business": 12008,
-  "enriched_from_ch": 1481,
-  "in_radius": 43518,
+  "enriched_from_ch": 1488,
+  "in_radius": 44978,
   "serves_only": 5,
-  "verified_trading": 1553,
-  "ch_only_leads": 41965,
+  "verified_trading": 1560,
+  "ch_only_leads": 43418,
   "verified_phone_or_web_pct": 98,
   "verified_conf_ge_05_pct": 99,
   "all_have_source_town_distance": true,
-  "contactable": 1553,
+  "contactable": 1560,
   "phone_or_web_pct": 3,
   "conf_ge_05_pct": 100,
-  "needs_check": 41996,
-  "no_website": 42050
+  "needs_check": 43449,
+  "no_website": 43503
  },
  "counties": [
   {
@@ -195,7 +195,7 @@
    "slug": "buckinghamshire",
    "name": "Buckinghamshire",
    "status": "in_progress",
-   "firms": 1429,
+   "firms": 1447,
    "not_in_business": 0,
    "added": "2026-11-12",
    "miles": 90,
@@ -205,7 +205,7 @@
    "slug": "greater-london",
    "name": "Greater London",
    "status": "in_progress",
-   "firms": 14288,
+   "firms": 14341,
    "not_in_business": 0,
    "added": "2026-11-12",
    "miles": 97,
@@ -375,7 +375,7 @@
    "slug": "hertfordshire",
    "name": "Hertfordshire",
    "status": "in_progress",
-   "firms": 1624,
+   "firms": 3013,
    "not_in_business": 0,
    "added": "2026-11-13",
    "miles": 106,
@@ -643,55 +643,55 @@
   }
  ],
  "S": {
-  "tot": 1624,
+  "tot": 3013,
   "counts": {
-   "landscaping": 424,
-   "driveways": 16,
-   "paving_patios": 11,
-   "surfacing": 16,
-   "groundworks": 1096,
-   "lawns_grounds": 412,
-   "fencing_boundaries": 13,
-   "decking_structures": 28,
+   "landscaping": 708,
+   "driveways": 31,
+   "paving_patios": 24,
+   "surfacing": 27,
+   "groundworks": 2132,
+   "lawns_grounds": 693,
+   "fencing_boundaries": 24,
+   "decking_structures": 44,
    "outdoor_masonry": 0,
-   "trees_vegetation": 75,
-   "water_drainage": 33,
-   "exterior_cleaning": 6
+   "trees_vegetation": 111,
+   "water_drainage": 54,
+   "exterior_cleaning": 14
   },
   "avg": "\u2013",
   "ltd": 100,
   "ar": 11,
-  "nw": 1617,
+  "nw": 3006,
   "top": null,
   "dv": 0,
   "best": null,
   "prim": {
-   "landscaping": 410,
-   "driveways": 5,
-   "paving_patios": 5,
-   "surfacing": 8,
-   "groundworks": 1091,
+   "landscaping": 687,
+   "driveways": 10,
+   "paving_patios": 11,
+   "surfacing": 13,
+   "groundworks": 2124,
    "lawns_grounds": 0,
-   "fencing_boundaries": 7,
-   "decking_structures": 26,
+   "fencing_boundaries": 13,
+   "decking_structures": 42,
    "outdoor_masonry": 0,
-   "trees_vegetation": 35,
-   "water_drainage": 31,
-   "exterior_cleaning": 6
+   "trees_vegetation": 51,
+   "water_drainage": 51,
+   "exterior_cleaning": 11
   },
   "sec": {
-   "landscaping": 424,
-   "driveways": 16,
-   "paving_patios": 11,
-   "surfacing": 16,
-   "groundworks": 1096,
-   "lawns_grounds": 412,
-   "fencing_boundaries": 13,
-   "decking_structures": 28,
+   "landscaping": 708,
+   "driveways": 31,
+   "paving_patios": 24,
+   "surfacing": 27,
+   "groundworks": 2132,
+   "lawns_grounds": 693,
+   "fencing_boundaries": 24,
+   "decking_structures": 44,
    "outdoor_masonry": 0,
-   "trees_vegetation": 75,
-   "water_drainage": 33,
-   "exterior_cleaning": 6
+   "trees_vegetation": 111,
+   "water_drainage": 54,
+   "exterior_cleaning": 14
   },
   "types": {
    "landscaping": [],
@@ -726,12 +726,12 @@
  },
  "bounds": [
   [
-   51.61,
-   -0.534
+   51.608,
+   -0.705
   ],
   [
    52.06,
-   0.102
+   0.189
   ]
  ],
  "area_base": "data/areas/",
@@ -744,7 +744,7 @@
  "root": "../../",
  "qc_area": {
   "verified_trading": 0,
-  "ch_only_leads": 1624
+  "ch_only_leads": 3013
  },
  "data_file": "../../data/counties/hertfordshire.json"
 }

@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T15:50:27+00:00",
- "total": 59361,
+ "updated": "2026-11-13T16:06:51+00:00",
+ "total": 60828,
  "note": "Full Trade Finder master, one file per county. Concatenate every file to get the whole directory.",
  "files": [
   {
@@ -21,8 +21,8 @@
    "slug": "bridgend",
    "part": null,
    "file": "data/counties/bridgend.json",
-   "records": 179,
-   "bytes": 298420
+   "records": 181,
+   "bytes": 302482
   },
   {
    "slug": "bristol",
@@ -35,8 +35,8 @@
    "slug": "buckinghamshire",
    "part": null,
    "file": "data/counties/buckinghamshire.json",
-   "records": 1467,
-   "bytes": 2466872
+   "records": 1485,
+   "bytes": 2497107
   },
   {
    "slug": "caerphilly",
@@ -71,7 +71,7 @@
    "part": null,
    "file": "data/counties/dorset.json",
    "records": 4195,
-   "bytes": 6858017
+   "bytes": 6858900
   },
   {
    "slug": "east-sussex",
@@ -105,8 +105,8 @@
    "slug": "greater-london",
    "part": "north",
    "file": "data/counties/greater-london--north.json",
-   "records": 3686,
-   "bytes": 6144968
+   "records": 3738,
+   "bytes": 6231219
   },
   {
    "slug": "greater-london",
@@ -119,15 +119,15 @@
    "slug": "greater-london",
    "part": "west",
    "file": "data/counties/greater-london--west.json",
-   "records": 2632,
-   "bytes": 4392427
+   "records": 2633,
+   "bytes": 4394072
   },
   {
    "slug": "hampshire",
    "part": null,
    "file": "data/counties/hampshire.json",
    "records": 10790,
-   "bytes": 17624190
+   "bytes": 17623746
   },
   {
    "slug": "herefordshire",
@@ -140,8 +140,8 @@
    "slug": "hertfordshire",
    "part": null,
    "file": "data/counties/hertfordshire.json",
-   "records": 1624,
-   "bytes": 2711662
+   "records": 3013,
+   "bytes": 5027974
   },
   {
    "slug": "isle-of-wight",
@@ -154,8 +154,8 @@
    "slug": "merthyr-tydfil",
    "part": null,
    "file": "data/counties/merthyr-tydfil.json",
-   "records": 81,
-   "bytes": 135357
+   "records": 84,
+   "bytes": 141551
   },
   {
    "slug": "monmouthshire",
@@ -168,8 +168,8 @@
    "slug": "neath-port-talbot",
    "part": null,
    "file": "data/counties/neath-port-talbot.json",
-   "records": 190,
-   "bytes": 318767
+   "records": 192,
+   "bytes": 322891
   },
   {
    "slug": "newport",
