@@ -154,3 +154,12 @@
 - 15:11 GMT: Issue 07 b9: +5 web-checked Newport and +2 Monmouthshire firms (2 hand-rejected)
 
 - 15:16 GMT: Issue 07 b10: +5 web-checked Vale of Glamorgan firms; final QC
+
+### 12 Nov 2026 summary (Issue 07, commits 2d3716e → 63a4b92)
+- Greater London: 14,288 active Companies House firms, master split into greater-london--{central,east,north,south,west}.json (largest 6.1 MB). Central was only 5 KB because the first pass searched "EC1", "W1", "SW1" and so on, and Companies House's address search matches whole tokens, so suffixed districts (EC1A, W1G, SW1P…) returned nothing. Fixed with a targeted active-only pass over 60 central sub-districts (+1,761 firms; central file now about 3 MB). 35 web-checked London firms (5 hand-rejected).
+- Enrichment: +8 Cornwall, +38 Bucks, +34 East Sussex, +35 London, +7 Cardiff, +5 Newport, +2 Monmouthshire, +5 Vale of Glamorgan (each one hand-checked; rejects are in work/go_reject.json).
+- Wales: Monmouthshire, Newport, Cardiff and Vale of Glamorgan added (31 NP/CF districts, active only, county from the postcodes.io admin_district). 189 "Companies House Default Address" (CF14 8LH) companies were left out because they don't geocode and aren't really based there.
+- Maps: the initial view now fits every plotted firm (meta.bounds, worked out at build time per page; per-county 0.5–99.5 percentile box +15% margin, so outlier geocodes are ignored). County pages fit their own area, and the radius circle is used only as a fallback.
+- Speed: building the XLSX was quadratic (ws.max_row inside the loop), so a full build now takes about 2 min instead of more than 15. go_enrich DNS-over-HTTPS has retries and a shared cache (work/dns_cache.json). Street-like or postal-county "towns" fall back to the borough.
+
+- 10:24 GMT: Issue 08: county cover lines use county figures; cover stars must be verified inside their own area (all 20 pass; precise site/registered postcode check)

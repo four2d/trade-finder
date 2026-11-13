@@ -14,7 +14,7 @@
    "firms": 1832,
    "not_in_business": 1841,
    "added": "2026-10-15",
-   "last_refreshed": "2026-11-12",
+   "last_refreshed": "2026-11-13",
    "ring": 0
   },
   {
@@ -29,7 +29,7 @@
    "firms": 4616,
    "not_in_business": 4611,
    "added": "2026-10-15",
-   "last_refreshed": "2026-11-12",
+   "last_refreshed": "2026-11-13",
    "ring": 1
   },
   {
@@ -45,7 +45,7 @@
    "not_in_business": 1326,
    "added": "2026-10-15",
    "ring": 1,
-   "last_refreshed": "2026-11-12"
+   "last_refreshed": "2026-11-13"
   },
   {
    "slug": "somerset",
@@ -60,7 +60,7 @@
    "not_in_business": 1607,
    "ring": 1,
    "added": "2026-10-15",
-   "last_refreshed": "2026-11-12"
+   "last_refreshed": "2026-11-13"
   },
   {
    "slug": "devon",
@@ -75,7 +75,7 @@
    "not_in_business": 1254,
    "ring": 1,
    "added": "2026-10-28",
-   "last_refreshed": "2026-11-12"
+   "last_refreshed": "2026-11-13"
   },
   {
    "slug": "isle-of-wight",
@@ -90,7 +90,7 @@
    "not_in_business": 110,
    "ring": 2,
    "added": "2026-10-28",
-   "last_refreshed": "2026-11-12"
+   "last_refreshed": "2026-11-13"
   },
   {
    "slug": "bristol",
@@ -105,7 +105,7 @@
    "not_in_business": 553,
    "ring": 2,
    "added": "2026-10-16",
-   "last_refreshed": "2026-11-12"
+   "last_refreshed": "2026-11-13"
   },
   {
    "slug": "berkshire",
@@ -120,7 +120,7 @@
    "not_in_business": 706,
    "ring": 2,
    "added": "2026-10-16",
-   "last_refreshed": "2026-11-12"
+   "last_refreshed": "2026-11-13"
   },
   {
    "slug": "west-sussex",
@@ -135,7 +135,7 @@
    "not_in_business": 0,
    "ring": 2,
    "added": "2026-11-10",
-   "last_refreshed": "2026-11-12"
+   "last_refreshed": "2026-11-13"
   },
   {
    "slug": "gloucestershire",
@@ -150,7 +150,7 @@
    "not_in_business": 0,
    "ring": 2,
    "added": "2026-11-10",
-   "last_refreshed": "2026-11-12"
+   "last_refreshed": "2026-11-13"
   },
   {
    "slug": "surrey",
@@ -165,7 +165,7 @@
    "not_in_business": 0,
    "ring": 2,
    "added": "2026-11-10",
-   "last_refreshed": "2026-11-12"
+   "last_refreshed": "2026-11-13"
   },
   {
    "slug": "oxfordshire",
@@ -180,7 +180,7 @@
    "not_in_business": 0,
    "ring": 2,
    "added": "2026-11-10",
-   "last_refreshed": "2026-11-12"
+   "last_refreshed": "2026-11-13"
   },
   {
    "slug": "cornwall",
@@ -195,7 +195,7 @@
    "not_in_business": 0,
    "ring": 2,
    "added": "2026-11-12",
-   "last_refreshed": "2026-11-12"
+   "last_refreshed": "2026-11-13"
   },
   {
    "slug": "buckinghamshire",
@@ -210,7 +210,7 @@
    "not_in_business": 0,
    "ring": 3,
    "added": "2026-11-12",
-   "last_refreshed": "2026-11-12"
+   "last_refreshed": "2026-11-13"
   },
   {
    "slug": "greater-london",
@@ -225,7 +225,7 @@
    "not_in_business": 0,
    "ring": 3,
    "added": "2026-11-12",
-   "last_refreshed": "2026-11-12"
+   "last_refreshed": "2026-11-13"
   },
   {
    "slug": "east-sussex",
@@ -240,7 +240,7 @@
    "not_in_business": 0,
    "ring": 3,
    "added": "2026-11-12",
-   "last_refreshed": "2026-11-12"
+   "last_refreshed": "2026-11-13"
   },
   {
    "slug": "monmouthshire",
@@ -255,7 +255,7 @@
    "not_in_business": 0,
    "ring": 3,
    "added": "2026-11-12",
-   "last_refreshed": "2026-11-12",
+   "last_refreshed": "2026-11-13",
    "country": "Wales"
   },
   {
@@ -271,7 +271,7 @@
    "not_in_business": 0,
    "ring": 3,
    "added": "2026-11-12",
-   "last_refreshed": "2026-11-12",
+   "last_refreshed": "2026-11-13",
    "country": "Wales"
   },
   {
@@ -287,7 +287,7 @@
    "not_in_business": 0,
    "ring": 3,
    "added": "2026-11-12",
-   "last_refreshed": "2026-11-12",
+   "last_refreshed": "2026-11-13",
    "country": "Wales"
   },
   {
@@ -303,7 +303,7 @@
    "not_in_business": 0,
    "ring": 3,
    "added": "2026-11-12",
-   "last_refreshed": "2026-11-12",
+   "last_refreshed": "2026-11-13",
    "country": "Wales"
   },
   {

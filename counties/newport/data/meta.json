@@ -1,7 +1,7 @@
 {
- "last_updated": "2026-11-12T15:12:51+00:00",
- "issue_date": "2026-11-12",
- "issue_no": 7,
+ "last_updated": "2026-11-13T10:20:30+00:00",
+ "issue_date": "2026-11-13",
+ "issue_no": 8,
  "radius_miles": 25,
  "origin": {
   "name": "Poole",
@@ -28,7 +28,7 @@
  },
  "total": 37119,
  "total_ever": 49132,
- "new_this_issue": 18267,
+ "new_this_issue": 0,
  "version": "1.1",
  "phase": 1,
  "sample_mode": false,
@@ -590,7 +590,7 @@
   "avg": "\u2013",
   "ltd": 100,
   "ar": 9,
-  "nw": 192,
+  "nw": 0,
   "top": null,
   "dv": 0,
   "best": {
@@ -686,5 +686,9 @@
  "county": "Newport",
  "county_slug": "newport",
  "root": "../../",
+ "qc_area": {
+  "verified_trading": 5,
+  "ch_only_leads": 187
+ },
  "data_file": "../../data/counties/newport.json"
 }
