@@ -187,3 +187,49 @@ Next after those: Bridgend 91.6, Merthyr Tydfil 93.0, Neath Port Talbot 99.6, He
 - 12:29 GMT: Issue 08: first web-checked Caerphilly (1), Rhondda Cynon Taf (8), Blaenau Gwent (3) firms
 
 - 12:31 GMT: Issue 08: first web-checked Caerphilly (1), Rhondda Cynon Taf (8), Blaenau Gwent (3) firms
+
+## 13 Nov 2026, 12:50 GMT: Issue 08 wrap-up (Midlands four, Welsh/Bristol completeness audit, next four Welsh areas)
+Commits today on four2d/trade-finder: cbb37de (county cover figures + in-area cover stars), 8e80cac (Midlands four discovery), 5ad2b3c (+6 Herefordshire checked), 5523bda (+14 Worcestershire), c75a49f (+24 Warwickshire; Welsh completeness pass), a4c0ac1 (Torfaen, Caerphilly, RCT, Blaenau Gwent added; Bristol pass), 77da684 (+15 Northamptonshire, +4 Torfaen, retried timed-out searches), c4ddfde (+1 Caerphilly, +8 RCT, +3 Blaenau Gwent).
+Next four picked by centroid distance from Poole (ONS county/UA centroids, areas not yet on the site): Torfaen 82.1 mi, Caerphilly 83.2 mi, Rhondda Cynon Taf 88.0 mi, Blaenau Gwent 88.5 mi.
+
+Completeness audit (listed trading before -> after; web-checked before -> after):
+- Cardiff 322 -> 386 (+64); checked 7 -> 8. Cause: the CF14 searches hit the 3-page (60-result) cap because CF14 holds the Companies House default address (CF14 8LH), so the capped pages were filled with default-address companies. CF14 43999/81300 rerun to 15 pages gave +43. SICs 77320 plant hire with operator, 02100 forestry and 42210 utility works were never searched: +21. 215 default-address companies were found (no real office); the trade-named ones had 43 candidate websites checked, and none showed a company number plus a trading postcode in the area, so none were added.
+- Newport 192 -> 210 (+18); checked 5 -> 6. Cause: missing SICs (77320 +16, 42210 +2). The NP19/NP20/NP44 43999 cap reruns found nothing new.
+- Vale of Glamorgan 147 -> 161 (+14); checked 5. Cause: missing SICs (02100 forestry +6, 77320 +7, 42210 +1). The CF62 forestry search that timed out was retried (+1 of the 6).
+- Monmouthshire 179 -> 203 (+24); checked 2. Cause: missing SICs (77320 +15, 02100 +9). The NP16 cap rerun found nothing new.
+- Bristol 505 -> 542 (+37); checked 58 -> 60. Cause: missing SICs (77320 +21, 02100 +12, 42110/42210 +2) plus the BS7 43999 page cap (+1); BS16 timeouts retried. 37 Bristol-postcode firms are filed under Somerset (26) and Gloucestershire (11) because their registered offices geocode to North Somerset/South Glos (admin boundary, correct).
+All 28 cover stars verified inside their own area (work/hero_audit.json). Site: 41,442 listed trading (1,553 web-checked, 39,889 CH-only leads), 12,008 not in business (unchanged).
+| Area | Listed (trading) | Web-checked | Not in business | Cover star |
+|---|---:|---:|---:|---|
+| Dorset | 1,832 | 192 | 1,841 | D.S. Waker Driveways & Patios (BH17, registered office) |
+| Hampshire | 4,616 | 344 | 4,611 | Arbor Venture Tree Care (SO41, registered office) |
+| Wiltshire | 1,551 | 135 | 1,326 | Acer Tree Surgeons (BA13, registered office) |
+| Somerset | 1,937 | 142 | 1,607 | Becks Tree and Landscape (BA2, registered office) |
+| Devon | 1,449 | 157 | 1,254 | A2B Fencing Solutions (PL6, registered office) |
+| Isle of Wight | 146 | 22 | 110 | Dixcey Landscapes (PO38, registered office) |
+| Bristol | 542 | 60 | 553 | Green Planet Tree Services (BS13, registered office) |
+| Berkshire | 688 | 79 | 706 | Evolution Tree Surgery (RG19, registered office) |
+| West Sussex | 1,508 | 44 | 0 | Above All Landscaping (PO20, site postcode PO20 8JQ) |
+| Gloucestershire | 1,274 | 47 | 0 | Anderson Norman Landscapes (GL10, registered office) |
+| Surrey | 2,380 | 74 | 0 | 1ST Advanced Landscapes (GU26, site postcode GU26 6SL) |
+| Oxfordshire | 920 | 28 | 0 | 007 Groundworks Solutions (OX25, site postcode OX25 1AG) |
+| Cornwall | 611 | 27 | 0 | Alpine Decking (TR5, site postcode TR5 0XQ) |
+| Buckinghamshire | 1,429 | 37 | 0 | Alderbourne Landscapes (HP15, site postcode HP15 7JJ) |
+| Greater London | 14,288 | 35 | 0 | 365 Gardening (E4, site postcode E4 9QR) |
+| East Sussex | 1,176 | 34 | 0 | A.L.M Tree Care (TN39, registered office) |
+| Monmouthshire | 203 | 2 | 0 | Gardenology Group UK (NP7, site postcode NP7 6PE) |
+| Newport | 210 | 6 | 0 | Acw Draincare (NP20, site postcode NP20 3BX) |
+| Cardiff | 386 | 8 | 0 | Caerdydd Groundworks (CF24, site postcode CF24 5PJ) |
+| Vale of Glamorgan | 161 | 5 | 0 | Ceejay Landscapes (CF35, site postcode CF35 5DR) |
+| Herefordshire | 286 | 6 | 0 | Fix My Garden (HR8, registered office) |
+| Worcestershire | 966 | 14 | 0 | Arc Ground Care (DY10, site postcode DY10 4HD) |
+| Warwickshire | 860 | 24 | 0 | Advance Tree Care (CV10, site postcode CV10 0TB) |
+| Northamptonshire | 1,324 | 15 | 0 | AD Landscapes & Maintenance (NN12, site postcode NN12 8EU) |
+| Torfaen | 124 | 4 | 0 | DT Landscapes & Tree Services (NP4, registered office) |
+| Caerphilly | 219 | 1 | 0 | Big & Small Groundcare (CF83, site postcode CF83 8HL) |
+| Rhondda Cynon Taf | 297 | 8 | 0 | C2 Groundworks (CF39, site postcode CF39 8ER) |
+| Blaenau Gwent | 59 | 3 | 0 | Arbor Care South Wales (NP23, registered office) |
+| **Total (28 areas)** | 41,442 | 1,553 | 12,008 | |
+
+
+- 12:38 GMT: Issue 08 wrap-up: run log (completeness audit causes, next four distances, final figures)
