@@ -1,5 +1,5 @@
 {
- "note": "England ceremonial counties only (v1.1). Centroids approximate. Day 1 = Dorset + 25-mile ring; then one county per day by centroid distance from Poole; once all are in, refresh all daily. Wales/Scotland/NI to be added if Pete wants. Scope change 15 Oct 2026 (Pete): week 1 = Dorset and Hampshire only, as thorough as possible; all other counties paused. Order change 15 Oct 2026 (Pete): queue works outwards from Dorset by adjacency rings (ring 1 = Dorset's neighbours Hampshire, Wiltshire, Somerset, Devon; then their neighbours, and so on; within a ring by distance from Poole). Wiltshire added, in progress. Somerset added 15 Oct 2026 (Pete), in progress; after Somerset no more counties are added (Devon and the rest stay paused). Devon and Isle of Wight added 28 Oct 2026 (Pete), in progress; no further counties until Pete says. West Sussex and Surrey added 10 Nov 2026 (Pete), in progress; no further counties until Pete says. From 10 Nov 2026 (Pete): only active firms are added; no new dissolved/closed Companies House records (existing Not in business records kept). Gloucestershire (ceremonial, incl. South Gloucestershire) and Oxfordshire added 10 Nov 2026 (Pete), in progress, active firms only; no further counties until Pete says. Cornwall (incl. Isles of Scilly), Buckinghamshire (incl. Milton Keynes), East Sussex (incl. Brighton & Hove) and Greater London (32 boroughs + City) added 12 Nov 2026 (Pete), active firms only. 12 Nov 2026: Pete added four Welsh principal areas (Monmouthshire, Newport, Cardiff, Vale of Glamorgan); active Companies House firms only.",
+ "note": "England ceremonial counties only (v1.1). Centroids approximate. Day 1 = Dorset + 25-mile ring; then one county per day by centroid distance from Poole; once all are in, refresh all daily. Wales/Scotland/NI to be added if Pete wants. Scope change 15 Oct 2026 (Pete): week 1 = Dorset and Hampshire only, as thorough as possible; all other counties paused. Order change 15 Oct 2026 (Pete): queue works outwards from Dorset by adjacency rings (ring 1 = Dorset's neighbours Hampshire, Wiltshire, Somerset, Devon; then their neighbours, and so on; within a ring by distance from Poole). Wiltshire added, in progress. Somerset added 15 Oct 2026 (Pete), in progress; after Somerset no more counties are added (Devon and the rest stay paused). Devon and Isle of Wight added 28 Oct 2026 (Pete), in progress; no further counties until Pete says. West Sussex and Surrey added 10 Nov 2026 (Pete), in progress; no further counties until Pete says. From 10 Nov 2026 (Pete): only active firms are added; no new dissolved/closed Companies House records (existing Not in business records kept). Gloucestershire (ceremonial, incl. South Gloucestershire) and Oxfordshire added 10 Nov 2026 (Pete), in progress, active firms only; no further counties until Pete says. Cornwall (incl. Isles of Scilly), Buckinghamshire (incl. Milton Keynes), East Sussex (incl. Brighton & Hove) and Greater London (32 boroughs + City) added 12 Nov 2026 (Pete), active firms only. 12 Nov 2026: Pete added four Welsh principal areas (Monmouthshire, Newport, Cardiff, Vale of Glamorgan); active Companies House firms only. 13 Nov 2026: Pete added Herefordshire, Worcestershire, Warwickshire and Northamptonshire (active firms only).",
  "origin": "Poole",
  "queue": [
   {
@@ -56,7 +56,7 @@
    "order": 4,
    "status": "in_progress",
    "planned_day": 4,
-   "firms": 1938,
+   "firms": 1937,
    "not_in_business": 1607,
    "ring": 1,
    "added": "2026-10-15",
@@ -146,7 +146,7 @@
    "order": 10,
    "status": "in_progress",
    "planned_day": 10,
-   "firms": 1245,
+   "firms": 1256,
    "not_in_business": 0,
    "ring": 2,
    "added": "2026-11-10",
@@ -206,7 +206,7 @@
    "order": 14,
    "status": "in_progress",
    "planned_day": 14,
-   "firms": 1426,
+   "firms": 1429,
    "not_in_business": 0,
    "ring": 3,
    "added": "2026-11-12",
@@ -313,11 +313,13 @@
    "lng": -2.75,
    "miles": 100,
    "order": 21,
-   "status": "paused",
+   "status": "in_progress",
    "planned_day": 17,
-   "firms": 0,
+   "firms": 285,
    "not_in_business": 0,
-   "ring": 3
+   "ring": 3,
+   "added": "2026-11-13",
+   "last_refreshed": "2026-11-13"
   },
   {
    "slug": "worcestershire",
@@ -326,11 +328,13 @@
    "lng": -2.2,
    "miles": 103,
    "order": 22,
-   "status": "paused",
+   "status": "in_progress",
    "planned_day": 18,
-   "firms": 0,
+   "firms": 966,
    "not_in_business": 0,
-   "ring": 3
+   "ring": 3,
+   "added": "2026-11-13",
+   "last_refreshed": "2026-11-13"
   },
   {
    "slug": "warwickshire",
@@ -339,11 +343,13 @@
    "lng": -1.55,
    "miles": 111,
    "order": 23,
-   "status": "paused",
+   "status": "in_progress",
    "planned_day": 19,
-   "firms": 0,
+   "firms": 860,
    "not_in_business": 0,
-   "ring": 3
+   "ring": 3,
+   "added": "2026-11-13",
+   "last_refreshed": "2026-11-13"
   },
   {
    "slug": "northamptonshire",
@@ -352,11 +358,13 @@
    "lng": -0.9,
    "miles": 119,
    "order": 24,
-   "status": "paused",
+   "status": "in_progress",
    "planned_day": 20,
-   "firms": 0,
+   "firms": 1324,
    "not_in_business": 0,
-   "ring": 3
+   "ring": 3,
+   "added": "2026-11-13",
+   "last_refreshed": "2026-11-13"
   },
   {
    "slug": "kent",

@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T10:20:30+00:00",
- "total": 52884,
+ "updated": "2026-11-13T10:35:56+00:00",
+ "total": 56332,
  "note": "Full Trade Finder master, one file per county. Concatenate every file to get the whole directory.",
  "files": [
   {
@@ -21,8 +21,8 @@
    "slug": "buckinghamshire",
    "part": null,
    "file": "data/counties/buckinghamshire.json",
-   "records": 1464,
-   "bytes": 2461816
+   "records": 1467,
+   "bytes": 2466872
   },
   {
    "slug": "cardiff",
@@ -50,7 +50,7 @@
    "part": null,
    "file": "data/counties/dorset.json",
    "records": 4195,
-   "bytes": 6858017
+   "bytes": 6858900
   },
   {
    "slug": "east-sussex",
@@ -63,8 +63,8 @@
    "slug": "gloucestershire",
    "part": null,
    "file": "data/counties/gloucestershire.json",
-   "records": 1246,
-   "bytes": 2100764
+   "records": 1257,
+   "bytes": 2119188
   },
   {
    "slug": "greater-london",
@@ -106,7 +106,14 @@
    "part": null,
    "file": "data/counties/hampshire.json",
    "records": 10790,
-   "bytes": 17624190
+   "bytes": 17623746
+  },
+  {
+   "slug": "herefordshire",
+   "part": null,
+   "file": "data/counties/herefordshire.json",
+   "records": 285,
+   "bytes": 476779
   },
   {
    "slug": "isle-of-wight",
@@ -130,6 +137,13 @@
    "bytes": 329247
   },
   {
+   "slug": "northamptonshire",
+   "part": null,
+   "file": "data/counties/northamptonshire.json",
+   "records": 1324,
+   "bytes": 2214450
+  },
+  {
    "slug": "oxfordshire",
    "part": null,
    "file": "data/counties/oxfordshire.json",
@@ -140,8 +154,8 @@
    "slug": "somerset",
    "part": null,
    "file": "data/counties/somerset.json",
-   "records": 4075,
-   "bytes": 6667030
+   "records": 4074,
+   "bytes": 6665398
   },
   {
    "slug": "surrey",
@@ -158,6 +172,13 @@
    "bytes": 256217
   },
   {
+   "slug": "warwickshire",
+   "part": null,
+   "file": "data/counties/warwickshire.json",
+   "records": 860,
+   "bytes": 1437799
+  },
+  {
    "slug": "west-sussex",
    "part": null,
    "file": "data/counties/west-sussex.json",
@@ -170,6 +191,13 @@
    "file": "data/counties/wiltshire.json",
    "records": 3480,
    "bytes": 5711552
+  },
+  {
+   "slug": "worcestershire",
+   "part": null,
+   "file": "data/counties/worcestershire.json",
+   "records": 966,
+   "bytes": 1616991
   }
  ]
 }
