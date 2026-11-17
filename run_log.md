@@ -319,3 +319,22 @@ Checks before publishing: pixel compare old (f4b3cad) vs new on 6 pages × deskt
 - 11:07 GMT: Page speed 1/2: lean per-county pin files and prebuilt map bubbles (data only; pages unchanged)
 
 - 11:09 GMT: Page speed 2/2: home, issue and county pages open with prebuilt bubbles; pins load per county past zoom 10
+
+### After (live b9187e0, measured 11:53–12:03 GMT, same tool and settings as the baseline: throttled 4G, cold cache, median of 3)
+
+| Page | Device | Bytes before | Bytes after | Map usable before | Map usable after |
+|---|---|---:|---:|---:|---:|
+| Home | desktop | 1,769,418 | 504,510 | 9.96 s | 2.18 s |
+| Home | mobile | 1,620,381 | 355,334 | 9.27 s | 2.13 s |
+| Dorset | desktop | 578,172 | 535,721 | 3.31 s | 1.98 s |
+| Dorset | mobile | 319,530 | 277,051 | 2.33 s | 1.44 s |
+| Greater London | desktop | 1,121,916 | 793,414 | 6.60 s | 2.51 s |
+| Greater London | mobile | 642,731 | 297,718 | 4.03 s | 2.10 s |
+
+- Home: the map's own data is now data/map/all.json, 21.6 KB gzipped (was data/pins.json, 1,292 KB). Most remaining bytes are OpenStreetMap tiles and Leaflet, which did not change.
+- Dorset: few bytes saved (its pins were only 48 KB). The gain is time: no live clustering of all pins at load.
+- Search index: still loads only on first use of search. It now starts when the search box is focused, with the "Loading search index…" spinner.
+- Pin data: per-county files, 3.51 MB raw / 1.08 MB gz in total (was 5.18 MB / 1.29 MB in one file). They load only past zoom 10, for the counties in view.
+- Trade-offs: (1) bubbles or pins can move 1 pixel at rare spots, from rounding coordinates to 5 decimals (about 1 m). (2) Past zoom 10, a pan into a new county shows the spinner while that county's pins load. (3) Single pins at zoom 10 and below get their name tooltip and popup once their county file loads (a fraction of a second on hover or click). (4) A search, or another filter, loads every county's pins, the same amount the old page loaded. (5) With an area filter on, the highlighted firm outside that area shows as its own pin at bubble zooms. The old map folded it into a nearby bubble. A refinement is parked locally (work/speed/page_curx_wip.html), not published.
+
+- 12:03 GMT: Page speed: run log with before/after measurements
