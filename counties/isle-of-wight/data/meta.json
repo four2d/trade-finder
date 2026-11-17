@@ -812,5 +812,33 @@
   "verified_trading": 22,
   "ch_only_leads": 124
  },
- "data_file": "../../data/counties/isle-of-wight.json"
+ "data_file": "../../data/counties/isle-of-wight.json",
+ "zb": 10,
+ "pa": [
+  "landscaping",
+  "driveways",
+  "paving_patios",
+  "surfacing",
+  "groundworks",
+  "lawns_grounds",
+  "fencing_boundaries",
+  "decking_structures",
+  "outdoor_masonry",
+  "trees_vegetation",
+  "water_drainage",
+  "exterior_cleaning",
+  "water_features"
+ ],
+ "units": [
+  [
+   "isle-of-wight",
+   50.5935,
+   -1.5435,
+   50.7645,
+   -1.0815,
+   146
+  ]
+ ],
+ "map_base": "data/map/",
+ "pin_base": "../../data/pins/"
 }

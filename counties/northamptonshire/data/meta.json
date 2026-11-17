@@ -764,5 +764,33 @@
   "verified_trading": 15,
   "ch_only_leads": 1309
  },
- "data_file": "../../data/counties/northamptonshire.json"
+ "data_file": "../../data/counties/northamptonshire.json",
+ "zb": 10,
+ "pa": [
+  "landscaping",
+  "driveways",
+  "paving_patios",
+  "surfacing",
+  "groundworks",
+  "lawns_grounds",
+  "fencing_boundaries",
+  "decking_structures",
+  "outdoor_masonry",
+  "trees_vegetation",
+  "water_drainage",
+  "exterior_cleaning",
+  "water_features"
+ ],
+ "units": [
+  [
+   "northamptonshire",
+   51.9785,
+   -1.2865,
+   52.6265,
+   -0.3665,
+   1324
+  ]
+ ],
+ "map_base": "data/map/",
+ "pin_base": "../../data/pins/"
 }

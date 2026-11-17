@@ -768,5 +768,33 @@
   "verified_trading": 24,
   "ch_only_leads": 836
  },
- "data_file": "../../data/counties/warwickshire.json"
+ "data_file": "../../data/counties/warwickshire.json",
+ "zb": 10,
+ "pa": [
+  "landscaping",
+  "driveways",
+  "paving_patios",
+  "surfacing",
+  "groundworks",
+  "lawns_grounds",
+  "fencing_boundaries",
+  "decking_structures",
+  "outdoor_masonry",
+  "trees_vegetation",
+  "water_drainage",
+  "exterior_cleaning",
+  "water_features"
+ ],
+ "units": [
+  [
+   "warwickshire",
+   51.9825,
+   -1.9195,
+   52.6655,
+   -1.1865,
+   860
+  ]
+ ],
+ "map_base": "data/map/",
+ "pin_base": "../../data/pins/"
 }

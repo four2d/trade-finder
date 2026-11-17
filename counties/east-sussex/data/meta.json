@@ -771,5 +771,33 @@
   "verified_trading": 34,
   "ch_only_leads": 1142
  },
- "data_file": "../../data/counties/east-sussex.json"
+ "data_file": "../../data/counties/east-sussex.json",
+ "zb": 10,
+ "pa": [
+  "landscaping",
+  "driveways",
+  "paving_patios",
+  "surfacing",
+  "groundworks",
+  "lawns_grounds",
+  "fencing_boundaries",
+  "decking_structures",
+  "outdoor_masonry",
+  "trees_vegetation",
+  "water_drainage",
+  "exterior_cleaning",
+  "water_features"
+ ],
+ "units": [
+  [
+   "east-sussex",
+   50.7555,
+   -0.2355,
+   51.1395,
+   0.7625,
+   1176
+  ]
+ ],
+ "map_base": "data/map/",
+ "pin_base": "../../data/pins/"
 }

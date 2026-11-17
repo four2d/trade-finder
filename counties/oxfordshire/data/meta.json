@@ -768,5 +768,33 @@
   "verified_trading": 28,
   "ch_only_leads": 892
  },
- "data_file": "../../data/counties/oxfordshire.json"
+ "data_file": "../../data/counties/oxfordshire.json",
+ "zb": 10,
+ "pa": [
+  "landscaping",
+  "driveways",
+  "paving_patios",
+  "surfacing",
+  "groundworks",
+  "lawns_grounds",
+  "fencing_boundaries",
+  "decking_structures",
+  "outdoor_masonry",
+  "trees_vegetation",
+  "water_drainage",
+  "exterior_cleaning",
+  "water_features"
+ ],
+ "units": [
+  [
+   "oxfordshire",
+   51.4925,
+   -1.6655,
+   52.1475,
+   -0.8825,
+   920
+  ]
+ ],
+ "map_base": "data/map/",
+ "pin_base": "../../data/pins/"
 }

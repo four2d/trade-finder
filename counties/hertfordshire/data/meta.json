@@ -761,5 +761,33 @@
   "verified_trading": 14,
   "ch_only_leads": 2999
  },
- "data_file": "../../data/counties/hertfordshire.json"
+ "data_file": "../../data/counties/hertfordshire.json",
+ "zb": 10,
+ "pa": [
+  "landscaping",
+  "driveways",
+  "paving_patios",
+  "surfacing",
+  "groundworks",
+  "lawns_grounds",
+  "fencing_boundaries",
+  "decking_structures",
+  "outdoor_masonry",
+  "trees_vegetation",
+  "water_drainage",
+  "exterior_cleaning",
+  "water_features"
+ ],
+ "units": [
+  [
+   "hertfordshire",
+   51.6075,
+   -0.7055,
+   52.0605,
+   0.1895,
+   3013
+  ]
+ ],
+ "map_base": "data/map/",
+ "pin_base": "../../data/pins/"
 }

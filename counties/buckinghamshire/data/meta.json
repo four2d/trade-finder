@@ -770,5 +770,33 @@
   "verified_trading": 37,
   "ch_only_leads": 1410
  },
- "data_file": "../../data/counties/buckinghamshire.json"
+ "data_file": "../../data/counties/buckinghamshire.json",
+ "zb": 10,
+ "pa": [
+  "landscaping",
+  "driveways",
+  "paving_patios",
+  "surfacing",
+  "groundworks",
+  "lawns_grounds",
+  "fencing_boundaries",
+  "decking_structures",
+  "outdoor_masonry",
+  "trees_vegetation",
+  "water_drainage",
+  "exterior_cleaning",
+  "water_features"
+ ],
+ "units": [
+  [
+   "buckinghamshire",
+   51.4905,
+   -1.1235,
+   52.1195,
+   -0.4835,
+   1447
+  ]
+ ],
+ "map_base": "data/map/",
+ "pin_base": "../../data/pins/"
 }

@@ -756,5 +756,33 @@
   "verified_trading": 3,
   "ch_only_leads": 56
  },
- "data_file": "../../data/counties/blaenau-gwent.json"
+ "data_file": "../../data/counties/blaenau-gwent.json",
+ "zb": 10,
+ "pa": [
+  "landscaping",
+  "driveways",
+  "paving_patios",
+  "surfacing",
+  "groundworks",
+  "lawns_grounds",
+  "fencing_boundaries",
+  "decking_structures",
+  "outdoor_masonry",
+  "trees_vegetation",
+  "water_drainage",
+  "exterior_cleaning",
+  "water_features"
+ ],
+ "units": [
+  [
+   "blaenau-gwent",
+   51.6815,
+   -3.2825,
+   51.8025,
+   -3.1235,
+   59
+  ]
+ ],
+ "map_base": "data/map/",
+ "pin_base": "../../data/pins/"
 }

@@ -972,5 +972,33 @@
   "verified_trading": 192,
   "ch_only_leads": 1640
  },
- "data_file": "../../data/counties/dorset.json"
+ "data_file": "../../data/counties/dorset.json",
+ "zb": 10,
+ "pa": [
+  "landscaping",
+  "driveways",
+  "paving_patios",
+  "surfacing",
+  "groundworks",
+  "lawns_grounds",
+  "fencing_boundaries",
+  "decking_structures",
+  "outdoor_masonry",
+  "trees_vegetation",
+  "water_drainage",
+  "exterior_cleaning",
+  "water_features"
+ ],
+ "units": [
+  [
+   "dorset",
+   50.5285,
+   -2.9475,
+   51.4811,
+   -1.5127,
+   1832
+  ]
+ ],
+ "map_base": "data/map/",
+ "pin_base": "../../data/pins/"
 }

@@ -299,3 +299,21 @@ All 32 cover stars verified in-area (work/hero_audit.json). Desktop and mobile Q
 Site: 44,978 listed trading (1,574 web-checked, 43,404 CH-only leads); 12,008 not in business (unchanged).
 
 - 17:10 GMT: Issue 09 wrap-up: run log (distances, web-check results, final figures)
+
+## 17 Nov 2026 — page speed (Pete: "go")
+
+Baseline (live f4b3cad, headless Chrome, throttled 4G = 150 ms RTT / 1.6 Mbps down / 750 kbps up, cold cache, median of 3; tools/perf_measure.py; "map usable" = tiles + bubbles/pins drawn, no spinner, map scrolled into view / "Show map" pressed on mobile):
+
+| Page | Desktop bytes | Desktop map usable | Mobile bytes | Mobile map usable |
+|---|---|---|---|---|
+| Home | 1,769,418 | 9.96 s | 1,620,381 | 9.27 s |
+| Dorset | 578,172 | 3.31 s | 319,530 | 2.33 s |
+| Greater London | 1,121,916 | 6.60 s | 642,731 | 4.03 s |
+
+Home: data/pins.json alone is 1,292,390 bytes gzipped (44k pins). The search index (data/index.json) was already loaded only when search/filters are used.
+
+Approach: tools/mapdata.py runs the page's own Leaflet 1.9.4 + markercluster 1.5.3 (vendored in tools/vendor, same options) in headless Chrome at build time and saves the bubble tree for zooms 0–10 per page and per trade area (data/map/<all|area>.json, counties/<slug>/data/map/). The page rebuilds that tree inside a real MarkerClusterGroup, so the bubbles, sizes, glow, animations and click-to-split are markercluster's own. Past zoom 10 real pins load per county (Greater London per part) from data/pins/<unit>.json (lean rows, 5-dp coordinates) and cluster live exactly as before. tools/mapwrite.py writes all of this; build_issue.py calls it after the data files. data/pins.json is still written for older issue pages.
+
+Checks before publishing: pixel compare old (f4b3cad) vs new on 6 pages × desktop/mobile × 12 map states (fit, zoom 7–15, back to 9): 132 screenshots, all identical except a few 1-pixel shifts of single bubbles/pins (5-dp rounding) and OSM tile re-renders. Same clicks on old and new (6 bubble clicks across the zoom-10/11 handoff, pin popup, zoom out, search, clear, area chip, Show on map): same zoom, centre, popup and highlight.
+
+- 11:07 GMT: Page speed 1/2: lean per-county pin files and prebuilt map bubbles (data only; pages unchanged)

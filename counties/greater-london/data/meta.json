@@ -769,5 +769,65 @@
   "verified_trading": 35,
   "ch_only_leads": 14306
  },
- "data_file": "../../data/counties/greater-london.json"
+ "data_file": "../../data/counties/greater-london.json",
+ "zb": 10,
+ "pa": [
+  "landscaping",
+  "driveways",
+  "paving_patios",
+  "surfacing",
+  "groundworks",
+  "lawns_grounds",
+  "fencing_boundaries",
+  "decking_structures",
+  "outdoor_masonry",
+  "trees_vegetation",
+  "water_drainage",
+  "exterior_cleaning",
+  "water_features"
+ ],
+ "units": [
+  [
+   "greater-london--central",
+   51.4855,
+   -0.1655,
+   51.5325,
+   -0.0755,
+   1803
+  ],
+  [
+   "greater-london--east",
+   51.4895,
+   -0.0785,
+   51.6435,
+   0.2955,
+   2823
+  ],
+  [
+   "greater-london--north",
+   51.5175,
+   -0.4465,
+   51.6865,
+   -0.0115,
+   3716
+  ],
+  [
+   "greater-london--south",
+   51.2995,
+   -0.3155,
+   51.5125,
+   0.1995,
+   3371
+  ],
+  [
+   "greater-london--west",
+   51.3915,
+   -0.4995,
+   51.6145,
+   -0.1055,
+   2628
+  ]
+ ],
+ "map_base": "data/map/",
+ "pin_base": "../../data/pins/"
 }

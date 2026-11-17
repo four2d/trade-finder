@@ -772,5 +772,33 @@
   "verified_trading": 44,
   "ch_only_leads": 1464
  },
- "data_file": "../../data/counties/west-sussex.json"
+ "data_file": "../../data/counties/west-sussex.json",
+ "zb": 10,
+ "pa": [
+  "landscaping",
+  "driveways",
+  "paving_patios",
+  "surfacing",
+  "groundworks",
+  "lawns_grounds",
+  "fencing_boundaries",
+  "decking_structures",
+  "outdoor_masonry",
+  "trees_vegetation",
+  "water_drainage",
+  "exterior_cleaning",
+  "water_features"
+ ],
+ "units": [
+  [
+   "west-sussex",
+   50.7235,
+   -0.9365,
+   51.1455,
+   0.0225,
+   1508
+  ]
+ ],
+ "map_base": "data/map/",
+ "pin_base": "../../data/pins/"
 }

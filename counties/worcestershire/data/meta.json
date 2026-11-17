@@ -766,5 +766,33 @@
   "verified_trading": 14,
   "ch_only_leads": 952
  },
- "data_file": "../../data/counties/worcestershire.json"
+ "data_file": "../../data/counties/worcestershire.json",
+ "zb": 10,
+ "pa": [
+  "landscaping",
+  "driveways",
+  "paving_patios",
+  "surfacing",
+  "groundworks",
+  "lawns_grounds",
+  "fencing_boundaries",
+  "decking_structures",
+  "outdoor_masonry",
+  "trees_vegetation",
+  "water_drainage",
+  "exterior_cleaning",
+  "water_features"
+ ],
+ "units": [
+  [
+   "worcestershire",
+   51.9795,
+   -2.5965,
+   52.4385,
+   -1.8155,
+   966
+  ]
+ ],
+ "map_base": "data/map/",
+ "pin_base": "../../data/pins/"
 }

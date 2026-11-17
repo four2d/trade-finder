@@ -864,5 +864,33 @@
   "verified_trading": 79,
   "ch_only_leads": 609
  },
- "data_file": "../../data/counties/berkshire.json"
+ "data_file": "../../data/counties/berkshire.json",
+ "zb": 10,
+ "pa": [
+  "landscaping",
+  "driveways",
+  "paving_patios",
+  "surfacing",
+  "groundworks",
+  "lawns_grounds",
+  "fencing_boundaries",
+  "decking_structures",
+  "outdoor_masonry",
+  "trees_vegetation",
+  "water_drainage",
+  "exterior_cleaning",
+  "water_features"
+ ],
+ "units": [
+  [
+   "berkshire",
+   51.3615,
+   -1.5155,
+   51.5595,
+   -0.5105,
+   688
+  ]
+ ],
+ "map_base": "data/map/",
+ "pin_base": "../../data/pins/"
 }

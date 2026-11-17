@@ -956,5 +956,33 @@
   "verified_trading": 135,
   "ch_only_leads": 1416
  },
- "data_file": "../../data/counties/wiltshire.json"
+ "data_file": "../../data/counties/wiltshire.json",
+ "zb": 10,
+ "pa": [
+  "landscaping",
+  "driveways",
+  "paving_patios",
+  "surfacing",
+  "groundworks",
+  "lawns_grounds",
+  "fencing_boundaries",
+  "decking_structures",
+  "outdoor_masonry",
+  "trees_vegetation",
+  "water_drainage",
+  "exterior_cleaning",
+  "water_features"
+ ],
+ "units": [
+  [
+   "wiltshire",
+   50.9535,
+   -2.3155,
+   51.6985,
+   -1.5515,
+   1551
+  ]
+ ],
+ "map_base": "data/map/",
+ "pin_base": "../../data/pins/"
 }
