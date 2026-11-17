@@ -317,3 +317,5 @@ Approach: tools/mapdata.py runs the page's own Leaflet 1.9.4 + markercluster 1.5
 Checks before publishing: pixel compare old (f4b3cad) vs new on 6 pages × desktop/mobile × 12 map states (fit, zoom 7–15, back to 9): 132 screenshots, all identical except a few 1-pixel shifts of single bubbles/pins (5-dp rounding) and OSM tile re-renders. Same clicks on old and new (6 bubble clicks across the zoom-10/11 handoff, pin popup, zoom out, search, clear, area chip, Show on map): same zoom, centre, popup and highlight.
 
 - 11:07 GMT: Page speed 1/2: lean per-county pin files and prebuilt map bubbles (data only; pages unchanged)
+
+- 11:09 GMT: Page speed 2/2: home, issue and county pages open with prebuilt bubbles; pins load per county past zoom 10
