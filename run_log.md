@@ -368,3 +368,6 @@ Discovery: active only; SIC 43120 43999 81300 42110 43110 02100 02200 77320 4221
 - 16:15 GMT: build 10c: Kent web-check batch 1 (450 trade-named leads; 238 with a live own-site domain; the first ~130 probed domains used): 17 accepted, all kept after hand-check.
 
 - 16:07 GMT: Issue 10 b3: Kent first 17 web-checked firms
+- 16:22 GMT: build 10d: West Midlands web-check batch 1 (450 trade-named leads; 197 with a live own-site domain; first ~240 probed domains used): 19 accepted, 17 kept (dropped Elite Playgrounds: playground equipment; Cotswold Trees: online tree supplier).
+
+- 16:13 GMT: Issue 10 b4: West Midlands first 17 web-checked firms

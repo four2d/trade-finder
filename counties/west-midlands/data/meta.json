@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-17T16:04:05+00:00",
+ "last_updated": "2026-11-17T16:09:44+00:00",
  "issue_date": "2026-11-17",
  "issue_key": "2026-11-17",
  "issue_no": 10,
@@ -14,12 +14,12 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 13208,
+  "landscaping": 13204,
   "driveways": 1156,
   "paving_patios": 825,
   "surfacing": 736,
   "groundworks": 38299,
-  "lawns_grounds": 12423,
+  "lawns_grounds": 12414,
   "fencing_boundaries": 941,
   "decking_structures": 1373,
   "outdoor_masonry": 6,
@@ -34,8 +34,8 @@
  "phase": 1,
  "sample_mode": false,
  "hero": {
-  "firm": "Tarmac Trading",
-  "score": 3,
+  "firm": "A K Lawnscapes",
+  "score": 19,
   "image": null
  },
  "archive_href": "../../archive.html",
@@ -46,19 +46,19 @@
   ],
   "dup_ch": [],
   "closed_not_in_business": 12008,
-  "enriched_from_ch": 1549,
+  "enriched_from_ch": 1566,
   "in_radius": 55531,
   "serves_only": 5,
-  "verified_trading": 1621,
-  "ch_only_leads": 53910,
+  "verified_trading": 1638,
+  "ch_only_leads": 53893,
   "verified_phone_or_web_pct": 98,
   "verified_conf_ge_05_pct": 99,
   "all_have_source_town_distance": true,
-  "contactable": 1621,
+  "contactable": 1638,
   "phone_or_web_pct": 3,
   "conf_ge_05_pct": 100,
-  "needs_check": 53942,
-  "no_website": 53995
+  "needs_check": 53924,
+  "no_website": 53978
  },
  "counties": [
   {
@@ -655,12 +655,12 @@
  "S": {
   "tot": 4065,
   "counts": {
-   "landscaping": 735,
+   "landscaping": 731,
    "driveways": 123,
    "paving_patios": 43,
    "surfacing": 70,
    "groundworks": 3131,
-   "lawns_grounds": 712,
+   "lawns_grounds": 703,
    "fencing_boundaries": 37,
    "decking_structures": 32,
    "outdoor_masonry": 0,
@@ -673,29 +673,33 @@
   "ar": 11,
   "nw": 4063,
   "top": null,
-  "dv": 0,
-  "best": null,
+  "dv": 3,
+  "best": {
+   "score": 19,
+   "town": "Solihull",
+   "name": "A K Lawnscapes"
+  },
   "prim": {
-   "landscaping": 688,
-   "driveways": 59,
+   "landscaping": 685,
+   "driveways": 60,
    "paving_patios": 17,
    "surfacing": 30,
    "groundworks": 3126,
-   "lawns_grounds": 0,
+   "lawns_grounds": 1,
    "fencing_boundaries": 13,
    "decking_structures": 25,
    "outdoor_masonry": 0,
-   "trees_vegetation": 38,
+   "trees_vegetation": 39,
    "water_drainage": 41,
    "exterior_cleaning": 28
   },
   "sec": {
-   "landscaping": 735,
+   "landscaping": 731,
    "driveways": 123,
    "paving_patios": 43,
    "surfacing": 70,
    "groundworks": 3131,
-   "lawns_grounds": 712,
+   "lawns_grounds": 703,
    "fencing_boundaries": 37,
    "decking_structures": 32,
    "outdoor_masonry": 0,
@@ -704,17 +708,34 @@
    "exterior_cleaning": 32
   },
   "types": {
-   "landscaping": [],
-   "driveways": [],
-   "paving_patios": [],
+   "landscaping": [
+    "gardener",
+    "landscaper"
+   ],
+   "driveways": [
+    "driveway_installer"
+   ],
+   "paving_patios": [
+    "paving_contractor"
+   ],
    "surfacing": [],
-   "groundworks": [],
-   "lawns_grounds": [],
-   "fencing_boundaries": [],
+   "groundworks": [
+    "groundworks_contractor"
+   ],
+   "lawns_grounds": [
+    "grounds_maintenance"
+   ],
+   "fencing_boundaries": [
+    "fencing_contractor"
+   ],
    "decking_structures": [],
    "outdoor_masonry": [],
-   "trees_vegetation": [],
-   "water_drainage": [],
+   "trees_vegetation": [
+    "tree_surgeon"
+   ],
+   "water_drainage": [
+    "drainage_contractor"
+   ],
    "exterior_cleaning": []
   },
   "nib": 1,
@@ -753,8 +774,8 @@
  "county_slug": "west-midlands",
  "root": "../../",
  "qc_area": {
-  "verified_trading": 0,
-  "ch_only_leads": 4065
+  "verified_trading": 17,
+  "ch_only_leads": 4048
  },
  "data_file": "../../data/counties/west-midlands.json",
  "zb": 10,
