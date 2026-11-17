@@ -365,3 +365,6 @@ Discovery: active only; SIC 43120 43999 81300 42110 43110 02100 02200 77320 4221
 - 16:05 GMT: build 10b: the 29 retried searches all succeeded (+248 rows). Bedfordshire web-check: 285 trade-named leads, 277 own-site domains probed, 28 accepted by the checker, 26 kept after hand-check (dropped Midlands Steel Decking: structural steel floor decking; Forestry Fuels: firewood supply). Bedfordshire 1,520 listed (26 checked), cover star Absolute Paving (LU1, registered office, in-area). Kent 4,486, West Midlands 4,065 (web-checks running).
 
 - 16:01 GMT: Issue 10 b2: Bedfordshire first 26 web-checked firms; retried searches
+- 16:15 GMT: build 10c: Kent web-check batch 1 (450 trade-named leads; 238 with a live own-site domain; the first ~130 probed domains used): 17 accepted, all kept after hand-check.
+
+- 16:07 GMT: Issue 10 b3: Kent first 17 web-checked firms

@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-17T15:58:08+00:00",
+ "last_updated": "2026-11-17T16:04:05+00:00",
  "issue_date": "2026-11-17",
  "issue_key": "2026-11-17",
  "issue_no": 10,
@@ -14,12 +14,12 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 13213,
-  "driveways": 1157,
+  "landscaping": 13208,
+  "driveways": 1156,
   "paving_patios": 825,
   "surfacing": 736,
-  "groundworks": 38300,
-  "lawns_grounds": 12433,
+  "groundworks": 38299,
+  "lawns_grounds": 12423,
   "fencing_boundaries": 941,
   "decking_structures": 1373,
   "outdoor_masonry": 6,
@@ -34,8 +34,8 @@
  "phase": 1,
  "sample_mode": false,
  "hero": {
-  "firm": "Edward Tyrrell (Fencing)",
-  "score": 3,
+  "firm": "1ST County Fencing",
+  "score": 19,
   "image": null
  },
  "archive_href": "../../archive.html",
@@ -46,19 +46,19 @@
   ],
   "dup_ch": [],
   "closed_not_in_business": 12008,
-  "enriched_from_ch": 1532,
+  "enriched_from_ch": 1549,
   "in_radius": 55531,
   "serves_only": 5,
-  "verified_trading": 1604,
-  "ch_only_leads": 53927,
+  "verified_trading": 1621,
+  "ch_only_leads": 53910,
   "verified_phone_or_web_pct": 98,
   "verified_conf_ge_05_pct": 99,
   "all_have_source_town_distance": true,
-  "contactable": 1604,
+  "contactable": 1621,
   "phone_or_web_pct": 3,
   "conf_ge_05_pct": 100,
-  "needs_check": 53958,
-  "no_website": 54012
+  "needs_check": 53942,
+  "no_website": 53995
  },
  "counties": [
   {
@@ -655,12 +655,12 @@
  "S": {
   "tot": 4486,
   "counts": {
-   "landscaping": 961,
-   "driveways": 80,
+   "landscaping": 956,
+   "driveways": 79,
    "paving_patios": 39,
    "surfacing": 78,
-   "groundworks": 3190,
-   "lawns_grounds": 927,
+   "groundworks": 3189,
+   "lawns_grounds": 917,
    "fencing_boundaries": 51,
    "decking_structures": 81,
    "outdoor_masonry": 0,
@@ -673,29 +673,33 @@
   "ar": 11,
   "nw": 4468,
   "top": null,
-  "dv": 0,
-  "best": null,
+  "dv": 3,
+  "best": {
+   "score": 19,
+   "town": "Dartford",
+   "name": "1ST County Fencing"
+  },
   "prim": {
-   "landscaping": 912,
+   "landscaping": 908,
    "driveways": 31,
-   "paving_patios": 14,
-   "surfacing": 51,
-   "groundworks": 3173,
+   "paving_patios": 16,
+   "surfacing": 52,
+   "groundworks": 3172,
    "lawns_grounds": 0,
-   "fencing_boundaries": 25,
-   "decking_structures": 72,
+   "fencing_boundaries": 26,
+   "decking_structures": 73,
    "outdoor_masonry": 0,
    "trees_vegetation": 122,
    "water_drainage": 70,
    "exterior_cleaning": 16
   },
   "sec": {
-   "landscaping": 961,
-   "driveways": 80,
+   "landscaping": 956,
+   "driveways": 79,
    "paving_patios": 39,
    "surfacing": 78,
-   "groundworks": 3190,
-   "lawns_grounds": 927,
+   "groundworks": 3189,
+   "lawns_grounds": 917,
    "fencing_boundaries": 51,
    "decking_structures": 81,
    "outdoor_masonry": 0,
@@ -704,17 +708,35 @@
    "exterior_cleaning": 20
   },
   "types": {
-   "landscaping": [],
-   "driveways": [],
-   "paving_patios": [],
-   "surfacing": [],
+   "landscaping": [
+    "gardener",
+    "landscaper"
+   ],
+   "driveways": [
+    "driveway_installer"
+   ],
+   "paving_patios": [
+    "driveway_installer",
+    "paving_contractor"
+   ],
+   "surfacing": [
+    "surfacing_contractor"
+   ],
    "groundworks": [],
    "lawns_grounds": [],
-   "fencing_boundaries": [],
-   "decking_structures": [],
+   "fencing_boundaries": [
+    "fencing_contractor"
+   ],
+   "decking_structures": [
+    "decking_installer"
+   ],
    "outdoor_masonry": [],
-   "trees_vegetation": [],
-   "water_drainage": [],
+   "trees_vegetation": [
+    "tree_surgeon"
+   ],
+   "water_drainage": [
+    "drainage_contractor"
+   ],
    "exterior_cleaning": []
   },
   "nib": 0,
@@ -753,8 +775,8 @@
  "county_slug": "kent",
  "root": "../../",
  "qc_area": {
-  "verified_trading": 0,
-  "ch_only_leads": 4486
+  "verified_trading": 17,
+  "ch_only_leads": 4469
  },
  "data_file": "../../data/counties/kent.json",
  "zb": 10,
