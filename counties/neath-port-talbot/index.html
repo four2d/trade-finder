@@ -495,10 +495,13 @@ const io=new IntersectionObserver(es=>{if(es.some(e=>e.isIntersecting)){io.disco
 // the map follows the filters, as before: a trade area shows its precomputed bubbles; a search or other filter shows live pins
 let BGA=null,UMS=0;function updateMap(){if(!map||!PINS)return PINS;const my=++UMS;
 if(FULL||!L.markerClusterGroup||!M.map_base){if(Object.keys(P).length){MF=active()&&(IX||FULL)?{ids:new Set(filtered().map(b=>b.id))}:{area:st.area};fillCL(1)}return PINS}
-if(active()&&(IX||FULL)){MF={ids:new Set(filtered().map(b=>b.id))};const f=MF;if(BG){if(map.hasLayer(BG))map.removeLayer(BG);BG=null;BGA=null;if(CX){map.removeLayer(CX);CX=null}}
+if(active()&&(IX||FULL)){MF={ids:new Set(filtered().map(b=>b.id))};const f=MF;if(BG){if(map.hasLayer(BG))map.removeLayer(BG);BG=null;BGA=null}
  return needPins(null).then(()=>{if(my!==UMS||MF!==f)return;MODE="p";if(!map.hasLayer(CL))CL.addTo(map);fillCL(1)}).catch(e=>mapErr(e,"pins"))}
-const a=st.area;MF={area:a};if(BG&&BGA===a){if(MODE==="p")fillCL(1);return Promise.resolve()}
-mapSpin(1);return jget(M.map_base+(a==="all"?"all":a)+".json").then(D=>{mapSpin(0);if(my!==UMS)return;const old=BG;if(old&&map.hasLayer(old))map.removeLayer(old);if(CX){map.removeLayer(CX);CX=null}
+const a=st.area;MF={area:a};const cq=cur&&(P[cur]||REC[cur]);
+if(cq&&cq.lat!=null&&!mfOk(cq)){const f=MF;if(BG){if(map.hasLayer(BG))map.removeLayer(BG);BG=null;BGA=null}
+ return needPins(null).then(()=>{if(my!==UMS||MF!==f)return;MODE="p";if(!map.hasLayer(CL))CL.addTo(map);fillCL(1)}).catch(e=>mapErr(e,"pins"))}
+if(BG&&BGA===a){if(MODE==="p")fillCL(1);return Promise.resolve()}
+mapSpin(1);return jget(M.map_base+(a==="all"?"all":a)+".json").then(D=>{mapSpin(0);if(my!==UMS)return;const old=BG;if(old&&map.hasLayer(old))map.removeLayer(old);
  buildBG(D);BGA=a;if(MODE==="p"&&Math.round(map._zoom)>ZB())fillCL(1);else{if(map.hasLayer(CL))map.removeLayer(CL);MODE="";syncMode()}}).catch(e=>mapErr(e,"bubbles"))}
 function loadPins(){if(PINS)return PINS;
 if(FULL||!L.markerClusterGroup||!M.map_base){mapSpin(1);PINS=(FULL?Promise.resolve(B.filter(b=>b.lat!=null&&b.status!=="closed").map(b=>({id:b.id,lat:b.lat,lng:b.lng,name:b.name,primary_area:b.primary_area,areas:b.areas,r:r5(b)[0],phone_e164:b.phone_e164,website:b.website,town:b.town,postcode:b.postcode,google_maps_url:b.google_maps_url}))):jget(M.pins_file).then(L=>L.map(x=>({id:x[0],lat:x[1],lng:x[2],name:x[3],primary_area:x[4],areas:[...x[5]].map(c=>AREAS[parseInt(c,16)][0]),r:x[6],phone_e164:x[7],website:x[8],town:x[9],postcode:x[10],google_maps_url:x[11]})))).then(L=>{if(!map.hasLayer(CL))CL.addTo(map);L.forEach((b,i)=>{b.gi=i;P[b.id]=b});MF=active()&&(IX||FULL)?{ids:new Set(filtered().map(b=>b.id))}:{area:st.area};mapSpin(0);MODE="p";fillCL(1)}).catch(e=>{PINS=null;mapErr(e,"pins")});return PINS}
@@ -519,18 +522,15 @@ D.m.forEach(x=>{const p=x[0]<0?top:C[x[0]],b={lat:x[1]/1e5,lng:x[2]/1e5,primary_
 top._childCount=D.n;top._boundsNeedUpdate=true;map.removeLayer(BG)}
 let SYNC=0;async function syncMode(){if(!BG)return;const my=++SYNC,z=Math.round(map._zoom),zb=ZB();
  if(z>zb){try{await needPins(viewAt(map.getCenter(),z))}catch(e){mapErr(e,"pins");return}if(my!==SYNC||Math.round(map._zoom)<=zb)return;
-  if(MODE!=="p"){const pz=map.hasLayer(BG)?BG._zoom:zb;MODE="p";curX();if(map.hasLayer(BG))map.removeLayer(BG);fillCL(1);CL.options.chunkedLoading=false;CL.addTo(map);CL.options.chunkedLoading=true;
+  if(MODE!=="p"){const pz=map.hasLayer(BG)?BG._zoom:zb;MODE="p";if(map.hasLayer(BG))map.removeLayer(BG);fillCL(1);CL.options.chunkedLoading=false;CL.addTo(map);CL.options.chunkedLoading=true;
    if(pz<z&&CL._topClusterLevel){CL._featureGroup.clearLayers();CL._zoom=pz;CL._currentShownBounds=CL._getExpandedVisibleBounds();CL._topClusterLevel._recursivelyAddChildrenToMap(null,pz,CL._currentShownBounds);CL._forceLayout();CL._zoomEnd()}}
   else if(!(map._popup&&map._popup.isOpen&&map._popup.isOpen()))fillCL()}
- else if(MODE==="p"){const sw=()=>{if(my!==SYNC||Math.round(map._zoom)>zb||MODE!=="p")return;map.removeLayer(CL);MODE="b";BG.addTo(map);curX()};if(CL._inZoomAnimation)CL.once("animationend",sw);else setTimeout(sw,0)}
- else if(!map.hasLayer(BG)){MODE="b";BG.addTo(map);curX()}}
-// the highlighted firm stays on the map when a filter would hide it (the old map kept it among the pins)
-let CX=null;function curX(){if(CX){map.removeLayer(CX);CX=null}if(!map||!BG||MODE==="p"||!map.hasLayer(BG)||!cur)return;const b=P[cur]||REC[cur];if(!b||b.lat==null||mfOk(b))return;
- CX=L.marker([b.lat,b.lng],{icon:pinIcon(b,1),title:b.name});if(P[cur]&&P[cur].gi!=null)CX.bindPopup(popH(P[cur]));CX.addTo(map)}
+ else if(MODE==="p"){const sw=()=>{if(my!==SYNC||Math.round(map._zoom)>zb||MODE!=="p")return;map.removeLayer(CL);MODE="b";BG.addTo(map)};if(CL._inZoomAnimation)CL.once("animationend",sw);else setTimeout(sw,0)}
+ else if(!map.hasLayer(BG)){MODE="b";BG.addTo(map)}}
 function bgIcon(id,on){const p=id&&(P[id]||REC[id]);if(!p||p.lat==null)return;const m=BGM[Math.round(p.lat*1e5)+","+Math.round(p.lng*1e5)];if(m)m.setIcon(pinIcon(m._tfb,on))}
 let cur;async function hl(id,pan){const p=P[id]||REC[id];if(p&&!document.querySelector(`.card[data-id="${id}"]`)){const a=st.area==="all"?p.primary_area:st.area;if(document.querySelector(`.tg[data-k="${a}"]`)){setOpen(a,true);await fill(a);const ix=(SEC[a]||[]).findIndex(x=>x.id===id);if(ix>=(PG[a]||0))moreCards(a,Math.ceil((ix+1)/24)*24)}}
 const c0=document.querySelector(`.card[data-id="${id}"]`);if(c0){const s0=c0.closest(".sec");if(s0&&s0.querySelector(".sh.shut"))setOpen(s0.querySelector(".tg").dataset.k,true)}
-if(cur&&mk[cur])mk[cur].setIcon(pinIcon(P[cur]||REC[cur]));bgIcon(cur,0);document.querySelectorAll(".card.hl").forEach(c=>c.classList.remove("hl"));cur=id;if(BG)curX();if(mk[id]){mk[id].setIcon(pinIcon(P[id],1));if(pan)map.panTo(mk[id].getLatLng())}else{const p2=P[id]||REC[id];bgIcon(id,1);if(pan&&map&&p2&&p2.lat!=null)map.panTo([p2.lat,p2.lng])}const c=document.querySelector(`.card[data-id="${id}"]`);if(c){c.classList.add("hl");if(!pan)c.scrollIntoView({behavior:"smooth",block:"center"})}}
+if(cur&&mk[cur])mk[cur].setIcon(pinIcon(P[cur]||REC[cur]));bgIcon(cur,0);document.querySelectorAll(".card.hl").forEach(c=>c.classList.remove("hl"));cur=id;if(BG&&MF&&!MF.ids){const q=P[id]||REC[id];if(q&&q.lat!=null&&!mfOk(q))updateMap()}if(mk[id]){mk[id].setIcon(pinIcon(P[id],1));if(pan)map.panTo(mk[id].getLatLng())}else{const p2=P[id]||REC[id];bgIcon(id,1);if(pan&&map&&p2&&p2.lat!=null)map.panTo([p2.lat,p2.lng])}const c=document.querySelector(`.card[data-id="${id}"]`);if(c){c.classList.add("hl");if(!pan)c.scrollIntoView({behavior:"smooth",block:"center"})}}
 let BC={};function drawBars(){const counts=BC;const vs=Object.values(counts).sort((x,y)=>y-x),v1=vs[0]||0,v2=vs[1]||0,cap=!st.ts&&v2>0&&v1>1.6*v2,mx=Math.max(1,cap?1.25*v2:v1);let capped=false;
 $("#barl").innerHTML=AREAS.map(a=>{const v=counts[a[0]],c=cap&&!capped&&v===v1;if(c)capped=true;return`<button class="barr" data-a="${a[0]}" aria-label="${a[1]}: ${v}${c?" (bar shortened to fit; axis broken)":""}"><span>${a[1]}</span><span class="tr"><i style="width:${Math.min(100,v/mx*100)}%"${c?' class="capd"':""}>${c?'<span class="bx" aria-hidden="true"></span>':""}</i></span><span class="n">${v}</span></button>`}).join("")+(cap?`<p class="bxn">Bar with <span class="bxk" aria-hidden="true"></span> is shortened to fit; the figure is its true count.</p>`:"");$("#bscale").setAttribute("aria-pressed",!st.ts);$("#bscale").textContent=st.ts?"True scale":"Compact scale";$("#bscale").hidden=!(v2>0&&v1>1.6*v2);document.querySelectorAll(".barr").forEach(b=>b.classList.toggle("on",b.dataset.a===st.area))}
 function head(){const tot={length:S.tot},avg=S.avg,ltd=S.ltd,ar=S.ar,last=new Date(M.last_updated),nw=S.nw;
