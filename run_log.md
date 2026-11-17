@@ -345,3 +345,6 @@ Checks before publishing: pixel compare old (f4b3cad) vs new on 6 pages × deskt
 - Tested against f4b3cad with the same clicks (6 bubble clicks across the zoom 10/11 handoff, pin popup, zoom out, search, clear, area chip, then zoom in 1/2/4 and out 3/5 with the area on, Show on map) on home, Greater London and Dorset, desktop and mobile: 6 runs, 17–19 steps each. Zoom, centre, bubble/pin counts, popup and highlight were the same at every step. The only exception was the known home-desktop out3 step: 57 vs 55 pins in the DOM, all off-screen; its screenshot is identical. Screenshots matched except low-level OSM tile seams/re-renders (max channel difference ≤ 59 of 255). One GL desktop pair was caught mid-tile-load; its markers were identical. Home desktop "area" step: 852 px different before, 0 px now.
 
 - 13:32 GMT: Map: highlighted firm folds into nearby bubbles under an area filter, as before
+- Live after ab940e2 (same tool/settings, median of 3; bytes / map usable): Home desktop 504,090 / 2.12 s; Home mobile 355,072 / 2.15 s; Dorset desktop 535,568 / 1.93 s; Dorset mobile 276,680 / 1.45 s; Greater London desktop 776,770 / 2.45 s; Greater London mobile 297,371 / 2.11 s. Same as ec0ca24's figures within run-to-run noise, so no regression. All 36 live URL checks returned 200.
+
+- 13:45 GMT: Run log: area-filter highlight fix tested and measured
