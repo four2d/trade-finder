@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-17T14:47:36+00:00",
- "total": 71325,
+ "updated": "2026-11-17T15:58:08+00:00",
+ "total": 71421,
  "note": "Full Trade Finder master, one file per county. Concatenate every file to get the whole directory.",
  "files": [
   {
    "slug": "bedfordshire",
    "part": null,
    "file": "data/counties/bedfordshire.json",
-   "records": 1485,
-   "bytes": 2472741
+   "records": 1546,
+   "bytes": 2583504
   },
   {
    "slug": "berkshire",
@@ -42,8 +42,8 @@
    "slug": "buckinghamshire",
    "part": null,
    "file": "data/counties/buckinghamshire.json",
-   "records": 1537,
-   "bytes": 2583763
+   "records": 1542,
+   "bytes": 2592073
   },
   {
    "slug": "caerphilly",
@@ -78,7 +78,7 @@
    "part": null,
    "file": "data/counties/dorset.json",
    "records": 4194,
-   "bytes": 6856932
+   "bytes": 6857333
   },
   {
    "slug": "east-sussex",
@@ -141,7 +141,7 @@
    "part": null,
    "file": "data/counties/hampshire.json",
    "records": 10790,
-   "bytes": 17624198
+   "bytes": 17623754
   },
   {
    "slug": "herefordshire",
@@ -168,8 +168,8 @@
    "slug": "kent",
    "part": null,
    "file": "data/counties/kent.json",
-   "records": 4458,
-   "bytes": 7387197
+   "records": 4486,
+   "bytes": 7433363
   },
   {
    "slug": "merthyr-tydfil",
@@ -266,8 +266,8 @@
    "slug": "west-midlands",
    "part": null,
    "file": "data/counties/west-midlands.json",
-   "records": 4064,
-   "bytes": 6780552
+   "records": 4066,
+   "bytes": 6783801
   },
   {
    "slug": "west-sussex",

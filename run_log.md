@@ -362,3 +362,6 @@ Discovery: active only; SIC 43120 43999 81300 42110 43110 02100 02200 77320 4221
 - 14:55 GMT: build 10a: Swansea 267 listed (4 web-checked), Bedfordshire 1,485, Kent 4,458, West Midlands 4,063. The new border searches also found active firms registered in live areas: Greater London +122, Buckinghamshire +52, Warwickshire +16, Surrey +11, Worcestershire +8, Somerset +1. All 36 cover stars are in-area (work/hero_audit.json). Duplicate phone +447561109141 (Gaia Landscapes and Henley Gardeners, both SP1) dates from Issue 02 and is still open.
 
 - 14:51 GMT: Issue 10: Swansea, Bedfordshire, Kent and West Midlands added (active only, full SIC set); first Swansea web-checks
+- 16:05 GMT: build 10b: the 29 retried searches all succeeded (+248 rows). Bedfordshire web-check: 285 trade-named leads, 277 own-site domains probed, 28 accepted by the checker, 26 kept after hand-check (dropped Midlands Steel Decking: structural steel floor decking; Forestry Fuels: firewood supply). Bedfordshire 1,520 listed (26 checked), cover star Absolute Paving (LU1, registered office, in-area). Kent 4,486, West Midlands 4,065 (web-checks running).
+
+- 16:01 GMT: Issue 10 b2: Bedfordshire first 26 web-checked firms; retried searches

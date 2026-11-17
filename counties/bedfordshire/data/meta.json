@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-17T14:47:36+00:00",
+ "last_updated": "2026-11-17T15:58:08+00:00",
  "issue_date": "2026-11-17",
  "issue_key": "2026-11-17",
  "issue_no": 10,
@@ -14,28 +14,28 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 13220,
-  "driveways": 1158,
+  "landscaping": 13213,
+  "driveways": 1157,
   "paving_patios": 825,
-  "surfacing": 735,
-  "groundworks": 38240,
-  "lawns_grounds": 12448,
+  "surfacing": 736,
+  "groundworks": 38300,
+  "lawns_grounds": 12433,
   "fencing_boundaries": 941,
-  "decking_structures": 1372,
+  "decking_structures": 1373,
   "outdoor_masonry": 6,
-  "trees_vegetation": 1820,
-  "water_drainage": 640,
-  "exterior_cleaning": 835
+  "trees_vegetation": 1823,
+  "water_drainage": 643,
+  "exterior_cleaning": 836
  },
- "total": 55461,
- "total_ever": 67474,
- "new_this_issue": 10455,
+ "total": 55531,
+ "total_ever": 67544,
+ "new_this_issue": 10526,
  "version": "1.1",
  "phase": 1,
  "sample_mode": false,
  "hero": {
-  "firm": "The Garden Company",
-  "score": 3,
+  "firm": "Absolute Paving",
+  "score": 19,
   "image": null
  },
  "archive_href": "../../archive.html",
@@ -46,19 +46,19 @@
   ],
   "dup_ch": [],
   "closed_not_in_business": 12008,
-  "enriched_from_ch": 1506,
-  "in_radius": 55461,
+  "enriched_from_ch": 1532,
+  "in_radius": 55531,
   "serves_only": 5,
-  "verified_trading": 1578,
-  "ch_only_leads": 53883,
+  "verified_trading": 1604,
+  "ch_only_leads": 53927,
   "verified_phone_or_web_pct": 98,
   "verified_conf_ge_05_pct": 99,
   "all_have_source_town_distance": true,
-  "contactable": 1578,
+  "contactable": 1604,
   "phone_or_web_pct": 3,
   "conf_ge_05_pct": 100,
-  "needs_check": 53915,
-  "no_website": 53968
+  "needs_check": 53958,
+  "no_website": 54012
  },
  "counties": [
   {
@@ -195,7 +195,7 @@
    "slug": "buckinghamshire",
    "name": "Buckinghamshire",
    "status": "in_progress",
-   "firms": 1499,
+   "firms": 1504,
    "not_in_business": 0,
    "added": "2026-11-12",
    "miles": 90,
@@ -395,7 +395,7 @@
    "slug": "bedfordshire",
    "name": "Bedfordshire",
    "status": "in_progress",
-   "firms": 1485,
+   "firms": 1520,
    "not_in_business": 0,
    "added": "2026-11-17",
    "miles": 114,
@@ -405,7 +405,7 @@
    "slug": "kent",
    "name": "Kent",
    "status": "in_progress",
-   "firms": 4458,
+   "firms": 4486,
    "not_in_business": 0,
    "added": "2026-11-17",
    "miles": 122,
@@ -415,7 +415,7 @@
    "slug": "west-midlands",
    "name": "West Midlands",
    "status": "in_progress",
-   "firms": 4063,
+   "firms": 4065,
    "not_in_business": 1,
    "added": "2026-11-17",
    "miles": 123,
@@ -653,68 +653,91 @@
   }
  ],
  "S": {
-  "tot": 1485,
+  "tot": 1520,
   "counts": {
-   "landscaping": 320,
-   "driveways": 36,
+   "landscaping": 313,
+   "driveways": 34,
    "paving_patios": 37,
    "surfacing": 17,
-   "groundworks": 1095,
-   "lawns_grounds": 318,
+   "groundworks": 1127,
+   "lawns_grounds": 303,
    "fencing_boundaries": 8,
    "decking_structures": 16,
    "outdoor_masonry": 0,
    "trees_vegetation": 43,
-   "water_drainage": 22,
-   "exterior_cleaning": 8
+   "water_drainage": 23,
+   "exterior_cleaning": 9
   },
   "avg": "\u2013",
   "ltd": 100,
   "ar": 11,
-  "nw": 1476,
+  "nw": 1512,
   "top": null,
-  "dv": 0,
-  "best": null,
+  "dv": 1,
+  "best": {
+   "score": 19,
+   "town": "Luton",
+   "name": "Absolute Paving"
+  },
   "prim": {
-   "landscaping": 309,
-   "driveways": 8,
-   "paving_patios": 6,
-   "surfacing": 9,
-   "groundworks": 1088,
-   "lawns_grounds": 0,
+   "landscaping": 302,
+   "driveways": 7,
+   "paving_patios": 10,
+   "surfacing": 10,
+   "groundworks": 1120,
+   "lawns_grounds": 1,
    "fencing_boundaries": 5,
    "decking_structures": 14,
    "outdoor_masonry": 0,
-   "trees_vegetation": 19,
-   "water_drainage": 19,
-   "exterior_cleaning": 8
+   "trees_vegetation": 21,
+   "water_drainage": 21,
+   "exterior_cleaning": 9
   },
   "sec": {
-   "landscaping": 320,
-   "driveways": 36,
+   "landscaping": 313,
+   "driveways": 34,
    "paving_patios": 37,
    "surfacing": 17,
-   "groundworks": 1095,
-   "lawns_grounds": 318,
+   "groundworks": 1127,
+   "lawns_grounds": 303,
    "fencing_boundaries": 8,
    "decking_structures": 16,
    "outdoor_masonry": 0,
    "trees_vegetation": 43,
-   "water_drainage": 22,
-   "exterior_cleaning": 8
+   "water_drainage": 23,
+   "exterior_cleaning": 9
   },
   "types": {
-   "landscaping": [],
-   "driveways": [],
-   "paving_patios": [],
-   "surfacing": [],
-   "groundworks": [],
-   "lawns_grounds": [],
-   "fencing_boundaries": [],
+   "landscaping": [
+    "gardener",
+    "landscaper"
+   ],
+   "driveways": [
+    "driveway_installer"
+   ],
+   "paving_patios": [
+    "paving_contractor"
+   ],
+   "surfacing": [
+    "surfacing_contractor"
+   ],
+   "groundworks": [
+    "groundworks_contractor"
+   ],
+   "lawns_grounds": [
+    "grounds_maintenance"
+   ],
+   "fencing_boundaries": [
+    "fencing_contractor"
+   ],
    "decking_structures": [],
    "outdoor_masonry": [],
-   "trees_vegetation": [],
-   "water_drainage": [],
+   "trees_vegetation": [
+    "tree_surgeon"
+   ],
+   "water_drainage": [
+    "drainage_contractor"
+   ],
    "exterior_cleaning": []
   },
   "nib": 0,
@@ -737,7 +760,7 @@
  "bounds": [
   [
    51.815,
-   -0.689
+   -0.6957
   ],
   [
    52.274,
@@ -753,8 +776,8 @@
  "county_slug": "bedfordshire",
  "root": "../../",
  "qc_area": {
-  "verified_trading": 0,
-  "ch_only_leads": 1485
+  "verified_trading": 26,
+  "ch_only_leads": 1494
  },
  "data_file": "../../data/counties/bedfordshire.json",
  "zb": 10,
@@ -777,10 +800,10 @@
   [
    "bedfordshire",
    51.8145,
-   -0.6895,
+   -0.6962,
    52.2745,
    -0.1585,
-   1485
+   1520
   ]
  ],
  "map_base": "data/map/",

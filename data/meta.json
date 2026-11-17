@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-17T14:47:36+00:00",
+ "last_updated": "2026-11-17T15:58:08+00:00",
  "issue_date": "2026-11-17",
  "issue_key": "2026-11-17",
  "issue_no": 10,
@@ -14,22 +14,22 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 13220,
-  "driveways": 1158,
+  "landscaping": 13213,
+  "driveways": 1157,
   "paving_patios": 825,
-  "surfacing": 735,
-  "groundworks": 38240,
-  "lawns_grounds": 12448,
+  "surfacing": 736,
+  "groundworks": 38300,
+  "lawns_grounds": 12433,
   "fencing_boundaries": 941,
-  "decking_structures": 1372,
+  "decking_structures": 1373,
   "outdoor_masonry": 6,
-  "trees_vegetation": 1820,
-  "water_drainage": 640,
-  "exterior_cleaning": 835
+  "trees_vegetation": 1823,
+  "water_drainage": 643,
+  "exterior_cleaning": 836
  },
- "total": 55461,
- "total_ever": 67474,
- "new_this_issue": 10455,
+ "total": 55531,
+ "total_ever": 67544,
+ "new_this_issue": 10526,
  "version": "1.1",
  "phase": 1,
  "sample_mode": false,
@@ -46,19 +46,19 @@
   ],
   "dup_ch": [],
   "closed_not_in_business": 12008,
-  "enriched_from_ch": 1506,
-  "in_radius": 55461,
+  "enriched_from_ch": 1532,
+  "in_radius": 55531,
   "serves_only": 5,
-  "verified_trading": 1578,
-  "ch_only_leads": 53883,
+  "verified_trading": 1604,
+  "ch_only_leads": 53927,
   "verified_phone_or_web_pct": 98,
   "verified_conf_ge_05_pct": 99,
   "all_have_source_town_distance": true,
-  "contactable": 1578,
+  "contactable": 1604,
   "phone_or_web_pct": 3,
   "conf_ge_05_pct": 100,
-  "needs_check": 53915,
-  "no_website": 53968
+  "needs_check": 53958,
+  "no_website": 54012
  },
  "counties": [
   {
@@ -195,7 +195,7 @@
    "slug": "buckinghamshire",
    "name": "Buckinghamshire",
    "status": "in_progress",
-   "firms": 1499,
+   "firms": 1504,
    "not_in_business": 0,
    "added": "2026-11-12",
    "miles": 90,
@@ -395,7 +395,7 @@
    "slug": "bedfordshire",
    "name": "Bedfordshire",
    "status": "in_progress",
-   "firms": 1485,
+   "firms": 1520,
    "not_in_business": 0,
    "added": "2026-11-17",
    "miles": 114,
@@ -405,7 +405,7 @@
    "slug": "kent",
    "name": "Kent",
    "status": "in_progress",
-   "firms": 4458,
+   "firms": 4486,
    "not_in_business": 0,
    "added": "2026-11-17",
    "miles": 122,
@@ -415,7 +415,7 @@
    "slug": "west-midlands",
    "name": "West Midlands",
    "status": "in_progress",
-   "firms": 4063,
+   "firms": 4065,
    "not_in_business": 1,
    "added": "2026-11-17",
    "miles": 123,
@@ -653,63 +653,63 @@
   }
  ],
  "S": {
-  "tot": 55461,
+  "tot": 55531,
   "counts": {
-   "landscaping": 13220,
-   "driveways": 1158,
+   "landscaping": 13213,
+   "driveways": 1157,
    "paving_patios": 825,
-   "surfacing": 735,
-   "groundworks": 38240,
-   "lawns_grounds": 12448,
+   "surfacing": 736,
+   "groundworks": 38300,
+   "lawns_grounds": 12433,
    "fencing_boundaries": 941,
-   "decking_structures": 1372,
+   "decking_structures": 1373,
    "outdoor_masonry": 6,
-   "trees_vegetation": 1820,
-   "water_drainage": 640,
-   "exterior_cleaning": 835
+   "trees_vegetation": 1823,
+   "water_drainage": 643,
+   "exterior_cleaning": 836
   },
   "avg": "4.9",
   "ltd": 100,
   "ar": 12,
-  "nw": 10455,
+  "nw": 10526,
   "top": {
    "score": 10.0,
    "town": "Wimborne Minster",
    "name": "J.M. Tree and Garden Services"
   },
-  "dv": 294,
+  "dv": 295,
   "best": {
    "score": 94,
    "town": "Poole",
    "name": "D.S. Waker Driveways & Patios"
   },
   "prim": {
-   "landscaping": 12450,
+   "landscaping": 12443,
    "driveways": 472,
-   "paving_patios": 223,
-   "surfacing": 405,
-   "groundworks": 38062,
-   "lawns_grounds": 139,
+   "paving_patios": 227,
+   "surfacing": 406,
+   "groundworks": 38122,
+   "lawns_grounds": 140,
    "fencing_boundaries": 364,
-   "decking_structures": 1086,
+   "decking_structures": 1087,
    "outdoor_masonry": 5,
-   "trees_vegetation": 987,
-   "water_drainage": 495,
-   "exterior_cleaning": 772
+   "trees_vegetation": 992,
+   "water_drainage": 499,
+   "exterior_cleaning": 773
   },
   "sec": {
-   "landscaping": 13220,
-   "driveways": 1158,
+   "landscaping": 13213,
+   "driveways": 1157,
    "paving_patios": 825,
-   "surfacing": 735,
-   "groundworks": 38240,
-   "lawns_grounds": 12448,
+   "surfacing": 736,
+   "groundworks": 38300,
+   "lawns_grounds": 12433,
    "fencing_boundaries": 941,
-   "decking_structures": 1372,
+   "decking_structures": 1373,
    "outdoor_masonry": 6,
-   "trees_vegetation": 1820,
-   "water_drainage": 640,
-   "exterior_cleaning": 835
+   "trees_vegetation": 1823,
+   "water_drainage": 643,
+   "exterior_cleaning": 836
   },
   "types": {
    "landscaping": [
@@ -1234,10 +1234,10 @@
   [
    "bedfordshire",
    51.8145,
-   -0.6895,
+   -0.6962,
    52.2745,
    -0.1585,
-   1485
+   1520
   ],
   [
    "berkshire",
@@ -1277,7 +1277,7 @@
    -1.1235,
    52.1475,
    -0.4835,
-   1499
+   1504
   ],
   [
    "caerphilly",
@@ -1421,7 +1421,7 @@
    0.0495,
    51.4735,
    1.4415,
-   4458
+   4486
   ],
   [
    "merthyr-tydfil",
@@ -1533,7 +1533,7 @@
    -2.2015,
    52.6495,
    -1.4355,
-   4063
+   4065
   ],
   [
    "west-sussex",
