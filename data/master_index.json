@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T16:09:44+00:00",
- "total": 71455,
+ "updated": "2026-11-17T16:15:54+00:00",
+ "total": 71493,
  "note": "Full Trade Finder master, one file per county. Concatenate every file to get the whole directory.",
  "files": [
   {
@@ -78,7 +78,7 @@
    "part": null,
    "file": "data/counties/dorset.json",
    "records": 4194,
-   "bytes": 6857333
+   "bytes": 6856932
   },
   {
    "slug": "east-sussex",
@@ -141,7 +141,7 @@
    "part": null,
    "file": "data/counties/hampshire.json",
    "records": 10790,
-   "bytes": 17623754
+   "bytes": 17624198
   },
   {
    "slug": "herefordshire",
@@ -168,8 +168,8 @@
    "slug": "kent",
    "part": null,
    "file": "data/counties/kent.json",
-   "records": 4503,
-   "bytes": 7467807
+   "records": 4541,
+   "bytes": 7544088
   },
   {
    "slug": "merthyr-tydfil",

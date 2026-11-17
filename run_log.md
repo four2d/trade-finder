@@ -371,3 +371,6 @@ Discovery: active only; SIC 43120 43999 81300 42110 43110 02100 02200 77320 4221
 - 16:22 GMT: build 10d: West Midlands web-check batch 1 (450 trade-named leads; 197 with a live own-site domain; first ~240 probed domains used): 19 accepted, 17 kept (dropped Elite Playgrounds: playground equipment; Cotswold Trees: online tree supplier).
 
 - 16:13 GMT: Issue 10 b4: West Midlands first 17 web-checked firms
+- 16:35 GMT: build 10e: Kent web-check batch 2 (all 391 probed domains): 42 more accepted, 38 kept (dropped Surface Renew: interior worktop/bath repair; Trees4Good: tree-planting investment; KTM Garden & Grounds: works in North Wales only; Indipave: paving-stone supplier). Kent now has 55 checked firms.
+
+- 16:20 GMT: Issue 10 b5: Kent +38 web-checked firms (55 in all)
