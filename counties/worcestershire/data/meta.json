@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-17T16:15:54+00:00",
+ "last_updated": "2026-11-17T16:22:08+00:00",
  "issue_date": "2026-11-17",
  "issue_key": "2026-11-17",
  "issue_no": 10,
@@ -14,12 +14,12 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 13190,
+  "landscaping": 13184,
   "driveways": 1152,
   "paving_patios": 825,
-  "surfacing": 735,
+  "surfacing": 734,
   "groundworks": 38299,
-  "lawns_grounds": 12393,
+  "lawns_grounds": 12386,
   "fencing_boundaries": 941,
   "decking_structures": 1373,
   "outdoor_masonry": 6,
@@ -46,19 +46,19 @@
   ],
   "dup_ch": [],
   "closed_not_in_business": 12008,
-  "enriched_from_ch": 1604,
+  "enriched_from_ch": 1615,
   "in_radius": 55531,
   "serves_only": 5,
-  "verified_trading": 1676,
-  "ch_only_leads": 53855,
+  "verified_trading": 1687,
+  "ch_only_leads": 53844,
   "verified_phone_or_web_pct": 98,
   "verified_conf_ge_05_pct": 99,
   "all_have_source_town_distance": true,
-  "contactable": 1676,
+  "contactable": 1687,
   "phone_or_web_pct": 3,
   "conf_ge_05_pct": 100,
-  "needs_check": 53887,
-  "no_website": 53940
+  "needs_check": 53875,
+  "no_website": 53929
  },
  "counties": [
   {

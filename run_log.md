@@ -374,3 +374,6 @@ Discovery: active only; SIC 43120 43999 81300 42110 43110 02100 02200 77320 4221
 - 16:35 GMT: build 10e: Kent web-check batch 2 (all 391 probed domains): 42 more accepted, 38 kept (dropped Surface Renew: interior worktop/bath repair; Trees4Good: tree-planting investment; KTM Garden & Grounds: works in North Wales only; Indipave: paving-stone supplier). Kent now has 55 checked firms.
 
 - 16:20 GMT: Issue 10 b5: Kent +38 web-checked firms (55 in all)
+- 16:45 GMT: build 10f: West Midlands web-check batch 2 (all 393 probed domains): 12 more accepted, 11 kept (dropped The Balcony Gardener: small-space garden designer working in London). West Midlands now has 28 checked firms.
+
+- 16:26 GMT: Issue 10 b6: West Midlands +11 web-checked firms (28 in all)
