@@ -1,8 +1,8 @@
 {
- "last_updated": "2026-11-13T17:06:08+00:00",
- "issue_date": "2026-11-13",
- "issue_key": "2026-11-13-b",
- "issue_no": 9,
+ "last_updated": "2026-11-17T14:47:36+00:00",
+ "issue_date": "2026-11-17",
+ "issue_key": "2026-11-17",
+ "issue_no": 10,
  "radius_miles": 25,
  "origin": {
   "name": "Poole",
@@ -14,22 +14,22 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 11114,
-  "driveways": 898,
-  "paving_patios": 706,
-  "surfacing": 550,
-  "groundworks": 30513,
-  "lawns_grounds": 10404,
-  "fencing_boundaries": 845,
-  "decking_structures": 1234,
+  "landscaping": 13220,
+  "driveways": 1158,
+  "paving_patios": 825,
+  "surfacing": 735,
+  "groundworks": 38240,
+  "lawns_grounds": 12448,
+  "fencing_boundaries": 941,
+  "decking_structures": 1372,
   "outdoor_masonry": 6,
-  "trees_vegetation": 1472,
-  "water_drainage": 490,
-  "exterior_cleaning": 773
+  "trees_vegetation": 1820,
+  "water_drainage": 640,
+  "exterior_cleaning": 835
  },
- "total": 44978,
- "total_ever": 56991,
- "new_this_issue": 7531,
+ "total": 55461,
+ "total_ever": 67474,
+ "new_this_issue": 10455,
  "version": "1.1",
  "phase": 1,
  "sample_mode": false,
@@ -46,19 +46,19 @@
   ],
   "dup_ch": [],
   "closed_not_in_business": 12008,
-  "enriched_from_ch": 1502,
-  "in_radius": 44978,
+  "enriched_from_ch": 1506,
+  "in_radius": 55461,
   "serves_only": 5,
-  "verified_trading": 1574,
-  "ch_only_leads": 43404,
+  "verified_trading": 1578,
+  "ch_only_leads": 53883,
   "verified_phone_or_web_pct": 98,
   "verified_conf_ge_05_pct": 99,
   "all_have_source_town_distance": true,
-  "contactable": 1574,
+  "contactable": 1578,
   "phone_or_web_pct": 3,
   "conf_ge_05_pct": 100,
-  "needs_check": 43435,
-  "no_website": 43489
+  "needs_check": 53915,
+  "no_website": 53968
  },
  "counties": [
   {
@@ -66,7 +66,7 @@
    "name": "Dorset",
    "status": "in_progress",
    "firms": 1832,
-   "not_in_business": 1841,
+   "not_in_business": 1840,
    "added": "2026-10-15",
    "miles": 16,
    "order": 1
@@ -95,7 +95,7 @@
    "slug": "somerset",
    "name": "Somerset",
    "status": "in_progress",
-   "firms": 1937,
+   "firms": 1938,
    "not_in_business": 1607,
    "added": "2026-10-15",
    "miles": 50,
@@ -165,7 +165,7 @@
    "slug": "surrey",
    "name": "Surrey",
    "status": "in_progress",
-   "firms": 2379,
+   "firms": 2390,
    "not_in_business": 0,
    "added": "2026-11-10",
    "miles": 78,
@@ -195,7 +195,7 @@
    "slug": "buckinghamshire",
    "name": "Buckinghamshire",
    "status": "in_progress",
-   "firms": 1447,
+   "firms": 1499,
    "not_in_business": 0,
    "added": "2026-11-12",
    "miles": 90,
@@ -205,7 +205,7 @@
    "slug": "greater-london",
    "name": "Greater London",
    "status": "in_progress",
-   "firms": 14341,
+   "firms": 14463,
    "not_in_business": 0,
    "added": "2026-11-12",
    "miles": 97,
@@ -275,7 +275,7 @@
    "slug": "worcestershire",
    "name": "Worcestershire",
    "status": "in_progress",
-   "firms": 966,
+   "firms": 974,
    "not_in_business": 0,
    "added": "2026-11-13",
    "miles": 103,
@@ -285,7 +285,7 @@
    "slug": "warwickshire",
    "name": "Warwickshire",
    "status": "in_progress",
-   "firms": 860,
+   "firms": 876,
    "not_in_business": 0,
    "added": "2026-11-13",
    "miles": 111,
@@ -382,34 +382,44 @@
    "order": 32
   },
   {
-   "slug": "kent",
-   "name": "Kent",
-   "status": "paused",
-   "firms": 0,
+   "slug": "swansea",
+   "name": "Swansea",
+   "status": "in_progress",
+   "firms": 267,
    "not_in_business": 0,
-   "added": null,
-   "miles": 124,
+   "added": "2026-11-17",
+   "miles": 108,
    "order": 33
   },
   {
    "slug": "bedfordshire",
    "name": "Bedfordshire",
-   "status": "paused",
-   "firms": 0,
+   "status": "in_progress",
+   "firms": 1485,
    "not_in_business": 0,
-   "added": null,
+   "added": "2026-11-17",
    "miles": 114,
    "order": 34
   },
   {
-   "slug": "west-midlands",
-   "name": "West Midlands",
-   "status": "paused",
-   "firms": 0,
+   "slug": "kent",
+   "name": "Kent",
+   "status": "in_progress",
+   "firms": 4458,
    "not_in_business": 0,
-   "added": null,
+   "added": "2026-11-17",
    "miles": 122,
    "order": 35
+  },
+  {
+   "slug": "west-midlands",
+   "name": "West Midlands",
+   "status": "in_progress",
+   "firms": 4063,
+   "not_in_business": 1,
+   "added": "2026-11-17",
+   "miles": 123,
+   "order": 36
   },
   {
    "slug": "essex",
@@ -419,7 +429,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 131,
-   "order": 36
+   "order": 37
   },
   {
    "slug": "shropshire",
@@ -429,7 +439,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 136,
-   "order": 37
+   "order": 38
   },
   {
    "slug": "leicestershire",
@@ -439,7 +449,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 140,
-   "order": 38
+   "order": 39
   },
   {
    "slug": "cambridgeshire",
@@ -449,7 +459,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 144,
-   "order": 39
+   "order": 40
   },
   {
    "slug": "staffordshire",
@@ -459,7 +469,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 145,
-   "order": 40
+   "order": 41
   },
   {
    "slug": "rutland",
@@ -469,7 +479,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 146,
-   "order": 41
+   "order": 42
   },
   {
    "slug": "lincolnshire",
@@ -479,7 +489,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 180,
-   "order": 42
+   "order": 43
   },
   {
    "slug": "derbyshire",
@@ -489,7 +499,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 162,
-   "order": 43
+   "order": 44
   },
   {
    "slug": "suffolk",
@@ -499,7 +509,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 164,
-   "order": 44
+   "order": 45
   },
   {
    "slug": "nottinghamshire",
@@ -509,7 +519,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 170,
-   "order": 45
+   "order": 46
   },
   {
    "slug": "cheshire",
@@ -519,7 +529,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 173,
-   "order": 46
+   "order": 47
   },
   {
    "slug": "norfolk",
@@ -529,7 +539,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 185,
-   "order": 47
+   "order": 48
   },
   {
    "slug": "south-yorkshire",
@@ -539,7 +549,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 195,
-   "order": 48
+   "order": 49
   },
   {
    "slug": "east-riding-of-yorkshire",
@@ -549,7 +559,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 224,
-   "order": 49
+   "order": 50
   },
   {
    "slug": "greater-manchester",
@@ -559,7 +569,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 191,
-   "order": 50
+   "order": 51
   },
   {
    "slug": "merseyside",
@@ -569,7 +579,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 192,
-   "order": 51
+   "order": 52
   },
   {
    "slug": "west-yorkshire",
@@ -579,7 +589,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 210,
-   "order": 52
+   "order": 53
   },
   {
    "slug": "north-yorkshire",
@@ -589,7 +599,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 239,
-   "order": 53
+   "order": 54
   },
   {
    "slug": "lancashire",
@@ -599,7 +609,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 218,
-   "order": 54
+   "order": 55
   },
   {
    "slug": "cumbria",
@@ -609,7 +619,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 268,
-   "order": 55
+   "order": 56
   },
   {
    "slug": "county-durham",
@@ -619,7 +629,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 275,
-   "order": 56
+   "order": 57
   },
   {
    "slug": "tyne-and-wear",
@@ -629,7 +639,7 @@
    "not_in_business": 0,
    "added": null,
    "miles": 293,
-   "order": 57
+   "order": 58
   },
   {
    "slug": "northumberland",
@@ -639,29 +649,29 @@
    "not_in_business": 0,
    "added": null,
    "miles": 313,
-   "order": 58
+   "order": 59
   }
  ],
  "S": {
-  "tot": 44978,
+  "tot": 55461,
   "counts": {
-   "landscaping": 11114,
-   "driveways": 898,
-   "paving_patios": 706,
-   "surfacing": 550,
-   "groundworks": 30513,
-   "lawns_grounds": 10404,
-   "fencing_boundaries": 845,
-   "decking_structures": 1234,
+   "landscaping": 13220,
+   "driveways": 1158,
+   "paving_patios": 825,
+   "surfacing": 735,
+   "groundworks": 38240,
+   "lawns_grounds": 12448,
+   "fencing_boundaries": 941,
+   "decking_structures": 1372,
    "outdoor_masonry": 6,
-   "trees_vegetation": 1472,
-   "water_drainage": 490,
-   "exterior_cleaning": 773
+   "trees_vegetation": 1820,
+   "water_drainage": 640,
+   "exterior_cleaning": 835
   },
   "avg": "4.9",
   "ltd": 100,
   "ar": 12,
-  "nw": 7531,
+  "nw": 10455,
   "top": {
    "score": 10.0,
    "town": "Wimborne Minster",
@@ -674,32 +684,32 @@
    "name": "D.S. Waker Driveways & Patios"
   },
   "prim": {
-   "landscaping": 10453,
-   "driveways": 374,
-   "paving_patios": 186,
-   "surfacing": 295,
-   "groundworks": 30368,
+   "landscaping": 12450,
+   "driveways": 472,
+   "paving_patios": 223,
+   "surfacing": 405,
+   "groundworks": 38062,
    "lawns_grounds": 139,
-   "fencing_boundaries": 321,
-   "decking_structures": 968,
+   "fencing_boundaries": 364,
+   "decking_structures": 1086,
    "outdoor_masonry": 5,
-   "trees_vegetation": 790,
-   "water_drainage": 359,
-   "exterior_cleaning": 719
+   "trees_vegetation": 987,
+   "water_drainage": 495,
+   "exterior_cleaning": 772
   },
   "sec": {
-   "landscaping": 11114,
-   "driveways": 898,
-   "paving_patios": 706,
-   "surfacing": 550,
-   "groundworks": 30513,
-   "lawns_grounds": 10404,
-   "fencing_boundaries": 845,
-   "decking_structures": 1234,
+   "landscaping": 13220,
+   "driveways": 1158,
+   "paving_patios": 825,
+   "surfacing": 735,
+   "groundworks": 38240,
+   "lawns_grounds": 12448,
+   "fencing_boundaries": 941,
+   "decking_structures": 1372,
    "outdoor_masonry": 6,
-   "trees_vegetation": 1472,
-   "water_drainage": 490,
-   "exterior_cleaning": 773
+   "trees_vegetation": 1820,
+   "water_drainage": 640,
+   "exterior_cleaning": 835
   },
   "types": {
    "landscaping": [
@@ -1196,7 +1206,7 @@
   ],
   [
    52.665,
-   0.762
+   1.441
   ]
  ],
  "area_base": "data/areas/",
@@ -1221,6 +1231,14 @@
   "water_features"
  ],
  "units": [
+  [
+   "bedfordshire",
+   51.8145,
+   -0.6895,
+   52.2745,
+   -0.1585,
+   1485
+  ],
   [
    "berkshire",
    51.3615,
@@ -1257,9 +1275,9 @@
    "buckinghamshire",
    51.4905,
    -1.1235,
-   52.1195,
+   52.1475,
    -0.4835,
-   1447
+   1499
   ],
   [
    "caerphilly",
@@ -1331,7 +1349,7 @@
    -0.0785,
    51.6435,
    0.2955,
-   2823
+   2848
   ],
   [
    "greater-london--north",
@@ -1342,12 +1360,20 @@
    3716
   ],
   [
+   "greater-london--other",
+   51.2955,
+   0.0205,
+   51.3335,
+   0.0865,
+   67
+  ],
+  [
    "greater-london--south",
    51.2995,
    -0.3155,
    51.5125,
    0.1995,
-   3371
+   3401
   ],
   [
    "greater-london--west",
@@ -1388,6 +1414,14 @@
    50.7645,
    -1.0815,
    146
+  ],
+  [
+   "kent",
+   50.9315,
+   0.0495,
+   51.4735,
+   1.4415,
+   4458
   ],
   [
    "merthyr-tydfil",
@@ -1449,17 +1483,25 @@
    "somerset",
    50.8445,
    -3.7205,
-   51.4835,
+   51.4855,
    -2.2505,
-   1937
+   1938
   ],
   [
    "surrey",
    51.0774,
    -0.8305,
    51.4655,
-   0.0155,
-   2379
+   0.0515,
+   2390
+  ],
+  [
+   "swansea",
+   51.5685,
+   -4.2705,
+   51.7205,
+   -3.8745,
+   267
   ],
   [
    "torfaen",
@@ -1483,7 +1525,15 @@
    -1.9195,
    52.6655,
    -1.1865,
-   860
+   876
+  ],
+  [
+   "west-midlands",
+   52.3495,
+   -2.2015,
+   52.6495,
+   -1.4355,
+   4063
   ],
   [
    "west-sussex",
@@ -1507,7 +1557,7 @@
    -2.5965,
    52.4385,
    -1.8155,
-   966
+   974
   ]
  ],
  "map_base": "data/map/",

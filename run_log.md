@@ -348,3 +348,17 @@ Checks before publishing: pixel compare old (f4b3cad) vs new on 6 pages × deskt
 - Live after ab940e2 (same tool/settings, median of 3; bytes / map usable): Home desktop 504,090 / 2.12 s; Home mobile 355,072 / 2.15 s; Dorset desktop 535,568 / 1.93 s; Dorset mobile 276,680 / 1.45 s; Greater London desktop 776,770 / 2.45 s; Greater London mobile 297,371 / 2.11 s. Same as ec0ca24's figures within run-to-run noise, so no regression. All 36 live URL checks returned 200.
 
 - 13:45 GMT: Run log: area-filter highlight fix tested and measured
+
+## 17 Nov 2026, 14:15 GMT: Issue 10 started: next four closest areas (Pete: "Go")
+Measured as before: straight-line distance from Poole (50.715, -1.9872) to each area's official centre point (ONS principal-area centroid for Swansea; ceremonial-county centroids for England), skipping the 32 live areas (work/next_areas_distances.json):
+- Swansea: 107.7 mi
+- Bedfordshire: 114.4 mi
+- Kent: 122.3 mi
+- West Midlands: 122.9 mi
+(Next after these: Carmarthenshire 126.0, Powys 128.9.)
+Setup: counties.json (Swansea added; all four in_progress), county_of rules, DIST2CTY (Medway → Kent; Bedford/Central Bedfordshire/Luton → Bedfordshire; the seven met districts → West Midlands), NEWCTY, and publish.sh URL check for 36 areas.
+Discovery: active only; SIC 43120 43999 81300 42110 43110 02100 02200 77320 42210; up to 30 pages per search (any search that fills its last page or times out is rerun); every postcode district of each area (work/log_10_*.txt). CF14 8LH default-address companies are excluded (no geocode).
+- 14:47 GMT: discovery done for all four (1,248 searches with results; deepest page 12 of 30 (DA1 43999), so nothing capped; 0 CF14 8LH rows). 29 searches that errored are being rerun.
+- 14:55 GMT: build 10a: Swansea 267 listed (4 web-checked), Bedfordshire 1,485, Kent 4,458, West Midlands 4,063. The new border searches also found active firms registered in live areas: Greater London +122, Buckinghamshire +52, Warwickshire +16, Surrey +11, Worcestershire +8, Somerset +1. All 36 cover stars are in-area (work/hero_audit.json). Duplicate phone +447561109141 (Gaia Landscapes and Henley Gardeners, both SP1) dates from Issue 02 and is still open.
+
+- 14:51 GMT: Issue 10: Swansea, Bedfordshire, Kent and West Midlands added (active only, full SIC set); first Swansea web-checks

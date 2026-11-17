@@ -1,8 +1,15 @@
 {
- "updated": "2026-11-13T17:06:08+00:00",
- "total": 60842,
+ "updated": "2026-11-17T14:47:36+00:00",
+ "total": 71325,
  "note": "Full Trade Finder master, one file per county. Concatenate every file to get the whole directory.",
  "files": [
+  {
+   "slug": "bedfordshire",
+   "part": null,
+   "file": "data/counties/bedfordshire.json",
+   "records": 1485,
+   "bytes": 2472741
+  },
   {
    "slug": "berkshire",
    "part": null,
@@ -35,8 +42,8 @@
    "slug": "buckinghamshire",
    "part": null,
    "file": "data/counties/buckinghamshire.json",
-   "records": 1485,
-   "bytes": 2497107
+   "records": 1537,
+   "bytes": 2583763
   },
   {
    "slug": "caerphilly",
@@ -70,22 +77,22 @@
    "slug": "dorset",
    "part": null,
    "file": "data/counties/dorset.json",
-   "records": 4195,
-   "bytes": 6858900
+   "records": 4194,
+   "bytes": 6856932
   },
   {
    "slug": "east-sussex",
    "part": null,
    "file": "data/counties/east-sussex.json",
    "records": 1210,
-   "bytes": 2031892
+   "bytes": 2031919
   },
   {
    "slug": "gloucestershire",
    "part": null,
    "file": "data/counties/gloucestershire.json",
    "records": 1275,
-   "bytes": 2149142
+   "bytes": 2149141
   },
   {
    "slug": "greater-london",
@@ -98,8 +105,8 @@
    "slug": "greater-london",
    "part": "east",
    "file": "data/counties/greater-london--east.json",
-   "records": 2831,
-   "bytes": 4709998
+   "records": 2856,
+   "bytes": 4751917
   },
   {
    "slug": "greater-london",
@@ -110,10 +117,17 @@
   },
   {
    "slug": "greater-london",
+   "part": "other",
+   "file": "data/counties/greater-london--other.json",
+   "records": 67,
+   "bytes": 111692
+  },
+  {
+   "slug": "greater-london",
    "part": "south",
    "file": "data/counties/greater-london--south.json",
-   "records": 3371,
-   "bytes": 5618799
+   "records": 3401,
+   "bytes": 5668792
   },
   {
    "slug": "greater-london",
@@ -127,7 +141,7 @@
    "part": null,
    "file": "data/counties/hampshire.json",
    "records": 10790,
-   "bytes": 17623746
+   "bytes": 17624198
   },
   {
    "slug": "herefordshire",
@@ -149,6 +163,13 @@
    "file": "data/counties/isle-of-wight.json",
    "records": 270,
    "bytes": 448400
+  },
+  {
+   "slug": "kent",
+   "part": null,
+   "file": "data/counties/kent.json",
+   "records": 4458,
+   "bytes": 7387197
   },
   {
    "slug": "merthyr-tydfil",
@@ -203,15 +224,22 @@
    "slug": "somerset",
    "part": null,
    "file": "data/counties/somerset.json",
-   "records": 4074,
-   "bytes": 6665403
+   "records": 4075,
+   "bytes": 6667096
   },
   {
    "slug": "surrey",
    "part": null,
    "file": "data/counties/surrey.json",
-   "records": 2448,
-   "bytes": 4096083
+   "records": 2459,
+   "bytes": 4114266
+  },
+  {
+   "slug": "swansea",
+   "part": null,
+   "file": "data/counties/swansea.json",
+   "records": 267,
+   "bytes": 445266
   },
   {
    "slug": "torfaen",
@@ -231,8 +259,15 @@
    "slug": "warwickshire",
    "part": null,
    "file": "data/counties/warwickshire.json",
-   "records": 884,
-   "bytes": 1486614
+   "records": 900,
+   "bytes": 1513083
+  },
+  {
+   "slug": "west-midlands",
+   "part": null,
+   "file": "data/counties/west-midlands.json",
+   "records": 4064,
+   "bytes": 6780552
   },
   {
    "slug": "west-sussex",
@@ -246,14 +281,14 @@
    "part": null,
    "file": "data/counties/wiltshire.json",
    "records": 3480,
-   "bytes": 5711552
+   "bytes": 5711554
   },
   {
    "slug": "worcestershire",
    "part": null,
    "file": "data/counties/worcestershire.json",
-   "records": 980,
-   "bytes": 1645503
+   "records": 988,
+   "bytes": 1658792
   }
  ]
 }
