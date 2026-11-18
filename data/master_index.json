@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T09:38:18+00:00",
+ "updated": "2026-11-18T09:55:23+00:00",
  "total": 78019,
  "note": "Full Trade Finder master, one file per county. Concatenate every file to get the whole directory.",
  "files": [
@@ -85,7 +85,7 @@
    "part": null,
    "file": "data/counties/dorset.json",
    "records": 4193,
-   "bytes": 6855675
+   "bytes": 6855274
   },
   {
    "slug": "east-sussex",
@@ -155,7 +155,7 @@
    "part": null,
    "file": "data/counties/hampshire.json",
    "records": 10790,
-   "bytes": 17623770
+   "bytes": 17624214
   },
   {
    "slug": "herefordshire",
