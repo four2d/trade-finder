@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-18T09:55:23+00:00",
+ "last_updated": "2026-11-18T10:34:39+00:00",
  "issue_date": "2026-11-18",
  "issue_key": "2026-11-18",
  "issue_no": 11,
@@ -14,12 +14,12 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 14503,
-  "driveways": 1250,
+  "landscaping": 14499,
+  "driveways": 1249,
   "paving_patios": 909,
   "surfacing": 813,
-  "groundworks": 43000,
-  "lawns_grounds": 13655,
+  "groundworks": 42999,
+  "lawns_grounds": 13643,
   "fencing_boundaries": 1031,
   "decking_structures": 1476,
   "outdoor_masonry": 6,
@@ -34,8 +34,8 @@
  "phase": 1,
  "sample_mode": false,
  "hero": {
-  "firm": "Hugh Pearl (Land Drainage)",
-  "score": 3,
+  "firm": "Bell Fencing",
+  "score": 19,
   "image": null
  },
  "archive_href": "../../archive.html",
@@ -46,19 +46,19 @@
   ],
   "dup_ch": [],
   "closed_not_in_business": 12008,
-  "enriched_from_ch": 1639,
+  "enriched_from_ch": 1655,
   "in_radius": 62029,
   "serves_only": 5,
-  "verified_trading": 1711,
-  "ch_only_leads": 60318,
+  "verified_trading": 1727,
+  "ch_only_leads": 60302,
   "verified_phone_or_web_pct": 98,
   "verified_conf_ge_05_pct": 99,
   "all_have_source_town_distance": true,
-  "contactable": 1711,
+  "contactable": 1727,
   "phone_or_web_pct": 3,
   "conf_ge_05_pct": 100,
-  "needs_check": 60350,
-  "no_website": 60403
+  "needs_check": 60333,
+  "no_website": 60387
  },
  "counties": [
   {
@@ -675,12 +675,12 @@
  "S": {
   "tot": 5166,
   "counts": {
-   "landscaping": 1019,
-   "driveways": 64,
+   "landscaping": 1015,
+   "driveways": 63,
    "paving_patios": 69,
    "surfacing": 55,
-   "groundworks": 3827,
-   "lawns_grounds": 982,
+   "groundworks": 3826,
+   "lawns_grounds": 970,
    "fencing_boundaries": 78,
    "decking_structures": 80,
    "outdoor_masonry": 0,
@@ -693,29 +693,33 @@
   "ar": 11,
   "nw": 5159,
   "top": null,
-  "dv": 0,
-  "best": null,
+  "dv": 1,
+  "best": {
+   "score": 19,
+   "town": "Braintree",
+   "name": "Bell Fencing"
+  },
   "prim": {
-   "landscaping": 992,
-   "driveways": 21,
-   "paving_patios": 21,
+   "landscaping": 987,
+   "driveways": 22,
+   "paving_patios": 22,
    "surfacing": 32,
-   "groundworks": 3822,
+   "groundworks": 3821,
    "lawns_grounds": 0,
-   "fencing_boundaries": 23,
+   "fencing_boundaries": 24,
    "decking_structures": 65,
    "outdoor_masonry": 0,
-   "trees_vegetation": 86,
+   "trees_vegetation": 89,
    "water_drainage": 80,
    "exterior_cleaning": 24
   },
   "sec": {
-   "landscaping": 1019,
-   "driveways": 64,
+   "landscaping": 1015,
+   "driveways": 63,
    "paving_patios": 69,
    "surfacing": 55,
-   "groundworks": 3827,
-   "lawns_grounds": 982,
+   "groundworks": 3826,
+   "lawns_grounds": 970,
    "fencing_boundaries": 78,
    "decking_structures": 80,
    "outdoor_masonry": 0,
@@ -724,16 +728,30 @@
    "exterior_cleaning": 26
   },
   "types": {
-   "landscaping": [],
-   "driveways": [],
-   "paving_patios": [],
-   "surfacing": [],
+   "landscaping": [
+    "gardener",
+    "landscaper",
+    "paving_contractor"
+   ],
+   "driveways": [
+    "driveway_installer"
+   ],
+   "paving_patios": [
+    "paving_contractor"
+   ],
+   "surfacing": [
+    "surfacing_contractor"
+   ],
    "groundworks": [],
    "lawns_grounds": [],
-   "fencing_boundaries": [],
+   "fencing_boundaries": [
+    "fencing_contractor"
+   ],
    "decking_structures": [],
    "outdoor_masonry": [],
-   "trees_vegetation": [],
+   "trees_vegetation": [
+    "tree_surgeon"
+   ],
    "water_drainage": [],
    "exterior_cleaning": []
   },
@@ -773,8 +791,8 @@
  "county_slug": "essex",
  "root": "../../",
  "qc_area": {
-  "verified_trading": 0,
-  "ch_only_leads": 5166
+  "verified_trading": 16,
+  "ch_only_leads": 5150
  },
  "data_file": "../../data/counties/essex.json",
  "zb": 10,

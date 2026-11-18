@@ -453,3 +453,8 @@ Discovery: active only; SIC 43120 43999 81300 42110 43110 02100 02200 77320 4221
 - 09:59 GMT: build 11c (page fixes only, no data change): big numbers now use thousands separators (cover totals line, stats strip, cover badge, county index); the cover badge shrinks 5- and 6-character numbers so "62,029" and "14,618" stay inside the circle (before, 5-digit totals ran past its edge at 1024-1280 px). Checked at 320/360/390/768/1024/1280 px: no overflow.
 
 - 09:59 GMT: Issue 11 b3: cover fixes (thousands separators, badge fit, no-driveway headline)
+- 10:20 GMT: resumed after interruption; Essex web-check (450 trade-named leads, started 09:37) still in its DNS stage, nothing lost.
+- 10:25 GMT: Essex DNS stage done: 251 of 450 leads have a live own-site domain (446 domains to probe; 16 DNS lookups failed and were not cached).
+- 10:38 GMT: build 11d: Essex web-check batch 1 (first ~200 of 446 probed domains): 18 accepted, 16 kept (dropped Composite Decking World: online decking shop; Greenacre Arboriculture: tree-survey consultancy). Essex 5,166 listed, 16 checked, cover star Bell Fencing (CM7, site postcode CM7 4AR, in-area).
+
+- 10:38 GMT: Issue 11 b4: Essex first 16 web-checked firms
