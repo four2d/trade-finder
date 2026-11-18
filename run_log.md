@@ -429,3 +429,20 @@ Commits: 146f7ae, 5d42dd0, 6937bfa, bf53785, 4336ea4, 5e3e7f2.
 
 
 - 16:29 GMT: Issue 10: wrap-up notes (QC, speed, per-area table)
+
+## 18 Nov 2026, 08:44 GMT: Issue 11 started: next four closest areas (Pete: "yes, let's do some more now")
+Measured as before: straight-line distance from Poole (50.715, -1.9872) to each area's official centre point (ONS principal-area centroids for Wales; ceremonial-county centroids for England), skipping the 36 live areas (work/next_areas_distances.json, rechecked by haversine today):
+- Carmarthenshire: 126.0 mi
+- Powys: 128.9 mi
+- Essex: 132.0 mi
+- Shropshire: 135.9 mi
+(Next after these: Cambridgeshire 137.1, Ceredigion 138.1.)
+Setup: counties.json (Carmarthenshire and Powys added, Essex and Shropshire switched on; all four in_progress, orders 37-40), county_of rules, DIST2CTY (Southend-on-Sea and Thurrock → Essex; Telford and Wrekin → Shropshire), NEWCTY, and the publish.sh URL check for 40 areas.
+Discovery: active only; SIC 43120 43999 81300 42110 43110 02100 02200 77320 42210; up to 30 pages per search; every postcode district touching each area (postcodes.io outcode district lists, work/i11_outcodes.json: Carmarthenshire 22, Powys 29, Essex 78, Shropshire 44; 164 unique). CF14 8LH default-address companies are excluded.
+- 09:31 GMT: discovery done for all four (922 searches with results; deepest page 10 of 30 (SS9 43999), so nothing capped; 0 CF14 8LH rows). 18 searches that errored were rerun (+257 rows); the 3 that errored again were rerun once more and all succeeded (IG10 43999 +109). Web-checks: Powys 43 trade-named leads, 38 probed, 2 accepted (Beacons Tree Services LD3, D.R.V Trees SY20); Carmarthenshire 67 leads, 43 probed, 5 accepted (Tas Plant Hire, Keltic Grounds Wales, Gower Plant Hire, M Plant Hire, A Thomas Plant Hire), all kept after hand-check. Shropshire web-check running.
+- 09:42 GMT: build 11a: Carmarthenshire 246 listed (5 checked, cover star A Thomas Plant Hire SA39), Powys 192 (2 checked, Beacons Tree Services LD3), Essex 5,166 and Shropshire 721 (web-checks pending; cover stars are in-area Companies House leads for now). Site 40 areas, 62,029 listed, 1,694 checked, 12,008 not in business. All 40 cover stars in-area. Border additions from the new searches: Greater London +155, Herefordshire +13, Worcestershire +6, Hertfordshire +1. Two existing leads moved area because Companies House now shows a new registered office (not deleted): Green Hat Solutions BH21 → CM14 (Dorset → Essex), Strongpro Construction Repair Services TQ12 → LD3 (Devon → Powys).
+
+- 09:34 GMT: Issue 11 b1: Carmarthenshire, Powys, Essex and Shropshire added (active only, full SIC set); first Welsh web-checks
+- 09:50 GMT: first publish attempt refused by sync_site.py: index_offline.html is now 48.7 MB (guard is 45 MB; it was 44.1 MB at Issue 10). Added a TF_SKIP_OFFLINE=1 switch so the live offline page stays at its Issue 10 copy for now; everything else publishes. Open issue for Pete: the offline page needs slimming (60,335 Companies House leads carry 14 MB of source records and 5 MB of score breakdowns).
+
+- 09:35 GMT: Issue 11 b1: Carmarthenshire, Powys, Essex and Shropshire added (active only, full SIC set); first Welsh web-checks
