@@ -522,3 +522,4 @@ all cover stars in area: True 40
 
 
 - 10:55 GMT: Issue 11: wrap-up notes (spot check, QC, speed, per-area table)
+- 10:57 GMT: handoff repo updated (a79b2e8): DAILY_RUN.md live areas 40, next Cambridgeshire 137.1 / Ceredigion 138.1, TF_SKIP_OFFLINE note; STATUS.md Issue 11 section. Pulled before push, no force-push. Issue 11 finished.
