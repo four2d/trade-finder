@@ -461,3 +461,64 @@ Discovery: active only; SIC 43120 43999 81300 42110 43110 02100 02200 77320 4221
 - 10:47 GMT: build 11e: Essex web-check batch 2 (all 446 probed domains): 23 more accepted, 22 kept (dropped Woodstock Street Lighting Services: street-lighting electrical contractor). Essex now has 38 checked firms. Shropshire's cover star is now Access 2 Trees (SY4) after the rescoring, still in-area.
 
 - 10:47 GMT: Issue 11 b5: Essex +22 web-checked firms (38 in all)
+- 10:50 GMT: spot check of 10 random web-checked firms from the new areas (work/spot11.json): all 10 own sites refetched (robots.txt respected), postcode district on the page for 10/10, phone on the page for 9/9 that list one (LJP Civils lists none and none was added), Companies House shows Active for 10/10, and all 10 are live on the site with the same phone.
+- 10:52 GMT: QC on the final build (= live 86e3aeb): 12 desktop+mobile shots (home, issue, 4 new areas) in work/qc11: no overflow, no JS errors, Counties menu lists all 4 new areas, map bubbles total the listed counts (62,029 home; 246/192/5,166/721). All 40 cover stars in-area (work/hero_audit.json).
+- 10:55 GMT: page speed on live 86e3aeb (throttled 4G, cold cache, median of 3; work/perf_after_i11.json, home re-run in perf_after_i11b.json). Map usable / bytes: home desktop 2.58 s (re-run 2.53 s) / 512 KB (Issue 10: 2.33 s / 507 KB); home mobile 2.12 s / 293 KB (2.05 s); Dorset 1.91 / 1.44 s; Greater London 2.45 / 2.09 s; Essex 1.32 / 1.39 s. Home bubbles file data/map/all.json 29.5 KB gz (was 24.3). Mobile and county pages unchanged; home desktop is about 0.2 s slower than Issue 10.
+
+## 18 Nov 2026, 10:55 GMT: Issue 11 wrap-up
+Distances from Poole (centre points): Carmarthenshire 126.0 mi, Powys 128.9 mi, Essex 132.0 mi, Shropshire 135.9 mi. Next by distance: Cambridgeshire 137.1 mi, Ceredigion 138.1 mi.
+Discovery: active only, full SIC set, 922 searches with results over 164 postcode districts, deepest page 10 of 30 (none capped), 18 errored searches rerun (3 twice), all succeeded; 0 CF14 8LH default-address rows.
+Web-checks: all trade-named leads in Carmarthenshire (67), Powys (43) and Shropshire (170); the first 450 by rank in Essex (446 domains probed). 4 firms hand-rejected (added to go_reject.json).
+Cover pages: thousands separators, badge fit and the no-driveway headline fixed (b3). Spot check 10/10 OK. QC 12 shots clean. Speed: home desktop 2.5 s (Issue 10 2.3 s), other pages unchanged.
+Commits: e3fd7a8, 3204bef, 797cddc, 4dcc174, 86e3aeb.
+Open: index_offline.html is 48.7 MB, over the 45 MB publish guard; the live copy stays at Issue 10 (TF_SKIP_OFFLINE=1) until Pete picks a fix.
+
+| # | Area | Listed | Checked | Not in business | Cover star (in area) |
+|---|---|---:|---:|---:|---|
+| 1 | Dorset | 1,831 | 192 | 1,840 | D.S. Waker Driveways & Patios (BH17, yes) |
+| 2 | Hampshire | 4,616 | 344 | 4,611 | Arbor Venture Tree Care (SO41, yes) |
+| 3 | Wiltshire | 1,551 | 135 | 1,326 | Acer Tree Surgeons (BA13, yes) |
+| 4 | Somerset | 1,938 | 142 | 1,607 | Becks Tree and Landscape (BA2, yes) |
+| 5 | Devon | 1,448 | 157 | 1,254 | A2B Fencing Solutions (PL6, yes) |
+| 6 | Isle of Wight | 146 | 22 | 110 | Dixcey Landscapes (PO38, yes) |
+| 7 | Bristol | 542 | 60 | 553 | Green Planet Tree Services (BS13, yes) |
+| 8 | Berkshire | 688 | 79 | 706 | Evolution Tree Surgery (RG19, yes) |
+| 9 | West Sussex | 1,508 | 44 | 0 | Above All Landscaping (PO20, yes) |
+| 10 | Gloucestershire | 1,274 | 47 | 0 | Anderson Norman Landscapes (GL10, yes) |
+| 11 | Surrey | 2,390 | 74 | 0 | 1ST Advanced Landscapes (GU26, yes) |
+| 12 | Oxfordshire | 920 | 28 | 0 | 007 Groundworks Solutions (OX25, yes) |
+| 13 | Cornwall | 611 | 27 | 0 | Alpine Decking (TR5, yes) |
+| 14 | Buckinghamshire | 1,504 | 37 | 0 | Alderbourne Landscapes (HP15, yes) |
+| 15 | Greater London | 14,618 | 35 | 0 | 365 Gardening (E4, yes) |
+| 16 | East Sussex | 1,176 | 34 | 0 | A.L.M Tree Care (TN39, yes) |
+| 17 | Monmouthshire | 203 | 2 | 0 | Gardenology Group UK (NP7, yes) |
+| 18 | Newport | 210 | 6 | 0 | Acw Draincare (NP20, yes) |
+| 19 | Cardiff | 386 | 8 | 0 | Caerdydd Groundworks (CF24, yes) |
+| 20 | Vale of Glamorgan | 161 | 5 | 0 | Ceejay Landscapes (CF35, yes) |
+| 21 | Herefordshire | 299 | 6 | 0 | Fix My Garden (HR8, yes) |
+| 22 | Worcestershire | 980 | 14 | 0 | Arc Ground Care (DY10, yes) |
+| 23 | Warwickshire | 876 | 24 | 0 | Advance Tree Care (CV10, yes) |
+| 24 | Northamptonshire | 1,324 | 15 | 0 | AD Landscapes & Maintenance (NN12, yes) |
+| 25 | Torfaen | 124 | 4 | 0 | DT Landscapes & Tree Services (NP4, yes) |
+| 26 | Caerphilly | 221 | 1 | 0 | Big & Small Groundcare (CF83, yes) |
+| 27 | Rhondda Cynon Taf | 298 | 8 | 0 | C2 Groundworks (CF39, yes) |
+| 28 | Blaenau Gwent | 59 | 3 | 0 | Arbor Care South Wales (NP23, yes) |
+| 29 | Bridgend | 179 | 2 | 0 | Archstone Masonry (CF36, yes) |
+| 30 | Merthyr Tydfil | 81 | 3 | 0 | Construction Force (CF48, yes) |
+| 31 | Neath Port Talbot | 190 | 2 | 0 | A Pro Tree & Landscaping (SA11, yes) |
+| 32 | Hertfordshire | 3,014 | 14 | 0 | Elliotts Drainage (SG2, yes) |
+| 33 | Swansea | 267 | 4 | 0 | Algar Groundworks (SA4, yes) |
+| 34 | Bedfordshire | 1,520 | 26 | 0 | Absolute Paving (LU1, yes) |
+| 35 | Kent | 4,486 | 55 | 0 | 1ST County Fencing (DA1, yes) |
+| 36 | West Midlands | 4,065 | 28 | 1 | A K Lawnscapes (B90, yes) |
+| 37 | Carmarthenshire | 246 | 5 | 0 | A Thomas Plant Hire (SA39, yes) |
+| 38 | Powys | 192 | 2 | 0 | Beacons Tree Services (LD3, yes) |
+| 39 | Essex | 5,166 | 38 | 0 | Bell Fencing (CM7, yes) |
+| 40 | Shropshire | 721 | 17 | 0 | Access 2 Trees (SY4, yes) |
+| | **Total (40)** | **62,029** | **1,749** | **12,008** | |
+
+Changes in existing areas vs Issue 10: Dorset -1 listed, +0 checked; Devon -1 listed, +0 checked; Greater London +155 listed, +0 checked; Herefordshire +13 listed, +0 checked; Worcestershire +6 listed, +0 checked; Hertfordshire +1 listed, +0 checked
+all cover stars in area: True 40
+
+
+- 10:55 GMT: Issue 11: wrap-up notes (spot check, QC, speed, per-area table)
