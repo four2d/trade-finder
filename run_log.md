@@ -446,3 +446,6 @@ Discovery: active only; SIC 43120 43999 81300 42110 43110 02100 02200 77320 4221
 - 09:50 GMT: first publish attempt refused by sync_site.py: index_offline.html is now 48.7 MB (guard is 45 MB; it was 44.1 MB at Issue 10). Added a TF_SKIP_OFFLINE=1 switch so the live offline page stays at its Issue 10 copy for now; everything else publishes. Open issue for Pete: the offline page needs slimming (60,335 Companies House leads carry 14 MB of source records and 5 MB of score breakdowns).
 
 - 09:35 GMT: Issue 11 b1: Carmarthenshire, Powys, Essex and Shropshire added (active only, full SIC set); first Welsh web-checks
+- 10:00 GMT: build 11b: Shropshire web-check (170 trade-named leads, 116 own-site domains probed): 17 accepted, all kept after hand-check (Hamer Forestry's SY15 6BH registered office geocodes to Shropshire). Shropshire 721 listed, 17 checked, cover star Ap Precision Groundworks (DY14, in-area). Essex web-check running.
+
+- 09:42 GMT: Issue 11 b2: Shropshire first 17 web-checked firms

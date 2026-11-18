@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-18T09:30:20+00:00",
+ "last_updated": "2026-11-18T09:38:18+00:00",
  "issue_date": "2026-11-18",
  "issue_key": "2026-11-18",
  "issue_no": 11,
@@ -14,12 +14,12 @@
  "updates": "on_demand",
  "include_large_contractors": true,
  "counts": {
-  "landscaping": 14506,
-  "driveways": 1251,
+  "landscaping": 14503,
+  "driveways": 1250,
   "paving_patios": 909,
   "surfacing": 813,
   "groundworks": 43000,
-  "lawns_grounds": 13662,
+  "lawns_grounds": 13655,
   "fencing_boundaries": 1031,
   "decking_structures": 1476,
   "outdoor_masonry": 6,
@@ -46,19 +46,19 @@
   ],
   "dup_ch": [],
   "closed_not_in_business": 12008,
-  "enriched_from_ch": 1622,
+  "enriched_from_ch": 1639,
   "in_radius": 62029,
   "serves_only": 5,
-  "verified_trading": 1694,
-  "ch_only_leads": 60335,
+  "verified_trading": 1711,
+  "ch_only_leads": 60318,
   "verified_phone_or_web_pct": 98,
   "verified_conf_ge_05_pct": 99,
-  "all_have_source_town_distance": false,
-  "contactable": 1694,
+  "all_have_source_town_distance": true,
+  "contactable": 1711,
   "phone_or_web_pct": 3,
   "conf_ge_05_pct": 100,
-  "needs_check": 60367,
-  "no_website": 60420
+  "needs_check": 60349,
+  "no_website": 60403
  },
  "counties": [
   {
@@ -675,12 +675,12 @@
  "S": {
   "tot": 62029,
   "counts": {
-   "landscaping": 14506,
-   "driveways": 1251,
+   "landscaping": 14503,
+   "driveways": 1250,
    "paving_patios": 909,
    "surfacing": 813,
    "groundworks": 43000,
-   "lawns_grounds": 13662,
+   "lawns_grounds": 13655,
    "fencing_boundaries": 1031,
    "decking_structures": 1476,
    "outdoor_masonry": 6,
@@ -704,26 +704,26 @@
    "name": "D.S. Waker Driveways & Patios"
   },
   "prim": {
-   "landscaping": 13694,
+   "landscaping": 13690,
    "driveways": 509,
-   "paving_patios": 256,
-   "surfacing": 448,
+   "paving_patios": 257,
+   "surfacing": 449,
    "groundworks": 42815,
    "lawns_grounds": 144,
    "fencing_boundaries": 394,
    "decking_structures": 1167,
    "outdoor_masonry": 5,
-   "trees_vegetation": 1194,
+   "trees_vegetation": 1196,
    "water_drainage": 596,
    "exterior_cleaning": 806
   },
   "sec": {
-   "landscaping": 14506,
-   "driveways": 1251,
+   "landscaping": 14503,
+   "driveways": 1250,
    "paving_patios": 909,
    "surfacing": 813,
    "groundworks": 43000,
-   "lawns_grounds": 13662,
+   "lawns_grounds": 13655,
    "fencing_boundaries": 1031,
    "decking_structures": 1476,
    "outdoor_masonry": 6,
@@ -1513,7 +1513,7 @@
    -3.8535,
    52.8615,
    -2.9965,
-   191
+   192
   ],
   [
    "rhondda-cynon-taf",
