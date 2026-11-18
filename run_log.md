@@ -534,3 +534,5 @@ all cover stars in area: True 40
 - 13:41 GMT: code in place: build_issue.py writes counties/<slug>/index_offline.html for every live area (same slimming, Leaflet inlined, the county page's own figures embedded) and the all-areas file after them; home/issue meta get an 'offline' size list; page.html adds an 'Offline copies' grid to the County index and links the from-disk error message; sync_site.py reports offline sizes (45 MB refusal covers each, 20 MB warning); publish.sh checks every offline URL. Building.
 
 - 13:52 GMT: Offline split b1: one offline file per area (counties/<slug>/index_offline.html, 40 files, largest Greater London 6.3 MB) + all-areas index_offline.html with Leaflet inlined; no links yet
+
+- 13:54 GMT: Offline split b2: 'Offline copies' grid in the County index (home + issue page, existing .cty/.cgrid/h3.lbl styles, sizes from meta.offline); from-disk error now links each county page to its own offline file; county pages use embedded cover figures offline; sync_site guard against stray args
