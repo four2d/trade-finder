@@ -536,3 +536,13 @@ all cover stars in area: True 40
 - 13:52 GMT: Offline split b1: one offline file per area (counties/<slug>/index_offline.html, 40 files, largest Greater London 6.3 MB) + all-areas index_offline.html with Leaflet inlined; no links yet
 
 - 13:54 GMT: Offline split b2: 'Offline copies' grid in the County index (home + issue page, existing .cty/.cgrid/h3.lbl styles, sizes from meta.offline); from-disk error now links each county page to its own offline file; county pages use embedded cover figures offline; sync_site guard against stray args
+
+- 18 Nov per-area offline files, checks and notes:
+  - Files: counties/<slug>/index_offline.html for all 40 live areas (built by build_issue.py in the county loop, so new areas get one automatically). Largest Greater London 6,624,532 bytes (6.3 MiB), then Hampshire 3.6, Essex 2.4, Kent 2.2 MiB; total for the 40 files 43.2 MB (41.2 MiB). All-areas index_offline.html kept: 31,728,384 bytes (30.3 MiB), about +0.2 MB because Leaflet + MarkerCluster CSS/JS are now inlined (offline files need no internet except map tiles).
+  - Links: the County index (home + issue page) has an "Offline copies" grid (All counties + one card per area with size; existing .cty/.cgrid/h3.lbl styles; the MB unit uses the label font so names don't break on mobile). The from-disk error message on a county page now links to that county's own offline file (home → all-areas file).
+  - Checks (work/tf_offline_area_qc.py, file:// vs live, desktop 1440 + mobile 390): Dorset, Greater London, Essex, Powys: count, cover, chips, stats, "Tree" search and map bubble totals identical; no JS errors offline; no external requests besides tiles; no overflow. Home/issue grid: 41 links, correct relative paths, no overflow on desktop or mobile.
+  - Guards: sync_site lists offline files every publish, refuses any file over 45 MB, warns for a per-area file over 20 MB; it now also refuses stray args (a "--help" run had emptied the local tf-site checkout; restored from HEAD with nothing committed). publish.sh curls every offline URL.
+  - Main site unchanged otherwise: rebuild noise in data files restored from live; only meta.json files gained the "offline" size list.
+  - Published: b1 43b9486 (offline files), b2 67228ed (grid/links/templates). All 41 offline URLs 200.
+
+- 13:57 GMT: Run log: per-area offline files handoff note (handoff c55916d)
