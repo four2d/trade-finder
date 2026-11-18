@@ -529,3 +529,4 @@ all cover stars in area: True 40
   Removed the TF_SKIP_OFFLINE switch from tools/sync_site.py.
 
 - 13:21 GMT: Offline page slimmed to 31.5 MB (all 40 areas); TF_SKIP_OFFLINE removed
+- 13:24 GMT: handoff STATUS.md and DAILY_RUN.md updated for the offline page (pulled before push, no force-push).
