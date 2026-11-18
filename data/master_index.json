@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18T10:34:39+00:00",
- "total": 78035,
+ "updated": "2026-11-18T10:43:24+00:00",
+ "total": 78057,
  "note": "Full Trade Finder master, one file per county. Concatenate every file to get the whole directory.",
  "files": [
   {
@@ -85,7 +85,7 @@
    "part": null,
    "file": "data/counties/dorset.json",
    "records": 4193,
-   "bytes": 6855675
+   "bytes": 6855274
   },
   {
    "slug": "east-sussex",
@@ -98,8 +98,8 @@
    "slug": "essex",
    "part": null,
    "file": "data/counties/essex.json",
-   "records": 5182,
-   "bytes": 8592658
+   "records": 5204,
+   "bytes": 8636734
   },
   {
    "slug": "gloucestershire",
@@ -155,7 +155,7 @@
    "part": null,
    "file": "data/counties/hampshire.json",
    "records": 10790,
-   "bytes": 17623770
+   "bytes": 17624214
   },
   {
    "slug": "herefordshire",

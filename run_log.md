@@ -458,3 +458,6 @@ Discovery: active only; SIC 43120 43999 81300 42110 43110 02100 02200 77320 4221
 - 10:38 GMT: build 11d: Essex web-check batch 1 (first ~200 of 446 probed domains): 18 accepted, 16 kept (dropped Composite Decking World: online decking shop; Greenacre Arboriculture: tree-survey consultancy). Essex 5,166 listed, 16 checked, cover star Bell Fencing (CM7, site postcode CM7 4AR, in-area).
 
 - 10:38 GMT: Issue 11 b4: Essex first 16 web-checked firms
+- 10:47 GMT: build 11e: Essex web-check batch 2 (all 446 probed domains): 23 more accepted, 22 kept (dropped Woodstock Street Lighting Services: street-lighting electrical contractor). Essex now has 38 checked firms. Shropshire's cover star is now Access 2 Trees (SY4) after the rescoring, still in-area.
+
+- 10:47 GMT: Issue 11 b5: Essex +22 web-checked firms (38 in all)
