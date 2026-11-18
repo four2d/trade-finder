@@ -523,3 +523,9 @@ all cover stars in area: True 40
 
 - 10:55 GMT: Issue 11: wrap-up notes (spot check, QC, speed, per-area table)
 - 10:57 GMT: handoff repo updated (a79b2e8): DAILY_RUN.md live areas 40, next Cambridgeshire 137.1 / Ceredigion 138.1, TF_SKIP_OFFLINE note; STATUS.md Issue 11 section. Pulled before push, no force-push. Issue 11 finished.
+- 12:57 GMT: offline page slimming started (Pete: 'okay do that').
+- 13:21 GMT: offline page slimmed (tools/build_issue.py page(), offline build only): the 60,280 Companies House leads drop their per-record source records (retrieved/fields) and score breakdowns and keep their company number, which a one-line loader in the page turns back into the same Companies House source link. All other firms keep everything. index_offline.html 48.8 MB → 31.5 MB (14 MB headroom under the 45 MB guard). Main site and per-county JSON unchanged: the rebuild only reshuffled list order, so the published files were restored byte-for-byte from the live copy and only index_offline.html is republished.
+  Checks (work/tf_offline_qc.py, shots in work/qc_off, offline as file:// vs live, desktop + mobile): no JS errors offline; 62,029 firms, 41 Counties menu entries, search ("Bell Fencing" → 2), Driveways filter (1,248) and the map bubbles identical to the pre-slimming offline file; a Companies House lead's card shows the same Sources link as live, and its score panel shows Confidence only (the breakdown rows are the part dropped); a checked firm's card (Bell Fencing) shows full sources and breakdown, same as live.
+  Removed the TF_SKIP_OFFLINE switch from tools/sync_site.py.
+
+- 13:21 GMT: Offline page slimmed to 31.5 MB (all 40 areas); TF_SKIP_OFFLINE removed
